@@ -1,0 +1,19 @@
+questionnaire,construct,dimension,dimension_label,n_items,n_participants,correlation_type,omega,ci_lo_95,ci_hi_95,adequate
+BAI,anxiety,1,Somatic symptoms,15,51,pearson,,,,False
+BAI,anxiety,2,Cognitive symptoms,6,51,pearson,,,,False
+BDI,depression,1,Mood & affective symptoms,3,390,pearson,0.5414313827633086,0.3954401635263215,0.6829070425984582,False
+BDI,depression,2,Cognitive & self-perception,8,390,pearson,0.8049291244603191,0.7408153956840139,0.8501140829349912,True
+BDI,depression,3,Somatic & vegetative symptoms,5,386,pearson,0.5721690676618547,0.48859671675336686,0.6383278407717448,False
+BDI,depression,4,Activity & interest deficits,4,386,pearson,0.6410682177106032,0.5659078116015308,0.7078809859629958,False
+ESS,sleep,1,Daytime sleepiness and alertness,8,1193,pearson,0.7704771142162463,0.7452396261423667,0.7957898331130886,True
+GDS,depression,1,Mood & affective symptoms,4,930,tetrachoric,0.8159234992137459,0.7922370421250755,0.8380431623294159,True
+GDS,depression,2,Cognitive & self-perception,6,930,tetrachoric,0.7812914027374758,0.6607635211201516,0.8350932515841862,True
+GDS,depression,4,Activity & interest deficits,4,930,tetrachoric,0.47607754510522243,0.37005462840653425,0.5688013274868527,False
+HADS,anxiety,1,Somatic symptoms,4,77,pearson,0.6995115949467415,0.5656842075882975,0.796459529846686,False
+HADS,anxiety,2,Cognitive symptoms,3,76,pearson,0.7045542250368286,0.6108431087926737,0.7946995199975004,True
+HADS,depression,4,Activity & interest deficits,3,77,pearson,0.6503686667342862,0.47848878578746035,0.7822706412620867,False
+RBDSQ,sleep,3,REM sleep behavior and dreaming,11,1172,tetrachoric,0.9462040084814274,0.9369160153023374,0.9509760002885633,True
+SCOPA-SLEEP,sleep,1,Daytime sleepiness and alertness,6,51,pearson,0.7799938166141365,0.7090079427198328,0.8729576606347055,True
+SCOPA-SLEEP,sleep,2,Nocturnal sleep disturbances,5,51,pearson,0.8530494563259025,0.7822833973654585,0.8979185899250584,True
+STAI,anxiety,1,Somatic symptoms,3,870,pearson,0.40220940948523054,0.3381531745699105,0.468818951971093,False
+STAI,anxiety,2,Cognitive symptoms,8,870,pearson,0.1114651065174414,0.042018419503929476,0.18622034290222103,False

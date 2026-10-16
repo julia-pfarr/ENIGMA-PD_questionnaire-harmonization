@@ -1,0 +1,154 @@
+# Single source of truth for the construct/dimension taxonomy (labels and,
+# for theory-primed semantic similarity, the anchor-point descriptions) used
+# across this repo: code/expert-survey/, code/similarity-analysis/, and
+# code/fine-tuning/. Previously each of those scripts hardcoded its own copy
+# of this data; they now all load it from here.
+#
+# To adapt the pipeline to your own constructs/dimensions, edit this file --
+# there is no need to touch any Python source.
+#
+# dimension_descriptions:
+#   The "anchor point" text embedded and compared against item embeddings in
+#   Step 4 (theory-primed assignment: each item is assigned to the dimension
+#   whose description it's most semantically similar to).
+#     label       - short display name
+#     description - full text that gets embedded (combined with the label)
+#     keywords    - optional reference terms; not currently used by the code,
+#                   kept here for documentation / potential future use
+#
+# dimension_labels:
+#   Labels used for Step 5 outputs (final assignment tables, corrections
+#   workflow) and the -1 "Does not fit" catch-all dimension every construct
+#   has. Kept as a separate section from dimension_descriptions above because
+#   the exact wording differs slightly between the two in the original
+#   registered report / expert survey materials this pipeline was built
+#   from (e.g. "Activity & Interest Deficit" here vs. "Activity & interest
+#   deficits" there) -- this file preserves that distinction rather than
+#   silently unifying it.
+
+dimension_descriptions:
+  depression:
+    1:
+      label: "Mood & Affective Symptoms"
+      description: "dysphoria, sadness, unhappiness, feeling low, feeling blue, hopelessness"
+      keywords: ["dysphoria", "sadness", "unhappiness", "low mood", "blue", "hopeless"]
+    2:
+      label: "Cognitive & Self-Perception"
+      description: "self-attitudes, predictions of the future, narratives of the past, guilt, worthlessness, failure, self-criticism, pessimism"
+      keywords: ["self-attitudes", "future", "past", "guilt", "worthless", "failure", "self-criticism"]
+    3:
+      label: "Somatic & Vegetative Symptoms"
+      description: "physiological manifestations or consequences of depression, neurophysiological, autonomic, sleep problems, appetite changes, fatigue, weight changes, physical symptoms"
+      keywords: ["sleep", "appetite", "fatigue", "weight", "tired", "energy", "physical", "somatic"]
+    4:
+      label: "Activity & Interest Deficit"
+      description: "performance, functioning, pleasure, psychomotor signs, anhedonia, loss of interest, reduced activity, difficulty doing things"
+      keywords: ["interest", "pleasure", "activity", "enjoyment", "motivation", "psychomotor", "functioning"]
+    5:
+      label: "Anxiety & Distress"
+      description: "irritability, withdrawal, unrest, agitation, worry, tension, nervousness"
+      keywords: ["irritability", "withdrawal", "unrest", "agitation", "worry", "tense", "nervous"]
+  anxiety:
+    1:
+      label: "Somatic Anxiety"
+      description: "physiological manifestations or consequences of anxiety, neurophysiological, autonomic, vegetative symptoms, physical symptoms of anxiety like racing heart, sweating, trembling, shortness of breath"
+      keywords: ["heart", "sweating", "trembling", "breathing", "physical", "somatic", "autonomic", "body"]
+    2:
+      label: "Cognitive Anxiety"
+      description: "distressing thoughts, panic, obsessive thoughts, predictions of the future, worry, fear, apprehension, anticipation of negative events"
+      keywords: ["thoughts", "worry", "fear", "panic", "apprehension", "anticipation", "cognitive", "mind"]
+  psychosis:
+    1:
+      label: "Hallucinations"
+      description: "hallucinations, illusions, misidentification, seeing hearing feeling or smelling things that are not there, perceptual disturbances"
+      keywords: ["hallucination", "seeing", "hearing", "illusion", "perception", "voices", "visions"]
+    2:
+      label: "Delusions"
+      description: "delusions, false sense of presence, paranoid beliefs, persecution, jealousy, false beliefs that are firmly held despite evidence"
+      keywords: ["delusion", "belief", "paranoid", "persecution", "jealousy", "suspicious", "convince"]
+  apathy:
+    1:
+      label: "Behavioral-Cognitive Apathy"
+      description: "goal-directed cognition and behavior, interest in the new, curiosity, planning, thinking about goals and future, effort, dependency, initiative, getting things done, taking action, productivity"
+      keywords: ["interest", "curious", "planning", "goals", "thinking", "new things", "concern", "effort", "initiative", "action", "doing", "behavior", "activity", "productivity", "started"]
+    2:
+      label: "Affective Apathy"
+      description: "emotional responsivity, emotional blunting, reduced emotional reactions, indifference to positive or negative events"
+      keywords: ["emotion", "feeling", "responsive", "indifferent", "blunted", "affective", "reaction"]
+  impulse_control:
+    1:
+      label: "Pathological Gambling"
+      description: "thoughts occupied by gambling, difficulty controlling thoughts about gambling, time spent on gambling, financial investment in gambling"
+      keywords: ["gambling", "betting", "casino", "wager"]
+    2:
+      label: "Hypersexuality"
+      description: "thoughts occupied by sex, difficulty controlling thoughts about sex, time spent on sexual activities, financial investment in sexual activities"
+      keywords: ["sex", "sexual", "libido"]
+    3:
+      label: "Compulsive Buying"
+      description: "thoughts occupied by buying, difficulty controlling thoughts about buying, time spent on buying things, financial investment in buying"
+      keywords: ["buying", "shopping", "purchase", "spending"]
+    4:
+      label: "Compulsive Eating"
+      description: "thoughts occupied by eating, difficulty controlling thoughts about eating, time spent on eating, overeating"
+      keywords: ["eating", "food", "binge", "overeating"]
+    5:
+      label: "Punding-hobbyism"
+      description: "display of stereotyped, repetitive behaviors, related or unrelated to hobbies, repetitive purposeless activities"
+      keywords: ["repetitive", "hobby", "stereotyped", "punding", "collecting", "sorting"]
+    6:
+      label: "Dopamine Dysregulation Syndrome"
+      description: "compulsive use of dopamine medications despite adequate motor benefits and the annoying consequences"
+      keywords: ["medication", "dopamine", "compulsive use", "PD medications"]
+  sleep:
+    1:
+      label: "Daytime Sleepiness and Alertness"
+      description: "excessive sleepiness during the day, difficulty staying awake, reduced awareness or vigilance, drowsiness"
+      keywords: ["sleepy", "drowsy", "awake", "alertness", "daytime", "nap", "vigilance"]
+    2:
+      label: "Nocturnal Sleep Disturbances"
+      description: "anything that impairs the continuity and quality of nighttime sleep, difficulty falling asleep, waking during night, insomnia"
+      keywords: ["insomnia", "falling asleep", "staying asleep", "waking", "night", "nocturnal", "sleep quality"]
+    3:
+      label: "REM Sleep Behavior and Dreaming"
+      description: "acting out dreams, vivid or disturbing dreams, movements during sleep, talking in sleep"
+      keywords: ["dreams", "REM", "acting out", "vivid", "nightmare", "movement during sleep"]
+    4:
+      label: "Sleep-Disordered Breathing"
+      description: "snoring, pauses in breathing during sleep, sleep apnea, breathing difficulties at night"
+      keywords: ["snoring", "breathing", "apnea", "choking", "gasping"]
+
+dimension_labels:
+  depression:
+    1: "Mood & affective symptoms"
+    2: "Cognitive & self-perception"
+    3: "Somatic & vegetative symptoms"
+    4: "Activity & interest deficits"
+    5: "Anxiety & distress"
+    -1: "Does not fit"
+  anxiety:
+    1: "Somatic symptoms"
+    2: "Cognitive symptoms"
+    -1: "Does not fit"
+  psychosis:
+    1: "Hallucinations"
+    2: "Delusions"
+    -1: "Does not fit"
+  apathy:
+    1: "Behavioral-Cognitive apathy"
+    2: "Affective apathy"
+    -1: "Does not fit"
+  impulse_control:
+    1: "Pathological gambling"
+    2: "Hypersexuality"
+    3: "Compulsive buying"
+    4: "Compulsive eating"
+    5: "Punding-hobbyism"
+    6: "Dopamine dysregulation syndrome"
+    -1: "Does not fit"
+  sleep:
+    1: "Daytime sleepiness and alertness"
+    2: "Nocturnal sleep disturbances"
+    3: "REM sleep behavior and dreaming"
+    4: "Sleep-disordered breathing"
+    -1: "Does not fit"

@@ -1,0 +1,100 @@
+item_id,questionnaire,dimension,dimension_label,p_i,base_umap_1,base_umap_2,ft_umap_1,ft_umap_2,base_nearest_prototype,base_nearest_label,base_correctly_placed,ft_nearest_prototype,ft_nearest_label,ft_correctly_placed
+BDI_01,BDI,1,Mood & affective,1.0,-0.0571,12.5675,20.3459,12.4204,1,Mood & affective,True,1,Mood & affective,True
+BDI_02,BDI,2,Cognitive & self-perception,0.5809,-0.4053,12.3088,-5.0247,-6.816,2,Cognitive & self-perception,True,2,Cognitive & self-perception,True
+BDI_03,BDI,2,Cognitive & self-perception,0.8168,-0.2516,12.196,-5.3101,-7.0188,2,Cognitive & self-perception,True,2,Cognitive & self-perception,True
+BDI_04,BDI,4,Activity & interest deficits,0.536,-1.5268,11.707,3.1159,6.3131,4,Activity & interest deficits,True,4,Activity & interest deficits,True
+BDI_05,BDI,2,Cognitive & self-perception,0.5326,-0.0196,11.6491,-4.9614,-6.4925,2,Cognitive & self-perception,True,2,Cognitive & self-perception,True
+BDI_06,BDI,2,Cognitive & self-perception,0.7094,-0.4977,11.4326,-4.9307,-6.8479,2,Cognitive & self-perception,True,2,Cognitive & self-perception,True
+BDI_07,BDI,2,Cognitive & self-perception,0.8528,-0.593,12.3822,-5.1137,-7.0428,2,Cognitive & self-perception,True,2,Cognitive & self-perception,True
+BDI_08,BDI,2,Cognitive & self-perception,0.8528,-0.4041,12.0383,-5.7226,-7.0588,2,Cognitive & self-perception,True,2,Cognitive & self-perception,True
+BDI_09,BDI,1,Mood & affective,0.4238,-0.4979,12.1898,21.0957,12.1969,2,Cognitive & self-perception,False,1,Mood & affective,True
+BDI_10,BDI,1,Mood & affective,0.6768,-0.042,12.4552,20.5584,12.4723,1,Mood & affective,True,1,Mood & affective,True
+BDI_11,BDI,5,Anxiety & distress,0.716,-2.261,10.7234,14.9422,7.9951,5,Anxiety & distress,True,5,Anxiety & distress,True
+BDI_12,BDI,4,Activity & interest deficits,0.7094,-1.7292,11.8204,2.8041,6.1932,4,Activity & interest deficits,True,4,Activity & interest deficits,True
+BDI_13,BDI,2,Cognitive & self-perception,1.0,-1.1866,11.6502,2.8168,6.5332,4,Activity & interest deficits,False,4,Activity & interest deficits,False
+BDI_14,BDI,2,Cognitive & self-perception,0.6608,-1.1003,11.4447,-5.3099,-7.3372,2,Cognitive & self-perception,True,2,Cognitive & self-perception,True
+BDI_15,BDI,4,Activity & interest deficits,0.6118,-0.7629,11.8413,2.9914,6.6889,4,Activity & interest deficits,True,4,Activity & interest deficits,True
+BDI_16,BDI,3,Somatic & vegetative,0.8298,-1.5716,10.1174,13.9704,16.0392,3,Somatic & vegetative,True,3,Somatic & vegetative,True
+BDI_17,BDI,3,Somatic & vegetative,0.7482,-1.5799,10.3084,13.6682,15.7884,3,Somatic & vegetative,True,3,Somatic & vegetative,True
+BDI_18,BDI,3,Somatic & vegetative,0.9216,-1.849,11.0557,13.6417,16.2526,3,Somatic & vegetative,True,3,Somatic & vegetative,True
+BDI_19,BDI,3,Somatic & vegetative,0.9216,-1.3699,10.7391,13.6868,16.4747,3,Somatic & vegetative,True,3,Somatic & vegetative,True
+BDI_20,BDI,3,Somatic & vegetative,0.4452,-0.8048,10.6989,13.4424,16.1437,5,Anxiety & distress,False,3,Somatic & vegetative,True
+BDI_21,BDI,4,Activity & interest deficits,0.5077,-1.8163,11.7572,2.6759,6.048,4,Activity & interest deficits,True,4,Activity & interest deficits,True
+GDS_01,GDS,2,Cognitive & self-perception,0.5528,1.3372,12.1818,-5.1979,-6.7021,2,Cognitive & self-perception,True,2,Cognitive & self-perception,True
+GDS_02,GDS,4,Activity & interest deficits,0.905,-1.5564,12.2434,2.6532,6.2163,4,Activity & interest deficits,True,4,Activity & interest deficits,True
+GDS_03,GDS,2,Cognitive & self-perception,1.0,0.5983,12.2694,20.6892,12.2746,2,Cognitive & self-perception,True,1,Mood & affective,False
+GDS_04,GDS,4,Activity & interest deficits,0.5328,-1.158,12.2623,3.2022,6.1865,4,Activity & interest deficits,True,4,Activity & interest deficits,True
+GDS_05,GDS,1,Mood & affective,0.9608,1.3389,11.826,20.7045,12.7532,1,Mood & affective,True,1,Mood & affective,True
+GDS_06,GDS,5,Anxiety & distress,0.5931,-0.2005,11.333,15.3813,7.4582,2,Cognitive & self-perception,False,5,Anxiety & distress,True
+GDS_07,GDS,1,Mood & affective,0.9608,1.2995,11.6502,20.6243,12.924,1,Mood & affective,True,1,Mood & affective,True
+GDS_08,GDS,1,Mood & affective,1.0,0.386,12.1607,-5.1857,-6.4898,2,Cognitive & self-perception,False,2,Cognitive & self-perception,False
+GDS_09,GDS,4,Activity & interest deficits,0.8665,-1.2477,12.1334,2.8752,6.9534,4,Activity & interest deficits,True,4,Activity & interest deficits,True
+GDS_10,GDS,2,Cognitive & self-perception,0.6002,0.2619,12.009,-5.7678,-7.0244,2,Cognitive & self-perception,True,2,Cognitive & self-perception,True
+GDS_11,GDS,1,Mood & affective,0.5416,1.5777,11.8781,20.8785,12.5718,1,Mood & affective,True,1,Mood & affective,True
+GDS_12,GDS,2,Cognitive & self-perception,0.68,0.5448,12.6639,-5.5177,-6.5923,2,Cognitive & self-perception,True,2,Cognitive & self-perception,True
+GDS_13,GDS,4,Activity & interest deficits,1.0,0.9833,11.7099,13.5086,16.4057,4,Activity & interest deficits,True,3,Somatic & vegetative,False
+GDS_14,GDS,2,Cognitive & self-perception,0.487,0.516,12.3924,-5.6307,-6.5981,2,Cognitive & self-perception,True,2,Cognitive & self-perception,True
+GDS_15,GDS,2,Cognitive & self-perception,0.9608,1.122,12.4916,-5.8477,-6.7954,2,Cognitive & self-perception,True,2,Cognitive & self-perception,True
+HADS_02,HADS,4,Activity & interest deficits,0.5645,1.5329,11.0302,3.0287,6.258,4,Activity & interest deficits,True,4,Activity & interest deficits,True
+HADS_04,HADS,1,Mood & affective,0.6155,1.7162,10.9787,20.4107,12.7802,1,Mood & affective,True,1,Mood & affective,True
+HADS_06,HADS,1,Mood & affective,0.9216,1.616,11.1933,20.1085,12.1897,1,Mood & affective,True,1,Mood & affective,True
+HADS_08,HADS,3,Somatic & vegetative,0.3503,-1.0084,11.1507,13.8192,15.793,3,Somatic & vegetative,True,3,Somatic & vegetative,True
+HADS_10,HADS,4,Activity & interest deficits,0.3998,-1.625,11.6665,2.7413,5.9468,4,Activity & interest deficits,True,4,Activity & interest deficits,True
+HADS_12,HADS,4,Activity & interest deficits,0.3326,1.7064,10.9976,3.2482,6.5396,4,Activity & interest deficits,True,4,Activity & interest deficits,True
+HAMD_01,HAMD,1,Mood & affective,1.0,0.3777,13.2278,20.6803,12.6431,1,Mood & affective,True,1,Mood & affective,True
+HAMD_02,HAMD,2,Cognitive & self-perception,0.5931,-0.0917,11.5623,-4.7988,-6.7734,2,Cognitive & self-perception,True,2,Cognitive & self-perception,True
+HAMD_03,HAMD,1,Mood & affective,0.3978,-0.253,13.0344,20.2122,12.287,1,Mood & affective,True,1,Mood & affective,True
+HAMD_04,HAMD,3,Somatic & vegetative,0.7679,-1.401,9.5601,13.9512,16.2382,3,Somatic & vegetative,True,3,Somatic & vegetative,True
+HAMD_05,HAMD,3,Somatic & vegetative,0.9216,-1.3988,9.5815,13.8733,16.2837,3,Somatic & vegetative,True,3,Somatic & vegetative,True
+HAMD_06,HAMD,3,Somatic & vegetative,0.9216,-1.5445,9.4234,13.9931,16.07,3,Somatic & vegetative,True,3,Somatic & vegetative,True
+HAMD_07,HAMD,4,Activity & interest deficits,0.9216,-1.6369,11.245,2.6379,6.8096,4,Activity & interest deficits,True,4,Activity & interest deficits,True
+HAMD_08,HAMD,3,Somatic & vegetative,0.4064,-1.5099,10.9859,13.2803,15.9794,3,Somatic & vegetative,True,3,Somatic & vegetative,True
+HAMD_09,HAMD,5,Anxiety & distress,0.7848,0.0466,10.1737,14.2381,7.7437,5,Anxiety & distress,True,5,Anxiety & distress,True
+HAMD_12,HAMD,3,Somatic & vegetative,0.9608,-1.1028,10.3882,13.5742,15.9117,3,Somatic & vegetative,True,3,Somatic & vegetative,True
+HAMD_13,HAMD,3,Somatic & vegetative,0.9216,-0.8909,10.19,13.6984,16.0989,3,Somatic & vegetative,True,3,Somatic & vegetative,True
+HAMD_14,HAMD,3,Somatic & vegetative,0.9608,-0.9491,10.2734,13.3129,15.7858,3,Somatic & vegetative,True,3,Somatic & vegetative,True
+HAMD_16,HAMD,3,Somatic & vegetative,1.0,-1.4862,10.5666,13.8239,16.6382,3,Somatic & vegetative,True,3,Somatic & vegetative,True
+NMSQuest_16,NMSQuest,1,Mood & affective,1.0,0.0808,12.9009,20.7701,12.6178,1,Mood & affective,True,1,Mood & affective,True
+NMSS_7,NMSS,4,Activity & interest deficits,0.8528,-1.5996,13.1693,2.477,6.3204,4,Activity & interest deficits,True,4,Activity & interest deficits,True
+NMSS_8,NMSS,4,Activity & interest deficits,0.905,-1.7244,12.6845,2.5988,6.8239,4,Activity & interest deficits,True,4,Activity & interest deficits,True
+NMSS_9,NMSS,5,Anxiety & distress,0.8298,-1.0019,13.2816,15.5825,7.5724,5,Anxiety & distress,True,5,Anxiety & distress,True
+NMSS_10,NMSS,1,Mood & affective,1.0,-1.2372,13.9306,21.2758,12.7263,1,Mood & affective,True,1,Mood & affective,True
+NMSS_11,NMSS,1,Mood & affective,0.8528,-1.3787,13.5505,21.0374,13.1445,1,Mood & affective,True,1,Mood & affective,True
+NMSS_12,NMSS,4,Activity & interest deficits,0.5968,-1.363,12.994,2.5009,6.6876,4,Activity & interest deficits,True,4,Activity & interest deficits,True
+NPI_D_screen,NPI,1,Mood & affective,1.0,-1.0836,14.0956,20.9264,13.0686,1,Mood & affective,True,1,Mood & affective,True
+NPI_D_1,NPI,1,Mood & affective,0.9608,-1.1572,13.9748,21.3649,12.5036,1,Mood & affective,True,1,Mood & affective,True
+NPI_D_2,NPI,1,Mood & affective,1.0,-1.2549,14.326,21.288,12.583,1,Mood & affective,True,1,Mood & affective,True
+NPI_D_3,NPI,2,Cognitive & self-perception,0.7888,-1.5334,14.2804,-5.5103,-7.4416,2,Cognitive & self-perception,True,2,Cognitive & self-perception,True
+NPI_D_4,NPI,2,Cognitive & self-perception,0.905,-1.3541,14.8315,-6.0158,-6.9535,2,Cognitive & self-perception,True,2,Cognitive & self-perception,True
+NPI_D_5,NPI,2,Cognitive & self-perception,0.8665,-1.5479,14.3907,-5.6235,-6.9915,2,Cognitive & self-perception,True,2,Cognitive & self-perception,True
+NPI_D_6,NPI,2,Cognitive & self-perception,0.8665,-1.2748,14.8573,-5.6632,-7.4533,2,Cognitive & self-perception,True,2,Cognitive & self-perception,True
+NPI_D_7,NPI,1,Mood & affective,0.385,-1.4081,14.6561,21.1992,12.282,1,Mood & affective,True,1,Mood & affective,True
+NPI_D_8,NPI,1,Mood & affective,0.7523,-1.4321,13.7925,21.1351,12.8726,1,Mood & affective,True,1,Mood & affective,True
+MDS-UPDRS_1.3,MDS-UPDRS_I,1,Mood & affective,0.6033,0.4726,12.9648,21.3257,13.0336,1,Mood & affective,True,1,Mood & affective,True
+augmentation_dep5_01,data-augmentation,5,Anxiety & distress,1.0,-0.5083,10.9208,14.4812,8.0036,5,Anxiety & distress,True,5,Anxiety & distress,True
+augmentation_dep5_02,data-augmentation,5,Anxiety & distress,1.0,0.2526,11.0947,15.2615,7.7344,5,Anxiety & distress,True,5,Anxiety & distress,True
+augmentation_dep5_03,data-augmentation,5,Anxiety & distress,1.0,-0.1992,9.9931,14.411,7.7503,5,Anxiety & distress,True,5,Anxiety & distress,True
+augmentation_dep5_04,data-augmentation,5,Anxiety & distress,1.0,-0.9744,13.1588,15.2662,7.9497,5,Anxiety & distress,True,5,Anxiety & distress,True
+augmentation_dep5_05,data-augmentation,5,Anxiety & distress,1.0,0.1672,10.0823,14.7786,7.834,5,Anxiety & distress,True,5,Anxiety & distress,True
+augmentation_dep5_06,data-augmentation,5,Anxiety & distress,1.0,0.3275,10.5766,14.3645,7.4732,5,Anxiety & distress,True,5,Anxiety & distress,True
+augmentation_dep5_07,data-augmentation,5,Anxiety & distress,1.0,-0.9603,9.7694,15.384,7.7614,5,Anxiety & distress,True,5,Anxiety & distress,True
+augmentation_dep5_08,data-augmentation,5,Anxiety & distress,1.0,-0.8573,9.6118,14.7759,7.7715,5,Anxiety & distress,True,5,Anxiety & distress,True
+augmentation_dep5_09,data-augmentation,5,Anxiety & distress,1.0,-2.2149,10.6834,14.4818,8.0734,5,Anxiety & distress,True,5,Anxiety & distress,True
+augmentation_dep5_10,data-augmentation,5,Anxiety & distress,1.0,-0.1347,9.7827,15.5385,7.6407,5,Anxiety & distress,True,5,Anxiety & distress,True
+augmentation_dep5_11,data-augmentation,5,Anxiety & distress,1.0,0.059,10.8475,15.0916,7.2775,5,Anxiety & distress,True,5,Anxiety & distress,True
+augmentation_dep5_12,data-augmentation,5,Anxiety & distress,1.0,-0.1025,10.4574,14.3266,7.653,5,Anxiety & distress,True,5,Anxiety & distress,True
+augmentation_dep5_13,data-augmentation,5,Anxiety & distress,1.0,-0.3081,10.3395,14.5466,7.4818,5,Anxiety & distress,True,5,Anxiety & distress,True
+augmentation_dep5_14,data-augmentation,5,Anxiety & distress,1.0,-2.3996,10.8115,14.0988,7.8877,5,Anxiety & distress,True,5,Anxiety & distress,True
+augmentation_dep5_15,data-augmentation,5,Anxiety & distress,1.0,-0.524,10.6294,15.0993,7.4181,5,Anxiety & distress,True,5,Anxiety & distress,True
+augmentation_dep5_16,data-augmentation,5,Anxiety & distress,1.0,-0.0898,9.9091,15.2954,7.9433,5,Anxiety & distress,True,5,Anxiety & distress,True
+augmentation_dep_neg1_01,data-augmentation,-1,Does not fit,1.0,-0.8935,13.7845,22.9531,14.1555,1,Mood & affective,False,1,Mood & affective,False
+augmentation_dep_neg1_02,data-augmentation,-1,Does not fit,1.0,-0.1213,13.4033,23.4887,14.1428,1,Mood & affective,False,1,Mood & affective,False
+augmentation_dep_neg1_03,data-augmentation,-1,Does not fit,1.0,-1.0195,13.7416,23.627,14.237,1,Mood & affective,False,3,Somatic & vegetative,False
+augmentation_dep_neg1_04,data-augmentation,-1,Does not fit,1.0,0.491,13.5431,23.5597,14.1771,1,Mood & affective,False,3,Somatic & vegetative,False
+augmentation_dep_neg1_05,data-augmentation,-1,Does not fit,1.0,-0.3638,13.8745,23.2373,14.2265,1,Mood & affective,False,3,Somatic & vegetative,False
+augmentation_dep_neg1_06,data-augmentation,-1,Does not fit,1.0,-0.1662,13.9393,23.3702,13.9876,1,Mood & affective,False,4,Activity & interest deficits,False
+augmentation_dep_neg1_07,data-augmentation,-1,Does not fit,1.0,1.2385,12.5261,13.7132,15.61,2,Cognitive & self-perception,False,3,Somatic & vegetative,False
+augmentation_dep_neg1_08,data-augmentation,-1,Does not fit,1.0,0.4494,13.6984,23.2303,14.1085,1,Mood & affective,False,3,Somatic & vegetative,False
+augmentation_dep_neg1_09,data-augmentation,-1,Does not fit,1.0,0.2291,13.8601,23.4627,13.8676,1,Mood & affective,False,4,Activity & interest deficits,False
+augmentation_dep_neg1_10,data-augmentation,-1,Does not fit,1.0,1.0681,12.3825,14.8067,8.4012,2,Cognitive & self-perception,False,1,Mood & affective,False
+augmentation_dep_neg1_11,data-augmentation,-1,Does not fit,1.0,0.0721,13.7997,23.5217,13.9702,1,Mood & affective,False,5,Anxiety & distress,False

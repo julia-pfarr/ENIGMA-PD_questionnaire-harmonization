@@ -1,0 +1,6 @@
+construct,questionnaires,n,n_questionnaires,covariates,F,p_value,partial_eta2_sumscore,partial_eta2_dimension_mean,partial_eta2_dimension_min,partial_eta2_dimension_max,n_dimensions,delta_sumscore_minus_dimension
+anxiety,BAI; HADS-Anxiety; PAS,736,3,age; sex; group; site_group; language,28.904,0.0,0.0737,0.007273756919568599,0.0064023506738375,0.0081451631652997,2,0.06642624308043141
+apathy,AES; SAS,243,2,age; sex; group; site_group; language,7.67,0.00606,0.0313,0.00301303803378605,0.0030115977864044,0.0030144782811677,2,0.028286961966213952
+depression,BDI; GDS; HADS-Depression,4025,3,age; sex; group; site_group; language,18.536,0.0,0.0092,0.007416015823261521,0.0035576487184936,0.0146834984054258,5,0.0017839841767384786
+psychosis,SAPS-PD; SCOPA-PC,656,2,age; sex; group; site_group,0.388,0.53345,0.0006,0.00220164435420355,0.0017654781704403,0.0026378105379668,2,-0.0016016443542035503
+sleep,ESS; PDSS-2; RBDSQ; SCOPA-SLEEP,4640,4,age; sex; group; site_group; language,14.855,0.0,0.0095,0.004994752495950833,0.0031569495481111,0.0083711945433357,3,0.0045052475040491665

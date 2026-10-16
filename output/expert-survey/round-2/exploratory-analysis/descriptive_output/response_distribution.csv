@@ -1,0 +1,28 @@
+Construct,Dimension,Dimension Label,Count,Percentage
+depression,-1,None/Does not fit,43,2.1717171717171717
+depression,1,Mood & affective symptoms,434,21.91919191919192
+depression,2,Cognitive & self-perception,524,26.464646464646464
+depression,3,Somatic & vegetative symptoms,460,23.232323232323232
+depression,4,Activity & interest deficits,337,17.02020202020202
+depression,5,Anxiety & distress,182,9.191919191919192
+anxiety,-1,None/Does not fit,22,1.7828200972447326
+anxiety,1,Somatic symptoms,316,25.60777957860616
+anxiety,2,Cognitive symptoms,896,72.6094003241491
+apathy,-1,None/Does not fit,27,2.0833333333333335
+apathy,1,Cognitive-Behavioral apathy,653,50.385802469135804
+apathy,2,Affective apathy,616,47.53086419753087
+impulse_control,-1,None/Does not fit,26,4.333333333333333
+impulse_control,1,Pathological gambling,99,16.5
+impulse_control,2,Hypersexuality,100,16.666666666666668
+impulse_control,3,Compulsive buying,101,16.833333333333332
+impulse_control,4,Compulsive eating,100,16.666666666666668
+impulse_control,5,Punding-hobbyism,73,12.166666666666666
+impulse_control,6,Dopamine dysregulation syndrome,101,16.833333333333332
+sleep,-1,None/Does not fit,94,12.433862433862434
+sleep,1,Daytime sleepiness and alertness,177,23.41269841269841
+sleep,2,Nocturnal sleep disturbances,304,40.21164021164021
+sleep,3,REM sleep behavior and dreaming,110,14.55026455026455
+sleep,4,Sleep-disordered breathing,71,9.39153439153439
+psychosis,-1,None/Does not fit,160,17.094017094017094
+psychosis,1,Hallucinations,264,28.205128205128204
+psychosis,2,Delusions,512,54.7008547008547

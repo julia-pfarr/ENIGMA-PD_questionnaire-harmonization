@@ -1,0 +1,5 @@
+construct,true_kappa,stability_n,precision_n,replication_range_n,overall_recommendation,conservative
+Apathy,0.4,8,15,15,15,18
+Apathy,0.5,8,15,20,20,23
+Apathy,0.6,8,15,20,20,23
+Apathy,0.7,7,15,15,15,18

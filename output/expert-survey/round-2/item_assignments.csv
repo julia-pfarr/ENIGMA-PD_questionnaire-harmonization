@@ -1,0 +1,374 @@
+Construct,Questionnaire,Item ID,Question Text,Assigned Dimension,Dimension Label,P_i,N Valid Raters,Confidence,Is Ambiguous,Competing Dimensions,Rating Distribution
+depression,MADRS,MADRS_01,"Apparent sadness: Despondency, gloom, and despair (more than just ordinary transient low spirits), r...",1,Mood & affective symptoms,0.536,18,moderate,False,,Dim 1: 72%; Dim 3: 17%; Dim 4: 11%
+depression,MADRS,MADRS_02,"Reported sadness: Reports of depressed mood, regardless of whether it is reflected in appearance or ...",1,Mood & affective symptoms,0.784,18,high,False,,Dim 1: 89%; Dim 2: 6%; Dim 5: 6%
+depression,MADRS,MADRS_03,"Inner tension: Feelings of ill-defined discomfort, edginess, inner turmoil, mental tension mounting ...",5,Anxiety & distress,0.693,18,high,False,,Dim 3: 11%; Dim 4: 6%; Dim 5: 83%
+depression,MADRS,MADRS_04,Reduced sleep: Experience of reduced duration or depth of sleep compared to the patient's own normal...,3,Somatic & vegetative symptoms,0.889,18,high,False,,Dim 2: 6%; Dim 3: 94%
+depression,MADRS,MADRS_05,Reduced appetite: Feeling of loss of appetite; rate by loss of desire for food or the need to force ...,3,Somatic & vegetative symptoms,0.889,18,high,False,,Dim 3: 94%; Dim 4: 6%
+depression,MADRS,MADRS_06,Concentration difficulty: Difficulties in collecting one’s thoughts mounting to incapacitating lack ...,2,Cognitive & self-perception,0.634,18,moderate,False,,Dim 2: 78%; Dim 4: 22%
+depression,MADRS,MADRS_07,Lassitude: Difficulty getting started or slowness initiating and performing everyday activities.,4,Activity & interest deficits,0.608,18,moderate,False,,Dim 2: 11%; Dim 3: 11%; Dim 4: 78%
+depression,MADRS,MADRS_08,Inability to feel: Subjective experience of reduced interest in the surroundings or activities that ...,1,Mood & affective symptoms,0.327,18,low,True,"[1, 4]",Dim 1: 44%; Dim 2: 11%; Dim 3: 6%; Dim 4: 39%
+depression,MADRS,MADRS_09,"Pessimistic thoughts: Thoughts of guilt, inferiority, self reproach, sinfulness, remorse, and ruin.",2,Cognitive & self-perception,0.458,18,moderate,False,,Dim 1: 33%; Dim 2: 61%; Dim 5: 6%
+depression,MADRS,MADRS_10,"Suicidal thoughts: Feeling that life is not worth living, that a natural death would be welcome, sui...",1,Mood & affective symptoms,0.608,18,moderate,False,,Dim 1: 78%; Dim 2: 11%; Dim 5: 11%
+depression,PHQ-9,PHQ-9_01,Little interest or pleasure in doing things.,4,Activity & interest deficits,0.9,20,high,False,,Dim 1: 5%; Dim 4: 95%
+depression,PHQ-9,PHQ-9_02,"Feeling down, depressed, or hopeless.",1,Mood & affective symptoms,0.811,20,high,False,,Dim 1: 90%; Dim 2: 10%
+depression,PHQ-9,PHQ-9_03,"Trouble falling or staying asleep, or sleeping too much.",3,Somatic & vegetative symptoms,0.9,20,high,False,,Dim -1: 5%; Dim 3: 95%
+depression,PHQ-9,PHQ-9_04,Feeling tired or having little energy.,3,Somatic & vegetative symptoms,0.458,20,moderate,False,,Dim 1: 5%; Dim 3: 60%; Dim 4: 35%
+depression,PHQ-9,PHQ-9_05,Poor appetite or overeating.,3,Somatic & vegetative symptoms,0.9,20,high,False,,Dim -1: 5%; Dim 3: 95%
+depression,PHQ-9,PHQ-9_06,Feeling bad about yourself – or that you are a failure or have let yourself or your family down.,2,Cognitive & self-perception,1.0,20,high,False,,Dim 2: 100%
+depression,PHQ-9,PHQ-9_07,"Trouble concentrating on things, such as reading the newspaper or watching television.",2,Cognitive & self-perception,0.374,20,low,False,,Dim 2: 55%; Dim 3: 5%; Dim 4: 30%; Dim 5: 10%
+depression,PHQ-9,PHQ-9_08,Moving or speaking so slowly that other people could have noticed? Or the opposite – being so fidget...,3,Somatic & vegetative symptoms,0.205,20,very_low,True,"[3, 4, 5]",Dim -1: 5%; Dim 2: 15%; Dim 3: 30%; Dim 4: 20%; Dim 5: 30%
+depression,PHQ-9,PHQ-9_09,Thoughts that you would be better off dead or of hurting yourself in some way.,1,Mood & affective symptoms,0.532,20,moderate,False,,Dim 1: 70%; Dim 2: 25%; Dim 5: 5%
+depression,SDS,SDS_01,"I feel downhearted, blue, and sad.",1,Mood & affective symptoms,1.0,18,high,False,,Dim 1: 100%
+depression,SDS,SDS_02,Morning is when I feel the best.,1,Mood & affective symptoms,0.458,18,moderate,False,,Dim -1: 11%; Dim 1: 67%; Dim 3: 17%; Dim 4: 6%
+depression,SDS,SDS_03,I have crying speIls or feel like it.,1,Mood & affective symptoms,1.0,18,high,False,,Dim 1: 100%
+depression,SDS,SDS_04,I have trouble sleeping through the night.,3,Somatic & vegetative symptoms,1.0,18,high,False,,Dim 3: 100%
+depression,SDS,SDS_05,I eat as much as I used to.,3,Somatic & vegetative symptoms,0.784,18,high,False,,Dim -1: 6%; Dim 3: 89%; Dim 4: 6%
+depression,SDS,SDS_06,"I enjoy looking at, talking to, and being with attractive women/men.",4,Activity & interest deficits,0.601,18,moderate,False,,Dim -1: 11%; Dim 1: 6%; Dim 2: 6%; Dim 4: 78%
+depression,SDS,SDS_07,I notice that I am losing weight.,3,Somatic & vegetative symptoms,1.0,18,high,False,,Dim 3: 100%
+depression,SDS,SDS_08,I have trouble with constipation.,3,Somatic & vegetative symptoms,1.0,18,high,False,,Dim 3: 100%
+depression,SDS,SDS_09,My heart beats faster than usual.,3,Somatic & vegetative symptoms,0.458,18,moderate,False,,Dim 2: 6%; Dim 3: 61%; Dim 5: 33%
+depression,SDS,SDS_10,I get tired for no reason.,3,Somatic & vegetative symptoms,0.471,18,moderate,False,,Dim -1: 6%; Dim 3: 67%; Dim 4: 22%; Dim 5: 6%
+depression,SDS,SDS_11,My mind is as clear as it used to be.,2,Cognitive & self-perception,0.693,18,high,False,,Dim -1: 11%; Dim 2: 83%; Dim 3: 6%
+depression,SDS,SDS_12,I find it easy to do the things I used to.,4,Activity & interest deficits,0.693,18,high,False,,Dim -1: 6%; Dim 2: 11%; Dim 4: 83%
+depression,SDS,SDS_13,I am restless and can't sleep.,5,Anxiety & distress,0.431,18,low,False,,Dim 3: 39%; Dim 4: 6%; Dim 5: 56%
+depression,SDS,SDS_14,I feel hopeful about the future.,2,Cognitive & self-perception,0.392,18,low,False,,Dim -1: 6%; Dim 1: 33%; Dim 2: 56%; Dim 4: 6%
+depression,SDS,SDS_15,I am more irritable than usual.,5,Anxiety & distress,0.392,18,low,False,,Dim -1: 6%; Dim 1: 33%; Dim 4: 6%; Dim 5: 56%
+depression,SDS,SDS_16,I find it easy to make decisions.,2,Cognitive & self-perception,0.575,18,moderate,False,,Dim 2: 72%; Dim 4: 28%
+depression,SDS,SDS_17,I feel that I am useful and needed.,2,Cognitive & self-perception,0.693,18,high,False,,Dim 1: 6%; Dim 2: 83%; Dim 4: 11%
+depression,SDS,SDS_18,My life is pretty full.,2,Cognitive & self-perception,0.373,18,low,True,"[2, 4]",Dim 1: 11%; Dim 2: 44%; Dim 4: 44%
+depression,SDS,SDS_19,I feel that others would be better off if I were dead.,1,Mood & affective symptoms,0.327,18,low,True,"[1, 2]",Dim -1: 6%; Dim 1: 44%; Dim 2: 39%; Dim 5: 11%
+depression,SDS,SDS_20,I still enjoy the things I used to do.,4,Activity & interest deficits,0.536,18,moderate,False,,Dim 1: 17%; Dim 3: 11%; Dim 4: 72%
+depression,DSI,DSI_01,Depressed mood: Have you been feeling sad or depressed lately?,1,Mood & affective symptoms,1.0,18,high,False,,Dim 1: 100%
+depression,DSI,DSI_02,Diurnal variation: Is there any part ofthe day when you feel worst? How do you feel most mornings?,1,Mood & affective symptoms,0.281,18,low,False,,Dim -1: 17%; Dim 1: 50%; Dim 2: 6%; Dim 3: 17%; Dim 4: 11%
+depression,DSI,DSI_03,Crying spells Do you have crying spells or feel like it?,1,Mood & affective symptoms,1.0,18,high,False,,Dim 1: 100%
+depression,DSI,DSI_04,Sleep disturbance: How have you been sleeping?,3,Somatic & vegetative symptoms,0.889,18,high,False,,Dim 2: 6%; Dim 3: 94%
+depression,DSI,DSI_05,Decreased appetite: How is your appetite?,3,Somatic & vegetative symptoms,0.889,18,high,False,,Dim 3: 94%; Dim 4: 6%
+depression,DSI,DSI_06,Weight loss: Have you lost any weight?,3,Somatic & vegetative symptoms,1.0,18,high,False,,Dim 3: 100%
+depression,DSI,DSI_07,"Decreased libido: Has there been any recent change in your interest in sex? Do you enjoy looking, ta...",4,Activity & interest deficits,0.477,18,low,False,,Dim 3: 44%; Dim 4: 56%
+depression,DSI,DSI_08,Constipation: Do you have trouble with constipation?,3,Somatic & vegetative symptoms,1.0,18,high,False,,Dim 3: 100%
+depression,DSI,DSI_09,Tachycardia: Have you had times when your heart was beating faster than usual?,3,Somatic & vegetative symptoms,0.634,18,moderate,False,,Dim 3: 78%; Dim 5: 22%
+depression,DSI,DSI_10,Fatigue: How easily do you get tired?,3,Somatic & vegetative symptoms,0.614,18,moderate,False,,Dim -1: 6%; Dim 3: 78%; Dim 4: 17%
+depression,DSI,DSI_11,Psychomotor: Do you feel slowed down in doing retardation the things you usually do?,4,Activity & interest deficits,0.373,18,low,False,,Dim -1: 6%; Dim 2: 6%; Dim 3: 39%; Dim 4: 50%
+depression,DSI,DSI_12,Confusion Do you ever feel confused and have trouble thinking?,2,Cognitive & self-perception,0.784,18,high,False,,Dim -1: 6%; Dim 2: 89%; Dim 3: 6%
+depression,DSI,DSI_13,Psychomotor: Do you find yourself restless and agitation can't sit still?,5,Anxiety & distress,0.693,18,high,False,,Dim 3: 6%; Dim 4: 11%; Dim 5: 83%
+depression,DSI,DSI_14,Irritability: How easily do you get irritated?,5,Anxiety & distress,0.418,18,moderate,False,,Dim -1: 17%; Dim 1: 22%; Dim 5: 61%
+depression,DSI,DSI_15,Indecisiveness: How are you at making decisions?,2,Cognitive & self-perception,0.601,18,moderate,False,,Dim -1: 6%; Dim 2: 78%; Dim 4: 11%; Dim 5: 6%
+depression,DSI,DSI_16,Hopelessness: How hopeful do you feel about the future?,1,Mood & affective symptoms,0.281,18,very_low,True,"[1, 2]",Dim -1: 11%; Dim 1: 39%; Dim 2: 39%; Dim 4: 6%; Dim 5: 6%
+depression,DSI,DSI_17,Personal: Do you ever feel useless and not devaluation wanted?,2,Cognitive & self-perception,0.608,18,moderate,False,,Dim 1: 11%; Dim 2: 78%; Dim 4: 11%
+depression,DSI,DSI_18,Emptiness: Do you feel life is empty for you?,2,Cognitive & self-perception,0.301,18,low,False,,Dim 1: 33%; Dim 2: 44%; Dim 4: 17%; Dim 5: 6%
+depression,DSI,DSI_19,Dissatisfaction: Do you still enjoy the things you used to?,4,Activity & interest deficits,0.614,18,moderate,False,,Dim 1: 17%; Dim 2: 6%; Dim 4: 78%
+depression,DSI,DSI_20,Suicidal: Do you feel others would be better ruminations off if you were dead?,1,Mood & affective symptoms,0.608,18,moderate,False,,Dim 1: 78%; Dim 2: 11%; Dim 5: 11%
+depression,SCL-90,SCL-90_05,Loss of sexual interest or pleasure.,4,Activity & interest deficits,0.532,20,moderate,False,,Dim 3: 25%; Dim 4: 70%; Dim 5: 5%
+depression,SCL-90,SCL-90_14,Feeling low in energy or slowed down.,3,Somatic & vegetative symptoms,0.437,20,low,False,,Dim 1: 5%; Dim 3: 55%; Dim 4: 40%
+depression,SCL-90,SCL-90_20,Crying easily.,1,Mood & affective symptoms,0.637,20,high,False,,Dim -1: 5%; Dim 1: 80%; Dim 3: 10%; Dim 5: 5%
+depression,SCL-90,SCL-90_22,Feeling of being trapped or caught.,5,Anxiety & distress,0.384,20,low,True,"[2, 5]",Dim -1: 5%; Dim 1: 5%; Dim 2: 40%; Dim 5: 50%
+depression,SCL-90,SCL-90_26,Blaming yourself for things.,2,Cognitive & self-perception,0.805,20,high,False,,Dim 1: 5%; Dim 2: 90%; Dim 5: 5%
+depression,SCL-90,SCL-90_29,Feeling lonely.,1,Mood & affective symptoms,0.574,20,moderate,False,,Dim -1: 10%; Dim 1: 75%; Dim 2: 15%
+depression,SCL-90,SCL-90_30,Feeling blue.,1,Mood & affective symptoms,1.0,20,high,False,,Dim 1: 100%
+depression,SCL-90,SCL-90_31,Worrying too much about things.,5,Anxiety & distress,0.584,20,moderate,False,,Dim 1: 5%; Dim 2: 20%; Dim 5: 75%
+depression,SCL-90,SCL-90_32,Feeling no interest in things.,4,Activity & interest deficits,0.9,20,high,False,,Dim 2: 5%; Dim 4: 95%
+depression,SCL-90,SCL-90_54,Feeling hopeless about the future.,2,Cognitive & self-perception,0.663,20,high,False,,Dim 1: 20%; Dim 2: 80%
+depression,SCL-90,SCL-90_71,Feeling everything is an effort.,4,Activity & interest deficits,0.395,20,moderate,False,,Dim 1: 5%; Dim 2: 15%; Dim 3: 20%; Dim 4: 60%
+depression,SCL-90,SCL-90_79,Feelings of worthlessness.,2,Cognitive & self-perception,0.811,20,high,False,,Dim 1: 10%; Dim 2: 90%
+depression,MFQ,MFQ_01,I felt miserable or unhappy.,1,Mood & affective symptoms,1.0,20,high,False,,Dim 1: 100%
+depression,MFQ,MFQ_02,I didn’t enjoy anything at all.,4,Activity & interest deficits,0.811,20,high,False,,Dim 1: 10%; Dim 4: 90%
+depression,MFQ,MFQ_03,I was less hungry than usual.,3,Somatic & vegetative symptoms,0.9,20,high,False,,Dim -1: 5%; Dim 3: 95%
+depression,MFQ,MFQ_04,I ate more than usual.,3,Somatic & vegetative symptoms,0.9,20,high,False,,Dim -1: 5%; Dim 3: 95%
+depression,MFQ,MFQ_05,I felt so tired I just sat around and did nothing.,3,Somatic & vegetative symptoms,0.437,20,low,False,,Dim 2: 5%; Dim 3: 55%; Dim 4: 40%
+depression,MFQ,MFQ_06,I was moving and walking more slowly than usual.,3,Somatic & vegetative symptoms,0.237,20,very_low,True,"[3, 4]",Dim -1: 10%; Dim 2: 10%; Dim 3: 35%; Dim 4: 35%; Dim 5: 10%
+depression,MFQ,MFQ_07,I was very restless.,5,Anxiety & distress,0.805,20,high,False,,Dim 3: 5%; Dim 4: 5%; Dim 5: 90%
+depression,MFQ,MFQ_08,I felt I was no good anymore.,2,Cognitive & self-perception,0.811,20,high,False,,Dim 1: 10%; Dim 2: 90%
+depression,MFQ,MFQ_09,I blamed myself for things that weren’t my fault.,2,Cognitive & self-perception,1.0,20,high,False,,Dim 2: 100%
+depression,MFQ,MFQ_10,It was hard for me to make up my mind.,2,Cognitive & self-perception,0.3,20,low,False,,Dim -1: 10%; Dim 2: 50%; Dim 3: 5%; Dim 4: 25%; Dim 5: 10%
+depression,MFQ,MFQ_11,I felt grumpy and cross with other people.,5,Anxiety & distress,0.384,20,low,True,"[1, 5]",Dim 1: 40%; Dim 2: 5%; Dim 3: 5%; Dim 5: 50%
+depression,MFQ,MFQ_12,I felt like talking less than usual.,4,Activity & interest deficits,0.632,20,high,False,,Dim 1: 5%; Dim 2: 5%; Dim 3: 5%; Dim 4: 80%; Dim 5: 5%
+depression,MFQ,MFQ_13,I was talking more slowly than usual.,3,Somatic & vegetative symptoms,0.337,20,low,True,"[3, 4]",Dim -1: 5%; Dim 2: 5%; Dim 3: 45%; Dim 4: 40%; Dim 5: 5%
+depression,MFQ,MFQ_14,I cried a lot.,1,Mood & affective symptoms,0.637,20,high,False,,Dim -1: 5%; Dim 1: 80%; Dim 3: 10%; Dim 5: 5%
+depression,MFQ,MFQ_15,I thought there was nothing good for me in the future.,2,Cognitive & self-perception,1.0,20,high,False,,Dim 2: 100%
+depression,MFQ,MFQ_16,I thought that life wasn’t worth living.,1,Mood & affective symptoms,0.479,20,low,False,,Dim 1: 55%; Dim 2: 45%
+depression,MFQ,MFQ_17,I thought about death or dying.,1,Mood & affective symptoms,0.811,20,high,False,,Dim 1: 90%; Dim 2: 10%
+depression,MFQ,MFQ_18,I thought my family would be better off without me.,2,Cognitive & self-perception,0.558,20,moderate,False,,Dim 1: 30%; Dim 2: 70%
+depression,MFQ,MFQ_19,I thought about killing myself.,1,Mood & affective symptoms,0.811,20,high,False,,Dim 1: 90%; Dim 2: 10%
+depression,MFQ,MFQ_20,I didn’t want to see my friends.,4,Activity & interest deficits,0.811,20,high,False,,Dim 4: 90%; Dim 5: 10%
+depression,MFQ,MFQ_21,I found it hard to think properly or concentrate.,2,Cognitive & self-perception,0.411,20,moderate,False,,Dim 2: 60%; Dim 3: 20%; Dim 4: 20%
+depression,MFQ,MFQ_22,I thought bad things would happen to me.,2,Cognitive & self-perception,0.405,20,low,False,,Dim 1: 10%; Dim 2: 55%; Dim 5: 35%
+depression,MFQ,MFQ_23,I hated myself.,2,Cognitive & self-perception,0.732,20,high,False,,Dim 1: 15%; Dim 2: 85%
+depression,MFQ,MFQ_24,I felt I was a bad person.,2,Cognitive & self-perception,0.811,20,high,False,,Dim 1: 10%; Dim 2: 90%
+depression,MFQ,MFQ_25,I thought I looked ugly.,2,Cognitive & self-perception,0.9,20,high,False,,Dim 1: 5%; Dim 2: 95%
+depression,MFQ,MFQ_26,I worried about aches and pains.,5,Anxiety & distress,0.584,20,moderate,False,,Dim 3: 20%; Dim 4: 5%; Dim 5: 75%
+depression,MFQ,MFQ_27,I felt lonely.,1,Mood & affective symptoms,0.405,20,moderate,False,,Dim -1: 10%; Dim 1: 60%; Dim 2: 25%; Dim 5: 5%
+depression,MFQ,MFQ_28,I thought nobody really loved me.,2,Cognitive & self-perception,0.9,20,high,False,,Dim 1: 5%; Dim 2: 95%
+depression,MFQ,MFQ_29,I didn’t have any fun in any of my activities.,4,Activity & interest deficits,0.811,20,high,False,,Dim 1: 10%; Dim 4: 90%
+depression,MFQ,MFQ_30,I thought I could never be as good as other people.,2,Cognitive & self-perception,1.0,20,high,False,,Dim 2: 100%
+depression,MFQ,MFQ_31,I did everything wrong.,2,Cognitive & self-perception,1.0,20,high,False,,Dim 2: 100%
+depression,MFQ,MFQ_32,I didn’t sleep as well as I usually sleep.,3,Somatic & vegetative symptoms,0.805,20,high,False,,Dim -1: 5%; Dim 3: 90%; Dim 5: 5%
+depression,MFQ,MFQ_33,I slept a lot more than usual.,3,Somatic & vegetative symptoms,0.805,20,high,False,,Dim -1: 5%; Dim 3: 90%; Dim 5: 5%
+anxiety,GAD-7,GAD-7_01,"Feeling nervous, anxious, or on edge.",2,Cognitive symptoms,0.497,18,moderate,False,,Dim 1: 39%; Dim 2: 61%
+anxiety,GAD-7,GAD-7_02,Not being able to stop or control worrying.,2,Cognitive symptoms,1.0,18,high,False,,Dim 2: 100%
+anxiety,GAD-7,GAD-7_03,Worrying too much about different things.,2,Cognitive symptoms,1.0,18,high,False,,Dim 2: 100%
+anxiety,GAD-7,GAD-7_04,Trouble relaxing.,1,Somatic symptoms,0.575,18,moderate,False,,Dim 1: 72%; Dim 2: 28%
+anxiety,GAD-7,GAD-7_05,Being so restless that it is hard to sit still.,1,Somatic symptoms,1.0,18,high,False,,Dim 1: 100%
+anxiety,GAD-7,GAD-7_06,Becoming easily annoyed or irritable.,2,Cognitive symptoms,0.614,18,moderate,False,,Dim -1: 6%; Dim 1: 17%; Dim 2: 78%
+anxiety,GAD-7,GAD-7_07,"Feeling afraid, as if something awful might happen.",2,Cognitive symptoms,0.791,18,high,False,,Dim 1: 11%; Dim 2: 89%
+anxiety,PSWQ,PSWQ_01,"If I don’t have enough time to do everything, I don’t worry about it.",2,Cognitive symptoms,1.0,18,high,False,,Dim 2: 100%
+anxiety,PSWQ,PSWQ_02,My worries overwhelm me.,2,Cognitive symptoms,0.889,18,high,False,,Dim 1: 6%; Dim 2: 94%
+anxiety,PSWQ,PSWQ_03,I do not tend to worry about things.,2,Cognitive symptoms,1.0,18,high,False,,Dim 2: 100%
+anxiety,PSWQ,PSWQ_04,Many situations make me worry.,2,Cognitive symptoms,1.0,18,high,False,,Dim 2: 100%
+anxiety,PSWQ,PSWQ_05,"I know I shouldn’t worry about things, but I just cannot help it.",2,Cognitive symptoms,1.0,18,high,False,,Dim 2: 100%
+anxiety,PSWQ,PSWQ_06,When I am under pressure I worry a lot.,2,Cognitive symptoms,1.0,18,high,False,,Dim 2: 100%
+anxiety,PSWQ,PSWQ_07,I am always worrying about something.,2,Cognitive symptoms,1.0,18,high,False,,Dim 2: 100%
+anxiety,PSWQ,PSWQ_08,I find it easy to dismiss worrisome thoughts.,2,Cognitive symptoms,1.0,18,high,False,,Dim 2: 100%
+anxiety,PSWQ,PSWQ_09,"As soon as I finish one task, I start to worry about everything else I have to do.",2,Cognitive symptoms,1.0,18,high,False,,Dim 2: 100%
+anxiety,PSWQ,PSWQ_10,I never worry about anything.,2,Cognitive symptoms,0.889,18,high,False,,Dim -1: 6%; Dim 2: 94%
+anxiety,PSWQ,PSWQ_11,"When there is nothing more I can do about a concern, I don’t worry about it anymore.",2,Cognitive symptoms,0.889,18,high,False,,Dim -1: 6%; Dim 2: 94%
+anxiety,PSWQ,PSWQ_12,I’ve been a worrier all my life.,2,Cognitive symptoms,1.0,18,high,False,,Dim 2: 100%
+anxiety,PSWQ,PSWQ_13,I notice that I have been worrying about things.,2,Cognitive symptoms,1.0,18,high,False,,Dim 2: 100%
+anxiety,PSWQ,PSWQ_14,"Once I start worrying, I can’t stop.",2,Cognitive symptoms,0.889,18,high,False,,Dim 1: 6%; Dim 2: 94%
+anxiety,PSWQ,PSWQ_15,I worry all the time.,2,Cognitive symptoms,1.0,18,high,False,,Dim 2: 100%
+anxiety,PSWQ,PSWQ_16,I worry about projects until they are done.,2,Cognitive symptoms,1.0,18,high,False,,Dim 2: 100%
+anxiety,SMGAD,SMGAD_01,"I have felt moments of sudden terror, fear, or fright.",2,Cognitive symptoms,0.497,18,moderate,False,,Dim 1: 39%; Dim 2: 61%
+anxiety,SMGAD,SMGAD_02,"I have felt anxious, worried, or nervous.",2,Cognitive symptoms,0.634,18,moderate,False,,Dim 1: 22%; Dim 2: 78%
+anxiety,SMGAD,SMGAD_03,"I have had thoughts of bad things happening, such as family tragedy, ill health, loss of a job, or a...",2,Cognitive symptoms,1.0,18,high,False,,Dim 2: 100%
+anxiety,SMGAD,SMGAD_04,"I have felt a racing heart, sweaty, trouble breathing, faint, or shaky.",1,Somatic symptoms,1.0,18,high,False,,Dim 1: 100%
+anxiety,SMGAD,SMGAD_05,"I have felt tense muscles, felt on edge or restless, or had trouble relaxing or trouble sleeping.",1,Somatic symptoms,1.0,18,high,False,,Dim 1: 100%
+anxiety,SMGAD,SMGAD_06,"I have avoided, or did not approach or enter, situations about which I worry.",2,Cognitive symptoms,0.791,18,high,False,,Dim -1: 11%; Dim 2: 89%
+anxiety,SMGAD,SMGAD_07,I have left situations early or participated only minimally due to worries.,2,Cognitive symptoms,0.889,18,high,False,,Dim -1: 6%; Dim 2: 94%
+anxiety,SMGAD,SMGAD_08,"I have spent lots of time making decisions, putting off making decisions, or preparing for situation...",2,Cognitive symptoms,0.889,18,high,False,,Dim -1: 6%; Dim 2: 94%
+anxiety,SMGAD,SMGAD_09,I have sought reassurance from others due to worries.,2,Cognitive symptoms,0.889,18,high,False,,Dim -1: 6%; Dim 2: 94%
+anxiety,SMGAD,SMGAD_10,"I have needed help to cope with anxiety (e.g., alcohol or medication, superstitious objects, or othe...",2,Cognitive symptoms,0.32,18,low,False,,Dim -1: 33%; Dim 1: 22%; Dim 2: 44%
+anxiety,ASensI,ASensI_01,It is important not to appear nervous.,2,Cognitive symptoms,0.805,20,high,False,,Dim -1: 5%; Dim 1: 5%; Dim 2: 90%
+anxiety,ASensI,ASensI_02,"When I cannot keep my mind on a task, I worry that I might be going crazy.",2,Cognitive symptoms,1.0,20,high,False,,Dim 2: 100%
+anxiety,ASensI,ASensI_03,It scares me when I feel shaky.,1,Somatic symptoms,0.521,20,moderate,False,,Dim 1: 65%; Dim 2: 35%
+anxiety,ASensI,ASensI_04,It scares me when I feel faint.,1,Somatic symptoms,0.521,20,moderate,False,,Dim 1: 65%; Dim 2: 35%
+anxiety,ASensI,ASensI_05,It is important to me to stay in control of my emotions.,2,Cognitive symptoms,0.9,20,high,False,,Dim -1: 5%; Dim 2: 95%
+anxiety,ASensI,ASensI_06,It scares me when I my heart beat rapidly.,1,Somatic symptoms,0.521,20,moderate,False,,Dim 1: 65%; Dim 2: 35%
+anxiety,ASensI,ASensI_07,It embarrasses me when my stomach growls.,1,Somatic symptoms,0.495,20,moderate,False,,Dim 1: 60%; Dim 2: 40%
+anxiety,ASensI,ASensI_08,It scares me when I am nauseous (sick stomach).,1,Somatic symptoms,0.521,20,moderate,False,,Dim 1: 65%; Dim 2: 35%
+anxiety,ASensI,ASensI_09,"When I notice my heart beating rapidly, I worry that I might be having a heart attack.",1,Somatic symptoms,0.474,20,low,True,"[1, 2]",Dim 1: 50%; Dim 2: 50%
+anxiety,ASensI,ASensI_10,It scares me when I become short of breath.,1,Somatic symptoms,0.521,20,moderate,False,,Dim 1: 65%; Dim 2: 35%
+anxiety,ASensI,ASensI_11,"When my stomach is upset, I worry that I might be seriously ill.",2,Cognitive symptoms,0.479,20,low,False,,Dim 1: 45%; Dim 2: 55%
+anxiety,ASensI,ASensI_12,It scares me when I am unable to keep my mind on a task.,2,Cognitive symptoms,0.9,20,high,False,,Dim 1: 5%; Dim 2: 95%
+anxiety,ASensI,ASensI_13,Other people notice when I feel shaky.,2,Cognitive symptoms,0.495,20,moderate,False,,Dim 1: 40%; Dim 2: 60%
+anxiety,ASensI,ASensI_14,Unusual body sensations scare me.,1,Somatic symptoms,0.479,20,low,False,,Dim 1: 55%; Dim 2: 45%
+anxiety,ASensI,ASensI_15,"When I am nervous, I worry that I might be mentally ill.",2,Cognitive symptoms,1.0,20,high,False,,Dim 2: 100%
+anxiety,ASensI,ASensI_16,It scares me when I am nervous.,2,Cognitive symptoms,0.9,20,high,False,,Dim 1: 5%; Dim 2: 95%
+anxiety,SCL-90,SCL-90_13,Feeling afraid in open spaces or on the streets.,2,Cognitive symptoms,0.721,20,high,False,,Dim -1: 5%; Dim 1: 10%; Dim 2: 85%
+anxiety,SCL-90,SCL-90_17,Trembling.,1,Somatic symptoms,0.9,20,high,False,,Dim 1: 95%; Dim 2: 5%
+anxiety,SCL-90,SCL-90_23,Suddenly scared for no reason.,2,Cognitive symptoms,0.721,20,high,False,,Dim -1: 5%; Dim 1: 10%; Dim 2: 85%
+anxiety,SCL-90,SCL-90_25,Feeling afraid to go out of your house alone.,2,Cognitive symptoms,0.9,20,high,False,,Dim 1: 5%; Dim 2: 95%
+anxiety,SCL-90,SCL-90_33,Feeling fearful.,2,Cognitive symptoms,0.642,20,high,False,,Dim -1: 10%; Dim 1: 10%; Dim 2: 80%
+anxiety,SCL-90,SCL-90_39,Heart pounding or racing.,1,Somatic symptoms,1.0,20,high,False,,Dim 1: 100%
+anxiety,SCL-90,SCL-90_47,"Feeling afraid to travel on buses, subways, trains.",2,Cognitive symptoms,0.732,20,high,False,,Dim 1: 15%; Dim 2: 85%
+anxiety,SCL-90,SCL-90_50,"Having to avoid certain things, places, or activities because they frighten you.",2,Cognitive symptoms,0.805,20,high,False,,Dim -1: 5%; Dim 1: 5%; Dim 2: 90%
+anxiety,SCL-90,SCL-90_57,Feeling tense or keyed up.,1,Somatic symptoms,0.458,20,moderate,False,,Dim -1: 5%; Dim 1: 60%; Dim 2: 35%
+anxiety,SCL-90,SCL-90_70,"Feeling uneasy in crowds, such as shopping or at a movie.",2,Cognitive symptoms,0.663,20,high,False,,Dim 1: 20%; Dim 2: 80%
+anxiety,SCL-90,SCL-90_72,Spells of terror or panic.,2,Cognitive symptoms,0.521,20,moderate,False,,Dim 1: 35%; Dim 2: 65%
+anxiety,SCL-90,SCL-90_75,Feeling nervous when you are left alone.,2,Cognitive symptoms,0.663,20,high,False,,Dim 1: 20%; Dim 2: 80%
+anxiety,SCL-90,SCL-90_78,Feeling so restless you couldn’t sit still.,1,Somatic symptoms,0.732,20,high,False,,Dim 1: 85%; Dim 2: 15%
+anxiety,SCL-90,SCL-90_80,Feeling that familiar things are strange or unreal.,2,Cognitive symptoms,0.9,20,high,False,,Dim 1: 5%; Dim 2: 95%
+anxiety,SCL-90,SCL-90_82,Feeling afraid you will faint in public.,2,Cognitive symptoms,0.521,20,moderate,False,,Dim 1: 35%; Dim 2: 65%
+anxiety,SCL-90,SCL-90_86,Feeling pushed to get things done.,2,Cognitive symptoms,1.0,20,high,False,,Dim 2: 100%
+apathy,DAS,DAS_01,I need a bit of encouragement to get things started.,1,Behavioral-Cognitive apathy,0.9,20,high,False,,Dim 1: 95%; Dim 2: 5%
+apathy,DAS,DAS_02,I contact my friends.,1,Behavioral-Cognitive apathy,0.458,20,moderate,False,,Dim -1: 5%; Dim 1: 60%; Dim 2: 35%
+apathy,DAS,DAS_03,I express my emotions.,2,Affective apathy,0.805,20,high,False,,Dim -1: 5%; Dim 1: 5%; Dim 2: 90%
+apathy,DAS,DAS_04,I think of new things to do during the day.,1,Behavioral-Cognitive apathy,0.9,20,high,False,,Dim -1: 5%; Dim 1: 95%
+apathy,DAS,DAS_05,I am concerned about how my family feel.,2,Affective apathy,0.732,20,high,False,,Dim 1: 15%; Dim 2: 85%
+apathy,DAS,DAS_06,I find myself staring in to space.,2,Affective apathy,0.405,20,low,False,,Dim -1: 10%; Dim 1: 35%; Dim 2: 55%
+apathy,DAS,DAS_07,Before I do something I think about how others would feel about it.,2,Affective apathy,0.458,20,moderate,False,,Dim -1: 5%; Dim 1: 35%; Dim 2: 60%
+apathy,DAS,DAS_08,I plan my days activities in advance.,1,Behavioral-Cognitive apathy,0.9,20,high,False,,Dim -1: 5%; Dim 1: 95%
+apathy,DAS,DAS_09,When I receive bad news I feel bad about it.,2,Affective apathy,0.9,20,high,False,,Dim -1: 5%; Dim 2: 95%
+apathy,DAS,DAS_10,I am able to focus on a task until it is finished.,1,Behavioral-Cognitive apathy,0.9,20,high,False,,Dim -1: 5%; Dim 1: 95%
+apathy,DAS,DAS_11,I lack motivation.,1,Behavioral-Cognitive apathy,0.663,20,high,False,,Dim 1: 80%; Dim 2: 20%
+apathy,DAS,DAS_12,I struggle to empathise with other people.,2,Affective apathy,0.811,20,high,False,,Dim 1: 10%; Dim 2: 90%
+apathy,DAS,DAS_13,I set goals for myself.,1,Behavioral-Cognitive apathy,0.9,20,high,False,,Dim -1: 5%; Dim 1: 95%
+apathy,DAS,DAS_14,I try new things.,1,Behavioral-Cognitive apathy,0.9,20,high,False,,Dim -1: 5%; Dim 1: 95%
+apathy,DAS,DAS_15,I am unconcerned about how others feel about my behaviour.,2,Affective apathy,0.721,20,high,False,,Dim -1: 5%; Dim 1: 10%; Dim 2: 85%
+apathy,DAS,DAS_16,I act on things I have thought about during the day.,1,Behavioral-Cognitive apathy,0.9,20,high,False,,Dim -1: 5%; Dim 1: 95%
+apathy,DAS,DAS_17,"When doing a demanding task, I have difficulty working out what I have to do.",1,Behavioral-Cognitive apathy,1.0,20,high,False,,Dim 1: 100%
+apathy,DAS,DAS_18,I keep myself busy.,1,Behavioral-Cognitive apathy,0.9,20,high,False,,Dim -1: 5%; Dim 1: 95%
+apathy,DAS,DAS_19,I get easily confused when doing several things at once.,1,Behavioral-Cognitive apathy,0.721,20,high,False,,Dim -1: 10%; Dim 1: 85%; Dim 2: 5%
+apathy,DAS,DAS_20,I become emotional easily when watching something happy or sad on TV.,2,Affective apathy,0.9,20,high,False,,Dim -1: 5%; Dim 2: 95%
+apathy,DAS,DAS_21,I find it difficult to keep my mind on things.,1,Behavioral-Cognitive apathy,1.0,20,high,False,,Dim 1: 100%
+apathy,DAS,DAS_22,I am spontaneous.,1,Behavioral-Cognitive apathy,0.516,20,moderate,False,,Dim -1: 10%; Dim 1: 70%; Dim 2: 20%
+apathy,DAS,DAS_23,I am easily distracted.,1,Behavioral-Cognitive apathy,0.721,20,high,False,,Dim -1: 5%; Dim 1: 85%; Dim 2: 10%
+apathy,DAS,DAS_24,I feel indifferent to what is going on around me.,2,Affective apathy,0.663,20,high,False,,Dim 1: 20%; Dim 2: 80%
+apathy,SHAPS,SHAPS_01,I would enjoy my favourite television or radio programme.,2,Affective apathy,0.477,18,low,False,,Dim 1: 44%; Dim 2: 56%
+apathy,SHAPS,SHAPS_02,I would enjoy being with my family or close friends.,2,Affective apathy,0.706,18,high,False,,Dim 1: 17%; Dim 2: 83%
+apathy,SHAPS,SHAPS_03,I would find pleasure in my hobbies and pastimes.,2,Affective apathy,0.477,18,low,False,,Dim 1: 44%; Dim 2: 56%
+apathy,SHAPS,SHAPS_04,I would be able to enjoy my favourite meal.,2,Affective apathy,0.529,18,moderate,False,,Dim 1: 33%; Dim 2: 67%
+apathy,SHAPS,SHAPS_05,I would enjoy a warm bath or refreshing shower.,2,Affective apathy,0.497,18,moderate,False,,Dim 1: 39%; Dim 2: 61%
+apathy,SHAPS,SHAPS_06,I would find pleasure in the scent of flowers or the smell of a fresh sea breeze or freshly baked br...,2,Affective apathy,0.634,18,moderate,False,,Dim 1: 22%; Dim 2: 78%
+apathy,SHAPS,SHAPS_07,I would enjoy seeing other people's smiling faces.,2,Affective apathy,0.791,18,high,False,,Dim 1: 11%; Dim 2: 89%
+apathy,SHAPS,SHAPS_08,I would enjoy looking smart when I have made an effort with my appearance.,1,Behavioral-Cognitive apathy,0.471,18,low,True,"[1, 2]",Dim 1: 50%; Dim 2: 50%
+apathy,SHAPS,SHAPS_09,"I would enjoy reading a book, magazine or newspaper.",1,Behavioral-Cognitive apathy,0.471,18,low,True,"[1, 2]",Dim 1: 50%; Dim 2: 50%
+apathy,SHAPS,SHAPS_10,I would enjoy a cup of tea or coffee or my favorite drink.,2,Affective apathy,0.529,18,moderate,False,,Dim 1: 33%; Dim 2: 67%
+apathy,SHAPS,SHAPS_11,"I would find pleasure in small things, e.g. bright sunny day, a telephone call from a friend.",2,Affective apathy,0.575,18,moderate,False,,Dim 1: 28%; Dim 2: 72%
+apathy,SHAPS,SHAPS_12,I would be able to enjoy a beautiful landscape or view.,2,Affective apathy,0.575,18,moderate,False,,Dim 1: 28%; Dim 2: 72%
+apathy,SHAPS,SHAPS_13,I would get pleasure from helping others.,2,Affective apathy,0.477,18,low,False,,Dim 1: 44%; Dim 2: 56%
+apathy,SHAPS,SHAPS_14,I would feel pleasure when I receive praise from other people.,2,Affective apathy,0.497,18,moderate,False,,Dim 1: 39%; Dim 2: 61%
+apathy,TEPS,TEPS_01,"When something exciting is coming up in my life, I really look forward to it.",1,Behavioral-Cognitive apathy,0.634,18,moderate,False,,Dim 1: 78%; Dim 2: 22%
+apathy,TEPS,TEPS_02,The sound of crackling wood in the fireplace is very relaxing.,2,Affective apathy,0.549,18,moderate,False,,Dim -1: 6%; Dim 1: 22%; Dim 2: 72%
+apathy,TEPS,TEPS_03,"When I think about eating my favorite food, I can almost taste how good it is.",2,Affective apathy,0.497,18,moderate,False,,Dim 1: 39%; Dim 2: 61%
+apathy,TEPS,TEPS_04,I love the sound of rain on the windows when I’m lying in my warm bed.,2,Affective apathy,0.634,18,moderate,False,,Dim 1: 22%; Dim 2: 78%
+apathy,TEPS,TEPS_05,The smell of freshly cut grass is enjoyable to me.,2,Affective apathy,0.634,18,moderate,False,,Dim 1: 22%; Dim 2: 78%
+apathy,TEPS,TEPS_06,I enjoy taking a deep breath of fresh air when I walk outside.,2,Affective apathy,0.575,18,moderate,False,,Dim 1: 28%; Dim 2: 72%
+apathy,TEPS,TEPS_07,I don’t look forward to things like eating out at restaurants.,1,Behavioral-Cognitive apathy,0.529,18,moderate,False,,Dim 1: 67%; Dim 2: 33%
+apathy,TEPS,TEPS_08,A hot cup of coffee or tea on a cold morning is very satisfying to me.,2,Affective apathy,0.575,18,moderate,False,,Dim 1: 28%; Dim 2: 72%
+apathy,TEPS,TEPS_09,I love it when people play with my hair.,2,Affective apathy,0.706,18,high,False,,Dim 1: 17%; Dim 2: 83%
+apathy,TEPS,TEPS_10,I really enjoy the feeling of a good yawn.,2,Affective apathy,0.549,18,moderate,False,,Dim -1: 6%; Dim 1: 22%; Dim 2: 72%
+apathy,TEPS,TEPS_11,"When I’m on my way to an amusement park, I can hardly wait to ride the roller coasters.",1,Behavioral-Cognitive apathy,0.549,18,moderate,False,,Dim -1: 6%; Dim 1: 72%; Dim 2: 22%
+apathy,TEPS,TEPS_12,I get so excited the night before a major holiday I can hardly sleep.,1,Behavioral-Cognitive apathy,0.458,18,moderate,False,,Dim -1: 6%; Dim 1: 61%; Dim 2: 33%
+apathy,TEPS,TEPS_13,I appreciate the beauty of a fresh snowfall.,2,Affective apathy,0.634,18,moderate,False,,Dim 1: 22%; Dim 2: 78%
+apathy,TEPS,TEPS_14,"When I think of something tasty, like a chocolate chip cookie, I have to have one.",1,Behavioral-Cognitive apathy,0.497,18,moderate,False,,Dim 1: 61%; Dim 2: 39%
+apathy,TEPS,TEPS_15,Looking forward to a pleasurable experience is in itself pleasurable.,1,Behavioral-Cognitive apathy,0.477,18,low,False,,Dim 1: 56%; Dim 2: 44%
+apathy,TEPS,TEPS_16,I look forward to a lot of things in my life.,1,Behavioral-Cognitive apathy,0.575,18,moderate,False,,Dim 1: 72%; Dim 2: 28%
+apathy,TEPS,TEPS_17,"When ordering something off the menu, I imagine how good it will taste.",1,Behavioral-Cognitive apathy,0.497,18,moderate,False,,Dim 1: 61%; Dim 2: 39%
+apathy,TEPS,TEPS_18,"When I hear about a new movie starring my favorite actor, I can’t wait to see it.",1,Behavioral-Cognitive apathy,0.634,18,moderate,False,,Dim 1: 78%; Dim 2: 22%
+apathy,ASBPD,ASBPD_05.1,Are you as active?,1,Behavioral-Cognitive apathy,1.0,20,high,False,,Dim 1: 100%
+apathy,ASBPD,ASBPD_05.2,Do you find it difficult to start new activities or to maintain them?,1,Behavioral-Cognitive apathy,1.0,20,high,False,,Dim 1: 100%
+apathy,ASBPD,ASBPD_05.3,Do you spontaneously do things without others?,1,Behavioral-Cognitive apathy,0.9,20,high,False,,Dim 1: 95%; Dim 2: 5%
+apathy,ASBPD,ASBPD_05.4,Do you feel motivated?,1,Behavioral-Cognitive apathy,0.605,20,moderate,False,,Dim 1: 75%; Dim 2: 25%
+apathy,ASBPD,ASBPD_05.5,Do you feel interested in starting new activities in order to acquire new knowledge?,1,Behavioral-Cognitive apathy,0.663,20,high,False,,Dim 1: 80%; Dim 2: 20%
+apathy,ASBPD,ASBPD_05.6,Are you as curious?,1,Behavioral-Cognitive apathy,0.732,20,high,False,,Dim 1: 85%; Dim 2: 15%
+apathy,ASBPD,ASBPD_05.7,Do you express yourself as much when you are with others?,2,Affective apathy,0.521,20,moderate,False,,Dim 1: 35%; Dim 2: 65%
+apathy,ASBPD,ASBPD_05.8,"When something positive occurs, are you as happy now as in the past?",2,Affective apathy,1.0,20,high,False,,Dim 2: 100%
+apathy,ASBPD,ASBPD_05.9,Are you as enthusiastic as in the past?,2,Affective apathy,0.805,20,high,False,,Dim -1: 5%; Dim 1: 5%; Dim 2: 90%
+apathy,ASBPD,ASBPD_05.10,Do you experience the same amount of pleasure in doing things?,2,Affective apathy,0.9,20,high,False,,Dim 1: 5%; Dim 2: 95%
+apathy,ASBPD,ASBPD_05.11,Do you still have as much desire to do things?,2,Affective apathy,0.663,20,high,False,,Dim 1: 20%; Dim 2: 80%
+apathy,ASBPD,ASBPD_05.12,"Prior to the past month, have you had similar episodes of decreased enthusiasm, pleasure or desire f...",2,Affective apathy,0.574,20,moderate,False,,Dim -1: 10%; Dim 1: 15%; Dim 2: 75%
+impulse_control,QUIP-C,QUIP-C_A.1_1,"Do you or others think you have an issue with too much gambling (such as casinos, internet gambling,...",1,Pathological gambling,1.0,20,high,False,,Dim 1: 100%
+impulse_control,QUIP-C,QUIP-C_A.1_2,"Do you or others think you have an issue with too much sex (such as making sexual demands on others,...",2,Hypersexuality,1.0,20,high,False,,Dim 2: 100%
+impulse_control,QUIP-C,QUIP-C_A.1_3,Do you or others think you have an issue with too much buying (such as too much of the same thing or...,3,Compulsive buying,1.0,20,high,False,,Dim 3: 100%
+impulse_control,QUIP-C,QUIP-C_A.1_4,Do you or others think you have an issue with eating behaviors (such as eating larger amounts or dif...,4,Compulsive eating,1.0,20,high,False,,Dim 4: 100%
+impulse_control,QUIP-C,QUIP-C_A.2_1,Do you think too much about gambling (such as having trouble keeping thoughts out of your mind or fe...,1,Pathological gambling,1.0,20,high,False,,Dim 1: 100%
+impulse_control,QUIP-C,QUIP-C_A.2_2,Do you think too much about sex (such as having trouble keeping thoughts out of your mind or feeling...,2,Hypersexuality,1.0,20,high,False,,Dim 2: 100%
+impulse_control,QUIP-C,QUIP-C_A.2_3,Do you think too much about buying (such as having trouble keeping thoughts out of your mind or feel...,3,Compulsive buying,1.0,20,high,False,,Dim 3: 100%
+impulse_control,QUIP-C,QUIP-C_A.2_4,Do you think too much about eating (such as having trouble keeping thoughts out of your mind or feel...,4,Compulsive eating,1.0,20,high,False,,Dim 4: 100%
+impulse_control,QUIP-C,QUIP-C_A.3_1,Do you have urges or desires for gambling that you feel are excessive or cause you distress (includi...,1,Pathological gambling,1.0,20,high,False,,Dim 1: 100%
+impulse_control,QUIP-C,QUIP-C_A.3_2,Do you have urges or desires for sex that you feel are excessive or cause you distress (including be...,2,Hypersexuality,1.0,20,high,False,,Dim 2: 100%
+impulse_control,QUIP-C,QUIP-C_A.3_3,Do you have urges or desires for buying that you feel are excessive or cause you distress (including...,3,Compulsive buying,1.0,20,high,False,,Dim 3: 100%
+impulse_control,QUIP-C,QUIP-C_A.3_4,Do you have urges or desires for eating that you feel are excessive or cause you distress (including...,4,Compulsive eating,1.0,20,high,False,,Dim 4: 100%
+impulse_control,QUIP-C,QUIP-C_A.4_1,"Do you have difficulty controlling gambling (such as increasing them over time, or having trouble cu...",1,Pathological gambling,0.9,20,high,False,,Dim 1: 95%; Dim 2: 5%
+impulse_control,QUIP-C,QUIP-C_A.4_2,"Do you have difficulty controlling sex (such as increasing them over time, or having trouble cutting...",2,Hypersexuality,0.9,20,high,False,,Dim 2: 95%; Dim 3: 5%
+impulse_control,QUIP-C,QUIP-C_A.4_3,"Do you have difficulty controlling buying (such as increasing them over time, or having trouble cutt...",3,Compulsive buying,1.0,20,high,False,,Dim 3: 100%
+impulse_control,QUIP-C,QUIP-C_A.4_4,"Do you have difficulty controlling eating (such as increasing them over time, or having trouble cutt...",4,Compulsive eating,1.0,20,high,False,,Dim 4: 100%
+impulse_control,QUIP-C,QUIP-C_A.5_1,"Do you engage in activities specifically to continue gambling (such as hiding what you are doing, ly...",1,Pathological gambling,1.0,20,high,False,,Dim 1: 100%
+impulse_control,QUIP-C,QUIP-C_A.5_2,"Do you engage in activities specifically to continue sex (such as hiding what you are doing, lying, ...",2,Hypersexuality,1.0,20,high,False,,Dim 2: 100%
+impulse_control,QUIP-C,QUIP-C_A.5_3,"Do you engage in activities specifically to continue buying (such as hiding what you are doing, lyin...",3,Compulsive buying,1.0,20,high,False,,Dim 3: 100%
+impulse_control,QUIP-C,QUIP-C_A.5_4,"Do you engage in activities specifically to continue eating (such as hiding what you are doing, lyin...",4,Compulsive eating,1.0,20,high,False,,Dim 4: 100%
+impulse_control,QUIP-C,QUIP-C_B.1_A,"Do you or others think that you spend too much time on specific tasks, hobbies or other organized ac...",5,Punding-hobbyism,1.0,20,high,False,,Dim 5: 100%
+impulse_control,QUIP-C,QUIP-C_B.1_B,Do you or others think that you spend too much time repeating certain simple motor activities (such ...,5,Punding-hobbyism,0.9,20,high,False,,Dim 5: 95%; Dim 6: 5%
+impulse_control,QUIP-C,QUIP-C_B.1_C,Do you or others think that you spend too much time walking or driving with no intended goal or spec...,5,Punding-hobbyism,0.663,20,high,False,,Dim -1: 20%; Dim 5: 80%
+impulse_control,QUIP-C,QUIP-C_B.2,Do you or others think you have difficulty controlling the amount of time spent on these activities?,5,Punding-hobbyism,0.389,20,low,True,"[5, -1]",Dim -1: 40%; Dim 5: 50%; Dim 6: 10%
+impulse_control,QUIP-C,QUIP-C_B.3,"Do these activities interfere with daily functioning, or cause relationship or work difficulties?",-1,Does not fit,0.495,20,moderate,False,,Dim -1: 60%; Dim 5: 40%
+impulse_control,QUIP-C,QUIP-C_C.1,Do you or others (including your physicians) think that you consistently take too much of your Parki...,6,Dopamine dysregulation syndrome,0.9,20,high,False,,Dim -1: 5%; Dim 6: 95%
+impulse_control,QUIP-C,QUIP-C_C.2,"Have you over time increased on your own, without medical advice, your overall intake of Parkinson’s...",6,Dopamine dysregulation syndrome,1.0,20,high,False,,Dim 6: 100%
+impulse_control,QUIP-C,QUIP-C_C.3,"Have you over time increased on your own, without medical advice, your overall intake of Parkinson's...",6,Dopamine dysregulation syndrome,1.0,20,high,False,,Dim 6: 100%
+impulse_control,QUIP-C,QUIP-C_C.4,Do you have difficulty controlling your use of Parkinson’s medications (such as experiencing a stron...,6,Dopamine dysregulation syndrome,1.0,20,high,False,,Dim 6: 100%
+impulse_control,QUIP-C,QUIP-C_C.5,Do you hoard or hide your Parkinson's medications to increase the overall dosage?,6,Dopamine dysregulation syndrome,0.9,20,high,False,,Dim -1: 5%; Dim 6: 95%
+sleep,AIS,AIS_01,Sleep induction (time it takes you to fall asleep after turning-off the lights).,2,Nocturnal sleep disturbances,0.857,14,high,False,,Dim 1: 7%; Dim 2: 93%
+sleep,AIS,AIS_02,Awakenings during the night.,2,Nocturnal sleep disturbances,1.0,14,high,False,,Dim 2: 100%
+sleep,AIS,AIS_03,Final awakening earlier than desired.,2,Nocturnal sleep disturbances,1.0,14,high,False,,Dim 2: 100%
+sleep,AIS,AIS_04,Total sleep duration.,2,Nocturnal sleep disturbances,0.725,14,high,False,,Dim -1: 7%; Dim 1: 7%; Dim 2: 86%
+sleep,AIS,AIS_05,Overall quality of sleep (no matter how long you slept).,2,Nocturnal sleep disturbances,0.527,14,moderate,False,,Dim 1: 21%; Dim 2: 71%; Dim 3: 7%
+sleep,AIS,AIS_06,Sense of well-being during the day.,1,Daytime sleepiness and alertness,0.857,14,high,False,,Dim -1: 7%; Dim 1: 93%
+sleep,AIS,AIS_07,Functioning (physical and mental) during the day.,1,Daytime sleepiness and alertness,0.857,14,high,False,,Dim -1: 7%; Dim 1: 93%
+sleep,AIS,AIS_08,Sleepiness during the day.,1,Daytime sleepiness and alertness,0.857,14,high,False,,Dim 1: 93%; Dim 2: 7%
+sleep,MSQ,MSQ_01,"Have you ever been told that you seem to ""act out your dreams"" while sleeping (punched or fleiled ar...",3,REM sleep behavior and dreaming,1.0,14,high,False,,Dim 3: 100%
+sleep,MSQ,MSQ_01.b,"Have you ever been injured from acting out your dreams (bruises, cuts, broken bones)?",3,REM sleep behavior and dreaming,1.0,14,high,False,,Dim 3: 100%
+sleep,MSQ,MSQ_01.c,"Has a bedpartner ever been injured from acting out your dreams (bruises, blows, pulled hair)?",3,REM sleep behavior and dreaming,1.0,14,high,False,,Dim 3: 100%
+sleep,MSQ,MSQ_01.d,"Have you had dreams of being chased or attacked, or that involve defending yourself?",3,REM sleep behavior and dreaming,0.736,14,high,False,,Dim -1: 14%; Dim 3: 86%
+sleep,MSQ,MSQ_01.e,Have you been told that you make movements while sleeping that seem to match the details of your dre...,3,REM sleep behavior and dreaming,1.0,14,high,False,,Dim 3: 100%
+sleep,MSQ,MSQ_02,Have you been told that your legs repeatedly jerk or twitch during sleep (not just when falling asle...,2,Nocturnal sleep disturbances,0.33,14,low,False,,Dim -1: 21%; Dim 2: 50%; Dim 3: 29%
+sleep,MSQ,MSQ_03,"Does a restless, nervous, tingly, or creepy-crawly feeling in your legs make it hard to fall or stay...",2,Nocturnal sleep disturbances,0.725,14,high,False,,Dim -1: 7%; Dim 2: 86%; Dim 3: 7%
+sleep,MSQ,MSQ_03.a,Do you experience an irresistible urge to move the legs at those times?,2,Nocturnal sleep disturbances,0.615,14,moderate,False,,Dim -1: 14%; Dim 2: 79%; Dim 3: 7%
+sleep,MSQ,MSQ_03.b,Do the uncomfortable leg sensations decrease when you move them or when you walk around?,2,Nocturnal sleep disturbances,0.418,14,low,False,,Dim -1: 36%; Dim 2: 57%; Dim 3: 7%
+sleep,MSQ,MSQ_03.c,When do these uncomfortable leg sensations seem to be worse?,2,Nocturnal sleep disturbances,0.462,14,low,True,"[2, -1]",Dim -1: 50%; Dim 2: 50%
+sleep,MSQ,MSQ_04,Have you ever walked around the bedroom or house in your sleep?,2,Nocturnal sleep disturbances,0.637,14,moderate,False,,Dim 2: 79%; Dim 3: 21%
+sleep,MSQ,MSQ_05,Have you ever snorted or choked yourself awake?,4,Sleep-disordered breathing,1.0,14,high,False,,Dim 4: 100%
+sleep,MSQ,MSQ_06,Have you ever been told that you stop breathing in your sleep?,4,Sleep-disordered breathing,1.0,14,high,False,,Dim 4: 100%
+sleep,MSQ,MSQ_06.a,"Are you currently being treated for stop breathing in your sleep (e.g., CPAP)?",4,Sleep-disordered breathing,1.0,14,high,False,,Dim 4: 100%
+sleep,MSQ,MSQ_07,"Do you experience leg cramps at night (e.g., also called a ""charlie horse"" with intense pain in cert...",2,Nocturnal sleep disturbances,0.857,14,high,False,,Dim 2: 93%; Dim 3: 7%
+sleep,SDQ,SDQ_01,Do you have trouble falling asleep?,2,Nocturnal sleep disturbances,0.857,14,high,False,,Dim -1: 7%; Dim 2: 93%
+sleep,SDQ,SDQ_02,Do you have trouble staying asleep?,2,Nocturnal sleep disturbances,1.0,14,high,False,,Dim 2: 100%
+sleep,SDQ,SDQ_03,Do you take anything to help you sleep?,2,Nocturnal sleep disturbances,0.736,14,high,False,,Dim -1: 14%; Dim 2: 86%
+sleep,SDQ,SDQ_04,Do you use alcohol to help you sleep?,2,Nocturnal sleep disturbances,0.637,14,moderate,False,,Dim -1: 21%; Dim 2: 79%
+sleep,SDQ,SDQ_05,Do you have any medical conditions that disrupt your sleep?,2,Nocturnal sleep disturbances,0.462,14,moderate,False,,Dim -1: 29%; Dim 2: 64%; Dim 4: 7%
+sleep,SDQ,SDQ_06,Have you lost interest in hobbies or activities?,-1,Does not fit,0.56,14,moderate,False,,Dim -1: 71%; Dim 1: 29%
+sleep,SDQ,SDQ_07,"Do you feel sad, irritable, or hopeless?",-1,Does not fit,0.637,14,moderate,False,,Dim -1: 79%; Dim 1: 21%
+sleep,SDQ,SDQ_08,Do you feel nervous or worried?,-1,Does not fit,0.56,14,moderate,False,,Dim -1: 71%; Dim 1: 29%
+sleep,SDQ,SDQ_09,Do you think something is wrong with your body?,-1,Does not fit,0.736,14,high,False,,Dim -1: 86%; Dim 1: 14%
+sleep,SDQ,SDQ_10,Are you a shift worker or is your sleep schedule irregular?,2,Nocturnal sleep disturbances,0.396,14,low,True,"[2, -1]",Dim -1: 43%; Dim 1: 7%; Dim 2: 50%
+sleep,SDQ,SDQ_11,Are your legs restless and/or uncomfortable before bed?,2,Nocturnal sleep disturbances,0.462,14,moderate,False,,Dim -1: 29%; Dim 2: 64%; Dim 3: 7%
+sleep,SDQ,SDQ_12,Have you been told that you are restless or that you kick your legs in your sleep?,2,Nocturnal sleep disturbances,0.615,14,moderate,False,,Dim -1: 14%; Dim 2: 79%; Dim 3: 7%
+sleep,SDQ,SDQ_13,Do you have any unusual behaviours or movements during sleep?,3,REM sleep behavior and dreaming,0.637,14,moderate,False,,Dim 2: 21%; Dim 3: 79%
+sleep,SDQ,SDQ_14,Do you snore?,4,Sleep-disordered breathing,1.0,14,high,False,,Dim 4: 100%
+sleep,SDQ,SDQ_15,"Has anyone said that you stop breathing, gasp, snort, or choke in your sleep?",4,Sleep-disordered breathing,1.0,14,high,False,,Dim 4: 100%
+sleep,SDQ,SDQ_16,Do you have difficulty staying awake during the day?,1,Daytime sleepiness and alertness,1.0,14,high,False,,Dim 1: 100%
+sleep,ASBPD,ASBPD-III_03.1,Do you sleep less than usual?,2,Nocturnal sleep disturbances,1.0,14,high,False,,Dim 2: 100%
+sleep,ASBPD,ASBPD-III_03.2,Do you have trouble falling asleep?,2,Nocturnal sleep disturbances,0.857,14,high,False,,Dim -1: 7%; Dim 2: 93%
+sleep,ASBPD,ASBPD-III_03.3,Do you wake up too early in the morning?,2,Nocturnal sleep disturbances,1.0,14,high,False,,Dim 2: 100%
+sleep,ASBPD,ASBPD-III_03.4,Do you wake up during the night? How many times?,2,Nocturnal sleep disturbances,1.0,14,high,False,,Dim 2: 100%
+sleep,ASBPD,ASBPD-III_03.5,Do you manage to fall asleep again?,2,Nocturnal sleep disturbances,1.0,14,high,False,,Dim 2: 100%
+sleep,ASBPD,ASBPD-III_03.6,Do you feel refreshed in the morning when you wake up?,1,Daytime sleepiness and alertness,0.462,14,moderate,False,,Dim -1: 7%; Dim 1: 64%; Dim 2: 29%
+sleep,ASBPD,ASBPD-III_03.7,Do you have nightmares or act out your dreams during your sleep?,3,REM sleep behavior and dreaming,1.0,14,high,False,,Dim 3: 100%
+sleep,ASBPD,ASBPD-III_03.8,Do you experience any hallucinations before falling asleep or when you wake up?,2,Nocturnal sleep disturbances,0.44,14,moderate,False,,Dim -1: 14%; Dim 2: 64%; Dim 3: 21%
+sleep,ASBPD,ASBPD-III_04.1,Do you fall asleep more easily than usual in situations such as after mealtimes or while watching TV...,1,Daytime sleepiness and alertness,1.0,14,high,False,,Dim 1: 100%
+sleep,ASBPD,ASBPD-III_04.2,Do you fall asleep if you are not doing anything or when you are on your own?,1,Daytime sleepiness and alertness,1.0,14,high,False,,Dim 1: 100%
+sleep,ASBPD,ASBPD-III_04.3,"Do you fall asleep in unusual situations (during a conversation, while driving or at mealtimes)?",1,Daytime sleepiness and alertness,1.0,14,high,False,,Dim 1: 100%
+sleep,ASBPD,ASBPD-III_04.4,Do you experience falling asleep during the day unintentionally regularly?,1,Daytime sleepiness and alertness,1.0,14,high,False,,Dim 1: 100%
+sleep,ASBPD,ASBPD-III_04.5,"Has falling asleep during the day caused/had dangerous consequences in your daily life (accidents, m...",1,Daytime sleepiness and alertness,1.0,14,high,False,,Dim 1: 100%
+sleep,ASBPD,ASBPD-III_04.6,Does falling asleep during the day affect the way you carry out your daily activities and have an im...,1,Daytime sleepiness and alertness,1.0,14,high,False,,Dim 1: 100%
+sleep,ASBPD,ASBPD-III_04.7,"Prior to this past month, have you experienced similar difficulties with falling asleep during the d...",1,Daytime sleepiness and alertness,0.736,14,high,False,,Dim -1: 14%; Dim 1: 86%
+psychosis,CAPE-P15,CAPE-P15_01,Have you ever felt as if people seem to drop hints about you or say things with a double meaning?,2,Delusions,0.791,18,high,False,,Dim -1: 11%; Dim 2: 89%
+psychosis,CAPE-P15,CAPE-P15_02,Have you ever felt as if some people are not what they seem to be?,2,Delusions,0.791,18,high,False,,Dim 1: 11%; Dim 2: 89%
+psychosis,CAPE-P15,CAPE-P15_03,Have you ever felt that you are being persecuted in any way?,2,Delusions,0.889,18,high,False,,Dim 1: 6%; Dim 2: 94%
+psychosis,CAPE-P15,CAPE-P15_04,Have you ever felt as if there is a conspiracy against you?,2,Delusions,1.0,18,high,False,,Dim 2: 100%
+psychosis,CAPE-P15,CAPE-P15_05,Have you ever felt that people look at you oddly because of your appearance?,2,Delusions,0.889,18,high,False,,Dim -1: 6%; Dim 2: 94%
+psychosis,CAPE-P15,CAPE-P15_06,Have you ever felt as if electrical devices such as computers can influence the way you think?,2,Delusions,0.889,18,high,False,,Dim -1: 6%; Dim 2: 94%
+psychosis,CAPE-P15,CAPE-P15_07,Have you ever felt as if the thoughts in your head are being taken away from you?,2,Delusions,0.791,18,high,False,,Dim -1: 11%; Dim 2: 89%
+psychosis,CAPE-P15,CAPE-P15_08,Have you ever felt as if the thoughts in your head are not your own?,2,Delusions,0.693,18,high,False,,Dim -1: 11%; Dim 1: 6%; Dim 2: 83%
+psychosis,CAPE-P15,CAPE-P15_09,Have your thoughts ever been so vivid that you were worried other people would hear them?,2,Delusions,0.614,18,moderate,False,,Dim -1: 6%; Dim 1: 17%; Dim 2: 78%
+psychosis,CAPE-P15,CAPE-P15_10,Have you ever heard your thoughts being echoed back at you?,1,Hallucinations,0.431,18,moderate,False,,Dim -1: 11%; Dim 1: 61%; Dim 2: 28%
+psychosis,CAPE-P15,CAPE-P15_11,Have you ever felt as if you are under the control of some force or power other than yourself?,2,Delusions,0.889,18,high,False,,Dim -1: 6%; Dim 2: 94%
+psychosis,CAPE-P15,CAPE-P15_12,"Have you ever felt as if a double has taken place of a family member, friend or acquaintance?",2,Delusions,0.706,18,high,False,,Dim 1: 17%; Dim 2: 83%
+psychosis,CAPE-P15,CAPE-P15_13,Have you ever heard voices when you are alone?,1,Hallucinations,1.0,18,high,False,,Dim 1: 100%
+psychosis,CAPE-P15,CAPE-P15_14,Have you ever heard voices talking to each other when you are alone?,1,Hallucinations,1.0,18,high,False,,Dim 1: 100%
+psychosis,CAPE-P15,CAPE-P15_15,"Have you ever seen objects, people or animals that other people can't see?",1,Hallucinations,1.0,18,high,False,,Dim 1: 100%
+psychosis,PQ-B,PQ-B_01,"Do familiar surroundings sometimes seem strange, confusing, threatening or unreal to you?",1,Hallucinations,0.379,18,low,False,,Dim -1: 28%; Dim 1: 56%; Dim 2: 17%
+psychosis,PQ-B,PQ-B_02,"Have you heard unusual sounds like banging, clicking, hissing, clapping or ringing in your ears?",1,Hallucinations,1.0,18,high,False,,Dim 1: 100%
+psychosis,PQ-B,PQ-B_03,"Do things that you see appear different from the way they usually do (brighter or duller, larger or ...",1,Hallucinations,0.889,18,high,False,,Dim -1: 6%; Dim 1: 94%
+psychosis,PQ-B,PQ-B_04,"Have you had experiences with telepathy, psychic forces, or fortune telling?",2,Delusions,0.314,18,low,False,,Dim -1: 28%; Dim 1: 28%; Dim 2: 44%
+psychosis,PQ-B,PQ-B_05,Have you felt that you are not in control of your own ideas or thoughts?,2,Delusions,0.549,18,moderate,False,,Dim -1: 22%; Dim 1: 6%; Dim 2: 72%
+psychosis,PQ-B,PQ-B_06,"Do you have difficulty getting your point across, because you ramble or go off the track a lot when ...",-1,Does not fit,0.784,18,high,False,,Dim -1: 89%; Dim 1: 6%; Dim 2: 6%
+psychosis,PQ-B,PQ-B_07,Do you have strong feelings or beliefs about being unusually gifted or talented in some way?,2,Delusions,0.784,18,high,False,,Dim -1: 6%; Dim 1: 6%; Dim 2: 89%
+psychosis,PQ-B,PQ-B_08,Do you feel that other people are watching you or talking about you?,2,Delusions,0.889,18,high,False,,Dim 1: 6%; Dim 2: 94%
+psychosis,PQ-B,PQ-B_09,"Do you sometimes get strange feelings on or just beneath your skin, like bugs crawling?",1,Hallucinations,0.706,18,high,False,,Dim 1: 83%; Dim 2: 17%
+psychosis,PQ-B,PQ-B_10,Do you sometimes feel suddenly distracted by distant sounds that you are not normally aware of?,1,Hallucinations,0.791,18,high,False,,Dim -1: 11%; Dim 1: 89%
+psychosis,PQ-B,PQ-B_11,"Have you had the sense that some person or force is around you, although you couldn’t see anyone?",1,Hallucinations,0.418,18,low,True,"[1, 2]",Dim -1: 6%; Dim 1: 50%; Dim 2: 44%
+psychosis,PQ-B,PQ-B_12,Do you worry at times that something may be wrong with your mind?,-1,Does not fit,0.399,18,low,False,,Dim -1: 56%; Dim 1: 11%; Dim 2: 33%
+psychosis,PQ-B,PQ-B_13,"Have you ever felt that you don't exist, the world does not exist, or that you are dead?",2,Delusions,0.693,18,high,False,,Dim -1: 6%; Dim 1: 11%; Dim 2: 83%
+psychosis,PQ-B,PQ-B_14,Have you been confused at times whether something you experienced was real or imaginary?,1,Hallucinations,0.497,18,moderate,False,,Dim -1: 28%; Dim 1: 67%; Dim 2: 6%
+psychosis,PQ-B,PQ-B_15,Do you hold beliefs that other people would find unusual or bizarre?,2,Delusions,0.693,18,high,False,,Dim -1: 11%; Dim 1: 6%; Dim 2: 83%
+psychosis,PQ-B,PQ-B_16,"Do you feel that parts of your body have changed in some way, or that parts of your body are working...",2,Delusions,0.458,18,moderate,False,,Dim -1: 6%; Dim 1: 33%; Dim 2: 61%
+psychosis,PQ-B,PQ-B_17,Are your thoughts sometimes so strong that you can almost hear them?,1,Hallucinations,0.431,18,moderate,False,,Dim -1: 11%; Dim 1: 61%; Dim 2: 28%
+psychosis,PQ-B,PQ-B_18,Do you find yourself feeling mistrustful or suspicious of other people?,2,Delusions,0.784,18,high,False,,Dim -1: 6%; Dim 1: 6%; Dim 2: 89%
+psychosis,PQ-B,PQ-B_19,"Have you seen unusual things like flashes, flames, blinding light, or geometric figures?",1,Hallucinations,1.0,18,high,False,,Dim 1: 100%
+psychosis,PQ-B,PQ-B_20,Have you seen things that other people can't see or don't seem to see?,1,Hallucinations,1.0,18,high,False,,Dim 1: 100%
+psychosis,PQ-B,PQ-B_21,Do people sometimes find it hard to understand what you are saying?,-1,Does not fit,0.693,18,high,False,,Dim -1: 83%; Dim 1: 6%; Dim 2: 11%
+psychosis,SCL-90,SCL-90_07,The idea that someone else can control your thoughts.,2,Delusions,0.693,18,high,False,,Dim -1: 11%; Dim 1: 6%; Dim 2: 83%
+psychosis,SCL-90,SCL-90_08,Feeling others are to blame for most of your troubles.,2,Delusions,0.791,18,high,False,,Dim -1: 11%; Dim 2: 89%
+psychosis,SCL-90,SCL-90_16,Hearing voices that other people do not hear.,1,Hallucinations,1.0,18,high,False,,Dim 1: 100%
+psychosis,SCL-90,SCL-90_18,Feeling that most people cannot be trusted.,2,Delusions,0.889,18,high,False,,Dim -1: 6%; Dim 2: 94%
+psychosis,SCL-90,SCL-90_35,Other people being aware of your private thoughts.,2,Delusions,0.791,18,high,False,,Dim -1: 11%; Dim 2: 89%
+psychosis,SCL-90,SCL-90_43,Feeling that you are watched or talked about by others.,2,Delusions,1.0,18,high,False,,Dim 2: 100%
+psychosis,SCL-90,SCL-90_62,Having thoughts that are not your own.,2,Delusions,0.608,18,moderate,False,,Dim -1: 11%; Dim 1: 11%; Dim 2: 78%
+psychosis,SCL-90,SCL-90_68,Having ideas or beliefs that others do not share.,2,Delusions,0.614,18,moderate,False,,Dim -1: 17%; Dim 1: 6%; Dim 2: 78%
+psychosis,SCL-90,SCL-90_76,Others not giving you proper credit for your achievements.,2,Delusions,0.706,18,high,False,,Dim -1: 17%; Dim 2: 83%
+psychosis,SCL-90,SCL-90_77,Feeling lonely even when you are with people.,-1,Does not fit,0.634,18,moderate,False,,Dim -1: 78%; Dim 2: 22%
+psychosis,SCL-90,SCL-90_83,Feeling that people will take advantage of you if you let them.,2,Delusions,0.575,18,moderate,False,,Dim -1: 28%; Dim 2: 72%
+psychosis,SCL-90,SCL-90_84,Having thoughts about sex that bother you a lot.,-1,Does not fit,0.634,18,moderate,False,,Dim -1: 78%; Dim 2: 22%
+psychosis,SCL-90,SCL-90_85,The idea that you should be punished for your sins.,2,Delusions,0.634,18,moderate,False,,Dim -1: 22%; Dim 2: 78%
+psychosis,SCL-90,SCL-90_87,The idea that something serious is wrong with your body.,2,Delusions,0.693,18,high,False,,Dim -1: 11%; Dim 1: 6%; Dim 2: 83%
+psychosis,SCL-90,SCL-90_88,Never feeling close to another person.,-1,Does not fit,0.706,18,high,False,,Dim -1: 83%; Dim 2: 17%
+psychosis,SCL-90,SCL-90_90,The idea that something is wrong with your mind.,2,Delusions,0.497,18,moderate,False,,Dim -1: 39%; Dim 2: 61%

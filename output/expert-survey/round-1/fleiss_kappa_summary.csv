@@ -1,0 +1,7 @@
+Construct,N Items,N Raters,N Categories,Fleiss κ,95% CI Lower,95% CI Upper,SE,p-value,P̄ (Observed),Pₑ (Expected),Interpretation,Mean P_i,Items Low Agreement
+depression,72,40,6,0.626,0.618,0.634,0.004,<0.0001,0.711,0.226,Substantial agreement,0.711,10
+anxiety,84,40,3,0.582,0.569,0.595,0.007,<0.0001,0.775,0.461,Moderate agreement,0.775,3
+psychosis,38,40,3,0.775,0.755,0.795,0.01,<0.0001,0.883,0.48,Substantial agreement,0.883,0
+apathy,90,40,3,0.48,0.447,0.512,0.016,<0.0001,0.766,0.55,Moderate agreement,0.766,3
+sleep,101,33,5,0.745,0.729,0.761,0.008,<0.0001,0.829,0.331,Substantial agreement,0.829,2
+impulse_control,28,40,7,0.923,0.913,0.933,0.005,<0.0001,0.936,0.175,Almost perfect agreement,0.936,0

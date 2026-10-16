@@ -1,0 +1,15 @@
+Construct,Dimension 1,Dimension 1 Label,Dimension 2,Dimension 2 Label,N Items Confused,Example Items
+anxiety,1,Somatic symptoms,2,Cognitive symptoms,12,"BAI_10, PAS_A.2, PAS_A.3, STAI_1, STAI_3"
+apathy,1,Cognitive-Behavioral apathy,2,Affective apathy,12,"SAS_10, SAS_11, AES_07, AES_11, AES_13"
+depression,1,Mood & affective symptoms,2,Cognitive & self-perception,9,"BDI_05, BDI_09, GDS_01, GDS_03, GDS_08"
+sleep,2,Nocturnal sleep disturbances,3,REM sleep behavior and dreaming,5,"PDSS_04, PDSS_05, PDSS_07, PDSS-2_07, NPI_K_03"
+depression,3,Somatic & vegetative symptoms,4,Activity & interest deficits,4,"BDI_21, GDS_13, HADS_08, HAMD_08"
+apathy,-1,None/Does not fit,2,Affective apathy,3,"SAS_14, AES_12, LARS_08.1"
+sleep,-1,None/Does not fit,2,Nocturnal sleep disturbances,3,"NMSS_06, NPI_K_05, NPI_K_08"
+depression,1,Mood & affective symptoms,4,Activity & interest deficits,2,"BDI_04, HADS_12"
+depression,2,Cognitive & self-perception,4,Activity & interest deficits,2,"BDI_13, HADS_10"
+anxiety,-1,None/Does not fit,2,Cognitive symptoms,2,"HAMA_06, NPI_E_7"
+depression,3,Somatic & vegetative symptoms,5,Anxiety & distress,1,BDI_20
+psychosis,-1,None/Does not fit,1,Hallucinations,1,NMSS_15
+sleep,-1,None/Does not fit,1,Daytime sleepiness and alertness,1,PSQI_Comp07_2
+sleep,1,Daytime sleepiness and alertness,2,Nocturnal sleep disturbances,1,ISI_05

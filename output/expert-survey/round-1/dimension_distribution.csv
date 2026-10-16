@@ -1,0 +1,25 @@
+Construct,Dimension,Dimension Label,N Items,Percentage
+depression,1,Mood & affective symptoms,20,27.8
+depression,2,Cognitive & self-perception,18,25.0
+depression,3,Somatic & vegetative symptoms,15,20.8
+depression,4,Activity & interest deficits,15,20.8
+depression,5,Anxiety & distress,4,5.6
+anxiety,-1,Does not fit,1,1.2
+anxiety,1,Somatic symptoms,40,47.6
+anxiety,2,Cognitive symptoms,43,51.2
+psychosis,1,Hallucinations,21,55.3
+psychosis,2,Delusions,17,44.7
+apathy,-1,Does not fit,2,2.2
+apathy,1,Behavioral-Cognitive apathy,64,71.1
+apathy,2,Affective apathy,24,26.7
+sleep,-1,Does not fit,1,1.0
+sleep,1,Daytime sleepiness and alertness,27,26.7
+sleep,2,Nocturnal sleep disturbances,53,52.5
+sleep,3,REM sleep behavior and dreaming,17,16.8
+sleep,4,Sleep-disordered breathing,3,3.0
+impulse_control,1,Pathological gambling,4,14.3
+impulse_control,2,Hypersexuality,4,14.3
+impulse_control,3,Compulsive buying,4,14.3
+impulse_control,4,Compulsive eating,4,14.3
+impulse_control,5,Punding-hobbyism,8,28.6
+impulse_control,6,Dopamine dysregulation syndrome,4,14.3

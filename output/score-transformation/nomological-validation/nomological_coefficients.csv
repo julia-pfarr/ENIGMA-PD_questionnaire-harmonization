@@ -1,0 +1,30 @@
+construct,dimension,dimension_label,questionnaire,n,n_hc,n_pd,group_coef,se,ci_lo_95,ci_hi_95,t,p_value,significant,cochran_Q,Q_df,Q_p,I2,heterogeneous
+anxiety,1,Somatic symptoms,BAI,633,44,589,0.1206,0.056,0.0106,0.2305,2.153,0.0317,True,15.581,3.0,0.0014,0.807,True
+anxiety,1,Somatic symptoms,HADS,413,79,334,0.0357,0.0294,-0.022,0.0934,1.217,0.2245,False,15.581,3.0,0.0014,0.807,True
+anxiety,1,Somatic symptoms,PAS,153,28,125,0.0913,0.0521,-0.0117,0.1944,1.752,0.0819,False,15.581,3.0,0.0014,0.807,True
+anxiety,1,Somatic symptoms,STAI,1735,870,865,-0.0343,0.012,-0.0578,-0.0108,-2.859,0.0043,True,15.581,3.0,0.0014,0.807,True
+anxiety,2,Cognitive symptoms,BAI,633,44,589,0.0398,0.0657,-0.0892,0.1689,0.606,0.5446,False,23.427,4.0,0.0001,0.829,True
+anxiety,2,Cognitive symptoms,HADS,412,79,333,0.0537,0.0362,-0.0174,0.1248,1.486,0.1382,False,23.427,4.0,0.0001,0.829,True
+anxiety,2,Cognitive symptoms,MDS-UPDRS_I,3231,966,2265,0.0731,0.0136,0.0465,0.0997,5.394,0.0,True,23.427,4.0,0.0001,0.829,True
+anxiety,2,Cognitive symptoms,PAS,153,28,125,0.1479,0.0609,0.0276,0.2681,2.429,0.0163,True,23.427,4.0,0.0001,0.829,True
+anxiety,2,Cognitive symptoms,STAI,1735,870,865,-0.0122,0.0137,-0.0391,0.0146,-0.894,0.3717,False,23.427,4.0,0.0001,0.829,True
+depression,1,Mood & affective symptoms,BDI,2141,382,1759,0.0962,0.0186,0.0597,0.1327,5.173,0.0,True,51.111,3.0,0.0,0.941,True
+depression,1,Mood & affective symptoms,GDS,2156,930,1226,-0.0065,0.0072,-0.0206,0.0075,-0.911,0.3623,False,51.111,3.0,0.0,0.941,True
+depression,1,Mood & affective symptoms,HADS,412,79,333,0.0903,0.0451,0.0016,0.179,2.002,0.0459,True,51.111,3.0,0.0,0.941,True
+depression,1,Mood & affective symptoms,MDS-UPDRS_I,3230,966,2264,0.0877,0.0158,0.0566,0.1187,5.535,0.0,True,51.111,3.0,0.0,0.941,True
+depression,2,Cognitive & self-perception,BDI,2142,382,1760,0.0687,0.0082,0.0525,0.0848,8.336,0.0,True,16.472,1.0,0.0,0.939,True
+depression,2,Cognitive & self-perception,GDS,2156,930,1226,0.0277,0.0059,0.016,0.0393,4.657,0.0,True,16.472,1.0,0.0,0.939,True
+depression,3,Somatic & vegetative symptoms,BDI,2141,382,1759,0.1699,0.0139,0.1427,0.197,12.259,0.0,True,0.001,1.0,0.9733,0.0,False
+depression,3,Somatic & vegetative symptoms,HADS,412,79,333,0.1687,0.033,0.1039,0.2336,5.117,0.0,True,0.001,1.0,0.9733,0.0,False
+depression,4,Activity & interest deficits,BDI,2141,382,1759,0.0824,0.0105,0.0619,0.103,7.869,0.0,True,46.951,2.0,0.0,0.957,True
+depression,4,Activity & interest deficits,GDS,2156,930,1226,-0.009,0.0085,-0.0256,0.0076,-1.062,0.2885,False,46.951,2.0,0.0,0.957,True
+depression,4,Activity & interest deficits,HADS,406,77,329,0.0548,0.0246,0.0064,0.1032,2.226,0.0266,True,46.951,2.0,0.0,0.957,True
+depression,5,Anxiety & distress,BDI,2136,382,1754,0.0508,0.0131,0.0251,0.0766,3.87,0.0001,True,0.044,1.0,0.8338,0.0,False
+depression,5,Anxiety & distress,GDS,2156,930,1226,0.0546,0.0125,0.03,0.0793,4.355,0.0,True,0.044,1.0,0.8338,0.0,False
+sleep,1,Daytime sleepiness and alertness,ESS,3176,1196,1980,0.0464,0.0094,0.0279,0.0649,4.928,0.0,True,16.793,2.0,0.0002,0.881,True
+sleep,1,Daytime sleepiness and alertness,MDS-UPDRS_I,1599,202,1397,0.1263,0.0171,0.0926,0.1599,7.363,0.0,True,16.793,2.0,0.0002,0.881,True
+sleep,1,Daytime sleepiness and alertness,SCOPA-SLEEP,687,44,643,0.0555,0.057,-0.0565,0.1675,0.973,0.331,False,16.793,2.0,0.0002,0.881,True
+sleep,2,Nocturnal sleep disturbances,MDS-UPDRS_I,1601,202,1399,0.1379,0.0231,0.0927,0.1832,5.981,0.0,True,17.875,2.0,0.0001,0.888,True
+sleep,2,Nocturnal sleep disturbances,RBDSQ,3204,1181,2023,0.0293,0.0115,0.0068,0.0518,2.556,0.0106,True,17.875,2.0,0.0001,0.888,True
+sleep,2,Nocturnal sleep disturbances,SCOPA-SLEEP,688,44,644,0.0191,0.0782,-0.1343,0.1726,0.245,0.8068,False,17.875,2.0,0.0001,0.888,True
+sleep,3,REM sleep behavior and dreaming,RBDSQ,3208,1181,2027,0.0017,0.0114,-0.0207,0.0241,0.145,0.8848,False,,,,,False

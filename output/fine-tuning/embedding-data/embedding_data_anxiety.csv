@@ -1,0 +1,95 @@
+item_id,questionnaire,dimension,dimension_label,p_i,base_umap_1,base_umap_2,ft_umap_1,ft_umap_2,base_nearest_prototype,base_nearest_label,base_correctly_placed,ft_nearest_prototype,ft_nearest_label,ft_correctly_placed
+HADS_01,HADS,1,Somatic symptoms,0.58,-2.1023,0.8704,-12.1137,0.1819,2,Cognitive symptoms,False,1,Somatic symptoms,True
+HADS_03,HADS,2,Cognitive symptoms,0.745,-2.9527,0.3387,9.5483,-3.065,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+HADS_05,HADS,2,Cognitive symptoms,1.0,-2.9243,0.1952,9.7512,-3.5403,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+HADS_07,HADS,1,Somatic symptoms,0.5368,-1.4298,2.3751,-12.5989,0.2044,2,Cognitive symptoms,False,1,Somatic symptoms,True
+HADS_09,HADS,1,Somatic symptoms,0.82,-2.7488,0.4758,-12.1703,1.1059,2,Cognitive symptoms,False,1,Somatic symptoms,True
+HADS_11,HADS,1,Somatic symptoms,0.82,-2.3627,0.8879,-12.3372,0.318,2,Cognitive symptoms,False,1,Somatic symptoms,True
+HADS_13,HADS,2,Cognitive symptoms,0.6237,-2.4963,-0.1339,9.3185,-3.5198,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+HAMA_01,HAMA,2,Cognitive symptoms,0.905,-2.1048,-0.4034,10.1239,-3.4519,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+HAMA_02,HAMA,1,Somatic symptoms,0.68,-1.4929,0.3816,-12.224,0.7782,1,Somatic symptoms,True,1,Somatic symptoms,True
+HAMA_03,HAMA,2,Cognitive symptoms,0.9608,-2.5918,-1.115,9.6015,-2.1741,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+HAMA_04,HAMA,1,Somatic symptoms,0.815,-1.7822,-0.4264,-12.3492,0.897,1,Somatic symptoms,True,1,Somatic symptoms,True
+HAMA_05,HAMA,2,Cognitive symptoms,0.6247,-1.0696,-0.1236,10.3421,-2.9906,1,Somatic symptoms,False,2,Cognitive symptoms,True
+HAMA_06,HAMA,2,Cognitive symptoms,0.4808,-1.9929,-0.2387,10.288,-2.9591,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+HAMA_07,HAMA,1,Somatic symptoms,1.0,-0.62,-0.0587,-12.4774,1.4568,1,Somatic symptoms,True,1,Somatic symptoms,True
+HAMA_08,HAMA,1,Somatic symptoms,1.0,-0.6838,0.073,-12.468,1.0456,1,Somatic symptoms,True,1,Somatic symptoms,True
+HAMA_09,HAMA,1,Somatic symptoms,1.0,-0.2614,-0.1777,-11.9904,1.7043,1,Somatic symptoms,True,1,Somatic symptoms,True
+HAMA_10,HAMA,1,Somatic symptoms,1.0,-0.9166,-0.3156,-12.4137,1.5317,1,Somatic symptoms,True,1,Somatic symptoms,True
+HAMA_11,HAMA,1,Somatic symptoms,1.0,-0.9926,-0.7597,-12.7439,1.2626,1,Somatic symptoms,True,1,Somatic symptoms,True
+HAMA_12,HAMA,1,Somatic symptoms,0.905,-0.8406,-0.7004,-12.957,1.2096,1,Somatic symptoms,True,1,Somatic symptoms,True
+HAMA_13,HAMA,1,Somatic symptoms,1.0,-0.5377,-0.477,-12.7185,1.2158,1,Somatic symptoms,True,1,Somatic symptoms,True
+HAMA_14,HAMA,1,Somatic symptoms,1.0,-1.002,0.5812,-12.0095,1.3534,1,Somatic symptoms,True,1,Somatic symptoms,True
+BAI_01,BAI,1,Somatic symptoms,1.0,-0.2781,0.8743,-11.7354,0.4761,1,Somatic symptoms,True,1,Somatic symptoms,True
+BAI_02,BAI,1,Somatic symptoms,1.0,-1.4975,1.3271,-11.4741,-0.0477,1,Somatic symptoms,True,1,Somatic symptoms,True
+BAI_03,BAI,1,Somatic symptoms,1.0,-0.249,1.3334,-11.29,0.1042,1,Somatic symptoms,True,1,Somatic symptoms,True
+BAI_04,BAI,1,Somatic symptoms,0.5931,-1.2309,0.9609,-12.3861,-0.2415,1,Somatic symptoms,True,1,Somatic symptoms,True
+BAI_05,BAI,2,Cognitive symptoms,0.8528,-3.2959,-0.5412,8.6623,-2.7897,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+BAI_06,BAI,1,Somatic symptoms,1.0,-0.6681,1.1977,-10.7365,0.2658,1,Somatic symptoms,True,1,Somatic symptoms,True
+BAI_07,BAI,1,Somatic symptoms,1.0,-0.1223,0.2186,-11.2949,0.8996,1,Somatic symptoms,True,1,Somatic symptoms,True
+BAI_08,BAI,1,Somatic symptoms,0.6488,-0.3919,1.6034,-10.9202,-0.0916,1,Somatic symptoms,True,1,Somatic symptoms,True
+BAI_09,BAI,2,Cognitive symptoms,0.6488,-3.1672,-0.1746,8.7792,-3.3876,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+BAI_10,BAI,2,Cognitive symptoms,0.5048,-2.3068,0.3281,8.189,-3.7853,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+BAI_11,BAI,1,Somatic symptoms,0.905,-1.6147,-0.0227,-11.5999,0.3139,1,Somatic symptoms,True,1,Somatic symptoms,True
+BAI_12,BAI,1,Somatic symptoms,1.0,-0.0827,0.9054,-11.1003,0.2795,1,Somatic symptoms,True,1,Somatic symptoms,True
+BAI_13,BAI,1,Somatic symptoms,0.905,-0.0949,1.455,-10.9282,0.0363,1,Somatic symptoms,True,1,Somatic symptoms,True
+BAI_14,BAI,2,Cognitive symptoms,0.8528,-3.1167,-0.8474,8.8069,-2.7375,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+BAI_15,BAI,1,Somatic symptoms,0.905,-1.2706,0.0948,-11.8149,1.0153,1,Somatic symptoms,True,1,Somatic symptoms,True
+BAI_16,BAI,2,Cognitive symptoms,0.8528,-3.2756,-0.6959,8.417,-2.6524,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+BAI_17,BAI,2,Cognitive symptoms,0.7523,-3.1633,0.1588,8.2568,-3.6758,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+BAI_18,BAI,1,Somatic symptoms,0.9608,-1.4023,-0.6605,-11.063,1.1569,1,Somatic symptoms,True,1,Somatic symptoms,True
+BAI_19,BAI,1,Somatic symptoms,1.0,-0.5604,0.8291,-10.7092,0.5164,1,Somatic symptoms,True,1,Somatic symptoms,True
+BAI_20,BAI,1,Somatic symptoms,1.0,-1.3501,0.1373,-10.7997,0.7754,1,Somatic symptoms,True,1,Somatic symptoms,True
+BAI_21,BAI,1,Somatic symptoms,0.9608,-0.8,0.324,-11.0168,0.6366,1,Somatic symptoms,True,1,Somatic symptoms,True
+PAS_A.1,PAS,2,Cognitive symptoms,0.6237,-2.1983,-0.1938,8.8469,-3.7108,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+PAS_A.2,PAS,1,Somatic symptoms,0.505,-1.842,0.7144,-11.9079,-0.2765,1,Somatic symptoms,True,1,Somatic symptoms,True
+PAS_A.3,PAS,1,Somatic symptoms,0.52,-1.2969,0.8067,-12.3425,-0.0833,1,Somatic symptoms,True,1,Somatic symptoms,True
+PAS_A.4,PAS,2,Cognitive symptoms,1.0,-2.8807,-0.2055,9.9789,-3.353,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+PAS_A.5,PAS,2,Cognitive symptoms,0.9608,-3.1649,-0.4779,9.1159,-2.5857,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+PAS_B.1,PAS,2,Cognitive symptoms,0.7048,-2.4986,-0.587,9.131,-3.3612,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+PAS_B.2,PAS,1,Somatic symptoms,1.0,-1.2971,-0.3724,-11.524,1.3726,1,Somatic symptoms,True,1,Somatic symptoms,True
+PAS_B.3,PAS,1,Somatic symptoms,1.0,-0.0354,0.1314,-11.7015,1.6849,1,Somatic symptoms,True,1,Somatic symptoms,True
+PAS_B.4,PAS,2,Cognitive symptoms,0.9608,-3.3292,-1.1185,8.742,-2.8559,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+PAS_C.1,PAS,2,Cognitive symptoms,0.8528,-2.3101,-1.545,9.9244,-2.2593,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+PAS_C.2,PAS,2,Cognitive symptoms,0.82,-2.2345,-1.6442,9.731,-2.0632,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+PAS_C.3,PAS,2,Cognitive symptoms,0.82,-2.4782,-1.4598,9.8801,-2.2198,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+STAI_1,STAI,2,Cognitive symptoms,0.4707,-1.7064,2.079,7.85,-4.5277,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+STAI_2,STAI,2,Cognitive symptoms,0.6888,-1.7976,2.7133,8.164,-4.3629,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+STAI_3,STAI,1,Somatic symptoms,0.545,-2.2094,1.1329,-11.95,-0.1319,2,Cognitive symptoms,False,1,Somatic symptoms,True
+STAI_4,STAI,1,Somatic symptoms,0.5176,-2.025,1.1689,-11.7717,-0.5119,2,Cognitive symptoms,False,1,Somatic symptoms,True
+STAI_5,STAI,2,Cognitive symptoms,0.4033,-1.7367,2.3593,8.0959,-3.9177,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+STAI_6,STAI,2,Cognitive symptoms,0.7848,-2.3435,1.5087,7.3927,-4.007,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+STAI_7,STAI,2,Cognitive symptoms,1.0,-3.1228,0.5569,9.6817,-2.9292,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+STAI_8,STAI,2,Cognitive symptoms,0.5648,-2.0819,2.5643,7.3652,-4.2754,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+STAI_9,STAI,2,Cognitive symptoms,0.815,-2.897,1.2921,8.6805,-3.24,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+STAI_10,STAI,1,Somatic symptoms,1.0,-2.301,2.0389,7.9814,-4.0854,2,Cognitive symptoms,False,2,Cognitive symptoms,False
+STAI_11,STAI,2,Cognitive symptoms,0.665,-1.7214,2.8472,7.5802,-4.3465,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+STAI_12,STAI,2,Cognitive symptoms,0.5048,-2.6626,1.2942,8.3579,-3.9622,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+STAI_13,STAI,1,Somatic symptoms,0.5688,-2.0293,1.494,-11.0661,-0.2193,1,Somatic symptoms,True,1,Somatic symptoms,True
+STAI_14,STAI,2,Cognitive symptoms,0.9608,-2.5365,1.7895,7.3108,-3.7682,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+STAI_15,STAI,1,Somatic symptoms,0.365,-1.4057,1.8003,-12.4215,-0.243,2,Cognitive symptoms,False,1,Somatic symptoms,True
+STAI_16,STAI,2,Cognitive symptoms,0.5895,-1.7732,2.6461,7.8536,-4.313,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+STAI_17,STAI,2,Cognitive symptoms,0.9608,-2.9818,0.8784,8.358,-4.1978,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+STAI_18,STAI,2,Cognitive symptoms,0.9608,-2.6202,1.728,7.274,-3.9643,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+STAI_19,STAI,2,Cognitive symptoms,0.445,-1.1575,2.3097,8.0234,-4.4427,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+STAI_20,STAI,2,Cognitive symptoms,0.5895,-2.1322,2.4041,7.808,-3.9663,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+NMSQuest_17,NMSQuest,2,Cognitive symptoms,0.7523,-2.2789,-0.8113,9.5743,-3.4743,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+NPI_E_screen,NPI,2,Cognitive symptoms,0.435,0.4,-0.4275,10.2722,-2.5423,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+NPI_E_1,NPI,2,Cognitive symptoms,0.9608,0.2571,-1.0185,10.3577,-2.5722,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+NPI_E_2,NPI,1,Somatic symptoms,0.68,0.1818,0.075,-12.6369,0.6284,1,Somatic symptoms,True,1,Somatic symptoms,True
+NPI_E_3,NPI,1,Somatic symptoms,1.0,-0.0438,-0.544,-12.1978,1.7254,1,Somatic symptoms,True,1,Somatic symptoms,True
+NPI_E_4,NPI,1,Somatic symptoms,1.0,0.0376,-0.3427,-12.3195,1.6462,1,Somatic symptoms,True,1,Somatic symptoms,True
+NPI_E_5,NPI,2,Cognitive symptoms,0.8168,-0.1308,-1.24,10.3394,-2.1739,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+NPI_E_6,NPI,2,Cognitive symptoms,0.595,0.5873,-0.6031,10.1125,-2.3787,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+NPI_E_7,NPI,-1,Does not fit,0.3605,0.1965,-0.7789,10.5203,-2.5089,1,Somatic symptoms,False,2,Cognitive symptoms,False
+MDS-UPDRS_1.4,MDS-UPDRS_I,2,Cognitive symptoms,0.5666,-2.3943,0.5759,9.8101,-3.3066,2,Cognitive symptoms,True,2,Cognitive symptoms,True
+augmentation_anx_neg1_01,data-augmentation,-1,Does not fit,1.0,-1.621,-1.0309,-7.6393,2.6825,2,Cognitive symptoms,False,1,Somatic symptoms,False
+augmentation_anx_neg1_02,data-augmentation,-1,Does not fit,1.0,0.5187,-0.6474,-7.6398,2.7486,2,Cognitive symptoms,False,1,Somatic symptoms,False
+augmentation_anx_neg1_03,data-augmentation,-1,Does not fit,1.0,-1.0657,-1.5897,-8.0019,2.543,2,Cognitive symptoms,False,1,Somatic symptoms,False
+augmentation_anx_neg1_04,data-augmentation,-1,Does not fit,1.0,-1.3961,-1.8143,-7.746,2.8609,2,Cognitive symptoms,False,1,Somatic symptoms,False
+augmentation_anx_neg1_05,data-augmentation,-1,Does not fit,1.0,-1.2776,-1.835,-7.4252,2.4995,2,Cognitive symptoms,False,1,Somatic symptoms,False
+augmentation_anx_neg1_06,data-augmentation,-1,Does not fit,1.0,-2.7463,2.3085,-8.3954,2.5491,2,Cognitive symptoms,False,1,Somatic symptoms,False
+augmentation_anx_neg1_07,data-augmentation,-1,Does not fit,1.0,-0.864,-1.6115,-7.3676,2.8255,2,Cognitive symptoms,False,2,Cognitive symptoms,False
+augmentation_anx_neg1_08,data-augmentation,-1,Does not fit,1.0,-0.9406,-1.789,-7.6607,2.4478,2,Cognitive symptoms,False,1,Somatic symptoms,False
+augmentation_anx_neg1_09,data-augmentation,-1,Does not fit,1.0,-2.9459,2.1982,-8.1791,2.6706,2,Cognitive symptoms,False,1,Somatic symptoms,False
+augmentation_anx_neg1_10,data-augmentation,-1,Does not fit,1.0,-1.5786,-1.4647,-7.7078,2.7664,2,Cognitive symptoms,False,1,Somatic symptoms,False

@@ -1,0 +1,295 @@
+Construct,Model,Dimension,Dimension Label,Accuracy
+anxiety,bge-large,1,Somatic symptoms,0.675
+anxiety,bge-large,2,Cognitive symptoms,0.907
+anxiety,e5-large,1,Somatic symptoms,0.525
+anxiety,e5-large,2,Cognitive symptoms,0.93
+anxiety,instructor,1,Somatic symptoms,0.875
+anxiety,instructor,2,Cognitive symptoms,0.884
+anxiety,gtr-t5,1,Somatic symptoms,0.925
+anxiety,gtr-t5,2,Cognitive symptoms,0.884
+anxiety,mpnet,1,Somatic symptoms,0.8
+anxiety,mpnet,2,Cognitive symptoms,0.744
+anxiety,minilm,1,Somatic symptoms,0.725
+anxiety,minilm,2,Cognitive symptoms,0.837
+anxiety,simcse,1,Somatic symptoms,0.95
+anxiety,simcse,2,Cognitive symptoms,0.535
+anxiety,sbert-similarity,1,Somatic symptoms,0.825
+anxiety,sbert-similarity,2,Cognitive symptoms,0.767
+anxiety,clinicalbert,1,Somatic symptoms,0.6
+anxiety,clinicalbert,2,Cognitive symptoms,0.744
+anxiety,bio-clinicalbert,1,Somatic symptoms,0.475
+anxiety,bio-clinicalbert,2,Cognitive symptoms,0.884
+anxiety,biobert,1,Somatic symptoms,0.925
+anxiety,biobert,2,Cognitive symptoms,0.279
+anxiety,clinicalSentenceTransformer,1,Somatic symptoms,0.275
+anxiety,clinicalSentenceTransformer,2,Cognitive symptoms,0.884
+anxiety,mentalroberta,1,Somatic symptoms,0.15
+anxiety,mentalroberta,2,Cognitive symptoms,1.0
+anxiety,harmony,1,Somatic symptoms,0.8
+anxiety,harmony,2,Cognitive symptoms,0.814
+apathy,bge-large,1,Behavioral-Cognitive apathy,0.873
+apathy,bge-large,2,Affective apathy,0.84
+apathy,e5-large,1,Behavioral-Cognitive apathy,0.905
+apathy,e5-large,2,Affective apathy,0.6
+apathy,instructor,1,Behavioral-Cognitive apathy,0.857
+apathy,instructor,2,Affective apathy,0.84
+apathy,gtr-t5,1,Behavioral-Cognitive apathy,0.937
+apathy,gtr-t5,2,Affective apathy,0.6
+apathy,mpnet,1,Behavioral-Cognitive apathy,0.794
+apathy,mpnet,2,Affective apathy,0.84
+apathy,minilm,1,Behavioral-Cognitive apathy,0.667
+apathy,minilm,2,Affective apathy,0.88
+apathy,simcse,1,Behavioral-Cognitive apathy,0.921
+apathy,simcse,2,Affective apathy,0.64
+apathy,sbert-similarity,1,Behavioral-Cognitive apathy,0.841
+apathy,sbert-similarity,2,Affective apathy,0.72
+apathy,clinicalbert,1,Behavioral-Cognitive apathy,1.0
+apathy,clinicalbert,2,Affective apathy,0.04
+apathy,bio-clinicalbert,1,Behavioral-Cognitive apathy,0.968
+apathy,bio-clinicalbert,2,Affective apathy,0.2
+apathy,biobert,1,Behavioral-Cognitive apathy,0.905
+apathy,biobert,2,Affective apathy,0.52
+apathy,clinicalSentenceTransformer,1,Behavioral-Cognitive apathy,0.54
+apathy,clinicalSentenceTransformer,2,Affective apathy,0.88
+apathy,mentalroberta,1,Behavioral-Cognitive apathy,0.016
+apathy,mentalroberta,2,Affective apathy,1.0
+apathy,harmony,1,Behavioral-Cognitive apathy,0.825
+apathy,harmony,2,Affective apathy,0.8
+depression,bge-large,1,Mood & affective symptoms,0.9
+depression,bge-large,2,Cognitive & self-perception,0.389
+depression,bge-large,3,Somatic & vegetative symptoms,0.667
+depression,bge-large,4,Activity & interest deficits,0.933
+depression,bge-large,5,Anxiety & distress,1.0
+depression,e5-large,1,Mood & affective symptoms,0.7
+depression,e5-large,2,Cognitive & self-perception,0.667
+depression,e5-large,3,Somatic & vegetative symptoms,0.2
+depression,e5-large,4,Activity & interest deficits,0.933
+depression,e5-large,5,Anxiety & distress,0.75
+depression,instructor,1,Mood & affective symptoms,1.0
+depression,instructor,2,Cognitive & self-perception,0.389
+depression,instructor,3,Somatic & vegetative symptoms,0.2
+depression,instructor,4,Activity & interest deficits,0.933
+depression,instructor,5,Anxiety & distress,1.0
+depression,gtr-t5,1,Mood & affective symptoms,0.7
+depression,gtr-t5,2,Cognitive & self-perception,0.722
+depression,gtr-t5,3,Somatic & vegetative symptoms,0.467
+depression,gtr-t5,4,Activity & interest deficits,1.0
+depression,gtr-t5,5,Anxiety & distress,0.5
+depression,mpnet,1,Mood & affective symptoms,0.85
+depression,mpnet,2,Cognitive & self-perception,0.5
+depression,mpnet,3,Somatic & vegetative symptoms,0.533
+depression,mpnet,4,Activity & interest deficits,0.533
+depression,mpnet,5,Anxiety & distress,1.0
+depression,minilm,1,Mood & affective symptoms,0.75
+depression,minilm,2,Cognitive & self-perception,0.667
+depression,minilm,3,Somatic & vegetative symptoms,0.667
+depression,minilm,4,Activity & interest deficits,0.533
+depression,minilm,5,Anxiety & distress,1.0
+depression,simcse,1,Mood & affective symptoms,0.95
+depression,simcse,2,Cognitive & self-perception,0.278
+depression,simcse,3,Somatic & vegetative symptoms,0.733
+depression,simcse,4,Activity & interest deficits,0.667
+depression,simcse,5,Anxiety & distress,1.0
+depression,sbert-similarity,1,Mood & affective symptoms,0.65
+depression,sbert-similarity,2,Cognitive & self-perception,0.5
+depression,sbert-similarity,3,Somatic & vegetative symptoms,0.533
+depression,sbert-similarity,4,Activity & interest deficits,1.0
+depression,sbert-similarity,5,Anxiety & distress,0.75
+depression,clinicalbert,1,Mood & affective symptoms,0.75
+depression,clinicalbert,2,Cognitive & self-perception,0.222
+depression,clinicalbert,3,Somatic & vegetative symptoms,0.133
+depression,clinicalbert,4,Activity & interest deficits,0.4
+depression,clinicalbert,5,Anxiety & distress,0.5
+depression,bio-clinicalbert,1,Mood & affective symptoms,0.65
+depression,bio-clinicalbert,2,Cognitive & self-perception,0.5
+depression,bio-clinicalbert,3,Somatic & vegetative symptoms,0.2
+depression,bio-clinicalbert,4,Activity & interest deficits,0.333
+depression,bio-clinicalbert,5,Anxiety & distress,0.25
+depression,biobert,1,Mood & affective symptoms,0.85
+depression,biobert,2,Cognitive & self-perception,0.111
+depression,biobert,3,Somatic & vegetative symptoms,0.2
+depression,biobert,4,Activity & interest deficits,0.533
+depression,biobert,5,Anxiety & distress,0.25
+depression,clinicalSentenceTransformer,1,Mood & affective symptoms,0.3
+depression,clinicalSentenceTransformer,2,Cognitive & self-perception,0.333
+depression,clinicalSentenceTransformer,3,Somatic & vegetative symptoms,0.2
+depression,clinicalSentenceTransformer,4,Activity & interest deficits,0.0
+depression,clinicalSentenceTransformer,5,Anxiety & distress,0.25
+depression,mentalroberta,1,Mood & affective symptoms,1.0
+depression,mentalroberta,2,Cognitive & self-perception,0.111
+depression,mentalroberta,3,Somatic & vegetative symptoms,0.0
+depression,mentalroberta,4,Activity & interest deficits,0.333
+depression,mentalroberta,5,Anxiety & distress,0.25
+depression,harmony,1,Mood & affective symptoms,0.85
+depression,harmony,2,Cognitive & self-perception,0.389
+depression,harmony,3,Somatic & vegetative symptoms,0.4
+depression,harmony,4,Activity & interest deficits,0.8
+depression,harmony,5,Anxiety & distress,0.75
+impulse_control,bge-large,1,Pathological gambling,1.0
+impulse_control,bge-large,2,Hypersexuality,1.0
+impulse_control,bge-large,3,Compulsive buying,1.0
+impulse_control,bge-large,4,Compulsive eating,1.0
+impulse_control,bge-large,5,Punding-hobbyism,0.25
+impulse_control,bge-large,6,Dopamine dysregulation syndrome,1.0
+impulse_control,e5-large,1,Pathological gambling,1.0
+impulse_control,e5-large,2,Hypersexuality,1.0
+impulse_control,e5-large,3,Compulsive buying,1.0
+impulse_control,e5-large,4,Compulsive eating,1.0
+impulse_control,e5-large,5,Punding-hobbyism,0.25
+impulse_control,e5-large,6,Dopamine dysregulation syndrome,1.0
+impulse_control,instructor,1,Pathological gambling,1.0
+impulse_control,instructor,2,Hypersexuality,1.0
+impulse_control,instructor,3,Compulsive buying,1.0
+impulse_control,instructor,4,Compulsive eating,1.0
+impulse_control,instructor,5,Punding-hobbyism,1.0
+impulse_control,instructor,6,Dopamine dysregulation syndrome,0.5
+impulse_control,gtr-t5,1,Pathological gambling,1.0
+impulse_control,gtr-t5,2,Hypersexuality,0.75
+impulse_control,gtr-t5,3,Compulsive buying,1.0
+impulse_control,gtr-t5,4,Compulsive eating,1.0
+impulse_control,gtr-t5,5,Punding-hobbyism,0.75
+impulse_control,gtr-t5,6,Dopamine dysregulation syndrome,1.0
+impulse_control,mpnet,1,Pathological gambling,1.0
+impulse_control,mpnet,2,Hypersexuality,1.0
+impulse_control,mpnet,3,Compulsive buying,1.0
+impulse_control,mpnet,4,Compulsive eating,1.0
+impulse_control,mpnet,5,Punding-hobbyism,0.5
+impulse_control,mpnet,6,Dopamine dysregulation syndrome,1.0
+impulse_control,minilm,1,Pathological gambling,1.0
+impulse_control,minilm,2,Hypersexuality,1.0
+impulse_control,minilm,3,Compulsive buying,1.0
+impulse_control,minilm,4,Compulsive eating,1.0
+impulse_control,minilm,5,Punding-hobbyism,0.875
+impulse_control,minilm,6,Dopamine dysregulation syndrome,1.0
+impulse_control,simcse,1,Pathological gambling,1.0
+impulse_control,simcse,2,Hypersexuality,1.0
+impulse_control,simcse,3,Compulsive buying,1.0
+impulse_control,simcse,4,Compulsive eating,1.0
+impulse_control,simcse,5,Punding-hobbyism,0.375
+impulse_control,simcse,6,Dopamine dysregulation syndrome,1.0
+impulse_control,sbert-similarity,1,Pathological gambling,1.0
+impulse_control,sbert-similarity,2,Hypersexuality,1.0
+impulse_control,sbert-similarity,3,Compulsive buying,1.0
+impulse_control,sbert-similarity,4,Compulsive eating,1.0
+impulse_control,sbert-similarity,5,Punding-hobbyism,1.0
+impulse_control,sbert-similarity,6,Dopamine dysregulation syndrome,1.0
+impulse_control,clinicalbert,1,Pathological gambling,1.0
+impulse_control,clinicalbert,2,Hypersexuality,0.75
+impulse_control,clinicalbert,3,Compulsive buying,1.0
+impulse_control,clinicalbert,4,Compulsive eating,1.0
+impulse_control,clinicalbert,5,Punding-hobbyism,0.375
+impulse_control,clinicalbert,6,Dopamine dysregulation syndrome,0.25
+impulse_control,bio-clinicalbert,1,Pathological gambling,0.0
+impulse_control,bio-clinicalbert,2,Hypersexuality,0.75
+impulse_control,bio-clinicalbert,3,Compulsive buying,0.25
+impulse_control,bio-clinicalbert,4,Compulsive eating,0.75
+impulse_control,bio-clinicalbert,5,Punding-hobbyism,0.75
+impulse_control,bio-clinicalbert,6,Dopamine dysregulation syndrome,0.5
+impulse_control,biobert,1,Pathological gambling,0.75
+impulse_control,biobert,2,Hypersexuality,1.0
+impulse_control,biobert,3,Compulsive buying,0.75
+impulse_control,biobert,4,Compulsive eating,0.75
+impulse_control,biobert,5,Punding-hobbyism,1.0
+impulse_control,biobert,6,Dopamine dysregulation syndrome,0.0
+impulse_control,clinicalSentenceTransformer,1,Pathological gambling,0.5
+impulse_control,clinicalSentenceTransformer,2,Hypersexuality,0.25
+impulse_control,clinicalSentenceTransformer,3,Compulsive buying,0.75
+impulse_control,clinicalSentenceTransformer,4,Compulsive eating,1.0
+impulse_control,clinicalSentenceTransformer,5,Punding-hobbyism,0.625
+impulse_control,clinicalSentenceTransformer,6,Dopamine dysregulation syndrome,1.0
+impulse_control,mentalroberta,1,Pathological gambling,0.25
+impulse_control,mentalroberta,2,Hypersexuality,0.5
+impulse_control,mentalroberta,3,Compulsive buying,1.0
+impulse_control,mentalroberta,4,Compulsive eating,1.0
+impulse_control,mentalroberta,5,Punding-hobbyism,0.25
+impulse_control,mentalroberta,6,Dopamine dysregulation syndrome,0.25
+impulse_control,harmony,1,Pathological gambling,1.0
+impulse_control,harmony,2,Hypersexuality,1.0
+impulse_control,harmony,3,Compulsive buying,1.0
+impulse_control,harmony,4,Compulsive eating,1.0
+impulse_control,harmony,5,Punding-hobbyism,0.75
+impulse_control,harmony,6,Dopamine dysregulation syndrome,1.0
+psychosis,bge-large,1,Hallucinations,0.952
+psychosis,bge-large,2,Delusions,0.882
+psychosis,e5-large,1,Hallucinations,1.0
+psychosis,e5-large,2,Delusions,0.941
+psychosis,instructor,1,Hallucinations,1.0
+psychosis,instructor,2,Delusions,1.0
+psychosis,gtr-t5,1,Hallucinations,1.0
+psychosis,gtr-t5,2,Delusions,0.941
+psychosis,mpnet,1,Hallucinations,0.952
+psychosis,mpnet,2,Delusions,0.647
+psychosis,minilm,1,Hallucinations,1.0
+psychosis,minilm,2,Delusions,0.765
+psychosis,simcse,1,Hallucinations,1.0
+psychosis,simcse,2,Delusions,0.706
+psychosis,sbert-similarity,1,Hallucinations,0.952
+psychosis,sbert-similarity,2,Delusions,0.588
+psychosis,clinicalbert,1,Hallucinations,1.0
+psychosis,clinicalbert,2,Delusions,0.529
+psychosis,bio-clinicalbert,1,Hallucinations,1.0
+psychosis,bio-clinicalbert,2,Delusions,0.294
+psychosis,biobert,1,Hallucinations,0.905
+psychosis,biobert,2,Delusions,0.882
+psychosis,clinicalSentenceTransformer,1,Hallucinations,0.381
+psychosis,clinicalSentenceTransformer,2,Delusions,1.0
+psychosis,mentalroberta,1,Hallucinations,0.952
+psychosis,mentalroberta,2,Delusions,0.824
+psychosis,harmony,1,Hallucinations,1.0
+psychosis,harmony,2,Delusions,0.588
+sleep,bge-large,1,Daytime sleepiness and alertness,0.852
+sleep,bge-large,2,Nocturnal sleep disturbances,0.698
+sleep,bge-large,3,REM sleep behavior and dreaming,0.941
+sleep,bge-large,4,Sleep-disordered breathing,1.0
+sleep,e5-large,1,Daytime sleepiness and alertness,0.963
+sleep,e5-large,2,Nocturnal sleep disturbances,0.208
+sleep,e5-large,3,REM sleep behavior and dreaming,0.882
+sleep,e5-large,4,Sleep-disordered breathing,1.0
+sleep,instructor,1,Daytime sleepiness and alertness,0.926
+sleep,instructor,2,Nocturnal sleep disturbances,0.585
+sleep,instructor,3,REM sleep behavior and dreaming,0.647
+sleep,instructor,4,Sleep-disordered breathing,1.0
+sleep,gtr-t5,1,Daytime sleepiness and alertness,0.63
+sleep,gtr-t5,2,Nocturnal sleep disturbances,0.642
+sleep,gtr-t5,3,REM sleep behavior and dreaming,0.706
+sleep,gtr-t5,4,Sleep-disordered breathing,1.0
+sleep,mpnet,1,Daytime sleepiness and alertness,0.556
+sleep,mpnet,2,Nocturnal sleep disturbances,0.642
+sleep,mpnet,3,REM sleep behavior and dreaming,0.882
+sleep,mpnet,4,Sleep-disordered breathing,1.0
+sleep,minilm,1,Daytime sleepiness and alertness,0.741
+sleep,minilm,2,Nocturnal sleep disturbances,0.774
+sleep,minilm,3,REM sleep behavior and dreaming,0.941
+sleep,minilm,4,Sleep-disordered breathing,1.0
+sleep,simcse,1,Daytime sleepiness and alertness,0.741
+sleep,simcse,2,Nocturnal sleep disturbances,0.868
+sleep,simcse,3,REM sleep behavior and dreaming,0.824
+sleep,simcse,4,Sleep-disordered breathing,0.667
+sleep,sbert-similarity,1,Daytime sleepiness and alertness,0.259
+sleep,sbert-similarity,2,Nocturnal sleep disturbances,0.679
+sleep,sbert-similarity,3,REM sleep behavior and dreaming,0.941
+sleep,sbert-similarity,4,Sleep-disordered breathing,1.0
+sleep,clinicalbert,1,Daytime sleepiness and alertness,0.148
+sleep,clinicalbert,2,Nocturnal sleep disturbances,0.849
+sleep,clinicalbert,3,REM sleep behavior and dreaming,0.941
+sleep,clinicalbert,4,Sleep-disordered breathing,0.667
+sleep,bio-clinicalbert,1,Daytime sleepiness and alertness,0.556
+sleep,bio-clinicalbert,2,Nocturnal sleep disturbances,0.566
+sleep,bio-clinicalbert,3,REM sleep behavior and dreaming,0.824
+sleep,bio-clinicalbert,4,Sleep-disordered breathing,0.0
+sleep,biobert,1,Daytime sleepiness and alertness,0.519
+sleep,biobert,2,Nocturnal sleep disturbances,0.453
+sleep,biobert,3,REM sleep behavior and dreaming,0.882
+sleep,biobert,4,Sleep-disordered breathing,0.333
+sleep,clinicalSentenceTransformer,1,Daytime sleepiness and alertness,0.63
+sleep,clinicalSentenceTransformer,2,Nocturnal sleep disturbances,0.057
+sleep,clinicalSentenceTransformer,3,REM sleep behavior and dreaming,0.765
+sleep,clinicalSentenceTransformer,4,Sleep-disordered breathing,0.667
+sleep,mentalroberta,1,Daytime sleepiness and alertness,0.111
+sleep,mentalroberta,2,Nocturnal sleep disturbances,0.094
+sleep,mentalroberta,3,REM sleep behavior and dreaming,0.882
+sleep,mentalroberta,4,Sleep-disordered breathing,1.0
+sleep,harmony,1,Daytime sleepiness and alertness,0.815
+sleep,harmony,2,Nocturnal sleep disturbances,0.509
+sleep,harmony,3,REM sleep behavior and dreaming,0.824
+sleep,harmony,4,Sleep-disordered breathing,1.0

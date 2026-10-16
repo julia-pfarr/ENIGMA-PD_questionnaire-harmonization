@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Environments
+.venv/
+venv/
+
+# Model weights and other large/binary artifacts are hosted on Hugging Face
+# (see README) — never commit these here.
+*.pkl
+*.safetensors
+**/contrastive_model_encoder/
+**/prototype_model_encoder/
+
+# Never commit participant-level or controlled-access data.
+# See README "Data" section for what belongs in input/ locally but not in git.
+master-table_subject-data*.csv*
+input/score-transformation/ppmi/
+input/score-transformation/site-data/
+
+# Scratch output from ./run_all.sh's default quickstart mode (synthetic
+# data) -- disposable, regenerated on every run, never reproduces the
+# manuscript's results, so it shouldn't be committed.
+/quickstart-output/

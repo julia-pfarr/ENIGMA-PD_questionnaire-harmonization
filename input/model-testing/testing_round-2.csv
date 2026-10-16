@@ -1,0 +1,349 @@
+construct,questionnaire,item_id,expert_label
+depression,CES-D,CES-D_01,Anxiety & distress
+depression,CES-D,CES-D_02,Somatic & vegetative symptoms
+depression,CES-D,CES-D_03,Mood & affective symptoms
+depression,CES-D,CES-D_04,Cognitive & self-perception
+depression,CES-D,CES-D_05,Cognitive & self-perception
+depression,CES-D,CES-D_06,Mood & affective symptoms
+depression,CES-D,CES-D_07,Activity & interest deficit
+depression,CES-D,CES-D_08,Cognitive & self-perception
+depression,CES-D,CES-D_09,Cognitive & self-perception
+depression,CES-D,CES-D_10,Anxiety & distress
+depression,CES-D,CES-D_11,Somatic & vegetative symptoms
+depression,CES-D,CES-D_12,Mood & affective symptoms
+depression,CES-D,CES-D_13,Activity & interest deficit
+depression,CES-D,CES-D_14,Cognitive & self-perception
+depression,CES-D,CES-D_15,Cognitive & self-perception
+depression,CES-D,CES-D_16,Mood & affective symptoms
+depression,CES-D,CES-D_17,Mood & affective symptoms
+depression,CES-D,CES-D_18,Mood & affective symptoms
+depression,CES-D,CES-D_19,Cognitive & self-perception
+depression,CES-D,CES-D_20,Activity & interest deficit
+depression,IDS,IDS_01,Somatic & vegetative symptoms
+depression,IDS,IDS_02,Somatic & vegetative symptoms
+depression,IDS,IDS_03,Somatic & vegetative symptoms
+depression,IDS,IDS_04,Somatic & vegetative symptoms
+depression,IDS,IDS_05,Mood & affective symptoms
+depression,IDS,IDS_06,Anxiety & distress
+depression,IDS,IDS_07,Anxiety & distress
+depression,IDS,IDS_08,Mood & affective symptoms
+depression,IDS,IDS_09,Mood & affective symptoms
+depression,IDS,IDS_10,Mood & affective symptoms
+depression,IDS,IDS_11,Somatic & vegetative symptoms
+depression,IDS,IDS_12,Somatic & vegetative symptoms
+depression,IDS,IDS_13,Somatic & vegetative symptoms
+depression,IDS,IDS_14,Somatic & vegetative symptoms
+depression,IDS,IDS_15,Cognitive & self-perception
+depression,IDS,IDS_16,Cognitive & self-perception
+depression,IDS,IDS_17,Cognitive & self-perception
+depression,IDS,IDS_18,Cognitive & self-perception
+depression,IDS,IDS_19,Activity & interest deficit
+depression,IDS,IDS_20,Activity & interest deficit
+depression,IDS,IDS_21,Activity & interest deficit
+depression,IDS,IDS_22,Activity & interest deficit
+depression,IDS,IDS_23,Activity & interest deficit
+depression,IDS,IDS_24,Somatic & vegetative symptoms
+depression,IDS,IDS_25,Somatic & vegetative symptoms
+depression,IDS,IDS_26,Somatic & vegetative symptoms
+depression,IDS,IDS_27,Anxiety & distress
+depression,IDS,IDS_28,Somatic & vegetative symptoms
+depression,CUDOS,CUDOS_01,Mood & affective symptoms
+depression,CUDOS,CUDOS_02,Activity & interest deficit
+depression,CUDOS,CUDOS_03,Somatic & vegetative symptoms
+depression,CUDOS,CUDOS_04,Somatic & vegetative symptoms
+depression,CUDOS,CUDOS_05,Somatic & vegetative symptoms
+depression,CUDOS,CUDOS_06,Somatic & vegetative symptoms
+depression,CUDOS,CUDOS_07,Somatic & vegetative symptoms
+depression,CUDOS,CUDOS_08,Somatic & vegetative symptoms
+depression,CUDOS,CUDOS_09,Activity & interest deficit
+depression,CUDOS,CUDOS_10,Cognitive & self-perception
+depression,CUDOS,CUDOS_11,Cognitive & self-perception
+depression,CUDOS,CUDOS_12,Cognitive & self-perception
+depression,CUDOS,CUDOS_13,Cognitive & self-perception
+depression,CUDOS,CUDOS_14,Cognitive & self-perception
+depression,CUDOS,CUDOS_15,Cognitive & self-perception
+depression,CUDOS,CUDOS_16,Cognitive & self-perception
+depression,CUDOS,CUDOS_17,Does not fit
+depression,CUDOS,CUDOS_18,Does not fit
+depression,DASS,DASS_03,Mood & affective symptoms
+depression,DASS,DASS_05,Activity & interest deficit
+depression,DASS,DASS_10,Mood & affective symptoms
+depression,DASS,DASS_13,Mood & affective symptoms
+depression,DASS,DASS_16,Activity & interest deficit
+depression,DASS,DASS_17,Cognitive & self-perception
+depression,DASS,DASS_21,Cognitive & self-perception
+depression,DASS,DASS_24,Activity & interest deficit
+depression,DASS,DASS_26,Mood & affective symptoms
+depression,DASS,DASS_31,Activity & interest deficit
+depression,DASS,DASS_34,Cognitive & self-perception
+depression,DASS,DASS_37,Cognitive & self-perception
+depression,DASS,DASS_38,Cognitive & self-perception
+depression,DASS,DASS_42,Activity & interest deficit
+depression,ASBPD,ASBPD-I_01.1,Mood & affective symptoms
+depression,ASBPD,ASBPD-I_01.2,Mood & affective symptoms
+depression,ASBPD,ASBPD-I_01.3,Activity & interest deficit
+depression,ASBPD,ASBPD-I_01.4,Activity & interest deficit
+depression,ASBPD,ASBPD-I_01.5,Cognitive & self-perception
+depression,ASBPD,ASBPD-I_01.6,Cognitive & self-perception
+depression,ASBPD,ASBPD-I_01.7,Somatic & vegetative symptoms
+depression,ASBPD,ASBPD-I_01.8,Somatic & vegetative symptoms
+depression,ASBPD,ASBPD-I_01.9,Somatic & vegetative symptoms
+depression,ASBPD,ASBPD-I_01.10,Cognitive & self-perception
+depression,ASBPD,ASBPD-I_01.11,Mood & affective symptoms
+depression,ASBPD,ASBPD-I_01.12,Mood & affective symptoms
+depression,ASBPD,ASBPD-I_01.13,Does not fit
+depression,ASBPD,ASBPD-I_01.14,Does not fit
+depression,PANAS,PANAS_01,Activity & interest deficit
+depression,PANAS,PANAS_02,Anxiety & distress
+depression,PANAS,PANAS_03,Mood & affective symptoms
+depression,PANAS,PANAS_04,Mood & affective symptoms
+depression,PANAS,PANAS_05,Cognitive & self-perception
+depression,PANAS,PANAS_06,Cognitive & self-perception
+depression,PANAS,PANAS_07,Anxiety & distress
+depression,PANAS,PANAS_08,Anxiety & distress
+depression,PANAS,PANAS_09,Mood & affective symptoms
+depression,PANAS,PANAS_10,Cognitive & self-perception
+depression,PANAS,PANAS_11,Anxiety & distress
+depression,PANAS,PANAS_12,Anxiety & distress
+depression,PANAS,PANAS_13,Cognitive & self-perception
+depression,PANAS,PANAS_14,Activity & interest deficit
+depression,PANAS,PANAS_15,Anxiety & distress
+depression,PANAS,PANAS_16,Activity & interest deficit
+depression,PANAS,PANAS_17,Cognitive & self-perception
+depression,PANAS,PANAS_18,Anxiety & distress
+depression,PANAS,PANAS_19,Activity & interest deficit
+depression,PANAS,PANAS_20,Anxiety & distress
+depression,EPDS,EPDS_01,Mood & affective symptoms
+depression,EPDS,EPDS_02,Activity & interest deficit
+depression,EPDS,EPDS_03,Cognitive & self-perception
+depression,EPDS,EPDS_04,Anxiety & distress
+depression,EPDS,EPDS_05,Anxiety & distress
+depression,EPDS,EPDS_06,Activity & interest deficit
+depression,EPDS,EPDS_07,Somatic & vegetative symptoms
+depression,EPDS,EPDS_08,Mood & affective symptoms
+depression,EPDS,EPDS_09,Mood & affective symptoms
+depression,EPDS,EPDS_10,Mood & affective symptoms
+depression,DSM-5-TR,DSM-5-TR_I_01,Activity & interest deficit
+depression,DSM-5-TR,DSM-5-TR_I_02,Mood & affective symptoms
+anxiety,SAS,SAS_01,cognitive anxiety
+anxiety,SAS,SAS_02,cognitive anxiety
+anxiety,SAS,SAS_03,cognitive anxiety
+anxiety,SAS,SAS_04,cognitive anxiety
+anxiety,SAS,SAS_05,cognitive anxiety
+anxiety,SAS,SAS_06,somatic anxiety
+anxiety,SAS,SAS_07,somatic anxiety
+anxiety,SAS,SAS_08,somatic anxiety
+anxiety,SAS,SAS_09,cognitive anxiety
+anxiety,SAS,SAS_10,somatic anxiety
+anxiety,SAS,SAS_11,somatic anxiety
+anxiety,SAS,SAS_12,somatic anxiety
+anxiety,SAS,SAS_13,somatic anxiety
+anxiety,SAS,SAS_14,somatic anxiety
+anxiety,SAS,SAS_15,somatic anxiety
+anxiety,SAS,SAS_16,somatic anxiety
+anxiety,SAS,SAS_17,somatic anxiety
+anxiety,SAS,SAS_18,somatic anxiety
+anxiety,SAS,SAS_19,somatic anxiety
+anxiety,SAS,SAS_20,somatic anxiety
+anxiety,AStatI,AStatI_01,cognitive anxiety
+anxiety,AStatI,AStatI_02,cognitive anxiety
+anxiety,AStatI,AStatI_03,cognitive anxiety
+anxiety,AStatI,AStatI_04,cognitive anxiety
+anxiety,AStatI,AStatI_05,cognitive anxiety
+anxiety,AStatI,AStatI_06,somatic anxiety
+anxiety,AStatI,AStatI_07,somatic anxiety
+anxiety,AStatI,AStatI_08,somatic anxiety
+anxiety,AStatI,AStatI_09,somatic anxiety
+anxiety,AStatI,AStatI_10,somatic anxiety
+anxiety,AStatI,AStatI_11,somatic anxiety
+anxiety,AStatI,AStatI_12,somatic anxiety
+anxiety,AStatI,AStatI_13,somatic anxiety
+anxiety,AStatI,AStatI_14,somatic anxiety
+anxiety,AStatI,AStatI_15,somatic anxiety
+anxiety,AStatI,AStatI_16,somatic anxiety
+anxiety,AStatI,AStatI_17,somatic anxiety
+anxiety,AStatI,AStatI_18,somatic anxiety
+anxiety,AStatI,AStatI_19,somatic anxiety
+anxiety,AStatI,AStatI_20,somatic anxiety
+anxiety,DASS,DASS_02,somatic anxiety
+anxiety,DASS,DASS_04,somatic anxiety
+anxiety,DASS,DASS_07,somatic anxiety
+anxiety,DASS,DASS_09,cognitive anxiety
+anxiety,DASS,DASS_15,somatic anxiety
+anxiety,DASS,DASS_19,somatic anxiety
+anxiety,DASS,DASS_20,cognitive anxiety
+anxiety,DASS,DASS_23,somatic anxiety
+anxiety,DASS,DASS_25,somatic anxiety
+anxiety,DASS,DASS_28,cognitive anxiety
+anxiety,DASS,DASS_30,cognitive anxiety
+anxiety,DASS,DASS_36,cognitive anxiety
+anxiety,DASS,DASS_40,cognitive anxiety
+anxiety,DASS,DASS_41,somatic anxiety
+anxiety,ASBPD,ASBPD-I_02.1,cognitive anxiety
+anxiety,ASBPD,ASBPD-I_02.2,cognitive anxiety
+anxiety,ASBPD,ASBPD-I_02.3,cognitive anxiety
+anxiety,ASBPD,ASBPD-I_02.4,cognitive anxiety
+anxiety,ASBPD,ASBPD-I_02.5,cognitive anxiety
+anxiety,ASBPD,ASBPD-I_02.6,somatic anxiety
+anxiety,ASBPD,ASBPD-I_02.7,somatic anxiety
+anxiety,ASBPD,ASBPD-I_02.8,cognitive anxiety
+anxiety,ASBPD,ASBPD-I_02.9,does not fit
+anxiety,DSM-5-TR,DSM-5-TR_IV_06,cognitive anxiety
+anxiety,DSM-5-TR,DSM-5-TR_IV_07,cognitive anxiety
+anxiety,DSM-5-TR,DSM-5-TR_IV_08,cognitive anxiety
+impulse_control,QUIP-CS,QUIP-CS_A.1,pathological gambling
+impulse_control,QUIP-CS,QUIP-CS_A.2,pathological gambling
+impulse_control,QUIP-CS,QUIP-CS_B.1,hypersexuality
+impulse_control,QUIP-CS,QUIP-CS_B.2,hypersexuality
+impulse_control,QUIP-CS,QUIP-CS_C.1,compulsive buying
+impulse_control,QUIP-CS,QUIP-CS_C.2,compulsive buying
+impulse_control,QUIP-CS,QUIP-CS_D.1,compulsive eating
+impulse_control,QUIP-CS,QUIP-CS_D.2,compulsive eating
+impulse_control,QUIP-CS,QUIP-CS_E.1,punding-hobbyism
+impulse_control,QUIP-CS,QUIP-CS_E.2,punding-hobbyism
+impulse_control,QUIP-CS,QUIP-CS_E.3,does not fit
+impulse_control,QUIP-CS,QUIP-CS_F.1,DDS
+impulse_control,QUIP-CS,QUIP-CS_F.2,DDS
+impulse_control,PGSI,PGSI_1,pathological gambling
+impulse_control,PGSI,PGSI_2,pathological gambling
+impulse_control,PGSI,PGSI_3,pathological gambling
+impulse_control,PGSI,PGSI_4,pathological gambling
+impulse_control,PGSI,PGSI_5,pathological gambling
+impulse_control,PGSI,PGSI_6,pathological gambling
+impulse_control,PGSI,PGSI_7,pathological gambling
+impulse_control,PGSI,PGSI_8,pathological gambling
+impulse_control,PGSI,PGSI_9,pathological gambling
+impulse_control,BES,BES_01,compulsive eating
+impulse_control,BES,BES_02,compulsive eating
+impulse_control,BES,BES_03,compulsive eating
+impulse_control,BES,BES_04,compulsive eating
+impulse_control,BES,BES_05,compulsive eating
+impulse_control,BES,BES_06,compulsive eating
+impulse_control,BES,BES_07,compulsive eating
+impulse_control,BES,BES_08,compulsive eating
+impulse_control,BES,BES_09,compulsive eating
+impulse_control,BES,BES_10,compulsive eating
+impulse_control,BES,BES_11,compulsive eating
+impulse_control,BES,BES_12,compulsive eating
+impulse_control,BES,BES_13,compulsive eating
+impulse_control,BES,BES_14,compulsive eating
+impulse_control,BES,BES_15,compulsive eating
+impulse_control,BES,BES_16,compulsive buying
+impulse_control,CSBI-13,CSBI-13_01,hypersexuality
+impulse_control,CSBI-14,CSBI-13_02,hypersexuality
+impulse_control,CSBI-15,CSBI-13_03,hypersexuality
+impulse_control,CSBI-16,CSBI-13_04,hypersexuality
+impulse_control,CSBI-17,CSBI-13_05,hypersexuality
+impulse_control,CSBI-18,CSBI-13_06,hypersexuality
+impulse_control,CSBI-19,CSBI-13_07,hypersexuality
+impulse_control,CSBI-20,CSBI-13_08,hypersexuality
+impulse_control,CSBI-21,CSBI-13_09,hypersexuality
+impulse_control,CSBI-22,CSBI-13_10,hypersexuality
+impulse_control,CSBI-23,CSBI-13_11,hypersexuality
+impulse_control,CSBI-24,CSBI-13_12,hypersexuality
+impulse_control,CSBI-25,CSBI-13_13,hypersexuality
+impulse_control,CBS,CBS_01.a,compulsive buying
+impulse_control,CBS,CBS_02.a,compulsive buying
+impulse_control,CBS,CBS_02.b,compulsive buying
+impulse_control,CBS,CBS_02.c,compulsive buying
+impulse_control,CBS,CBS_02.d,compulsive buying
+impulse_control,CBS,CBS_02.e,compulsive buying
+impulse_control,CBS,CBS_02.f,compulsive buying
+impulse_control,ASBPD,ASBPD-III_05.1,compulsive eating
+impulse_control,ASBPD,ASBPD-III_05.2,compulsive eating
+impulse_control,ASBPD,ASBPD-III_05.3,compulsive eating
+impulse_control,ASBPD,ASBPD-III_05.4,compulsive eating
+impulse_control,ASBPD,ASBPD-III_05.5,compulsive eating
+impulse_control,ASBPD,ASBPD-III_05.6,compulsive eating
+impulse_control,ASBPD,ASBPD-III_05.7,compulsive eating
+impulse_control,ASBPD,ASBPD-III_05.8,compulsive eating
+impulse_control,ASBPD,ASBPD-III_05.9,does not fit
+impulse_control,ASBPD,ASBPD-III_07.1,punding-hobbyism
+impulse_control,ASBPD,ASBPD-III_07.2,punding-hobbyism
+impulse_control,ASBPD,ASBPD-III_07.3,punding-hobbyism
+impulse_control,ASBPD,ASBPD-III_07.4,punding-hobbyism
+impulse_control,ASBPD,ASBPD-III_07.5,punding-hobbyism
+impulse_control,ASBPD,ASBPD-III_07.6,punding-hobbyism
+impulse_control,ASBPD,ASBPD-III_07.7,does not fit
+impulse_control,ASBPD,ASBPD-III_07.8,punding-hobbyism
+impulse_control,ASBPD,ASBPD-III_07.9,punding-hobbyism
+impulse_control,ASBPD,ASBPD-III_07.10,punding-hobbyism
+impulse_control,ASBPD,ASBPD-III_08.1,punding-hobbyism
+impulse_control,ASBPD,ASBPD-III_08.2,punding-hobbyism
+impulse_control,ASBPD,ASBPD-III_08.3,punding-hobbyism
+impulse_control,ASBPD,ASBPD-III_08.4,punding-hobbyism
+impulse_control,ASBPD,ASBPD-III_08.5,punding-hobbyism
+impulse_control,ASBPD,ASBPD-III_08.6,punding-hobbyism
+impulse_control,ASBPD,ASBPD-III_08.7,punding-hobbyism
+impulse_control,ASBPD,ASBPD-III_08.8,does not fit
+impulse_control,ASBPD,ASBPD-III_10.1,compulsive buying
+impulse_control,ASBPD,ASBPD-III_10.2,compulsive buying
+impulse_control,ASBPD,ASBPD-III_10.3,compulsive buying
+impulse_control,ASBPD,ASBPD-III_10.4,compulsive buying
+impulse_control,ASBPD,ASBPD-III_10.5,compulsive buying
+impulse_control,ASBPD,ASBPD-III_10.6,compulsive buying
+impulse_control,ASBPD,ASBPD-III_10.7,compulsive buying
+impulse_control,ASBPD,ASBPD-III_10.8,compulsive buying
+impulse_control,ASBPD,ASBPD-III_10.9,does not fit
+impulse_control,ASBPD,ASBPD-III_11.1,pathological gambling
+impulse_control,ASBPD,ASBPD-III_11.2,pathological gambling
+impulse_control,ASBPD,ASBPD-III_11.3,pathological gambling
+impulse_control,ASBPD,ASBPD-III_11.4,pathological gambling
+impulse_control,ASBPD,ASBPD-III_11.5,pathological gambling
+impulse_control,ASBPD,ASBPD-III_11.6,pathological gambling
+impulse_control,ASBPD,ASBPD-III_11.7,pathological gambling
+impulse_control,ASBPD,ASBPD-III_11.8,pathological gambling
+impulse_control,ASBPD,ASBPD-III_11.9,pathological gambling
+impulse_control,ASBPD,ASBPD-III_11.10,pathological gambling
+impulse_control,ASBPD,ASBPD-III_11.11,pathological gambling
+impulse_control,ASBPD,ASBPD-III_11.12,pathological gambling
+impulse_control,ASBPD,ASBPD-III_11.13,does not fit
+impulse_control,ASBPD,ASBPD-III_12.01,hypersexuality
+impulse_control,ASBPD,ASBPD-III_12.02,hypersexuality
+impulse_control,ASBPD,ASBPD-III_12.03,hypersexuality
+impulse_control,ASBPD,ASBPD-III_12.04,hypersexuality
+impulse_control,ASBPD,ASBPD-III_12.05,hypersexuality
+impulse_control,ASBPD,ASBPD-III_12.06,hypersexuality
+impulse_control,ASBPD,ASBPD-III_12.07,hypersexuality
+impulse_control,ASBPD,ASBPD-III_12.08,does not fit
+impulse_control,ASBPD,ASBPD-III_13.01,DDS
+impulse_control,ASBPD,ASBPD-III_13.02,DDS
+impulse_control,ASBPD,ASBPD-III_13.03,DDS
+impulse_control,ASBPD,ASBPD-III_13.04,DDS
+impulse_control,ASBPD,ASBPD-III_13.05,DDS
+impulse_control,ASBPD,ASBPD-III_13.06,DDS
+impulse_control,ASBPD,ASBPD-III_13.07,DDS
+impulse_control,ASBPD,ASBPD-III_13.08,DDS
+impulse_control,ASBPD,ASBPD-III_13.09,does not fit
+sleep,SSS,SSS_01,Daytime Sleepiness and Altertness
+sleep,STOP-BANG,STOP-BANG_01,Sleep-Disordered Breathing
+sleep,STOP-BANG,STOP-BANG_02,Daytime Sleepiness and Altertness
+sleep,STOP-BANG,STOP-BANG_03,Sleep-Disordered Breathing
+sleep,STOP-BANG,STOP-BANG_04,Does not fit
+sleep,RBDSSS,RBDSSS_03.a,REM Sleep Behavior and Dreaming
+sleep,RBDSSS,RBDSSS_03.b,REM Sleep Behavior and Dreaming
+sleep,RBDSSS,RBDSSS_04.a,REM Sleep Behavior and Dreaming
+sleep,RBDSSS,RBDSSS_04.b,REM Sleep Behavior and Dreaming
+sleep,RBDSSS,RBDSSS_05.a,Nocturnal Sleep Disturbances
+sleep,RBDSSS,RBDSSS_05.b,Does not fit
+sleep,RBDSSS,RBDSSS_06.a,Nocturnal Sleep Disturbances
+sleep,RBDSSS,RBDSSS_06.b,Does not fit
+sleep,DSM-5-TR,DSM-5-TR_VIII_14,Does not fit
+psychosis,ASBPD,ASBPD-III_02.1,Hallucinations
+psychosis,ASBPD,ASBPD-III_02.2,Hallucinations
+psychosis,ASBPD,ASBPD-III_02.3,Hallucinations
+psychosis,ASBPD,ASBPD-III_02.4,Hallucinations
+psychosis,ASBPD,ASBPD-III_02.5,Hallucinations
+psychosis,ASBPD,ASBPD-III_02.6,Does not fit
+psychosis,ASBPD,ASBPD-III_02.7,Hallucinations
+psychosis,ASBPD,ASBPD-III_02.8,Hallucinations
+psychosis,ASBPD,ASBPD-III_02.9,Delusions
+psychosis,ASBPD,ASBPD-III_02.10,Delusions
+psychosis,ASBPD,ASBPD-III_02.11,Delusions
+psychosis,ASBPD,ASBPD-III_02.12,Delusions
+psychosis,ASBPD,ASBPD-III_02.13,Delusions
+psychosis,ASBPD,ASBPD-III_02.14,Delusions
+psychosis,ASBPD,ASBPD-III_02.15,Delusions
+psychosis,ASBPD,ASBPD-III_02.16,Does not fit
+psychosis,DSM-5-TR,DSM-5-TR_VII_12,Hallucinations
+psychosis,DSM-5-TR,DSM-5-TR_VII_13,Delusions

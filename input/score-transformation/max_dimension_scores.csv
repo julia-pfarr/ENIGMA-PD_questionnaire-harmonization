@@ -1,0 +1,112 @@
+construct,questionnaire,dimension,dimension_label,n_items,item_ids,max_dimension_score
+anxiety,BAI,1,Somatic symptoms,15,BAI_01; BAI_02; BAI_03; BAI_04; BAI_06; BAI_07; BAI_08; BAI_11; BAI_12; BAI_13; BAI_15; BAI_18; BAI_19; BAI_20; BAI_21,45.0
+anxiety,BAI,2,Cognitive symptoms,6,BAI_05; BAI_09; BAI_10; BAI_14; BAI_16; BAI_17,18.0
+anxiety,HADS,1,Somatic symptoms,4,HADS_01; HADS_07; HADS_09; HADS_11,12.0
+anxiety,HADS,2,Cognitive symptoms,3,HADS_03; HADS_05; HADS_13,9.0
+anxiety,HAMA,1,Somatic symptoms,10,HAMA_02; HAMA_04; HAMA_07; HAMA_08; HAMA_09; HAMA_10; HAMA_11; HAMA_12; HAMA_13; HAMA_14,40.0
+anxiety,HAMA,2,Cognitive symptoms,4,HAMA_01; HAMA_03; HAMA_05; HAMA_06,16.0
+anxiety,MDS-UPDRS_I,2,Cognitive symptoms,1,MDS-UPDRS_1.4,4.0
+anxiety,NMSQuest,2,Cognitive symptoms,1,NMSQuest_17,1.0
+anxiety,NPI,2,Cognitive symptoms,1,NPI_E_screen,1.0
+anxiety,STAI,1,Somatic symptoms,3,STAI_10; STAI_13; STAI_15,12.0
+anxiety,STAI,2,Cognitive symptoms,8,STAI_11; STAI_12; STAI_14; STAI_16; STAI_17; STAI_18; STAI_19; STAI_20,32.0
+apathy,AES,1,Behavioral-Cognitive apathy,14,AES_01; AES_02; AES_03; AES_04; AES_05; AES_06; AES_07; AES_08; AES_09; AES_10; AES_15; AES_16; AES_17; AES_18,56.0
+apathy,AES,2,Affective apathy,2,AES_11; AES_14,8.0
+apathy,AMI,1,Behavioral-Cognitive apathy,12,AMI_02; AMI_04; AMI_05; AMI_06; AMI_08; AMI_09; AMI_10; AMI_11; AMI_12; AMI_14; AMI_15; AMI_17,48.0
+apathy,AMI,2,Affective apathy,6,AMI_01; AMI_03; AMI_07; AMI_13; AMI_16; AMI_18,24.0
+apathy,LARS,1,Behavioral-Cognitive apathy,17,LARS_02.2; LARS_03.1; LARS_03.2; LARS_03.3; LARS_03.4; LARS_04.1; LARS_04.2; LARS_04.3; LARS_05.1; LARS_05.2; LARS_05.3; LARS_05.4; LARS_08.3; LARS_08.4; LARS_09.1; LARS_09.2; LARS_09.4,17.0
+apathy,LARS,2,Affective apathy,10,LARS_04.4; LARS_06.1; LARS_06.2; LARS_06.3; LARS_06.4; LARS_07.1; LARS_07.2; LARS_07.4; LARS_08.2; LARS_09.3,10.0
+apathy,MDS-UPDRS_I,2,Affective apathy,1,MDS-UPDRS_1.5,4.0
+apathy,NMSQuest,1,Behavioral-Cognitive apathy,1,NMSQuest_13,1.0
+apathy,NPI,1,Behavioral-Cognitive apathy,1,NPI_G_screen,1.0
+apathy,SAS,1,Behavioral-Cognitive apathy,10,SAS_01; SAS_02; SAS_03; SAS_04; SAS_05; SAS_06; SAS_07; SAS_08; SAS_09; SAS_12,30.0
+apathy,SAS,2,Affective apathy,3,SAS_10; SAS_11; SAS_13,9.0
+depression,BDI,1,Mood & affective symptoms,3,BDI_01; BDI_09; BDI_10,9.0
+depression,BDI,2,Cognitive & self-perception,8,BDI_02; BDI_03; BDI_05; BDI_06; BDI_07; BDI_08; BDI_13; BDI_14,24.0
+depression,BDI,3,Somatic & vegetative symptoms,5,BDI_16; BDI_17; BDI_18; BDI_19; BDI_20,15.0
+depression,BDI,4,Activity & interest deficits,4,BDI_04; BDI_12; BDI_15; BDI_21,12.0
+depression,BDI,5,Anxiety & distress,1,BDI_11,3.0
+depression,GDS,1,Mood & affective symptoms,4,GDS_05; GDS_07; GDS_08; GDS_11,4.0
+depression,GDS,2,Cognitive & self-perception,6,GDS_01; GDS_03; GDS_10; GDS_12; GDS_14; GDS_15,6.0
+depression,GDS,4,Activity & interest deficits,4,GDS_02; GDS_04; GDS_09; GDS_13,4.0
+depression,GDS,5,Anxiety & distress,1,GDS_06,1.0
+depression,HADS,1,Mood & affective symptoms,2,HADS_04; HADS_06,6.0
+depression,HADS,3,Somatic & vegetative symptoms,1,HADS_08,3.0
+depression,HADS,4,Activity & interest deficits,3,HADS_02; HADS_10; HADS_12,9.0
+depression,HAMD,1,Mood & affective symptoms,2,HAMD_01; HAMD_03,8.0
+depression,HAMD,2,Cognitive & self-perception,1,HAMD_02,4.0
+depression,HAMD,3,Somatic & vegetative symptoms,8,HAMD_04; HAMD_05; HAMD_06; HAMD_08; HAMD_12; HAMD_13; HAMD_14; HAMD_16,19.0
+depression,HAMD,4,Activity & interest deficits,1,HAMD_07,4.0
+depression,HAMD,5,Anxiety & distress,1,HAMD_09,4.0
+depression,MDS-UPDRS_I,1,Mood & affective symptoms,1,MDS-UPDRS_1.3,4.0
+depression,NMSQuest,1,Mood & affective symptoms,1,NMSQuest_16,1.0
+depression,NMSS,1,Mood & affective symptoms,2,NMSS_10; NMSS_11,24.0
+depression,NMSS,4,Activity & interest deficits,1,NMSS_12,12.0
+depression,NPI,1,Mood & affective symptoms,1,NPI_D_screen,1.0
+impulse_control,QUIP-RS,1,Pathological gambling,4,QUIP-RS_1_01; QUIP-RS_2_01; QUIP-RS_3_01; QUIP-RS_4_01,16.0
+impulse_control,QUIP-RS,2,Hypersexuality,4,QUIP-RS_1_02; QUIP-RS_2_02; QUIP-RS_3_02; QUIP-RS_4_02,16.0
+impulse_control,QUIP-RS,3,Compulsive buying,4,QUIP-RS_1_03; QUIP-RS_2_03; QUIP-RS_3_03; QUIP-RS_4_03,16.0
+impulse_control,QUIP-RS,4,Compulsive eating,4,QUIP-RS_1_04; QUIP-RS_2_04; QUIP-RS_3_04; QUIP-RS_4_04,16.0
+impulse_control,QUIP-RS,5,Punding-hobbyism,8,QUIP-RS_1_05; QUIP-RS_1_06; QUIP-RS_2_05; QUIP-RS_2_06; QUIP-RS_3_05; QUIP-RS_3_06; QUIP-RS_4_05; QUIP-RS_4_06,32.0
+impulse_control,QUIP-RS,6,Dopamine dysregulation syndrome,4,QUIP-RS_1_07; QUIP-RS_2_07; QUIP-RS_3_07; QUIP-RS_4_07,16.0
+psychosis,MDS-UPDRS_I,1,Hallucinations,1,MDS-UPDRS_1.2,4.0
+psychosis,NMSQuest,1,Hallucinations,1,NMSQuest_14,1.0
+psychosis,NMSQuest,2,Delusions,1,NMSQuest_30,1.0
+psychosis,NMSS,1,Hallucinations,2,NMSS_13; NMSS_15,24.0
+psychosis,NMSS,2,Delusions,1,NMSS_14,12.0
+psychosis,NPI,1,Hallucinations,1,NPI_B_screen,1.0
+psychosis,NPI,2,Delusions,1,NPI_A_screen,1.0
+psychosis,PPRS,1,Hallucinations,2,PPRS_01; PPRS_02,8.0
+psychosis,PPRS,2,Delusions,1,PPRS_03,4.0
+psychosis,SAPS-PD,1,Hallucinations,4,SAPS-PD_01; SAPS-PD_03; SAPS-PD_04; SAPS-PD_06,20.0
+psychosis,SAPS-PD,2,Delusions,3,SAPS-PD_08; SAPS-PD_09; SAPS-PD_14,15.0
+psychosis,SCOPA-PC,1,Hallucinations,2,SCOPA-PC_01; SCOPA-PC_02,6.0
+psychosis,SCOPA-PC,2,Delusions,1,SCOPA-PC_03,3.0
+psychosis,UM-PDHQ,1,Hallucinations,1,UM-PDHQ_01,2.0
+sleep,ESS,1,Daytime sleepiness and alertness,8,ESS_01; ESS_02; ESS_03; ESS_04; ESS_05; ESS_06; ESS_07; ESS_08,24.0
+sleep,ISI,1,Daytime sleepiness and alertness,1,ISI_05,4.0
+sleep,ISI,2,Nocturnal sleep disturbances,3,ISI_01_1; ISI_01_2; ISI_01_3,12.0
+sleep,KSS,1,Daytime sleepiness and alertness,1,KSS_01,9.0
+sleep,MDS-UPDRS_I,1,Daytime sleepiness and alertness,1,MDS-UPDRS_1.8,4.0
+sleep,MDS-UPDRS_I,2,Nocturnal sleep disturbances,1,MDS-UPDRS_1.7,4.0
+sleep,NMSQuest,1,Daytime sleepiness and alertness,2,NMSQuest_15; NMSQuest_22,2.0
+sleep,NMSQuest,2,Nocturnal sleep disturbances,3,NMSQuest_09; NMSQuest_23; NMSQuest_26,3.0
+sleep,NMSQuest,3,REM sleep behavior and dreaming,2,NMSQuest_24; NMSQuest_25,2.0
+sleep,NMSS,1,Daytime sleepiness and alertness,3,NMSS_03; NMSS_04; NMSS_16,36.0
+sleep,NMSS,2,Nocturnal sleep disturbances,3,NMSS_05; NMSS_06; NMSS_24,36.0
+sleep,NPI,1,Daytime sleepiness and alertness,1,NPI_K_07,12.0
+sleep,NPI,2,Nocturnal sleep disturbances,8,NPI_K_screen; NPI_K_01; NPI_K_02; NPI_K_03; NPI_K_04; NPI_K_05; NPI_K_06; NPI_K_08,85.0
+sleep,PDSS,1,Daytime sleepiness and alertness,2,PDSS_14; PDSS_15,20.0
+sleep,PDSS,2,Nocturnal sleep disturbances,9,PDSS_02; PDSS_03; PDSS_04; PDSS_05; PDSS_07; PDSS_08; PDSS_10; PDSS_11; PDSS_12,90.0
+sleep,PDSS,3,REM sleep behavior and dreaming,1,PDSS_06,10.0
+sleep,PDSS-2,1,Daytime sleepiness and alertness,1,PDSS-2_14,4.0
+sleep,PDSS-2,2,Nocturnal sleep disturbances,10,PDSS-2_02; PDSS-2_03; PDSS-2_04; PDSS-2_05; PDSS-2_07; PDSS-2_08; PDSS-2_09; PDSS-2_10; PDSS-2_11; PDSS-2_12,40.0
+sleep,PDSS-2,3,REM sleep behavior and dreaming,1,PDSS-2_06,4.0
+sleep,PDSS-2,4,Sleep-disordered breathing,1,PDSS-2_15,4.0
+sleep,PSQI,2,Nocturnal sleep disturbances,2,PSQI_Comp04; PSQI_Comp05_10,6.0
+sleep,RBD1Q,3,REM sleep behavior and dreaming,1,RBD1Q_01,1.0
+sleep,RBDSQ,2,Nocturnal sleep disturbances,1,RBDSQ_09,1.0
+sleep,RBDSQ,3,REM sleep behavior and dreaming,11,RBDSQ_01; RBDSQ_02; RBDSQ_03; RBDSQ_04; RBDSQ_05; RBDSQ_06_1; RBDSQ_06_2; RBDSQ_06_3; RBDSQ_06_4; RBDSQ_07; RBDSQ_08,11.0
+sleep,SCOPA-SLEEP,1,Daytime sleepiness and alertness,6,SCOPA-SLEEP_DS_01; SCOPA-SLEEP_DS_02; SCOPA-SLEEP_DS_03; SCOPA-SLEEP_DS_04; SCOPA-SLEEP_DS_05; SCOPA-SLEEP_DS_06,18.0
+sleep,SCOPA-SLEEP,2,Nocturnal sleep disturbances,5,SCOPA-SLEEP_NS_01; SCOPA-SLEEP_NS_02; SCOPA-SLEEP_NS_03; SCOPA-SLEEP_NS_04; SCOPA-SLEEP_NS_05,15.0
+depression,MADRS,1,Mood & affective symptoms,4,"MADRS_01,MADRS_02,MADRS_08,MADRS_10",24.0
+depression,MADRS,5,Anxiety & distress,1,MADRS_03,6.0
+depression,MADRS,3,Somatic & vegetative symptoms,2,"MADRS_04,MADRS_05",12.0
+depression,MADRS,2,Cognitive & self-perception,2,"MADRS_06,MADRS_09",12.0
+depression,MADRS,4,Activity & interest deficits,1,MADRS_07,6.0
+depression,PHQ-9,4,Activity & interest deficits,1,PHQ-9_01,3.0
+depression,PHQ-9,1,Mood & affective symptoms,2,"PHQ-9_02,PHQ-9_09",6.0
+depression,PHQ-9,3,Somatic & vegetative symptoms,4,"PHQ-9_03,PHQ-9_04,PHQ-9_05,PHQ-9_08",12.0
+depression,PHQ-9,2,Cognitive & self-perception,2,"PHQ-9_06,PHQ-9_07",6.0
+depression,IDS-CR,3,Somatic & vegetative symptoms,12,"IDS-CR_01,IDS-CR_02,IDS-CR_03,IDS-CR_04,IDS-CR_11,IDS-CR_12,IDS-CR_13,IDS-CR_14,IDS-CR_20,IDS-CR_23,IDS-CR_25,IDS-CR_28",36.0
+depression,IDS-CR,1,Mood & affective symptoms,5,"IDS-CR_05,IDS-CR_08,IDS-CR_09,IDS-CR_10,IDS-CR_18",15.0
+depression,IDS-CR,5,Anxiety & distress,7,"IDS-CR_06,IDS-CR_07,IDS-CR_24,IDS-CR_26,IDS-CR_27,IDS-CR_29,IDS-CR_30",21.0
+depression,IDS-CR,2,Cognitive & self-perception,3,"IDS-CR_15,IDS-CR_16,IDS-CR_17",9.0
+depression,IDS-CR,4,Activity & interest deficits,3,"IDS-CR_19,IDS-CR_21,IDS-CR_22",9.0
+anxiety,GHQ-28,2,Cognitive symptoms,4,"GHQ-28_B1,GHQ-28_B5,GHQ-28_B6,GHQ-28_B7",12.0
+anxiety,GHQ-28,1,Somatic symptoms,3,"GHQ-28_B2,GHQ-28_B3,GHQ-28_B4",9.0
+depression,GHQ-28,2,Cognitive & self-perception,4,"GHQ-28_D1,GHQ-28_D2,GHQ-28_D3,GHQ-28_D4",12.0
+depression,GHQ-28,5,Anxiety & distress,1,GHQ-28_D5,3.0
+depression,GHQ-28,1,Mood & affective symptoms,1,GHQ-28_D6,3.0
+anxiety,GAI,1,Somatic symptoms,5,GAI_03; GAI_04; GAI_07; GAI_15; GAI_18,5.0
+anxiety,GAI,2,Cognitive symptoms,15,GAI_01; GAI_02; GAI_05; GAI_06; GAI_08; GAI_09; GAI_10; GAI_11; GAI_12; GAI_13; GAI_14; GAI_16; GAI_17; GAI_19; GAI_20,15.0

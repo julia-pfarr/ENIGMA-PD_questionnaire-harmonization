@@ -1,0 +1,897 @@
+item_id,construct,questionnaire,final_dimension,final_dimension_label,expert_confidence_p_i,expert_proportions_e_ik,source,was_corrected
+HADS_01,anxiety,HADS,1,Somatic symptoms,0.569,"{""1"": 0.7, ""2"": 0.3}",original,False
+HADS_03,anxiety,HADS,2,Cognitive symptoms,0.738,"{""1"": 0.15, ""2"": 0.85}",original,False
+HADS_05,anxiety,HADS,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+HADS_07,anxiety,HADS,1,Somatic symptoms,0.524,"{""-1"": 0.12, ""1"": 0.7, ""2"": 0.18}",original,False
+HADS_09,anxiety,HADS,1,Somatic symptoms,0.815,"{""1"": 0.9, ""2"": 0.1}",original,False
+HADS_11,anxiety,HADS,1,Somatic symptoms,0.815,"{""1"": 0.9, ""2"": 0.1}",original,False
+HADS_13,anxiety,HADS,2,Cognitive symptoms,0.604,"{""-1"": 0.02, ""1"": 0.22, ""2"": 0.75}",original,False
+HAMA_01,anxiety,HAMA,2,Cognitive symptoms,0.903,"{""1"": 0.05, ""2"": 0.95}",original,False
+HAMA_02,anxiety,HAMA,1,Somatic symptoms,0.672,"{""1"": 0.8, ""2"": 0.2}",original,False
+HAMA_03,anxiety,HAMA,2,Cognitive symptoms,0.95,"{""1"": 0.02, ""2"": 0.98}",original,False
+HAMA_04,anxiety,HAMA,1,Somatic symptoms,0.81,"{""-1"": 0.05, ""1"": 0.9, ""2"": 0.05}",original,False
+HAMA_05,anxiety,HAMA,2,Cognitive symptoms,0.619,"{""-1"": 0.08, ""1"": 0.15, ""2"": 0.78}",original,False
+HAMA_06,anxiety,HAMA,2,Cognitive symptoms,0.473,"{""-1"": 0.3, ""1"": 0.08, ""2"": 0.62}",original,False
+HAMA_07,anxiety,HAMA,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+HAMA_08,anxiety,HAMA,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+HAMA_09,anxiety,HAMA,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+HAMA_10,anxiety,HAMA,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+HAMA_11,anxiety,HAMA,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+HAMA_12,anxiety,HAMA,1,Somatic symptoms,0.903,"{""-1"": 0.05, ""1"": 0.95}",original,False
+HAMA_13,anxiety,HAMA,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+HAMA_14,anxiety,HAMA,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+BAI_01,anxiety,BAI,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+BAI_02,anxiety,BAI,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+BAI_03,anxiety,BAI,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+BAI_04,anxiety,BAI,1,Somatic symptoms,0.578,"{""-1"": 0.02, ""1"": 0.72, ""2"": 0.25}",original,False
+BAI_05,anxiety,BAI,2,Cognitive symptoms,0.858,"{""1"": 0.08, ""2"": 0.92}",original,False
+BAI_06,anxiety,BAI,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+BAI_07,anxiety,BAI,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+BAI_08,anxiety,BAI,1,Somatic symptoms,0.632,"{""-1"": 0.02, ""1"": 0.78, ""2"": 0.2}",original,False
+BAI_09,anxiety,BAI,2,Cognitive symptoms,0.632,"{""-1"": 0.02, ""1"": 0.2, ""2"": 0.78}",original,False
+BAI_10,anxiety,BAI,2,Cognitive symptoms,0.488,"{""-1"": 0.02, ""1"": 0.38, ""2"": 0.6}",original,False
+BAI_11,anxiety,BAI,1,Somatic symptoms,0.903,"{""1"": 0.95, ""2"": 0.05}",original,False
+BAI_12,anxiety,BAI,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+BAI_13,anxiety,BAI,1,Somatic symptoms,0.903,"{""1"": 0.95, ""2"": 0.05}",original,False
+BAI_14,anxiety,BAI,2,Cognitive symptoms,0.858,"{""1"": 0.08, ""2"": 0.92}",original,False
+BAI_15,anxiety,BAI,1,Somatic symptoms,0.903,"{""1"": 0.95, ""2"": 0.05}",original,False
+BAI_16,anxiety,BAI,2,Cognitive symptoms,0.858,"{""1"": 0.08, ""2"": 0.92}",original,False
+BAI_17,anxiety,BAI,2,Cognitive symptoms,0.732,"{""-1"": 0.02, ""1"": 0.12, ""2"": 0.85}",original,False
+BAI_18,anxiety,BAI,1,Somatic symptoms,0.95,"{""1"": 0.98, ""2"": 0.02}",original,False
+BAI_19,anxiety,BAI,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+BAI_20,anxiety,BAI,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+BAI_21,anxiety,BAI,1,Somatic symptoms,0.95,"{""1"": 0.98, ""2"": 0.02}",original,False
+PAS_A.1,anxiety,PAS,2,Cognitive symptoms,0.604,"{""-1"": 0.02, ""1"": 0.22, ""2"": 0.75}",original,False
+PAS_A.2,anxiety,PAS,1,Somatic symptoms,1.0,"{""1"": 1.0}",expert_review,True
+PAS_A.3,anxiety,PAS,1,Somatic symptoms,0.508,"{""1"": 0.6, ""2"": 0.4}",original,False
+PAS_A.4,anxiety,PAS,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+PAS_A.5,anxiety,PAS,2,Cognitive symptoms,0.95,"{""1"": 0.02, ""2"": 0.98}",original,False
+PAS_B.1,anxiety,PAS,2,Cognitive symptoms,0.704,"{""1"": 0.18, ""2"": 0.82}",original,False
+PAS_B.2,anxiety,PAS,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+PAS_B.3,anxiety,PAS,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+PAS_B.4,anxiety,PAS,2,Cognitive symptoms,0.95,"{""1"": 0.02, ""2"": 0.98}",original,False
+PAS_C.1,anxiety,PAS,2,Cognitive symptoms,0.858,"{""-1"": 0.08, ""2"": 0.92}",original,False
+PAS_C.2,anxiety,PAS,2,Cognitive symptoms,0.815,"{""-1"": 0.1, ""2"": 0.9}",original,False
+PAS_C.3,anxiety,PAS,2,Cognitive symptoms,0.815,"{""-1"": 0.1, ""2"": 0.9}",original,False
+STAI_1,anxiety,STAI,2,Cognitive symptoms,0.455,"{""-1"": 0.12, ""1"": 0.25, ""2"": 0.62}",original,False
+STAI_2,anxiety,STAI,2,Cognitive symptoms,0.688,"{""-1"": 0.1, ""1"": 0.08, ""2"": 0.82}",original,False
+STAI_3,anxiety,STAI,1,Somatic symptoms,0.533,"{""1"": 0.65, ""2"": 0.35}",original,False
+STAI_4,anxiety,STAI,1,Somatic symptoms,0.501,"{""-1"": 0.02, ""1"": 0.62, ""2"": 0.35}",original,False
+STAI_5,anxiety,STAI,2,Cognitive symptoms,0.388,"{""-1"": 0.15, ""1"": 0.32, ""2"": 0.52}",original,False
+STAI_6,anxiety,STAI,2,Cognitive symptoms,0.771,"{""-1"": 0.02, ""1"": 0.1, ""2"": 0.88}",original,False
+STAI_7,anxiety,STAI,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+STAI_8,anxiety,STAI,2,Cognitive symptoms,0.56,"{""-1"": 0.2, ""1"": 0.08, ""2"": 0.72}",original,False
+STAI_9,anxiety,STAI,2,Cognitive symptoms,0.81,"{""-1"": 0.05, ""1"": 0.05, ""2"": 0.9}",original,False
+STAI_10,anxiety,STAI,1,Somatic symptoms,1.0,"{""1"": 1.0}",expert_review,True
+STAI_11,anxiety,STAI,2,Cognitive symptoms,0.656,"{""-1"": 0.15, ""1"": 0.05, ""2"": 0.8}",original,False
+STAI_12,anxiety,STAI,2,Cognitive symptoms,0.488,"{""-1"": 0.02, ""1"": 0.38, ""2"": 0.6}",original,False
+STAI_13,anxiety,STAI,1,Somatic symptoms,0.555,"{""-1"": 0.02, ""1"": 0.7, ""2"": 0.28}",original,False
+STAI_14,anxiety,STAI,2,Cognitive symptoms,0.95,"{""1"": 0.02, ""2"": 0.98}",original,False
+STAI_15,anxiety,STAI,1,Somatic symptoms,1.0,"{""1"": 1.0}",expert_review,True
+STAI_16,anxiety,STAI,2,Cognitive symptoms,0.588,"{""-1"": 0.18, ""1"": 0.08, ""2"": 0.75}",original,False
+STAI_17,anxiety,STAI,2,Cognitive symptoms,0.95,"{""1"": 0.02, ""2"": 0.98}",original,False
+STAI_18,anxiety,STAI,2,Cognitive symptoms,0.95,"{""1"": 0.02, ""2"": 0.98}",original,False
+STAI_19,anxiety,STAI,2,Cognitive symptoms,0.431,"{""-1"": 0.15, ""1"": 0.25, ""2"": 0.6}",original,False
+STAI_20,anxiety,STAI,2,Cognitive symptoms,0.588,"{""-1"": 0.18, ""1"": 0.08, ""2"": 0.75}",original,False
+NMSQuest_17,anxiety,NMSQuest,2,Cognitive symptoms,0.732,"{""-1"": 0.02, ""1"": 0.12, ""2"": 0.85}",original,False
+NPI_E_screen,anxiety,NPI,2,Cognitive symptoms,0.421,"{""-1"": 0.1, ""1"": 0.35, ""2"": 0.55}",original,False
+NPI_E_1,anxiety,NPI,2,Cognitive symptoms,0.95,"{""-1"": 0.02, ""2"": 0.98}",original,False
+NPI_E_2,anxiety,NPI,1,Somatic symptoms,0.672,"{""1"": 0.8, ""2"": 0.2}",original,False
+NPI_E_3,anxiety,NPI,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+NPI_E_4,anxiety,NPI,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+NPI_E_5,anxiety,NPI,2,Cognitive symptoms,0.812,"{""-1"": 0.02, ""1"": 0.08, ""2"": 0.9}",original,False
+NPI_E_6,anxiety,NPI,2,Cognitive symptoms,0.585,"{""-1"": 0.1, ""1"": 0.15, ""2"": 0.75}",original,False
+NPI_E_7,anxiety,NPI,-1,Does not fit,1.0,"{""-1"": 1.0}",expert_review,True
+MDS-UPDRS_1.4,anxiety,MDS-UPDRS_I,2,Cognitive symptoms,0.553,"{""-1"": 0.15, ""1"": 0.12, ""2"": 0.72}",original,False
+SAS_01,apathy,SAS,1,Behavioral-Cognitive apathy,1.0,"{""1"": 1.0}",original,False
+SAS_02,apathy,SAS,1,Behavioral-Cognitive apathy,0.812,"{""-1"": 0.02, ""1"": 0.9, ""2"": 0.08}",original,False
+SAS_03,apathy,SAS,1,Behavioral-Cognitive apathy,0.56,"{""-1"": 0.08, ""1"": 0.72, ""2"": 0.2}",original,False
+SAS_04,apathy,SAS,1,Behavioral-Cognitive apathy,0.95,"{""-1"": 0.02, ""1"": 0.98}",original,False
+SAS_05,apathy,SAS,1,Behavioral-Cognitive apathy,0.903,"{""-1"": 0.05, ""1"": 0.95}",original,False
+SAS_06,apathy,SAS,1,Behavioral-Cognitive apathy,0.95,"{""-1"": 0.02, ""1"": 0.98}",original,False
+SAS_07,apathy,SAS,1,Behavioral-Cognitive apathy,0.812,"{""-1"": 0.02, ""1"": 0.9, ""2"": 0.08}",original,False
+SAS_08,apathy,SAS,1,Behavioral-Cognitive apathy,0.768,"{""-1"": 0.08, ""1"": 0.88, ""2"": 0.05}",original,False
+SAS_09,apathy,SAS,1,Behavioral-Cognitive apathy,0.95,"{""1"": 0.98, ""2"": 0.02}",original,False
+SAS_10,apathy,SAS,2,Affective apathy,0.508,"{""1"": 0.4, ""2"": 0.6}",original,False
+SAS_11,apathy,SAS,2,Affective apathy,1.0,"{""2"": 1.0}",expert_review,True
+SAS_12,apathy,SAS,1,Behavioral-Cognitive apathy,0.95,"{""1"": 0.98, ""2"": 0.02}",original,False
+SAS_13,apathy,SAS,2,Affective apathy,0.727,"{""-1"": 0.08, ""1"": 0.08, ""2"": 0.85}",original,False
+SAS_14,apathy,SAS,-1,Does not fit,1.0,"{""-1"": 1.0}",expert_review,True
+AES_01,apathy,AES,1,Behavioral-Cognitive apathy,0.858,"{""1"": 0.92, ""2"": 0.08}",original,False
+AES_02,apathy,AES,1,Behavioral-Cognitive apathy,0.95,"{""1"": 0.98, ""2"": 0.02}",original,False
+AES_03,apathy,AES,1,Behavioral-Cognitive apathy,0.95,"{""1"": 0.98, ""2"": 0.02}",original,False
+AES_04,apathy,AES,1,Behavioral-Cognitive apathy,0.903,"{""1"": 0.95, ""2"": 0.05}",original,False
+AES_05,apathy,AES,1,Behavioral-Cognitive apathy,1.0,"{""1"": 1.0}",original,False
+AES_06,apathy,AES,1,Behavioral-Cognitive apathy,1.0,"{""1"": 1.0}",original,False
+AES_07,apathy,AES,1,Behavioral-Cognitive apathy,0.472,"{""-1"": 0.05, ""1"": 0.6, ""2"": 0.35}",original,False
+AES_08,apathy,AES,1,Behavioral-Cognitive apathy,0.95,"{""-1"": 0.02, ""1"": 0.98}",original,False
+AES_09,apathy,AES,1,Behavioral-Cognitive apathy,0.901,"{""-1"": 0.02, ""1"": 0.95, ""2"": 0.02}",original,False
+AES_10,apathy,AES,1,Behavioral-Cognitive apathy,1.0,"{""1"": 1.0}",original,False
+AES_11,apathy,AES,2,Affective apathy,1.0,"{""2"": 1.0}",expert_review,True
+AES_12,apathy,AES,-1,Does not fit,1.0,"{""-1"": 1.0}",expert_review,True
+AES_13,apathy,AES,-1,Does not fit,1.0,"{""-1"": 1.0}",expert_review,True
+AES_14,apathy,AES,2,Affective apathy,0.903,"{""1"": 0.05, ""2"": 0.95}",original,False
+AES_15,apathy,AES,1,Behavioral-Cognitive apathy,0.728,"{""-1"": 0.05, ""1"": 0.85, ""2"": 0.1}",original,False
+AES_16,apathy,AES,1,Behavioral-Cognitive apathy,1.0,"{""1"": 1.0}",original,False
+AES_17,apathy,AES,1,Behavioral-Cognitive apathy,0.95,"{""-1"": 0.02, ""1"": 0.98}",original,False
+AES_18,apathy,AES,1,Behavioral-Cognitive apathy,0.691,"{""-1"": 0.05, ""1"": 0.82, ""2"": 0.12}",original,False
+AMI_01,apathy,AMI,2,Affective apathy,0.812,"{""-1"": 0.02, ""1"": 0.08, ""2"": 0.9}",original,False
+AMI_02,apathy,AMI,1,Behavioral-Cognitive apathy,0.855,"{""-1"": 0.02, ""1"": 0.92, ""2"": 0.05}",original,False
+AMI_03,apathy,AMI,2,Affective apathy,1.0,"{""2"": 1.0}",expert_review,True
+AMI_04,apathy,AMI,1,Behavioral-Cognitive apathy,0.858,"{""1"": 0.92, ""2"": 0.08}",original,False
+AMI_05,apathy,AMI,1,Behavioral-Cognitive apathy,0.815,"{""-1"": 0.1, ""1"": 0.9}",original,False
+AMI_06,apathy,AMI,1,Behavioral-Cognitive apathy,0.617,"{""-1"": 0.12, ""1"": 0.78, ""2"": 0.1}",original,False
+AMI_07,apathy,AMI,2,Affective apathy,0.555,"{""-1"": 0.02, ""1"": 0.28, ""2"": 0.7}",original,False
+AMI_08,apathy,AMI,1,Behavioral-Cognitive apathy,0.56,"{""-1"": 0.08, ""1"": 0.72, ""2"": 0.2}",original,False
+AMI_09,apathy,AMI,1,Behavioral-Cognitive apathy,1.0,"{""1"": 1.0}",original,False
+AMI_10,apathy,AMI,1,Behavioral-Cognitive apathy,1.0,"{""1"": 1.0}",original,False
+AMI_11,apathy,AMI,1,Behavioral-Cognitive apathy,1.0,"{""1"": 1.0}",original,False
+AMI_12,apathy,AMI,1,Behavioral-Cognitive apathy,0.903,"{""1"": 0.95, ""2"": 0.05}",original,False
+AMI_13,apathy,AMI,2,Affective apathy,0.688,"{""-1"": 0.08, ""1"": 0.1, ""2"": 0.82}",original,False
+AMI_14,apathy,AMI,1,Behavioral-Cognitive apathy,0.95,"{""-1"": 0.02, ""1"": 0.98}",original,False
+AMI_15,apathy,AMI,1,Behavioral-Cognitive apathy,0.95,"{""-1"": 0.02, ""1"": 0.98}",original,False
+AMI_16,apathy,AMI,2,Affective apathy,0.903,"{""1"": 0.05, ""2"": 0.95}",original,False
+AMI_17,apathy,AMI,1,Behavioral-Cognitive apathy,0.544,"{""-1"": 0.05, ""1"": 0.7, ""2"": 0.25}",original,False
+AMI_18,apathy,AMI,2,Affective apathy,0.691,"{""-1"": 0.05, ""1"": 0.12, ""2"": 0.82}",original,False
+LARS_02.2,apathy,LARS,1,Behavioral-Cognitive apathy,0.95,"{""-1"": 0.02, ""1"": 0.98}",original,False
+LARS_03.1,apathy,LARS,1,Behavioral-Cognitive apathy,1.0,"{""1"": 1.0}",original,False
+LARS_03.2,apathy,LARS,1,Behavioral-Cognitive apathy,1.0,"{""1"": 1.0}",original,False
+LARS_03.3,apathy,LARS,1,Behavioral-Cognitive apathy,0.95,"{""1"": 0.98, ""2"": 0.02}",original,False
+LARS_03.4,apathy,LARS,1,Behavioral-Cognitive apathy,0.95,"{""1"": 0.98, ""2"": 0.02}",original,False
+LARS_04.1,apathy,LARS,1,Behavioral-Cognitive apathy,0.776,"{""1"": 0.88, ""2"": 0.12}",original,False
+LARS_04.2,apathy,LARS,1,Behavioral-Cognitive apathy,0.903,"{""1"": 0.95, ""2"": 0.05}",original,False
+LARS_04.3,apathy,LARS,1,Behavioral-Cognitive apathy,0.776,"{""1"": 0.88, ""2"": 0.12}",original,False
+LARS_04.4,apathy,LARS,2,Affective apathy,1.0,"{""2"": 1.0}",expert_review,True
+LARS_05.1,apathy,LARS,1,Behavioral-Cognitive apathy,0.95,"{""1"": 0.98, ""2"": 0.02}",original,False
+LARS_05.2,apathy,LARS,1,Behavioral-Cognitive apathy,0.95,"{""1"": 0.98, ""2"": 0.02}",original,False
+LARS_05.3,apathy,LARS,1,Behavioral-Cognitive apathy,0.95,"{""1"": 0.98, ""2"": 0.02}",original,False
+LARS_05.4,apathy,LARS,1,Behavioral-Cognitive apathy,0.95,"{""-1"": 0.02, ""1"": 0.98}",original,False
+LARS_06.1,apathy,LARS,2,Affective apathy,0.858,"{""1"": 0.08, ""2"": 0.92}",original,False
+LARS_06.2,apathy,LARS,2,Affective apathy,0.855,"{""-1"": 0.02, ""1"": 0.05, ""2"": 0.92}",original,False
+LARS_06.3,apathy,LARS,2,Affective apathy,0.903,"{""1"": 0.05, ""2"": 0.95}",original,False
+LARS_06.4,apathy,LARS,2,Affective apathy,0.903,"{""1"": 0.05, ""2"": 0.95}",original,False
+LARS_07.1,apathy,LARS,2,Affective apathy,0.486,"{""-1"": 0.05, ""1"": 0.32, ""2"": 0.62}",original,False
+LARS_07.2,apathy,LARS,2,Affective apathy,0.578,"{""-1"": 0.02, ""1"": 0.25, ""2"": 0.72}",original,False
+LARS_07.2,apathy,LARS,2,Affective apathy,0.578,"{""-1"": 0.02, ""1"": 0.25, ""2"": 0.72}",original,False
+LARS_07.4,apathy,LARS,2,Affective apathy,0.486,"{""-1"": 0.05, ""1"": 0.32, ""2"": 0.62}",original,False
+LARS_08.1,apathy,LARS,-1,Does not fit,0.347,"{""-1"": 0.48, ""1"": 0.25, ""2"": 0.28}",original,False
+LARS_08.2,apathy,LARS,2,Affective apathy,0.568,"{""-1"": 0.05, ""1"": 0.22, ""2"": 0.72}",original,False
+LARS_08.3,apathy,LARS,1,Behavioral-Cognitive apathy,0.768,"{""-1"": 0.05, ""1"": 0.88, ""2"": 0.08}",original,False
+LARS_08.4,apathy,LARS,1,Behavioral-Cognitive apathy,0.691,"{""-1"": 0.12, ""1"": 0.82, ""2"": 0.05}",original,False
+LARS_09.1,apathy,LARS,1,Behavioral-Cognitive apathy,0.728,"{""-1"": 0.1, ""1"": 0.85, ""2"": 0.05}",original,False
+LARS_09.2,apathy,LARS,1,Behavioral-Cognitive apathy,0.553,"{""-1"": 0.15, ""1"": 0.72, ""2"": 0.12}",original,False
+LARS_09.3,apathy,LARS,2,Affective apathy,0.553,"{""-1"": 0.12, ""1"": 0.15, ""2"": 0.72}",original,False
+LARS_09.4,apathy,LARS,1,Behavioral-Cognitive apathy,0.406,"{""-1"": 0.2, ""1"": 0.57, ""2"": 0.22}",original,False
+NMSQuest_13,apathy,NMSSQuest,1,Behavioral-Cognitive apathy,0.585,"{""-1"": 0.1, ""1"": 0.75, ""2"": 0.15}",original,False
+NPI_G_screen,apathy,NPI,1,Behavioral-Cognitive apathy,0.528,"{""-1"": 0.2, ""1"": 0.7, ""2"": 0.1}",original,False
+NPI_G_1,apathy,NPI,1,Behavioral-Cognitive apathy,0.858,"{""1"": 0.92, ""2"": 0.08}",original,False
+NPI_G_2,apathy,NPI,1,Behavioral-Cognitive apathy,0.903,"{""1"": 0.95, ""2"": 0.05}",original,False
+NPI_G_3,apathy,NPI,2,Affective apathy,0.903,"{""1"": 0.05, ""2"": 0.95}",original,False
+NPI_G_4,apathy,NPI,1,Behavioral-Cognitive apathy,0.95,"{""-1"": 0.02, ""1"": 0.98}",original,False
+NPI_G_5,apathy,NPI,1,Behavioral-Cognitive apathy,0.568,"{""-1"": 0.05, ""1"": 0.72, ""2"": 0.22}",original,False
+NPI_G_6,apathy,NPI,2,Affective apathy,1.0,"{""2"": 1.0}",expert_review,True
+NPI_G_7,apathy,NPI,2,Affective apathy,0.578,"{""-1"": 0.02, ""1"": 0.25, ""2"": 0.72}",original,False
+NPI_G_8,apathy,NPI,1,Behavioral-Cognitive apathy,0.555,"{""-1"": 0.02, ""1"": 0.7, ""2"": 0.28}",original,False
+MDS-UPDRS_1.5,apathy,MDS-UPDRS_I,2,Affective apathy,1.0,"{""2"": 1.0}",expert_review,True
+BDI_01,depression,BDI,1,Mood & affective symptoms,1.0,"{""1"": 1.0}",original,False
+BDI_02,depression,BDI,2,Cognitive & self-perception,0.568,"{""1"": 0.22, ""2"": 0.72, ""4"": 0.05}",original,False
+BDI_03,depression,BDI,2,Cognitive & self-perception,0.812,"{""1"": 0.08, ""2"": 0.9, ""4"": 0.02}",original,False
+BDI_04,depression,BDI,4,Activity & interest deficits,0.517,"{""1"": 0.32, ""3"": 0.02, ""4"": 0.65}",original,False
+BDI_05,depression,BDI,2,Cognitive & self-perception,0.522,"{""1"": 0.28, ""2"": 0.68, ""5"": 0.05}",original,False
+BDI_06,depression,BDI,2,Cognitive & self-perception,0.696,"{""1"": 0.15, ""2"": 0.82, ""5"": 0.02}",original,False
+BDI_07,depression,BDI,2,Cognitive & self-perception,0.858,"{""1"": 0.08, ""2"": 0.92}",original,False
+BDI_08,depression,BDI,2,Cognitive & self-perception,0.858,"{""1"": 0.08, ""2"": 0.92}",original,False
+BDI_09,depression,BDI,1,Mood & affective symptoms,0.414,"{""-1"": 0.08, ""1"": 0.57, ""2"": 0.3, ""5"": 0.05}",original,False
+BDI_10,depression,BDI,1,Mood & affective symptoms,0.655,"{""-1"": 0.02, ""1"": 0.8, ""3"": 0.15, ""5"": 0.02}",original,False
+BDI_11,depression,BDI,5,Anxiety & distress,0.69,"{""-1"": 0.02, ""1"": 0.12, ""2"": 0.02, ""5"": 0.82}",original,False
+BDI_12,depression,BDI,4,Activity & interest deficits,0.696,"{""1"": 0.15, ""2"": 0.02, ""4"": 0.82}",original,False
+BDI_13,depression,BDI,2,Cognitive & self-perception,1.0,"{""2"": 1.0}",expert_review,True
+BDI_14,depression,BDI,2,Cognitive & self-perception,0.653,"{""1"": 0.08, ""2"": 0.8, ""5"": 0.12}",original,False
+BDI_15,depression,BDI,4,Activity & interest deficits,0.605,"{""1"": 0.08, ""2"": 0.02, ""3"": 0.08, ""4"": 0.78, ""5"": 0.05}",original,False
+BDI_16,depression,BDI,3,Somatic & vegetative symptoms,0.809,"{""1"": 0.02, ""3"": 0.9, ""4"": 0.02, ""5"": 0.05}",original,False
+BDI_17,depression,BDI,3,Somatic & vegetative symptoms,0.727,"{""1"": 0.02, ""3"": 0.85, ""4"": 0.1, ""5"": 0.02}",original,False
+BDI_18,depression,BDI,3,Somatic & vegetative symptoms,0.901,"{""1"": 0.02, ""3"": 0.95, ""4"": 0.02}",original,False
+BDI_19,depression,BDI,3,Somatic & vegetative symptoms,0.901,"{""1"": 0.02, ""2"": 0.02, ""3"": 0.95}",original,False
+BDI_20,depression,BDI,3,Somatic & vegetative symptoms,1.0,"{""3"": 1.0}",expert_review,True
+BDI_21,depression,BDI,4,Activity & interest deficits,0.485,"{""1"": 0.02, ""2"": 0.02, ""3"": 0.32, ""4"": 0.62}",original,False
+GDS_01,depression,GDS,2,Cognitive & self-perception,0.535,"{""1"": 0.3, ""2"": 0.68, ""4"": 0.02}",original,False
+GDS_02,depression,GDS,4,Activity & interest deficits,0.903,"{""1"": 0.05, ""4"": 0.95}",original,False
+GDS_03,depression,GDS,2,Cognitive & self-perception,1.0,"{""2"": 1.0}",expert_review,True
+GDS_04,depression,GDS,4,Activity & interest deficits,0.519,"{""-1"": 0.02, ""1"": 0.18, ""2"": 0.1, ""4"": 0.7}",original,False
+GDS_05,depression,GDS,1,Mood & affective symptoms,0.95,"{""1"": 0.98, ""2"": 0.02}",original,False
+GDS_06,depression,GDS,5,Anxiety & distress,0.578,"{""1"": 0.02, ""2"": 0.25, ""5"": 0.72}",original,False
+GDS_07,depression,GDS,1,Mood & affective symptoms,0.95,"{""-1"": 0.02, ""1"": 0.98}",original,False
+GDS_08,depression,GDS,1,Mood & affective symptoms,1.0,"{""1"": 1.0}",expert_review,True
+GDS_09,depression,GDS,4,Activity & interest deficits,0.855,"{""1"": 0.02, ""4"": 0.92, ""5"": 0.05}",original,False
+GDS_10,depression,GDS,2,Cognitive & self-perception,0.578,"{""-1"": 0.02, ""1"": 0.02, ""2"": 0.75, ""3"": 0.15, ""4"": 0.05}",original,False
+GDS_11,depression,GDS,1,Mood & affective symptoms,0.521,"{""-1"": 0.02, ""1"": 0.68, ""2"": 0.28, ""4"": 0.02}",original,False
+GDS_12,depression,GDS,2,Cognitive & self-perception,0.672,"{""1"": 0.2, ""2"": 0.8}",original,False
+GDS_13,depression,GDS,4,Activity & interest deficits,1.0,"{""4"": 1.0}",expert_review,True
+GDS_14,depression,GDS,2,Cognitive & self-perception,0.465,"{""-1"": 0.02, ""1"": 0.2, ""2"": 0.65, ""5"": 0.12}",original,False
+GDS_15,depression,GDS,2,Cognitive & self-perception,0.95,"{""1"": 0.02, ""2"": 0.98}",original,False
+HADS_02,depression,HADS,4,Activity & interest deficits,0.542,"{""-1"": 0.02, ""1"": 0.25, ""2"": 0.02, ""4"": 0.7}",original,False
+HADS_04,depression,HADS,1,Mood & affective symptoms,0.594,"{""-1"": 0.02, ""1"": 0.75, ""2"": 0.02, ""4"": 0.2}",original,False
+HADS_06,depression,HADS,1,Mood & affective symptoms,0.901,"{""-1"": 0.02, ""1"": 0.95, ""4"": 0.02}",original,False
+HADS_08,depression,HADS,3,Somatic & vegetative symptoms,0.332,"{""1"": 0.1, ""2"": 0.15, ""3"": 0.52, ""4"": 0.2, ""5"": 0.02}",original,False
+HADS_10,depression,HADS,4,Activity & interest deficits,1.0,"{""4"": 1.0}",expert_review,True
+HADS_12,depression,HADS,4,Activity & interest deficits,1.0,"{""4"": 1.0}",expert_review,True
+HAMD_01,depression,HAMD,1,Mood & affective symptoms,1.0,"{""1"": 1.0}",original,False
+HAMD_02,depression,HAMD,2,Cognitive & self-perception,0.578,"{""1"": 0.25, ""2"": 0.72, ""5"": 0.02}",original,False
+HAMD_03,depression,HAMD,1,Mood & affective symptoms,0.381,"{""-1"": 0.18, ""1"": 0.55, ""2"": 0.25, ""5"": 0.02}",original,False
+HAMD_04,depression,HAMD,3,Somatic & vegetative symptoms,0.768,"{""1"": 0.05, ""3"": 0.88, ""5"": 0.08}",original,False
+HAMD_05,depression,HAMD,3,Somatic & vegetative symptoms,0.901,"{""1"": 0.02, ""3"": 0.95, ""5"": 0.02}",original,False
+HAMD_06,depression,HAMD,3,Somatic & vegetative symptoms,0.901,"{""1"": 0.02, ""3"": 0.95, ""5"": 0.02}",original,False
+HAMD_07,depression,HAMD,4,Activity & interest deficits,0.901,"{""1"": 0.02, ""3"": 0.02, ""4"": 0.95}",original,False
+HAMD_08,depression,HAMD,3,Somatic & vegetative symptoms,0.391,"{""1"": 0.05, ""2"": 0.15, ""3"": 0.57, ""4"": 0.22}",original,False
+HAMD_09,depression,HAMD,5,Anxiety & distress,0.771,"{""1"": 0.02, ""3"": 0.1, ""5"": 0.88}",original,False
+HAMD_12,depression,HAMD,3,Somatic & vegetative symptoms,0.95,"{""3"": 0.98, ""4"": 0.02}",original,False
+HAMD_13,depression,HAMD,3,Somatic & vegetative symptoms,0.901,"{""3"": 0.95, ""4"": 0.02, ""5"": 0.02}",original,False
+HAMD_14,depression,HAMD,3,Somatic & vegetative symptoms,0.95,"{""3"": 0.98, ""4"": 0.02}",original,False
+HAMD_16,depression,HAMD,3,Somatic & vegetative symptoms,1.0,"{""3"": 1.0}",original,False
+NMSQuest_16,depression,NMSQuest,1,Mood & affective symptoms,1.0,"{""1"": 1.0}",original,False
+NMSS_7,depression,NMSS,4,Activity & interest deficits,0.858,"{""1"": 0.08, ""4"": 0.92}",original,False
+NMSS_8,depression,NMSS,4,Activity & interest deficits,0.903,"{""1"": 0.05, ""4"": 0.95}",original,False
+NMSS_9,depression,NMSS,5,Anxiety & distress,0.809,"{""1"": 0.05, ""2"": 0.02, ""4"": 0.02, ""5"": 0.9}",original,False
+NMSS_10,depression,NMSS,1,Mood & affective symptoms,1.0,"{""1"": 1.0}",original,False
+NMSS_11,depression,NMSS,1,Mood & affective symptoms,0.858,"{""1"": 0.92, ""4"": 0.08}",original,False
+NMSS_12,depression,NMSS,4,Activity & interest deficits,0.591,"{""1"": 0.28, ""4"": 0.72}",original,False
+NPI_D_screen,depression,NPI,1,Mood & affective symptoms,1.0,"{""1"": 1.0}",original,False
+NPI_D_1,depression,NPI,1,Mood & affective symptoms,0.95,"{""1"": 0.98, ""3"": 0.02}",original,False
+NPI_D_2,depression,NPI,1,Mood & affective symptoms,1.0,"{""1"": 1.0}",original,False
+NPI_D_3,depression,NPI,2,Cognitive & self-perception,0.776,"{""1"": 0.12, ""2"": 0.88}",original,False
+NPI_D_4,depression,NPI,2,Cognitive & self-perception,0.903,"{""1"": 0.05, ""2"": 0.95}",original,False
+NPI_D_5,depression,NPI,2,Cognitive & self-perception,0.855,"{""1"": 0.05, ""2"": 0.92, ""4"": 0.02}",original,False
+NPI_D_6,depression,NPI,2,Cognitive & self-perception,0.855,"{""1"": 0.05, ""2"": 0.92, ""4"": 0.02}",original,False
+NPI_D_7,depression,NPI,1,Mood & affective symptoms,1.0,"{""1"": 1.0}",expert_review,True
+NPI_D_8,depression,NPI,1,Mood & affective symptoms,0.732,"{""-1"": 0.12, ""1"": 0.85, ""3"": 0.02}",original,False
+MDS-UPDRS_1.3,depression,MDS-UPDRS_I,1,Mood & affective symptoms,0.583,"{""-1"": 0.12, ""1"": 0.75, ""4"": 0.12}",original,False
+QUIP-RS_1_01,impulse_control,QUIP-RS,1,Pathological gambling,1.0,"{""1"": 1.0}",original,False
+QUIP-RS_1_02,impulse_control,QUIP-RS,2,Hypersexuality,1.0,"{""2"": 1.0}",original,False
+QUIP-RS_1_03,impulse_control,QUIP-RS,3,Compulsive buying,1.0,"{""3"": 1.0}",original,False
+QUIP-RS_1_04,impulse_control,QUIP-RS,4,Compulsive eating,1.0,"{""4"": 1.0}",original,False
+QUIP-RS_1_05,impulse_control,QUIP-RS,5,Punding-hobbyism,0.903,"{""-1"": 0.05, ""5"": 0.95}",original,False
+QUIP-RS_1_06,impulse_control,QUIP-RS,5,Punding-hobbyism,0.696,"{""-1"": 0.02, ""5"": 0.82, ""6"": 0.15}",original,False
+QUIP-RS_1_07,impulse_control,QUIP-RS,6,Dopamine dysregulation syndrome,0.815,"{""-1"": 0.1, ""6"": 0.9}",original,False
+QUIP-RS_2_01,impulse_control,QUIP-RS,1,Pathological gambling,1.0,"{""1"": 1.0}",original,False
+QUIP-RS_2_02,impulse_control,QUIP-RS,2,Hypersexuality,1.0,"{""2"": 1.0}",original,False
+QUIP-RS_2_03,impulse_control,QUIP-RS,3,Compulsive buying,1.0,"{""3"": 1.0}",original,False
+QUIP-RS_2_04,impulse_control,QUIP-RS,4,Compulsive eating,1.0,"{""4"": 1.0}",original,False
+QUIP-RS_2_05,impulse_control,QUIP-RS,5,Punding-hobbyism,1.0,"{""5"": 1.0}",original,False
+QUIP-RS_2_06,impulse_control,QUIP-RS,5,Punding-hobbyism,0.776,"{""5"": 0.88, ""6"": 0.12}",original,False
+QUIP-RS_2_07,impulse_control,QUIP-RS,6,Dopamine dysregulation syndrome,0.855,"{""-1"": 0.05, ""5"": 0.02, ""6"": 0.92}",original,False
+QUIP-RS_3_01,impulse_control,QUIP-RS,1,Pathological gambling,1.0,"{""1"": 1.0}",original,False
+QUIP-RS_3_02,impulse_control,QUIP-RS,2,Hypersexuality,1.0,"{""2"": 1.0}",original,False
+QUIP-RS_3_03,impulse_control,QUIP-RS,3,Compulsive buying,1.0,"{""3"": 1.0}",original,False
+QUIP-RS_3_04,impulse_control,QUIP-RS,4,Compulsive eating,1.0,"{""4"": 1.0}",original,False
+QUIP-RS_3_05,impulse_control,QUIP-RS,5,Punding-hobbyism,1.0,"{""5"": 1.0}",original,False
+QUIP-RS_3_06,impulse_control,QUIP-RS,5,Punding-hobbyism,0.776,"{""5"": 0.88, ""6"": 0.12}",original,False
+QUIP-RS_3_07,impulse_control,QUIP-RS,6,Dopamine dysregulation syndrome,0.812,"{""-1"": 0.08, ""5"": 0.02, ""6"": 0.9}",original,False
+QUIP-RS_4_01,impulse_control,QUIP-RS,1,Pathological gambling,1.0,"{""1"": 1.0}",original,False
+QUIP-RS_4_02,impulse_control,QUIP-RS,2,Hypersexuality,1.0,"{""2"": 1.0}",original,False
+QUIP-RS_4_03,impulse_control,QUIP-RS,3,Compulsive buying,1.0,"{""3"": 1.0}",original,False
+QUIP-RS_4_04,impulse_control,QUIP-RS,4,Compulsive eating,1.0,"{""4"": 1.0}",original,False
+QUIP-RS_4_05,impulse_control,QUIP-RS,5,Punding-hobbyism,1.0,"{""5"": 1.0}",original,False
+QUIP-RS_4_06,impulse_control,QUIP-RS,5,Punding-hobbyism,0.776,"{""5"": 0.88, ""6"": 0.12}",original,False
+QUIP-RS_4_07,impulse_control,QUIP-RS,6,Dopamine dysregulation syndrome,0.812,"{""-1"": 0.08, ""5"": 0.02, ""6"": 0.9}",original,False
+SCOPA-PC_01,psychosis,SCOPA-PC,1,Hallucinations,0.858,"{""1"": 0.92, ""2"": 0.08}",original,False
+SCOPA-PC_02,psychosis,SCOPA-PC,1,Hallucinations,0.776,"{""1"": 0.88, ""2"": 0.12}",original,False
+SCOPA-PC_03,psychosis,SCOPA-PC,2,Delusions,0.855,"{""-1"": 0.02, ""1"": 0.05, ""2"": 0.92}",original,False
+SAPS-PD_01,psychosis,SAPS-PD,1,Hallucinations,0.95,"{""1"": 0.98, ""2"": 0.02}",original,False
+SAPS-PD_03,psychosis,SAPS-PD,1,Hallucinations,0.95,"{""1"": 0.98, ""2"": 0.02}",original,False
+SAPS-PD_04,psychosis,SAPS-PD,1,Hallucinations,0.855,"{""-1"": 0.05, ""1"": 0.92, ""2"": 0.02}",original,False
+SAPS-PD_06,psychosis,SAPS-PD,1,Hallucinations,0.95,"{""1"": 0.98, ""2"": 0.02}",original,False
+SAPS-PD_08,psychosis,SAPS-PD,2,Delusions,0.901,"{""-1"": 0.02, ""1"": 0.02, ""2"": 0.95}",original,False
+SAPS-PD_09,psychosis,SAPS-PD,2,Delusions,0.901,"{""-1"": 0.02, ""1"": 0.02, ""2"": 0.95}",original,False
+SAPS-PD_14,psychosis,SAPS-PD,2,Delusions,0.901,"{""-1"": 0.02, ""1"": 0.02, ""2"": 0.95}",original,False
+PPRS_01,psychosis,PPRS,1,Hallucinations,1.0,"{""1"": 1.0}",original,False
+PPRS_02,psychosis,PPRS,1,Hallucinations,0.696,"{""-1"": 0.02, ""1"": 0.82, ""2"": 0.15}",original,False
+PPRS_03,psychosis,PPRS,2,Delusions,0.855,"{""-1"": 0.02, ""1"": 0.05, ""2"": 0.92}",original,False
+UM-PDHQ_01,psychosis,UM-PDHQ,1,Hallucinations,0.95,"{""1"": 0.98, ""2"": 0.02}",original,False
+NMSQuest_14,psychosis,NMSQuest,1,Hallucinations,0.858,"{""1"": 0.92, ""2"": 0.08}",original,False
+NMSQuest_30,psychosis,NMSQuest,2,Delusions,0.858,"{""1"": 0.08, ""2"": 0.92}",original,False
+NMSS_13,psychosis,NMSS,1,Hallucinations,0.95,"{""1"": 0.98, ""2"": 0.02}",original,False
+NMSS_14,psychosis,NMSS,2,Delusions,0.812,"{""-1"": 0.02, ""1"": 0.08, ""2"": 0.9}",original,False
+NMSS_15,psychosis,NMSS,1,Hallucinations,0.55,"{""-1"": 0.32, ""1"": 0.68}",original,False
+NPI_A_screen,psychosis,NPI,2,Delusions,0.95,"{""-1"": 0.02, ""2"": 0.98}",original,False
+NPI_A_1,psychosis,NPI,2,Delusions,0.901,"{""-1"": 0.02, ""1"": 0.02, ""2"": 0.95}",original,False
+NPI_A_2,psychosis,NPI,2,Delusions,0.901,"{""-1"": 0.02, ""1"": 0.02, ""2"": 0.95}",original,False
+NPI_A_3,psychosis,NPI,2,Delusions,0.901,"{""-1"": 0.02, ""1"": 0.02, ""2"": 0.95}",original,False
+NPI_A_4,psychosis,NPI,2,Delusions,0.81,"{""-1"": 0.05, ""1"": 0.05, ""2"": 0.9}",original,False
+NPI_A_5,psychosis,NPI,2,Delusions,0.901,"{""-1"": 0.02, ""1"": 0.02, ""2"": 0.95}",original,False
+NPI_A_6,psychosis,NPI,2,Delusions,0.812,"{""-1"": 0.08, ""1"": 0.02, ""2"": 0.9}",original,False
+NPI_A_7,psychosis,NPI,2,Delusions,0.901,"{""-1"": 0.02, ""1"": 0.02, ""2"": 0.95}",original,False
+NPI_A_8,psychosis,NPI,2,Delusions,0.728,"{""-1"": 0.05, ""1"": 0.1, ""2"": 0.85}",original,False
+NPI_A_9,psychosis,NPI,2,Delusions,0.855,"{""-1"": 0.05, ""1"": 0.02, ""2"": 0.92}",original,False
+NPI_B_screen,psychosis,NPI,1,Hallucinations,1.0,"{""1"": 1.0}",original,False
+NPI_B_1,psychosis,NPI,1,Hallucinations,1.0,"{""1"": 1.0}",original,False
+NPI_B_2,psychosis,NPI,1,Hallucinations,0.812,"{""-1"": 0.02, ""1"": 0.9, ""2"": 0.08}",original,False
+NPI_B_3,psychosis,NPI,1,Hallucinations,0.95,"{""1"": 0.98, ""2"": 0.02}",original,False
+NPI_B_4,psychosis,NPI,1,Hallucinations,0.95,"{""1"": 0.98, ""2"": 0.02}",original,False
+NPI_B_5,psychosis,NPI,1,Hallucinations,0.901,"{""-1"": 0.02, ""1"": 0.95, ""2"": 0.02}",original,False
+NPI_B_6,psychosis,NPI,1,Hallucinations,0.95,"{""1"": 0.98, ""2"": 0.02}",original,False
+NPI_B_7,psychosis,NPI,1,Hallucinations,1.0,"{""1"": 1.0}",original,False
+MDS-UPDRS_1.2,psychosis,MDS-UPDRS_I,1,Hallucinations,0.903,"{""1"": 0.95, ""2"": 0.05}",original,False
+ESS_01,sleep,ESS,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+ESS_02,sleep,ESS,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+ESS_03,sleep,ESS,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+ESS_04,sleep,ESS,1,Daytime sleepiness and alertness,0.939,"{""-1"": 0.03, ""1"": 0.97}",original,False
+ESS_05,sleep,ESS,1,Daytime sleepiness and alertness,0.826,"{""-1"": 0.06, ""1"": 0.91, ""2"": 0.03}",original,False
+ESS_06,sleep,ESS,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+ESS_07,sleep,ESS,1,Daytime sleepiness and alertness,0.939,"{""-1"": 0.03, ""1"": 0.97}",original,False
+ESS_08,sleep,ESS,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+PSQI_Comp02_1,sleep,PSQI,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",original,False
+PSQI_Comp02_2,sleep,PSQI,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",original,False
+PSQI_Comp04,sleep,PSQI,2,Nocturnal sleep disturbances,0.883,"{""-1"": 0.06, ""2"": 0.94}",original,False
+PSQI_Comp05_1,sleep,PSQI,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",original,False
+PSQI_Comp05_2,sleep,PSQI,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",original,False
+PSQI_Comp05_3,sleep,PSQI,2,Nocturnal sleep disturbances,0.939,"{""2"": 0.97, ""4"": 0.03}",original,False
+PSQI_Comp05_4,sleep,PSQI,4,Sleep-disordered breathing,0.826,"{""-1"": 0.03, ""2"": 0.06, ""4"": 0.91}",original,False
+PSQI_Comp05_5,sleep,PSQI,4,Sleep-disordered breathing,0.83,"{""2"": 0.09, ""4"": 0.91}",original,False
+PSQI_Comp05_6,sleep,PSQI,2,Nocturnal sleep disturbances,0.775,"{""-1"": 0.09, ""2"": 0.88, ""3"": 0.03}",original,False
+PSQI_Comp05_7,sleep,PSQI,2,Nocturnal sleep disturbances,0.83,"{""-1"": 0.09, ""2"": 0.91}",original,False
+PSQI_Comp05_8,sleep,PSQI,3,REM sleep behavior and dreaming,0.78,"{""2"": 0.12, ""3"": 0.88}",original,False
+PSQI_Comp05_9,sleep,PSQI,2,Nocturnal sleep disturbances,0.775,"{""-1"": 0.09, ""1"": 0.03, ""2"": 0.88}",original,False
+PSQI_Comp05_10,sleep,PSQI,2,Nocturnal sleep disturbances,0.608,"{""-1"": 0.21, ""1"": 0.03, ""2"": 0.76}",original,False
+PSQI_Comp07_1,sleep,PSQI,1,Daytime sleepiness and alertness,0.883,"{""1"": 0.94, ""2"": 0.06}",original,False
+PSQI_Comp07_2,sleep,PSQI,-1,Does not fit,0.496,"{""-1"": 0.67, ""1"": 0.24, ""2"": 0.09}",original,False
+RBD1Q_01,sleep,RBD1Q,3,REM sleep behavior and dreaming,0.939,"{""2"": 0.03, ""3"": 0.97}",original,False
+RBDSQ_01,sleep,RBDSQ,3,REM sleep behavior and dreaming,0.939,"{""2"": 0.03, ""3"": 0.97}",original,False
+RBDSQ_02,sleep,RBDSQ,3,REM sleep behavior and dreaming,0.939,"{""2"": 0.03, ""3"": 0.97}",original,False
+RBDSQ_03,sleep,RBDSQ,3,REM sleep behavior and dreaming,1.0,"{""3"": 1.0}",original,False
+RBDSQ_04,sleep,RBDSQ,3,REM sleep behavior and dreaming,0.684,"{""-1"": 0.03, ""2"": 0.15, ""3"": 0.82}",original,False
+RBDSQ_05,sleep,RBDSQ,3,REM sleep behavior and dreaming,0.939,"{""2"": 0.03, ""3"": 0.97}",original,False
+RBDSQ_06_1,sleep,RBDSQ,3,REM sleep behavior and dreaming,1.0,"{""3"": 1.0}",original,False
+RBDSQ_06_2,sleep,RBDSQ,3,REM sleep behavior and dreaming,0.881,"{""-1"": 0.03, ""2"": 0.03, ""3"": 0.94}",original,False
+RBDSQ_06_3,sleep,RBDSQ,3,REM sleep behavior and dreaming,1.0,"{""3"": 1.0}",original,False
+RBDSQ_06_4,sleep,RBDSQ,3,REM sleep behavior and dreaming,0.939,"{""2"": 0.03, ""3"": 0.97}",original,False
+RBDSQ_07,sleep,RBDSQ,3,REM sleep behavior and dreaming,0.608,"{""-1"": 0.03, ""2"": 0.21, ""3"": 0.76}",original,False
+RBDSQ_08,sleep,RBDSQ,3,REM sleep behavior and dreaming,0.826,"{""-1"": 0.06, ""2"": 0.03, ""3"": 0.91}",original,False
+RBDSQ_09,sleep,RBDSQ,2,Nocturnal sleep disturbances,0.636,"{""-1"": 0.06, ""2"": 0.79, ""3"": 0.15}",original,False
+ISI_01_1,sleep,ISI,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",original,False
+ISI_01_2,sleep,ISI,2,Nocturnal sleep disturbances,0.939,"{""1"": 0.03, ""2"": 0.97}",original,False
+ISI_01_3,sleep,ISI,2,Nocturnal sleep disturbances,0.939,"{""-1"": 0.03, ""2"": 0.97}",original,False
+ISI_05,sleep,ISI,1,Daytime sleepiness and alertness,0.396,"{""-1"": 0.15, ""1"": 0.58, ""2"": 0.24, ""4"": 0.03}",original,False
+KSS_01,sleep,KSS,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+NMSQuest_09,sleep,NMSQuest,2,Nocturnal sleep disturbances,0.826,"{""-1"": 0.06, ""2"": 0.91, ""4"": 0.03}",original,False
+NMSQuest_15,sleep,NMSQuest,1,Daytime sleepiness and alertness,0.636,"{""-1"": 0.15, ""1"": 0.79, ""2"": 0.06}",original,False
+NMSQuest_22,sleep,NMSQuest,1,Daytime sleepiness and alertness,0.939,"{""1"": 0.97, ""2"": 0.03}",original,False
+NMSQuest_23,sleep,NMSQuest,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",original,False
+NMSQuest_24,sleep,NMSQuest,3,REM sleep behavior and dreaming,0.883,"{""2"": 0.06, ""3"": 0.94}",original,False
+NMSQuest_25,sleep,NMSQuest,3,REM sleep behavior and dreaming,1.0,"{""3"": 1.0}",original,False
+NMSQuest_26,sleep,NMSQuest,2,Nocturnal sleep disturbances,0.553,"{""-1"": 0.15, ""2"": 0.73, ""3"": 0.12}",original,False
+NMSS_03,sleep,NMSS,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+NMSS_04,sleep,NMSS,1,Daytime sleepiness and alertness,0.644,"{""-1"": 0.18, ""1"": 0.79, ""2"": 0.03}",original,False
+NMSS_05,sleep,NMSS,2,Nocturnal sleep disturbances,0.883,"{""1"": 0.06, ""2"": 0.94}",original,False
+NMSS_06,sleep,NMSS,2,Nocturnal sleep disturbances,0.403,"{""-1"": 0.27, ""1"": 0.03, ""2"": 0.58, ""3"": 0.12}",original,False
+NMSS_16,sleep,NMSS,1,Daytime sleepiness and alertness,0.881,"{""-1"": 0.03, ""1"": 0.94, ""2"": 0.03}",original,False
+NMSS_24,sleep,NMSS,2,Nocturnal sleep disturbances,0.826,"{""-1"": 0.06, ""2"": 0.91, ""4"": 0.03}",original,False
+PDSS_02,sleep,PDSS,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",original,False
+PDSS_03,sleep,PDSS,2,Nocturnal sleep disturbances,0.939,"{""1"": 0.03, ""2"": 0.97}",original,False
+PDSS_04,sleep,PDSS,2,Nocturnal sleep disturbances,0.489,"{""-1"": 0.12, ""2"": 0.67, ""3"": 0.21}",original,False
+PDSS_05,sleep,PDSS,2,Nocturnal sleep disturbances,0.472,"{""-1"": 0.09, ""2"": 0.64, ""3"": 0.27}",original,False
+PDSS_06,sleep,PDSS,3,REM sleep behavior and dreaming,0.78,"{""2"": 0.12, ""3"": 0.88}",original,False
+PDSS_07,sleep,PDSS,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",expert_review,True
+PDSS_08,sleep,PDSS,2,Nocturnal sleep disturbances,0.881,"{""-1"": 0.03, ""2"": 0.94, ""4"": 0.03}",original,False
+PDSS_10,sleep,PDSS,2,Nocturnal sleep disturbances,0.775,"{""-1"": 0.09, ""2"": 0.88, ""3"": 0.03}",original,False
+PDSS_11,sleep,PDSS,2,Nocturnal sleep disturbances,0.775,"{""-1"": 0.09, ""2"": 0.88, ""3"": 0.03}",original,False
+PDSS_12,sleep,PDSS,2,Nocturnal sleep disturbances,0.684,"{""-1"": 0.15, ""1"": 0.03, ""2"": 0.82}",original,False
+PDSS_14,sleep,PDSS,1,Daytime sleepiness and alertness,0.545,"{""-1"": 0.06, ""1"": 0.73, ""2"": 0.15, ""4"": 0.06}",original,False
+PDSS_15,sleep,PDSS,1,Daytime sleepiness and alertness,0.881,"{""1"": 0.94, ""2"": 0.03, ""4"": 0.03}",original,False
+PDSS-2_02,sleep,PDSS-2,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",original,False
+PDSS-2_03,sleep,PDSS-2,2,Nocturnal sleep disturbances,0.883,"{""1"": 0.06, ""2"": 0.94}",original,False
+PDSS-2_04,sleep,PDSS-2,2,Nocturnal sleep disturbances,0.598,"{""-1"": 0.06, ""2"": 0.76, ""3"": 0.18}",original,False
+PDSS-2_05,sleep,PDSS-2,2,Nocturnal sleep disturbances,0.678,"{""-1"": 0.06, ""2"": 0.82, ""3"": 0.12}",original,False
+PDSS-2_06,sleep,PDSS-2,3,REM sleep behavior and dreaming,0.684,"{""-1"": 0.03, ""2"": 0.15, ""3"": 0.82}",original,False
+PDSS-2_07,sleep,PDSS-2,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",expert_review,True
+PDSS-2_08,sleep,PDSS-2,2,Nocturnal sleep disturbances,0.824,"{""-1"": 0.03, ""2"": 0.91, ""3"": 0.03, ""4"": 0.03}",original,False
+PDSS-2_09,sleep,PDSS-2,2,Nocturnal sleep disturbances,0.723,"{""-1"": 0.09, ""2"": 0.85, ""3"": 0.06}",original,False
+PDSS-2_10,sleep,PDSS-2,2,Nocturnal sleep disturbances,0.773,"{""-1"": 0.06, ""2"": 0.88, ""3"": 0.06}",original,False
+PDSS-2_11,sleep,PDSS-2,2,Nocturnal sleep disturbances,0.773,"{""-1"": 0.06, ""2"": 0.88, ""3"": 0.06}",original,False
+PDSS-2_12,sleep,PDSS-2,2,Nocturnal sleep disturbances,0.633,"{""-1"": 0.12, ""1"": 0.09, ""2"": 0.79}",original,False
+PDSS-2_14,sleep,PDSS-2,1,Daytime sleepiness and alertness,0.542,"{""-1"": 0.06, ""1"": 0.73, ""2"": 0.12, ""4"": 0.09}",original,False
+PDSS-2_15,sleep,PDSS-2,4,Sleep-disordered breathing,0.83,"{""1"": 0.09, ""4"": 0.91}",original,False
+SCOPA-SLEEP_NS_01,sleep,SCOPA-SLEEP,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",original,False
+SCOPA-SLEEP_NS_02,sleep,SCOPA-SLEEP,2,Nocturnal sleep disturbances,0.939,"{""2"": 0.97, ""4"": 0.03}",original,False
+SCOPA-SLEEP_NS_03,sleep,SCOPA-SLEEP,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",original,False
+SCOPA-SLEEP_NS_04,sleep,SCOPA-SLEEP,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",original,False
+SCOPA-SLEEP_NS_05,sleep,SCOPA-SLEEP,2,Nocturnal sleep disturbances,0.939,"{""1"": 0.03, ""2"": 0.97}",original,False
+SCOPA-SLEEP_DS_01,sleep,SCOPA-SLEEP,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+SCOPA-SLEEP_DS_02,sleep,SCOPA-SLEEP,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+SCOPA-SLEEP_DS_03,sleep,SCOPA-SLEEP,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+SCOPA-SLEEP_DS_04,sleep,SCOPA-SLEEP,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+SCOPA-SLEEP_DS_05,sleep,SCOPA-SLEEP,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+SCOPA-SLEEP_DS_06,sleep,SCOPA-SLEEP,1,Daytime sleepiness and alertness,0.939,"{""1"": 0.97, ""2"": 0.03}",original,False
+MDS-UPDRS_1.7,sleep,MDS-UPDRS_I,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",original,False
+MDS-UPDRS_1.8,sleep,MDS-UPDRS_I,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+NPI_K_screen,sleep,NPI,2,Nocturnal sleep disturbances,0.939,"{""2"": 0.97, ""3"": 0.03}",original,False
+NPI_K_01,sleep,NPI,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",original,False
+NPI_K_02,sleep,NPI,2,Nocturnal sleep disturbances,0.881,"{""-1"": 0.03, ""2"": 0.94, ""3"": 0.03}",original,False
+NPI_K_03,sleep,NPI,2,Nocturnal sleep disturbances,0.451,"{""-1"": 0.09, ""2"": 0.61, ""3"": 0.3}",original,False
+NPI_K_04,sleep,NPI,2,Nocturnal sleep disturbances,0.553,"{""-1"": 0.12, ""2"": 0.73, ""3"": 0.15}",original,False
+NPI_K_05,sleep,NPI,2,Nocturnal sleep disturbances,0.517,"{""-1"": 0.15, ""2"": 0.7, ""3"": 0.15}",original,False
+NPI_K_06,sleep,NPI,2,Nocturnal sleep disturbances,0.826,"{""-1"": 0.06, ""1"": 0.03, ""2"": 0.91}",original,False
+NPI_K_07,sleep,NPI,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+NPI_K_08,sleep,NPI,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",expert_review,True
+augmentation_dep5_01,depression,data-augmentation,5,Anxiety & distress,1.0,"{""5"": 1.0}",paraphrase-augmentation,False
+augmentation_dep5_02,depression,data-augmentation,5,Anxiety & distress,1.0,"{""5"": 1.0}",paraphrase-augmentation,False
+augmentation_dep5_03,depression,data-augmentation,5,Anxiety & distress,1.0,"{""5"": 1.0}",paraphrase-augmentation,False
+augmentation_dep5_04,depression,data-augmentation,5,Anxiety & distress,1.0,"{""5"": 1.0}",paraphrase-augmentation,False
+augmentation_dep5_05,depression,data-augmentation,5,Anxiety & distress,1.0,"{""5"": 1.0}",paraphrase-augmentation,False
+augmentation_dep5_06,depression,data-augmentation,5,Anxiety & distress,1.0,"{""5"": 1.0}",paraphrase-augmentation,False
+augmentation_dep5_07,depression,data-augmentation,5,Anxiety & distress,1.0,"{""5"": 1.0}",paraphrase-augmentation,False
+augmentation_dep5_08,depression,data-augmentation,5,Anxiety & distress,1.0,"{""5"": 1.0}",paraphrase-augmentation,False
+augmentation_dep5_09,depression,data-augmentation,5,Anxiety & distress,1.0,"{""5"": 1.0}",paraphrase-augmentation,False
+augmentation_dep5_10,depression,data-augmentation,5,Anxiety & distress,1.0,"{""5"": 1.0}",paraphrase-augmentation,False
+augmentation_dep5_11,depression,data-augmentation,5,Anxiety & distress,1.0,"{""5"": 1.0}",paraphrase-augmentation,False
+augmentation_dep5_12,depression,data-augmentation,5,Anxiety & distress,1.0,"{""5"": 1.0}",paraphrase-augmentation,False
+augmentation_dep5_13,depression,data-augmentation,5,Anxiety & distress,1.0,"{""5"": 1.0}",paraphrase-augmentation,False
+augmentation_dep5_14,depression,data-augmentation,5,Anxiety & distress,1.0,"{""5"": 1.0}",paraphrase-augmentation,False
+augmentation_dep5_15,depression,data-augmentation,5,Anxiety & distress,1.0,"{""5"": 1.0}",paraphrase-augmentation,False
+augmentation_dep5_16,depression,data-augmentation,5,Anxiety & distress,1.0,"{""5"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep4_01,sleep,data-augmentation,4,Sleep-disordered breathing,1.0,"{""4"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep4_02,sleep,data-augmentation,4,Sleep-disordered breathing,1.0,"{""4"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep4_03,sleep,data-augmentation,4,Sleep-disordered breathing,1.0,"{""4"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep4_04,sleep,data-augmentation,4,Sleep-disordered breathing,1.0,"{""4"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep4_05,sleep,data-augmentation,4,Sleep-disordered breathing,1.0,"{""4"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep4_06,sleep,data-augmentation,4,Sleep-disordered breathing,1.0,"{""4"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep4_07,sleep,data-augmentation,4,Sleep-disordered breathing,1.0,"{""4"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep4_08,sleep,data-augmentation,4,Sleep-disordered breathing,1.0,"{""4"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep4_09,sleep,data-augmentation,4,Sleep-disordered breathing,1.0,"{""4"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep4_10,sleep,data-augmentation,4,Sleep-disordered breathing,1.0,"{""4"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep4_11,sleep,data-augmentation,4,Sleep-disordered breathing,1.0,"{""4"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep4_12,sleep,data-augmentation,4,Sleep-disordered breathing,1.0,"{""4"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep4_13,sleep,data-augmentation,4,Sleep-disordered breathing,1.0,"{""4"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep4_14,sleep,data-augmentation,4,Sleep-disordered breathing,1.0,"{""4"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep4_15,sleep,data-augmentation,4,Sleep-disordered breathing,1.0,"{""4"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep_neg1_01,sleep,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep_neg1_02,sleep,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep_neg1_03,sleep,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep_neg1_04,sleep,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep_neg1_05,sleep,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep_neg1_06,sleep,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep_neg1_07,sleep,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep_neg1_08,sleep,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep_neg1_09,sleep,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_sleep_neg1_10,sleep,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_01,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_02,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_03,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_04,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_05,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_06,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_07,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_08,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_09,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_10,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_11,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_12,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_13,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_14,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_15,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_16,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_17,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_18,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_19,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_20,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_21,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_22,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_23,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_24,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_25,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_apathy2_26,apathy,data-augmentation,2,Affective apathy,1.0,"{""2"": 1.0}",paraphrase-augmentation,False
+augmentation_dep_neg1_01,depression,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_dep_neg1_02,depression,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_dep_neg1_03,depression,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_dep_neg1_04,depression,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_dep_neg1_05,depression,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_dep_neg1_06,depression,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_dep_neg1_07,depression,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_dep_neg1_08,depression,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_dep_neg1_09,depression,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_dep_neg1_10,depression,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_dep_neg1_11,depression,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_psy_neg1_01,psychosis,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_psy_neg1_02,psychosis,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_psy_neg1_03,psychosis,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_psy_neg1_04,psychosis,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_psy_neg1_05,psychosis,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_psy_neg1_06,psychosis,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_psy_neg1_07,psychosis,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_psy_neg1_08,psychosis,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_psy_neg1_09,psychosis,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_psy_neg1_10,psychosis,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_psy_neg1_11,psychosis,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_apa_neg1_01,apathy,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_apa_neg1_02,apathy,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_apa_neg1_03,apathy,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_apa_neg1_04,apathy,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_apa_neg1_05,apathy,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_apa_neg1_06,apathy,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_apa_neg1_07,apathy,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_apa_neg1_08,apathy,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_apa_neg1_09,apathy,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_apa_neg1_10,apathy,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_apa_neg1_11,apathy,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_anx_neg1_01,anxiety,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_anx_neg1_02,anxiety,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_anx_neg1_03,anxiety,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_anx_neg1_04,anxiety,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_anx_neg1_05,anxiety,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_anx_neg1_06,anxiety,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_anx_neg1_07,anxiety,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_anx_neg1_08,anxiety,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_anx_neg1_09,anxiety,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+augmentation_anx_neg1_10,anxiety,data-augmentation,-1,Does not fit,1.0,"{""-1"": 1.0}",paraphrase-augmentation,False
+MADRS_01,depression,MADRS,1,Mood & affective symptoms,0.536,"{""1"": 0.72, ""3"": 0.17, ""4"": 0.11}",original,False
+MADRS_02,depression,MADRS,1,Mood & affective symptoms,0.784,"{""1"": 0.89, ""2"": 0.06, ""5"": 0.06}",original,False
+MADRS_03,depression,MADRS,5,Anxiety & distress,0.693,"{""3"": 0.11, ""4"": 0.06, ""5"": 0.83}",original,False
+MADRS_04,depression,MADRS,3,Somatic & vegetative symptoms,0.889,"{""2"": 0.06, ""3"": 0.94}",original,False
+MADRS_05,depression,MADRS,3,Somatic & vegetative symptoms,0.889,"{""3"": 0.94, ""4"": 0.06}",original,False
+MADRS_06,depression,MADRS,2,Cognitive & self-perception,0.634,"{""2"": 0.78, ""4"": 0.22}",original,False
+MADRS_07,depression,MADRS,4,Activity & interest deficits,0.608,"{""2"": 0.11, ""3"": 0.11, ""4"": 0.78}",original,False
+MADRS_08,depression,MADRS,1,Mood & affective symptoms,0.327,"{""1"": 0.44, ""2"": 0.11, ""3"": 0.06, ""4"": 0.39}",original,False
+MADRS_09,depression,MADRS,2,Cognitive & self-perception,0.458,"{""1"": 0.33, ""2"": 0.61, ""5"": 0.06}",original,False
+MADRS_10,depression,MADRS,1,Mood & affective symptoms,0.608,"{""1"": 0.78, ""2"": 0.11, ""5"": 0.11}",original,False
+PHQ-9_01,depression,PHQ-9,4,Activity & interest deficits,0.9,"{""1"": 0.05, ""4"": 0.95}",original,False
+PHQ-9_02,depression,PHQ-9,1,Mood & affective symptoms,0.811,"{""1"": 0.9, ""2"": 0.1}",original,False
+PHQ-9_03,depression,PHQ-9,3,Somatic & vegetative symptoms,0.9,"{""-1"": 0.05, ""3"": 0.95}",original,False
+PHQ-9_04,depression,PHQ-9,3,Somatic & vegetative symptoms,0.458,"{""1"": 0.05, ""3"": 0.6, ""4"": 0.35}",original,False
+PHQ-9_05,depression,PHQ-9,3,Somatic & vegetative symptoms,0.9,"{""-1"": 0.05, ""3"": 0.95}",original,False
+PHQ-9_06,depression,PHQ-9,2,Cognitive & self-perception,1.0,"{""2"": 1.0}",original,False
+PHQ-9_07,depression,PHQ-9,2,Cognitive & self-perception,0.374,"{""2"": 0.55, ""3"": 0.05, ""4"": 0.3, ""5"": 0.1}",original,False
+PHQ-9_08,depression,PHQ-9,3,Somatic & vegetative symptoms,0.205,"{""-1"": 0.05, ""2"": 0.15, ""3"": 0.3, ""4"": 0.2, ""5"": 0.3}",original,False
+PHQ-9_09,depression,PHQ-9,1,Mood & affective symptoms,0.532,"{""1"": 0.7, ""2"": 0.25, ""5"": 0.05}",original,False
+SDS_01,depression,SDS,1,Mood & affective symptoms,1.0,"{""1"": 1.0}",original,False
+SDS_02,depression,SDS,1,Mood & affective symptoms,0.458,"{""-1"": 0.11, ""1"": 0.67, ""3"": 0.17, ""4"": 0.06}",original,False
+SDS_03,depression,SDS,1,Mood & affective symptoms,1.0,"{""1"": 1.0}",original,False
+SDS_04,depression,SDS,3,Somatic & vegetative symptoms,1.0,"{""3"": 1.0}",original,False
+SDS_05,depression,SDS,3,Somatic & vegetative symptoms,0.784,"{""-1"": 0.06, ""3"": 0.89, ""4"": 0.06}",original,False
+SDS_06,depression,SDS,4,Activity & interest deficits,0.601,"{""-1"": 0.11, ""1"": 0.06, ""2"": 0.06, ""4"": 0.78}",original,False
+SDS_07,depression,SDS,3,Somatic & vegetative symptoms,1.0,"{""3"": 1.0}",original,False
+SDS_08,depression,SDS,3,Somatic & vegetative symptoms,1.0,"{""3"": 1.0}",original,False
+SDS_09,depression,SDS,3,Somatic & vegetative symptoms,0.458,"{""2"": 0.06, ""3"": 0.61, ""5"": 0.33}",original,False
+SDS_10,depression,SDS,3,Somatic & vegetative symptoms,0.471,"{""-1"": 0.06, ""3"": 0.67, ""4"": 0.22, ""5"": 0.06}",original,False
+SDS_11,depression,SDS,2,Cognitive & self-perception,0.693,"{""-1"": 0.11, ""2"": 0.83, ""3"": 0.06}",original,False
+SDS_12,depression,SDS,4,Activity & interest deficits,0.693,"{""-1"": 0.06, ""2"": 0.11, ""4"": 0.83}",original,False
+SDS_13,depression,SDS,5,Anxiety & distress,0.431,"{""3"": 0.39, ""4"": 0.06, ""5"": 0.56}",original,False
+SDS_14,depression,SDS,2,Cognitive & self-perception,0.392,"{""-1"": 0.06, ""1"": 0.33, ""2"": 0.56, ""4"": 0.06}",original,False
+SDS_15,depression,SDS,5,Anxiety & distress,0.392,"{""-1"": 0.06, ""1"": 0.33, ""4"": 0.06, ""5"": 0.56}",original,False
+SDS_16,depression,SDS,2,Cognitive & self-perception,0.575,"{""2"": 0.72, ""4"": 0.28}",original,False
+SDS_17,depression,SDS,2,Cognitive & self-perception,0.693,"{""1"": 0.06, ""2"": 0.83, ""4"": 0.11}",original,False
+SDS_18,depression,SDS,2,Cognitive & self-perception,0.373,"{""1"": 0.11, ""2"": 0.44, ""4"": 0.44}",original,False
+SDS_19,depression,SDS,2,Cognitive & self-perception,1.0,"{""2"": 1.0}",expert_review,True
+SDS_20,depression,SDS,4,Activity & interest deficits,0.536,"{""1"": 0.17, ""3"": 0.11, ""4"": 0.72}",original,False
+DSI_01,depression,DSI,1,Mood & affective symptoms,1.0,"{""1"": 1.0}",original,False
+DSI_02,depression,DSI,1,Mood & affective symptoms,0.281,"{""-1"": 0.17, ""1"": 0.5, ""2"": 0.06, ""3"": 0.17, ""4"": 0.11}",original,False
+DSI_03,depression,DSI,1,Mood & affective symptoms,1.0,"{""1"": 1.0}",original,False
+DSI_04,depression,DSI,3,Somatic & vegetative symptoms,0.889,"{""2"": 0.06, ""3"": 0.94}",original,False
+DSI_05,depression,DSI,3,Somatic & vegetative symptoms,0.889,"{""3"": 0.94, ""4"": 0.06}",original,False
+DSI_06,depression,DSI,3,Somatic & vegetative symptoms,1.0,"{""3"": 1.0}",original,False
+DSI_07,depression,DSI,4,Activity & interest deficits,0.477,"{""3"": 0.44, ""4"": 0.56}",original,False
+DSI_08,depression,DSI,3,Somatic & vegetative symptoms,1.0,"{""3"": 1.0}",original,False
+DSI_09,depression,DSI,3,Somatic & vegetative symptoms,0.634,"{""3"": 0.78, ""5"": 0.22}",original,False
+DSI_10,depression,DSI,3,Somatic & vegetative symptoms,0.614,"{""-1"": 0.06, ""3"": 0.78, ""4"": 0.17}",original,False
+DSI_11,depression,DSI,3,Somatic & vegetative symptoms,1.0,"{""3"": 1.0}",expert_review,True
+DSI_12,depression,DSI,2,Cognitive & self-perception,0.784,"{""-1"": 0.06, ""2"": 0.89, ""3"": 0.06}",original,False
+DSI_13,depression,DSI,5,Anxiety & distress,0.693,"{""3"": 0.06, ""4"": 0.11, ""5"": 0.83}",original,False
+DSI_14,depression,DSI,5,Anxiety & distress,0.418,"{""-1"": 0.17, ""1"": 0.22, ""5"": 0.61}",original,False
+DSI_15,depression,DSI,2,Cognitive & self-perception,0.601,"{""-1"": 0.06, ""2"": 0.78, ""4"": 0.11, ""5"": 0.06}",original,False
+DSI_16,depression,DSI,2,Cognitive & self-perception,1.0,"{""2"": 1.0}",expert_review,True
+DSI_17,depression,DSI,2,Cognitive & self-perception,0.608,"{""1"": 0.11, ""2"": 0.78, ""4"": 0.11}",original,False
+DSI_18,depression,DSI,2,Cognitive & self-perception,0.301,"{""1"": 0.33, ""2"": 0.44, ""4"": 0.17, ""5"": 0.06}",original,False
+DSI_19,depression,DSI,4,Activity & interest deficits,0.614,"{""1"": 0.17, ""2"": 0.06, ""4"": 0.78}",original,False
+DSI_20,depression,DSI,1,Mood & affective symptoms,0.608,"{""1"": 0.78, ""2"": 0.11, ""5"": 0.11}",original,False
+SCL-90_05,depression,SCL-90,4,Activity & interest deficits,0.532,"{""3"": 0.25, ""4"": 0.7, ""5"": 0.05}",original,False
+SCL-90_14,depression,SCL-90,3,Somatic & vegetative symptoms,0.437,"{""1"": 0.05, ""3"": 0.55, ""4"": 0.4}",original,False
+SCL-90_20,depression,SCL-90,1,Mood & affective symptoms,0.637,"{""-1"": 0.05, ""1"": 0.8, ""3"": 0.1, ""5"": 0.05}",original,False
+SCL-90_22,depression,SCL-90,5,Anxiety & distress,0.384,"{""-1"": 0.05, ""1"": 0.05, ""2"": 0.4, ""5"": 0.5}",original,False
+SCL-90_26,depression,SCL-90,2,Cognitive & self-perception,0.805,"{""1"": 0.05, ""2"": 0.9, ""5"": 0.05}",original,False
+SCL-90_29,depression,SCL-90,1,Mood & affective symptoms,0.574,"{""-1"": 0.1, ""1"": 0.75, ""2"": 0.15}",original,False
+SCL-90_30,depression,SCL-90,1,Mood & affective symptoms,1.0,"{""1"": 1.0}",original,False
+SCL-90_31,depression,SCL-90,5,Anxiety & distress,0.584,"{""1"": 0.05, ""2"": 0.2, ""5"": 0.75}",original,False
+SCL-90_32,depression,SCL-90,4,Activity & interest deficits,0.9,"{""2"": 0.05, ""4"": 0.95}",original,False
+SCL-90_54,depression,SCL-90,2,Cognitive & self-perception,0.663,"{""1"": 0.2, ""2"": 0.8}",original,False
+SCL-90_71,depression,SCL-90,4,Activity & interest deficits,0.395,"{""1"": 0.05, ""2"": 0.15, ""3"": 0.2, ""4"": 0.6}",original,False
+SCL-90_79,depression,SCL-90,2,Cognitive & self-perception,0.811,"{""1"": 0.1, ""2"": 0.9}",original,False
+MFQ_01,depression,MFQ,1,Mood & affective symptoms,1.0,"{""1"": 1.0}",original,False
+MFQ_02,depression,MFQ,4,Activity & interest deficits,0.811,"{""1"": 0.1, ""4"": 0.9}",original,False
+MFQ_03,depression,MFQ,3,Somatic & vegetative symptoms,0.9,"{""-1"": 0.05, ""3"": 0.95}",original,False
+MFQ_04,depression,MFQ,3,Somatic & vegetative symptoms,0.9,"{""-1"": 0.05, ""3"": 0.95}",original,False
+MFQ_05,depression,MFQ,3,Somatic & vegetative symptoms,0.437,"{""2"": 0.05, ""3"": 0.55, ""4"": 0.4}",original,False
+MFQ_06,depression,MFQ,3,Somatic & vegetative symptoms,0.237,"{""-1"": 0.1, ""2"": 0.1, ""3"": 0.35, ""4"": 0.35, ""5"": 0.1}",original,False
+MFQ_07,depression,MFQ,5,Anxiety & distress,0.805,"{""3"": 0.05, ""4"": 0.05, ""5"": 0.9}",original,False
+MFQ_08,depression,MFQ,2,Cognitive & self-perception,0.811,"{""1"": 0.1, ""2"": 0.9}",original,False
+MFQ_09,depression,MFQ,2,Cognitive & self-perception,1.0,"{""2"": 1.0}",original,False
+MFQ_10,depression,MFQ,2,Cognitive & self-perception,0.3,"{""-1"": 0.1, ""2"": 0.5, ""3"": 0.05, ""4"": 0.25, ""5"": 0.1}",original,False
+MFQ_11,depression,MFQ,5,Anxiety & distress,0.384,"{""1"": 0.4, ""2"": 0.05, ""3"": 0.05, ""5"": 0.5}",original,False
+MFQ_12,depression,MFQ,4,Activity & interest deficits,0.632,"{""1"": 0.05, ""2"": 0.05, ""3"": 0.05, ""4"": 0.8, ""5"": 0.05}",original,False
+MFQ_13,depression,MFQ,3,Somatic & vegetative symptoms,0.337,"{""-1"": 0.05, ""2"": 0.05, ""3"": 0.45, ""4"": 0.4, ""5"": 0.05}",original,False
+MFQ_14,depression,MFQ,1,Mood & affective symptoms,0.637,"{""-1"": 0.05, ""1"": 0.8, ""3"": 0.1, ""5"": 0.05}",original,False
+MFQ_15,depression,MFQ,2,Cognitive & self-perception,1.0,"{""2"": 1.0}",original,False
+MFQ_16,depression,MFQ,2,Cognitive & self-perception,1.0,"{""2"": 1.0}",expert_review,True
+MFQ_17,depression,MFQ,1,Mood & affective symptoms,0.811,"{""1"": 0.9, ""2"": 0.1}",original,False
+MFQ_18,depression,MFQ,2,Cognitive & self-perception,0.558,"{""1"": 0.3, ""2"": 0.7}",original,False
+MFQ_19,depression,MFQ,1,Mood & affective symptoms,0.811,"{""1"": 0.9, ""2"": 0.1}",original,False
+MFQ_20,depression,MFQ,4,Activity & interest deficits,0.811,"{""4"": 0.9, ""5"": 0.1}",original,False
+MFQ_21,depression,MFQ,2,Cognitive & self-perception,0.411,"{""2"": 0.6, ""3"": 0.2, ""4"": 0.2}",original,False
+MFQ_22,depression,MFQ,2,Cognitive & self-perception,0.405,"{""1"": 0.1, ""2"": 0.55, ""5"": 0.35}",original,False
+MFQ_23,depression,MFQ,2,Cognitive & self-perception,0.732,"{""1"": 0.15, ""2"": 0.85}",original,False
+MFQ_24,depression,MFQ,2,Cognitive & self-perception,0.811,"{""1"": 0.1, ""2"": 0.9}",original,False
+MFQ_25,depression,MFQ,2,Cognitive & self-perception,0.9,"{""1"": 0.05, ""2"": 0.95}",original,False
+MFQ_26,depression,MFQ,5,Anxiety & distress,0.584,"{""3"": 0.2, ""4"": 0.05, ""5"": 0.75}",original,False
+MFQ_27,depression,MFQ,1,Mood & affective symptoms,0.405,"{""-1"": 0.1, ""1"": 0.6, ""2"": 0.25, ""5"": 0.05}",original,False
+MFQ_28,depression,MFQ,2,Cognitive & self-perception,0.9,"{""1"": 0.05, ""2"": 0.95}",original,False
+MFQ_29,depression,MFQ,4,Activity & interest deficits,0.811,"{""1"": 0.1, ""4"": 0.9}",original,False
+MFQ_30,depression,MFQ,2,Cognitive & self-perception,1.0,"{""2"": 1.0}",original,False
+MFQ_31,depression,MFQ,2,Cognitive & self-perception,1.0,"{""2"": 1.0}",original,False
+MFQ_32,depression,MFQ,3,Somatic & vegetative symptoms,0.805,"{""-1"": 0.05, ""3"": 0.9, ""5"": 0.05}",original,False
+MFQ_33,depression,MFQ,3,Somatic & vegetative symptoms,0.805,"{""-1"": 0.05, ""3"": 0.9, ""5"": 0.05}",original,False
+GAD-7_01,anxiety,GAD-7,2,Cognitive symptoms,0.497,"{""1"": 0.39, ""2"": 0.61}",original,False
+GAD-7_02,anxiety,GAD-7,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+GAD-7_03,anxiety,GAD-7,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+GAD-7_04,anxiety,GAD-7,1,Somatic symptoms,0.575,"{""1"": 0.72, ""2"": 0.28}",original,False
+GAD-7_05,anxiety,GAD-7,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+GAD-7_06,anxiety,GAD-7,2,Cognitive symptoms,0.614,"{""-1"": 0.06, ""1"": 0.17, ""2"": 0.78}",original,False
+GAD-7_07,anxiety,GAD-7,2,Cognitive symptoms,0.791,"{""1"": 0.11, ""2"": 0.89}",original,False
+PSWQ_01,anxiety,PSWQ,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+PSWQ_02,anxiety,PSWQ,2,Cognitive symptoms,0.889,"{""1"": 0.06, ""2"": 0.94}",original,False
+PSWQ_03,anxiety,PSWQ,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+PSWQ_04,anxiety,PSWQ,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+PSWQ_05,anxiety,PSWQ,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+PSWQ_06,anxiety,PSWQ,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+PSWQ_07,anxiety,PSWQ,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+PSWQ_08,anxiety,PSWQ,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+PSWQ_09,anxiety,PSWQ,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+PSWQ_10,anxiety,PSWQ,2,Cognitive symptoms,0.889,"{""-1"": 0.06, ""2"": 0.94}",original,False
+PSWQ_11,anxiety,PSWQ,2,Cognitive symptoms,0.889,"{""-1"": 0.06, ""2"": 0.94}",original,False
+PSWQ_12,anxiety,PSWQ,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+PSWQ_13,anxiety,PSWQ,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+PSWQ_14,anxiety,PSWQ,2,Cognitive symptoms,0.889,"{""1"": 0.06, ""2"": 0.94}",original,False
+PSWQ_15,anxiety,PSWQ,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+PSWQ_16,anxiety,PSWQ,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+SMGAD_01,anxiety,SMGAD,2,Cognitive symptoms,0.497,"{""1"": 0.39, ""2"": 0.61}",original,False
+SMGAD_02,anxiety,SMGAD,2,Cognitive symptoms,0.634,"{""1"": 0.22, ""2"": 0.78}",original,False
+SMGAD_03,anxiety,SMGAD,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+SMGAD_04,anxiety,SMGAD,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+SMGAD_05,anxiety,SMGAD,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+SMGAD_06,anxiety,SMGAD,2,Cognitive symptoms,0.791,"{""-1"": 0.11, ""2"": 0.89}",original,False
+SMGAD_07,anxiety,SMGAD,2,Cognitive symptoms,0.889,"{""-1"": 0.06, ""2"": 0.94}",original,False
+SMGAD_08,anxiety,SMGAD,2,Cognitive symptoms,0.889,"{""-1"": 0.06, ""2"": 0.94}",original,False
+SMGAD_09,anxiety,SMGAD,2,Cognitive symptoms,0.889,"{""-1"": 0.06, ""2"": 0.94}",original,False
+SMGAD_10,anxiety,SMGAD,2,Cognitive symptoms,0.32,"{""-1"": 0.33, ""1"": 0.22, ""2"": 0.44}",original,False
+ASensI_01,anxiety,ASensI,2,Cognitive symptoms,0.805,"{""-1"": 0.05, ""1"": 0.05, ""2"": 0.9}",original,False
+ASensI_02,anxiety,ASensI,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+ASensI_03,anxiety,ASensI,1,Somatic symptoms,0.521,"{""1"": 0.65, ""2"": 0.35}",original,False
+ASensI_04,anxiety,ASensI,1,Somatic symptoms,0.521,"{""1"": 0.65, ""2"": 0.35}",original,False
+ASensI_05,anxiety,ASensI,2,Cognitive symptoms,0.9,"{""-1"": 0.05, ""2"": 0.95}",original,False
+ASensI_06,anxiety,ASensI,1,Somatic symptoms,0.521,"{""1"": 0.65, ""2"": 0.35}",original,False
+ASensI_07,anxiety,ASensI,1,Somatic symptoms,0.495,"{""1"": 0.6, ""2"": 0.4}",original,False
+ASensI_08,anxiety,ASensI,1,Somatic symptoms,0.521,"{""1"": 0.65, ""2"": 0.35}",original,False
+ASensI_09,anxiety,ASensI,2,Cognitive symptoms,1.0,"{""2"": 1.0}",expert_review,True
+ASensI_10,anxiety,ASensI,1,Somatic symptoms,0.521,"{""1"": 0.65, ""2"": 0.35}",original,False
+ASensI_11,anxiety,ASensI,2,Cognitive symptoms,0.479,"{""1"": 0.45, ""2"": 0.55}",original,False
+ASensI_12,anxiety,ASensI,2,Cognitive symptoms,0.9,"{""1"": 0.05, ""2"": 0.95}",original,False
+ASensI_13,anxiety,ASensI,2,Cognitive symptoms,0.495,"{""1"": 0.4, ""2"": 0.6}",original,False
+ASensI_14,anxiety,ASensI,1,Somatic symptoms,0.479,"{""1"": 0.55, ""2"": 0.45}",original,False
+ASensI_15,anxiety,ASensI,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+ASensI_16,anxiety,ASensI,2,Cognitive symptoms,0.9,"{""1"": 0.05, ""2"": 0.95}",original,False
+SCL-90_13,anxiety,SCL-90,2,Cognitive symptoms,0.721,"{""-1"": 0.05, ""1"": 0.1, ""2"": 0.85}",original,False
+SCL-90_17,anxiety,SCL-90,1,Somatic symptoms,0.9,"{""1"": 0.95, ""2"": 0.05}",original,False
+SCL-90_23,anxiety,SCL-90,2,Cognitive symptoms,0.721,"{""-1"": 0.05, ""1"": 0.1, ""2"": 0.85}",original,False
+SCL-90_25,anxiety,SCL-90,2,Cognitive symptoms,0.9,"{""1"": 0.05, ""2"": 0.95}",original,False
+SCL-90_33,anxiety,SCL-90,2,Cognitive symptoms,0.642,"{""-1"": 0.1, ""1"": 0.1, ""2"": 0.8}",original,False
+SCL-90_39,anxiety,SCL-90,1,Somatic symptoms,1.0,"{""1"": 1.0}",original,False
+SCL-90_47,anxiety,SCL-90,2,Cognitive symptoms,0.732,"{""1"": 0.15, ""2"": 0.85}",original,False
+SCL-90_50,anxiety,SCL-90,2,Cognitive symptoms,0.805,"{""-1"": 0.05, ""1"": 0.05, ""2"": 0.9}",original,False
+SCL-90_57,anxiety,SCL-90,1,Somatic symptoms,0.458,"{""-1"": 0.05, ""1"": 0.6, ""2"": 0.35}",original,False
+SCL-90_70,anxiety,SCL-90,2,Cognitive symptoms,0.663,"{""1"": 0.2, ""2"": 0.8}",original,False
+SCL-90_72,anxiety,SCL-90,2,Cognitive symptoms,0.521,"{""1"": 0.35, ""2"": 0.65}",original,False
+SCL-90_75,anxiety,SCL-90,2,Cognitive symptoms,0.663,"{""1"": 0.2, ""2"": 0.8}",original,False
+SCL-90_78,anxiety,SCL-90,1,Somatic symptoms,0.732,"{""1"": 0.85, ""2"": 0.15}",original,False
+SCL-90_80,anxiety,SCL-90,2,Cognitive symptoms,0.9,"{""1"": 0.05, ""2"": 0.95}",original,False
+SCL-90_82,anxiety,SCL-90,2,Cognitive symptoms,0.521,"{""1"": 0.35, ""2"": 0.65}",original,False
+SCL-90_86,anxiety,SCL-90,2,Cognitive symptoms,1.0,"{""2"": 1.0}",original,False
+DAS_01,apathy,DAS,1,Behavioral-Cognitive apathy,0.9,"{""1"": 0.95, ""2"": 0.05}",original,False
+DAS_02,apathy,DAS,1,Behavioral-Cognitive apathy,0.458,"{""-1"": 0.05, ""1"": 0.6, ""2"": 0.35}",original,False
+DAS_03,apathy,DAS,2,Affective apathy,0.805,"{""-1"": 0.05, ""1"": 0.05, ""2"": 0.9}",original,False
+DAS_04,apathy,DAS,1,Behavioral-Cognitive apathy,0.9,"{""-1"": 0.05, ""1"": 0.95}",original,False
+DAS_05,apathy,DAS,2,Affective apathy,0.732,"{""1"": 0.15, ""2"": 0.85}",original,False
+DAS_06,apathy,DAS,2,Affective apathy,0.405,"{""-1"": 0.1, ""1"": 0.35, ""2"": 0.55}",original,False
+DAS_07,apathy,DAS,2,Affective apathy,0.458,"{""-1"": 0.05, ""1"": 0.35, ""2"": 0.6}",original,False
+DAS_08,apathy,DAS,1,Behavioral-Cognitive apathy,0.9,"{""-1"": 0.05, ""1"": 0.95}",original,False
+DAS_09,apathy,DAS,2,Affective apathy,0.9,"{""-1"": 0.05, ""2"": 0.95}",original,False
+DAS_10,apathy,DAS,1,Behavioral-Cognitive apathy,0.9,"{""-1"": 0.05, ""1"": 0.95}",original,False
+DAS_11,apathy,DAS,1,Behavioral-Cognitive apathy,0.663,"{""1"": 0.8, ""2"": 0.2}",original,False
+DAS_12,apathy,DAS,2,Affective apathy,0.811,"{""1"": 0.1, ""2"": 0.9}",original,False
+DAS_13,apathy,DAS,1,Behavioral-Cognitive apathy,0.9,"{""-1"": 0.05, ""1"": 0.95}",original,False
+DAS_14,apathy,DAS,1,Behavioral-Cognitive apathy,0.9,"{""-1"": 0.05, ""1"": 0.95}",original,False
+DAS_15,apathy,DAS,2,Affective apathy,0.721,"{""-1"": 0.05, ""1"": 0.1, ""2"": 0.85}",original,False
+DAS_16,apathy,DAS,1,Behavioral-Cognitive apathy,0.9,"{""-1"": 0.05, ""1"": 0.95}",original,False
+DAS_17,apathy,DAS,1,Behavioral-Cognitive apathy,1.0,"{""1"": 1.0}",original,False
+DAS_18,apathy,DAS,1,Behavioral-Cognitive apathy,0.9,"{""-1"": 0.05, ""1"": 0.95}",original,False
+DAS_19,apathy,DAS,1,Behavioral-Cognitive apathy,0.721,"{""-1"": 0.1, ""1"": 0.85, ""2"": 0.05}",original,False
+DAS_20,apathy,DAS,2,Affective apathy,0.9,"{""-1"": 0.05, ""2"": 0.95}",original,False
+DAS_21,apathy,DAS,1,Behavioral-Cognitive apathy,1.0,"{""1"": 1.0}",original,False
+DAS_22,apathy,DAS,1,Behavioral-Cognitive apathy,0.516,"{""-1"": 0.1, ""1"": 0.7, ""2"": 0.2}",original,False
+DAS_23,apathy,DAS,1,Behavioral-Cognitive apathy,0.721,"{""-1"": 0.05, ""1"": 0.85, ""2"": 0.1}",original,False
+DAS_24,apathy,DAS,2,Affective apathy,0.663,"{""1"": 0.2, ""2"": 0.8}",original,False
+SHAPS_01,apathy,SHAPS,2,Affective apathy,0.477,"{""1"": 0.44, ""2"": 0.56}",original,False
+SHAPS_02,apathy,SHAPS,2,Affective apathy,0.706,"{""1"": 0.17, ""2"": 0.83}",original,False
+SHAPS_03,apathy,SHAPS,2,Affective apathy,0.477,"{""1"": 0.44, ""2"": 0.56}",original,False
+SHAPS_04,apathy,SHAPS,2,Affective apathy,0.529,"{""1"": 0.33, ""2"": 0.67}",original,False
+SHAPS_05,apathy,SHAPS,2,Affective apathy,0.497,"{""1"": 0.39, ""2"": 0.61}",original,False
+SHAPS_06,apathy,SHAPS,2,Affective apathy,0.634,"{""1"": 0.22, ""2"": 0.78}",original,False
+SHAPS_07,apathy,SHAPS,2,Affective apathy,0.791,"{""1"": 0.11, ""2"": 0.89}",original,False
+SHAPS_08,apathy,SHAPS,1,Behavioral-Cognitive apathy,0.471,"{""1"": 0.5, ""2"": 0.5}",original,False
+SHAPS_09,apathy,SHAPS,1,Behavioral-Cognitive apathy,0.471,"{""1"": 0.5, ""2"": 0.5}",original,False
+SHAPS_10,apathy,SHAPS,2,Affective apathy,0.529,"{""1"": 0.33, ""2"": 0.67}",original,False
+SHAPS_11,apathy,SHAPS,2,Affective apathy,0.575,"{""1"": 0.28, ""2"": 0.72}",original,False
+SHAPS_12,apathy,SHAPS,2,Affective apathy,0.575,"{""1"": 0.28, ""2"": 0.72}",original,False
+SHAPS_13,apathy,SHAPS,2,Affective apathy,0.477,"{""1"": 0.44, ""2"": 0.56}",original,False
+SHAPS_14,apathy,SHAPS,2,Affective apathy,0.497,"{""1"": 0.39, ""2"": 0.61}",original,False
+TEPS_01,apathy,TEPS,1,Behavioral-Cognitive apathy,0.634,"{""1"": 0.78, ""2"": 0.22}",original,False
+TEPS_02,apathy,TEPS,2,Affective apathy,0.549,"{""-1"": 0.06, ""1"": 0.22, ""2"": 0.72}",original,False
+TEPS_03,apathy,TEPS,2,Affective apathy,0.497,"{""1"": 0.39, ""2"": 0.61}",original,False
+TEPS_04,apathy,TEPS,2,Affective apathy,0.634,"{""1"": 0.22, ""2"": 0.78}",original,False
+TEPS_05,apathy,TEPS,2,Affective apathy,0.634,"{""1"": 0.22, ""2"": 0.78}",original,False
+TEPS_06,apathy,TEPS,2,Affective apathy,0.575,"{""1"": 0.28, ""2"": 0.72}",original,False
+TEPS_07,apathy,TEPS,1,Behavioral-Cognitive apathy,0.529,"{""1"": 0.67, ""2"": 0.33}",original,False
+TEPS_08,apathy,TEPS,2,Affective apathy,0.575,"{""1"": 0.28, ""2"": 0.72}",original,False
+TEPS_09,apathy,TEPS,2,Affective apathy,0.706,"{""1"": 0.17, ""2"": 0.83}",original,False
+TEPS_10,apathy,TEPS,2,Affective apathy,0.549,"{""-1"": 0.06, ""1"": 0.22, ""2"": 0.72}",original,False
+TEPS_11,apathy,TEPS,1,Behavioral-Cognitive apathy,0.549,"{""-1"": 0.06, ""1"": 0.72, ""2"": 0.22}",original,False
+TEPS_12,apathy,TEPS,1,Behavioral-Cognitive apathy,0.458,"{""-1"": 0.06, ""1"": 0.61, ""2"": 0.33}",original,False
+TEPS_13,apathy,TEPS,2,Affective apathy,0.634,"{""1"": 0.22, ""2"": 0.78}",original,False
+TEPS_14,apathy,TEPS,1,Behavioral-Cognitive apathy,0.497,"{""1"": 0.61, ""2"": 0.39}",original,False
+TEPS_15,apathy,TEPS,2,Affective apathy,1.0,"{""2"": 1.0}",expert_review,True
+TEPS_16,apathy,TEPS,1,Behavioral-Cognitive apathy,0.575,"{""1"": 0.72, ""2"": 0.28}",original,False
+TEPS_17,apathy,TEPS,2,Affective apathy,1.0,"{""2"": 1.0}",expert_review,True
+TEPS_18,apathy,TEPS,1,Behavioral-Cognitive apathy,0.634,"{""1"": 0.78, ""2"": 0.22}",original,False
+ASBPD_05.1,apathy,ASBPD,1,Behavioral-Cognitive apathy,1.0,"{""1"": 1.0}",original,False
+ASBPD_05.2,apathy,ASBPD,1,Behavioral-Cognitive apathy,1.0,"{""1"": 1.0}",original,False
+ASBPD_05.3,apathy,ASBPD,1,Behavioral-Cognitive apathy,0.9,"{""1"": 0.95, ""2"": 0.05}",original,False
+ASBPD_05.4,apathy,ASBPD,1,Behavioral-Cognitive apathy,0.605,"{""1"": 0.75, ""2"": 0.25}",original,False
+ASBPD_05.5,apathy,ASBPD,1,Behavioral-Cognitive apathy,0.663,"{""1"": 0.8, ""2"": 0.2}",original,False
+ASBPD_05.6,apathy,ASBPD,1,Behavioral-Cognitive apathy,0.732,"{""1"": 0.85, ""2"": 0.15}",original,False
+ASBPD_05.7,apathy,ASBPD,2,Affective apathy,0.521,"{""1"": 0.35, ""2"": 0.65}",original,False
+ASBPD_05.8,apathy,ASBPD,2,Affective apathy,1.0,"{""2"": 1.0}",original,False
+ASBPD_05.9,apathy,ASBPD,2,Affective apathy,0.805,"{""-1"": 0.05, ""1"": 0.05, ""2"": 0.9}",original,False
+ASBPD_05.10,apathy,ASBPD,2,Affective apathy,0.9,"{""1"": 0.05, ""2"": 0.95}",original,False
+ASBPD_05.11,apathy,ASBPD,2,Affective apathy,0.663,"{""1"": 0.2, ""2"": 0.8}",original,False
+ASBPD_05.12,apathy,ASBPD,2,Affective apathy,0.574,"{""-1"": 0.1, ""1"": 0.15, ""2"": 0.75}",original,False
+QUIP-C_A.1_1,impulse_control,QUIP-C,1,Pathological gambling,1.0,"{""1"": 1.0}",original,False
+QUIP-C_A.1_2,impulse_control,QUIP-C,2,Hypersexuality,1.0,"{""2"": 1.0}",original,False
+QUIP-C_A.1_3,impulse_control,QUIP-C,3,Compulsive buying,1.0,"{""3"": 1.0}",original,False
+QUIP-C_A.1_4,impulse_control,QUIP-C,4,Compulsive eating,1.0,"{""4"": 1.0}",original,False
+QUIP-C_A.2_1,impulse_control,QUIP-C,1,Pathological gambling,1.0,"{""1"": 1.0}",original,False
+QUIP-C_A.2_2,impulse_control,QUIP-C,2,Hypersexuality,1.0,"{""2"": 1.0}",original,False
+QUIP-C_A.2_3,impulse_control,QUIP-C,3,Compulsive buying,1.0,"{""3"": 1.0}",original,False
+QUIP-C_A.2_4,impulse_control,QUIP-C,4,Compulsive eating,1.0,"{""4"": 1.0}",original,False
+QUIP-C_A.3_1,impulse_control,QUIP-C,1,Pathological gambling,1.0,"{""1"": 1.0}",original,False
+QUIP-C_A.3_2,impulse_control,QUIP-C,2,Hypersexuality,1.0,"{""2"": 1.0}",original,False
+QUIP-C_A.3_3,impulse_control,QUIP-C,3,Compulsive buying,1.0,"{""3"": 1.0}",original,False
+QUIP-C_A.3_4,impulse_control,QUIP-C,4,Compulsive eating,1.0,"{""4"": 1.0}",original,False
+QUIP-C_A.4_1,impulse_control,QUIP-C,1,Pathological gambling,0.9,"{""1"": 0.95, ""2"": 0.05}",original,False
+QUIP-C_A.4_2,impulse_control,QUIP-C,2,Hypersexuality,0.9,"{""2"": 0.95, ""3"": 0.05}",original,False
+QUIP-C_A.4_3,impulse_control,QUIP-C,3,Compulsive buying,1.0,"{""3"": 1.0}",original,False
+QUIP-C_A.4_4,impulse_control,QUIP-C,4,Compulsive eating,1.0,"{""4"": 1.0}",original,False
+QUIP-C_A.5_1,impulse_control,QUIP-C,1,Pathological gambling,1.0,"{""1"": 1.0}",original,False
+QUIP-C_A.5_2,impulse_control,QUIP-C,2,Hypersexuality,1.0,"{""2"": 1.0}",original,False
+QUIP-C_A.5_3,impulse_control,QUIP-C,3,Compulsive buying,1.0,"{""3"": 1.0}",original,False
+QUIP-C_A.5_4,impulse_control,QUIP-C,4,Compulsive eating,1.0,"{""4"": 1.0}",original,False
+QUIP-C_B.1_A,impulse_control,QUIP-C,5,Punding-hobbyism,1.0,"{""5"": 1.0}",original,False
+QUIP-C_B.1_B,impulse_control,QUIP-C,5,Punding-hobbyism,0.9,"{""5"": 0.95, ""6"": 0.05}",original,False
+QUIP-C_B.1_C,impulse_control,QUIP-C,5,Punding-hobbyism,0.663,"{""-1"": 0.2, ""5"": 0.8}",original,False
+QUIP-C_B.2,impulse_control,QUIP-C,5,Punding-hobbyism,0.389,"{""-1"": 0.4, ""5"": 0.5, ""6"": 0.1}",original,False
+QUIP-C_B.3,impulse_control,QUIP-C,-1,Does not fit,0.495,"{""-1"": 0.6, ""5"": 0.4}",original,False
+QUIP-C_C.1,impulse_control,QUIP-C,6,Dopamine dysregulation syndrome,0.9,"{""-1"": 0.05, ""6"": 0.95}",original,False
+QUIP-C_C.2,impulse_control,QUIP-C,6,Dopamine dysregulation syndrome,1.0,"{""6"": 1.0}",original,False
+QUIP-C_C.3,impulse_control,QUIP-C,6,Dopamine dysregulation syndrome,1.0,"{""6"": 1.0}",original,False
+QUIP-C_C.4,impulse_control,QUIP-C,6,Dopamine dysregulation syndrome,1.0,"{""6"": 1.0}",original,False
+QUIP-C_C.5,impulse_control,QUIP-C,6,Dopamine dysregulation syndrome,0.9,"{""-1"": 0.05, ""6"": 0.95}",original,False
+AIS_01,sleep,AIS,2,Nocturnal sleep disturbances,0.857,"{""1"": 0.07, ""2"": 0.93}",original,False
+AIS_02,sleep,AIS,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",original,False
+AIS_03,sleep,AIS,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",original,False
+AIS_04,sleep,AIS,2,Nocturnal sleep disturbances,0.725,"{""-1"": 0.07, ""1"": 0.07, ""2"": 0.86}",original,False
+AIS_05,sleep,AIS,2,Nocturnal sleep disturbances,0.527,"{""1"": 0.21, ""2"": 0.71, ""3"": 0.07}",original,False
+AIS_06,sleep,AIS,1,Daytime sleepiness and alertness,0.857,"{""-1"": 0.07, ""1"": 0.93}",original,False
+AIS_07,sleep,AIS,1,Daytime sleepiness and alertness,0.857,"{""-1"": 0.07, ""1"": 0.93}",original,False
+AIS_08,sleep,AIS,1,Daytime sleepiness and alertness,0.857,"{""1"": 0.93, ""2"": 0.07}",original,False
+MSQ_01,sleep,MSQ,3,REM sleep behavior and dreaming,1.0,"{""3"": 1.0}",original,False
+MSQ_01.b,sleep,MSQ,3,REM sleep behavior and dreaming,1.0,"{""3"": 1.0}",original,False
+MSQ_01.c,sleep,MSQ,3,REM sleep behavior and dreaming,1.0,"{""3"": 1.0}",original,False
+MSQ_01.d,sleep,MSQ,3,REM sleep behavior and dreaming,0.736,"{""-1"": 0.14, ""3"": 0.86}",original,False
+MSQ_01.e,sleep,MSQ,3,REM sleep behavior and dreaming,1.0,"{""3"": 1.0}",original,False
+MSQ_02,sleep,MSQ,2,Nocturnal sleep disturbances,0.33,"{""-1"": 0.21, ""2"": 0.5, ""3"": 0.29}",original,False
+MSQ_03,sleep,MSQ,2,Nocturnal sleep disturbances,0.725,"{""-1"": 0.07, ""2"": 0.86, ""3"": 0.07}",original,False
+MSQ_03.a,sleep,MSQ,2,Nocturnal sleep disturbances,0.615,"{""-1"": 0.14, ""2"": 0.79, ""3"": 0.07}",original,False
+MSQ_03.b,sleep,MSQ,2,Nocturnal sleep disturbances,0.418,"{""-1"": 0.36, ""2"": 0.57, ""3"": 0.07}",original,False
+MSQ_03.c,sleep,MSQ,2,Nocturnal sleep disturbances,0.462,"{""-1"": 0.5, ""2"": 0.5}",original,False
+MSQ_04,sleep,MSQ,2,Nocturnal sleep disturbances,0.637,"{""2"": 0.79, ""3"": 0.21}",original,False
+MSQ_05,sleep,MSQ,4,Sleep-disordered breathing,1.0,"{""4"": 1.0}",original,False
+MSQ_06,sleep,MSQ,4,Sleep-disordered breathing,1.0,"{""4"": 1.0}",original,False
+MSQ_06.a,sleep,MSQ,4,Sleep-disordered breathing,1.0,"{""4"": 1.0}",original,False
+MSQ_07,sleep,MSQ,2,Nocturnal sleep disturbances,0.857,"{""2"": 0.93, ""3"": 0.07}",original,False
+SDQ_01,sleep,SDQ,2,Nocturnal sleep disturbances,0.857,"{""-1"": 0.07, ""2"": 0.93}",original,False
+SDQ_02,sleep,SDQ,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",original,False
+SDQ_03,sleep,SDQ,2,Nocturnal sleep disturbances,0.736,"{""-1"": 0.14, ""2"": 0.86}",original,False
+SDQ_04,sleep,SDQ,2,Nocturnal sleep disturbances,0.637,"{""-1"": 0.21, ""2"": 0.79}",original,False
+SDQ_05,sleep,SDQ,2,Nocturnal sleep disturbances,0.462,"{""-1"": 0.29, ""2"": 0.64, ""4"": 0.07}",original,False
+SDQ_06,sleep,SDQ,-1,Does not fit,0.56,"{""-1"": 0.71, ""1"": 0.29}",original,False
+SDQ_07,sleep,SDQ,-1,Does not fit,0.637,"{""-1"": 0.79, ""1"": 0.21}",original,False
+SDQ_08,sleep,SDQ,-1,Does not fit,0.56,"{""-1"": 0.71, ""1"": 0.29}",original,False
+SDQ_09,sleep,SDQ,-1,Does not fit,0.736,"{""-1"": 0.86, ""1"": 0.14}",original,False
+SDQ_10,sleep,SDQ,-1,Does not fit,1.0,"{""-1"": 1.0}",expert_review,True
+SDQ_11,sleep,SDQ,2,Nocturnal sleep disturbances,0.462,"{""-1"": 0.29, ""2"": 0.64, ""3"": 0.07}",original,False
+SDQ_12,sleep,SDQ,2,Nocturnal sleep disturbances,0.615,"{""-1"": 0.14, ""2"": 0.79, ""3"": 0.07}",original,False
+SDQ_13,sleep,SDQ,3,REM sleep behavior and dreaming,0.637,"{""2"": 0.21, ""3"": 0.79}",original,False
+SDQ_14,sleep,SDQ,4,Sleep-disordered breathing,1.0,"{""4"": 1.0}",original,False
+SDQ_15,sleep,SDQ,4,Sleep-disordered breathing,1.0,"{""4"": 1.0}",original,False
+SDQ_16,sleep,SDQ,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+ASBPD-III_03.1,sleep,ASBPD,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",original,False
+ASBPD-III_03.2,sleep,ASBPD,2,Nocturnal sleep disturbances,0.857,"{""-1"": 0.07, ""2"": 0.93}",original,False
+ASBPD-III_03.3,sleep,ASBPD,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",original,False
+ASBPD-III_03.4,sleep,ASBPD,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",original,False
+ASBPD-III_03.5,sleep,ASBPD,2,Nocturnal sleep disturbances,1.0,"{""2"": 1.0}",original,False
+ASBPD-III_03.6,sleep,ASBPD,1,Daytime sleepiness and alertness,0.462,"{""-1"": 0.07, ""1"": 0.64, ""2"": 0.29}",original,False
+ASBPD-III_03.7,sleep,ASBPD,3,REM sleep behavior and dreaming,1.0,"{""3"": 1.0}",original,False
+ASBPD-III_03.8,sleep,ASBPD,2,Nocturnal sleep disturbances,0.44,"{""-1"": 0.14, ""2"": 0.64, ""3"": 0.21}",original,False
+ASBPD-III_04.1,sleep,ASBPD,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+ASBPD-III_04.2,sleep,ASBPD,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+ASBPD-III_04.3,sleep,ASBPD,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+ASBPD-III_04.4,sleep,ASBPD,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+ASBPD-III_04.5,sleep,ASBPD,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+ASBPD-III_04.6,sleep,ASBPD,1,Daytime sleepiness and alertness,1.0,"{""1"": 1.0}",original,False
+ASBPD-III_04.7,sleep,ASBPD,1,Daytime sleepiness and alertness,0.736,"{""-1"": 0.14, ""1"": 0.86}",original,False
+CAPE-P15_01,psychosis,CAPE-P15,2,Delusions,0.791,"{""-1"": 0.11, ""2"": 0.89}",original,False
+CAPE-P15_02,psychosis,CAPE-P15,2,Delusions,0.791,"{""1"": 0.11, ""2"": 0.89}",original,False
+CAPE-P15_03,psychosis,CAPE-P15,2,Delusions,0.889,"{""1"": 0.06, ""2"": 0.94}",original,False
+CAPE-P15_04,psychosis,CAPE-P15,2,Delusions,1.0,"{""2"": 1.0}",original,False
+CAPE-P15_05,psychosis,CAPE-P15,2,Delusions,0.889,"{""-1"": 0.06, ""2"": 0.94}",original,False
+CAPE-P15_06,psychosis,CAPE-P15,2,Delusions,0.889,"{""-1"": 0.06, ""2"": 0.94}",original,False
+CAPE-P15_07,psychosis,CAPE-P15,2,Delusions,0.791,"{""-1"": 0.11, ""2"": 0.89}",original,False
+CAPE-P15_08,psychosis,CAPE-P15,2,Delusions,0.693,"{""-1"": 0.11, ""1"": 0.06, ""2"": 0.83}",original,False
+CAPE-P15_09,psychosis,CAPE-P15,2,Delusions,0.614,"{""-1"": 0.06, ""1"": 0.17, ""2"": 0.78}",original,False
+CAPE-P15_10,psychosis,CAPE-P15,1,Hallucinations,0.431,"{""-1"": 0.11, ""1"": 0.61, ""2"": 0.28}",original,False
+CAPE-P15_11,psychosis,CAPE-P15,2,Delusions,0.889,"{""-1"": 0.06, ""2"": 0.94}",original,False
+CAPE-P15_12,psychosis,CAPE-P15,2,Delusions,0.706,"{""1"": 0.17, ""2"": 0.83}",original,False
+CAPE-P15_13,psychosis,CAPE-P15,1,Hallucinations,1.0,"{""1"": 1.0}",original,False
+CAPE-P15_14,psychosis,CAPE-P15,1,Hallucinations,1.0,"{""1"": 1.0}",original,False
+CAPE-P15_15,psychosis,CAPE-P15,1,Hallucinations,1.0,"{""1"": 1.0}",original,False
+PQ-B_01,psychosis,PQ-B,1,Hallucinations,0.379,"{""-1"": 0.28, ""1"": 0.56, ""2"": 0.17}",original,False
+PQ-B_02,psychosis,PQ-B,1,Hallucinations,1.0,"{""1"": 1.0}",original,False
+PQ-B_03,psychosis,PQ-B,1,Hallucinations,0.889,"{""-1"": 0.06, ""1"": 0.94}",original,False
+PQ-B_04,psychosis,PQ-B,-1,Does not fit,1.0,"{""-1"": 1.0}",expert_review,True
+PQ-B_05,psychosis,PQ-B,2,Delusions,0.549,"{""-1"": 0.22, ""1"": 0.06, ""2"": 0.72}",original,False
+PQ-B_06,psychosis,PQ-B,-1,Does not fit,0.784,"{""-1"": 0.89, ""1"": 0.06, ""2"": 0.06}",original,False
+PQ-B_07,psychosis,PQ-B,2,Delusions,0.784,"{""-1"": 0.06, ""1"": 0.06, ""2"": 0.89}",original,False
+PQ-B_08,psychosis,PQ-B,2,Delusions,0.889,"{""1"": 0.06, ""2"": 0.94}",original,False
+PQ-B_09,psychosis,PQ-B,1,Hallucinations,0.706,"{""1"": 0.83, ""2"": 0.17}",original,False
+PQ-B_10,psychosis,PQ-B,1,Hallucinations,0.791,"{""-1"": 0.11, ""1"": 0.89}",original,False
+PQ-B_11,psychosis,PQ-B,1,Hallucinations,0.418,"{""-1"": 0.06, ""1"": 0.5, ""2"": 0.44}",original,False
+PQ-B_12,psychosis,PQ-B,-1,Does not fit,0.399,"{""-1"": 0.56, ""1"": 0.11, ""2"": 0.33}",original,False
+PQ-B_13,psychosis,PQ-B,2,Delusions,0.693,"{""-1"": 0.06, ""1"": 0.11, ""2"": 0.83}",original,False
+PQ-B_14,psychosis,PQ-B,1,Hallucinations,0.497,"{""-1"": 0.28, ""1"": 0.67, ""2"": 0.06}",original,False
+PQ-B_15,psychosis,PQ-B,2,Delusions,0.693,"{""-1"": 0.11, ""1"": 0.06, ""2"": 0.83}",original,False
+PQ-B_16,psychosis,PQ-B,2,Delusions,0.458,"{""-1"": 0.06, ""1"": 0.33, ""2"": 0.61}",original,False
+PQ-B_17,psychosis,PQ-B,1,Hallucinations,0.431,"{""-1"": 0.11, ""1"": 0.61, ""2"": 0.28}",original,False
+PQ-B_18,psychosis,PQ-B,2,Delusions,0.784,"{""-1"": 0.06, ""1"": 0.06, ""2"": 0.89}",original,False
+PQ-B_19,psychosis,PQ-B,1,Hallucinations,1.0,"{""1"": 1.0}",original,False
+PQ-B_20,psychosis,PQ-B,1,Hallucinations,1.0,"{""1"": 1.0}",original,False
+PQ-B_21,psychosis,PQ-B,-1,Does not fit,0.693,"{""-1"": 0.83, ""1"": 0.06, ""2"": 0.11}",original,False
+SCL-90_07,psychosis,SCL-90,2,Delusions,0.693,"{""-1"": 0.11, ""1"": 0.06, ""2"": 0.83}",original,False
+SCL-90_08,psychosis,SCL-90,2,Delusions,0.791,"{""-1"": 0.11, ""2"": 0.89}",original,False
+SCL-90_16,psychosis,SCL-90,1,Hallucinations,1.0,"{""1"": 1.0}",original,False
+SCL-90_18,psychosis,SCL-90,2,Delusions,0.889,"{""-1"": 0.06, ""2"": 0.94}",original,False
+SCL-90_35,psychosis,SCL-90,2,Delusions,0.791,"{""-1"": 0.11, ""2"": 0.89}",original,False
+SCL-90_43,psychosis,SCL-90,2,Delusions,1.0,"{""2"": 1.0}",original,False
+SCL-90_62,psychosis,SCL-90,2,Delusions,0.608,"{""-1"": 0.11, ""1"": 0.11, ""2"": 0.78}",original,False
+SCL-90_68,psychosis,SCL-90,2,Delusions,0.614,"{""-1"": 0.17, ""1"": 0.06, ""2"": 0.78}",original,False
+SCL-90_76,psychosis,SCL-90,2,Delusions,0.706,"{""-1"": 0.17, ""2"": 0.83}",original,False
+SCL-90_77,psychosis,SCL-90,-1,Does not fit,0.634,"{""-1"": 0.78, ""2"": 0.22}",original,False
+SCL-90_83,psychosis,SCL-90,2,Delusions,0.575,"{""-1"": 0.28, ""2"": 0.72}",original,False
+SCL-90_84,psychosis,SCL-90,-1,Does not fit,0.634,"{""-1"": 0.78, ""2"": 0.22}",original,False
+SCL-90_85,psychosis,SCL-90,2,Delusions,0.634,"{""-1"": 0.22, ""2"": 0.78}",original,False
+SCL-90_87,psychosis,SCL-90,2,Delusions,0.693,"{""-1"": 0.11, ""1"": 0.06, ""2"": 0.83}",original,False
+SCL-90_88,psychosis,SCL-90,-1,Does not fit,0.706,"{""-1"": 0.83, ""2"": 0.17}",original,False
+SCL-90_90,psychosis,SCL-90,-1,Does not fit,1.0,"{""-1"": 1.0}",expert_review,True

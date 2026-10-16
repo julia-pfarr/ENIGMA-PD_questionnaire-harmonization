@@ -1,0 +1,286 @@
+questionnaire,construct,dimension,dimension_label,score_type,pearson_r
+BAI,anxiety,1,Somatic symptoms,Raw dimension score,0.9876
+BAI,anxiety,1,Somatic symptoms,Proportion,0.9876
+BAI,anxiety,1,Somatic symptoms,Per-Q C-score,0.9866
+BAI,anxiety,1,Somatic symptoms,Pooled C-score,0.9692
+BAI,anxiety,1,Somatic symptoms,Site-weighted C,0.7463
+GAI,anxiety,1,Somatic symptoms,Raw dimension score,0.9922
+GAI,anxiety,1,Somatic symptoms,Proportion,0.9922
+GAI,anxiety,1,Somatic symptoms,Per-Q C-score,0.9886
+GAI,anxiety,1,Somatic symptoms,Pooled C-score,0.9782
+GAI,anxiety,1,Somatic symptoms,Site-weighted C,0.8581
+HADS,anxiety,1,Somatic symptoms,Raw dimension score,0.9825
+HADS,anxiety,1,Somatic symptoms,Proportion,0.9921
+HADS,anxiety,1,Somatic symptoms,Per-Q C-score,0.987
+HADS,anxiety,1,Somatic symptoms,Pooled C-score,0.9765
+HADS,anxiety,1,Somatic symptoms,Site-weighted C,0.7939
+PAS,anxiety,1,Somatic symptoms,Raw dimension score,0.9946
+PAS,anxiety,1,Somatic symptoms,Proportion,0.9946
+PAS,anxiety,1,Somatic symptoms,Per-Q C-score,0.9869
+PAS,anxiety,1,Somatic symptoms,Pooled C-score,0.9901
+PAS,anxiety,1,Somatic symptoms,Site-weighted C,0.8775
+STAI,anxiety,1,Somatic symptoms,Raw dimension score,0.9392
+STAI,anxiety,1,Somatic symptoms,Proportion,0.9392
+STAI,anxiety,1,Somatic symptoms,Per-Q C-score,0.9893
+STAI,anxiety,1,Somatic symptoms,Pooled C-score,0.9773
+STAI,anxiety,1,Somatic symptoms,Site-weighted C,0.9877
+BAI,anxiety,2,Cognitive symptoms,Raw dimension score,0.9919
+BAI,anxiety,2,Cognitive symptoms,Proportion,0.9919
+BAI,anxiety,2,Cognitive symptoms,Per-Q C-score,0.9191
+BAI,anxiety,2,Cognitive symptoms,Pooled C-score,0.9373
+BAI,anxiety,2,Cognitive symptoms,Site-weighted C,0.9421
+GAI,anxiety,2,Cognitive symptoms,Raw dimension score,0.9872
+GAI,anxiety,2,Cognitive symptoms,Proportion,0.9872
+GAI,anxiety,2,Cognitive symptoms,Per-Q C-score,0.9192
+GAI,anxiety,2,Cognitive symptoms,Pooled C-score,0.9243
+GAI,anxiety,2,Cognitive symptoms,Site-weighted C,0.9319
+HADS,anxiety,2,Cognitive symptoms,Raw dimension score,0.977
+HADS,anxiety,2,Cognitive symptoms,Proportion,0.9795
+HADS,anxiety,2,Cognitive symptoms,Per-Q C-score,0.9214
+HADS,anxiety,2,Cognitive symptoms,Pooled C-score,0.9199
+HADS,anxiety,2,Cognitive symptoms,Site-weighted C,0.9363
+MDS-UPDRS_I,anxiety,2,Cognitive symptoms,Raw dimension score,0.9736
+MDS-UPDRS_I,anxiety,2,Cognitive symptoms,Proportion,0.9736
+MDS-UPDRS_I,anxiety,2,Cognitive symptoms,Per-Q C-score,0.9819
+MDS-UPDRS_I,anxiety,2,Cognitive symptoms,Pooled C-score,0.9866
+MDS-UPDRS_I,anxiety,2,Cognitive symptoms,Site-weighted C,0.969
+NMSQuest,anxiety,2,Cognitive symptoms,Raw dimension score,1.0
+NMSQuest,anxiety,2,Cognitive symptoms,Proportion,1.0
+NMSQuest,anxiety,2,Cognitive symptoms,Per-Q C-score,1.0
+NMSQuest,anxiety,2,Cognitive symptoms,Pooled C-score,1.0
+NMSQuest,anxiety,2,Cognitive symptoms,Site-weighted C,1.0
+NPI,anxiety,2,Cognitive symptoms,Raw dimension score,1.0
+NPI,anxiety,2,Cognitive symptoms,Proportion,1.0
+NPI,anxiety,2,Cognitive symptoms,Per-Q C-score,1.0
+NPI,anxiety,2,Cognitive symptoms,Pooled C-score,1.0
+NPI,anxiety,2,Cognitive symptoms,Site-weighted C,1.0
+PAS,anxiety,2,Cognitive symptoms,Raw dimension score,0.979
+PAS,anxiety,2,Cognitive symptoms,Proportion,0.979
+PAS,anxiety,2,Cognitive symptoms,Per-Q C-score,0.9079
+PAS,anxiety,2,Cognitive symptoms,Pooled C-score,0.8864
+PAS,anxiety,2,Cognitive symptoms,Site-weighted C,0.8886
+STAI,anxiety,2,Cognitive symptoms,Raw dimension score,0.819
+STAI,anxiety,2,Cognitive symptoms,Proportion,0.8191
+STAI,anxiety,2,Cognitive symptoms,Per-Q C-score,0.8951
+STAI,anxiety,2,Cognitive symptoms,Pooled C-score,0.8654
+STAI,anxiety,2,Cognitive symptoms,Site-weighted C,0.8891
+AES,apathy,1,Behavioral-Cognitive apathy,Raw dimension score,0.8769
+AES,apathy,1,Behavioral-Cognitive apathy,Proportion,0.8769
+AES,apathy,1,Behavioral-Cognitive apathy,Per-Q C-score,0.8627
+AES,apathy,1,Behavioral-Cognitive apathy,Pooled C-score,0.8649
+AES,apathy,1,Behavioral-Cognitive apathy,Site-weighted C,0.8741
+NMSQuest,apathy,1,Behavioral-Cognitive apathy,Raw dimension score,1.0
+NMSQuest,apathy,1,Behavioral-Cognitive apathy,Proportion,1.0
+NMSQuest,apathy,1,Behavioral-Cognitive apathy,Per-Q C-score,1.0
+NMSQuest,apathy,1,Behavioral-Cognitive apathy,Pooled C-score,1.0
+NMSQuest,apathy,1,Behavioral-Cognitive apathy,Site-weighted C,1.0
+NPI,apathy,1,Behavioral-Cognitive apathy,Raw dimension score,1.0
+NPI,apathy,1,Behavioral-Cognitive apathy,Proportion,1.0
+NPI,apathy,1,Behavioral-Cognitive apathy,Per-Q C-score,1.0
+NPI,apathy,1,Behavioral-Cognitive apathy,Pooled C-score,1.0
+NPI,apathy,1,Behavioral-Cognitive apathy,Site-weighted C,1.0
+SAS,apathy,1,Behavioral-Cognitive apathy,Raw dimension score,0.9217
+SAS,apathy,1,Behavioral-Cognitive apathy,Proportion,0.9217
+SAS,apathy,1,Behavioral-Cognitive apathy,Per-Q C-score,0.8636
+SAS,apathy,1,Behavioral-Cognitive apathy,Pooled C-score,0.8158
+SAS,apathy,1,Behavioral-Cognitive apathy,Site-weighted C,0.85
+AES,apathy,2,Affective apathy,Raw dimension score,0.985
+AES,apathy,2,Affective apathy,Proportion,0.985
+AES,apathy,2,Affective apathy,Per-Q C-score,0.9574
+AES,apathy,2,Affective apathy,Pooled C-score,0.8046
+AES,apathy,2,Affective apathy,Site-weighted C,0.7871
+MDS-UPDRS_I,apathy,2,Affective apathy,Raw dimension score,0.9797
+MDS-UPDRS_I,apathy,2,Affective apathy,Proportion,0.9797
+MDS-UPDRS_I,apathy,2,Affective apathy,Per-Q C-score,0.9885
+MDS-UPDRS_I,apathy,2,Affective apathy,Pooled C-score,0.9909
+MDS-UPDRS_I,apathy,2,Affective apathy,Site-weighted C,0.9882
+SAS,apathy,2,Affective apathy,Raw dimension score,0.9379
+SAS,apathy,2,Affective apathy,Proportion,0.9376
+SAS,apathy,2,Affective apathy,Per-Q C-score,0.9531
+SAS,apathy,2,Affective apathy,Pooled C-score,0.6255
+SAS,apathy,2,Affective apathy,Site-weighted C,0.5771
+BDI,depression,1,Mood & affective symptoms,Raw dimension score,0.9491
+BDI,depression,1,Mood & affective symptoms,Proportion,0.9494
+BDI,depression,1,Mood & affective symptoms,Per-Q C-score,0.9533
+BDI,depression,1,Mood & affective symptoms,Pooled C-score,0.9457
+BDI,depression,1,Mood & affective symptoms,Site-weighted C,0.9351
+GDS,depression,1,Mood & affective symptoms,Raw dimension score,0.7434
+GDS,depression,1,Mood & affective symptoms,Proportion,0.7434
+GDS,depression,1,Mood & affective symptoms,Per-Q C-score,0.8355
+GDS,depression,1,Mood & affective symptoms,Pooled C-score,0.6216
+GDS,depression,1,Mood & affective symptoms,Site-weighted C,0.7138
+HADS,depression,1,Mood & affective symptoms,Raw dimension score,0.9442
+HADS,depression,1,Mood & affective symptoms,Proportion,0.9442
+HADS,depression,1,Mood & affective symptoms,Per-Q C-score,0.9118
+HADS,depression,1,Mood & affective symptoms,Pooled C-score,0.8692
+HADS,depression,1,Mood & affective symptoms,Site-weighted C,0.8897
+MDS-UPDRS_I,depression,1,Mood & affective symptoms,Raw dimension score,0.9355
+MDS-UPDRS_I,depression,1,Mood & affective symptoms,Proportion,0.9355
+MDS-UPDRS_I,depression,1,Mood & affective symptoms,Per-Q C-score,0.9992
+MDS-UPDRS_I,depression,1,Mood & affective symptoms,Pooled C-score,0.9967
+MDS-UPDRS_I,depression,1,Mood & affective symptoms,Site-weighted C,0.9836
+NMSQuest,depression,1,Mood & affective symptoms,Raw dimension score,1.0
+NMSQuest,depression,1,Mood & affective symptoms,Proportion,1.0
+NMSQuest,depression,1,Mood & affective symptoms,Per-Q C-score,1.0
+NMSQuest,depression,1,Mood & affective symptoms,Pooled C-score,1.0
+NMSQuest,depression,1,Mood & affective symptoms,Site-weighted C,1.0
+NPI,depression,1,Mood & affective symptoms,Raw dimension score,1.0
+NPI,depression,1,Mood & affective symptoms,Proportion,1.0
+NPI,depression,1,Mood & affective symptoms,Per-Q C-score,1.0
+NPI,depression,1,Mood & affective symptoms,Pooled C-score,1.0
+NPI,depression,1,Mood & affective symptoms,Site-weighted C,1.0
+BDI,depression,2,Cognitive & self-perception,Raw dimension score,0.9824
+BDI,depression,2,Cognitive & self-perception,Proportion,0.9827
+BDI,depression,2,Cognitive & self-perception,Per-Q C-score,0.8932
+BDI,depression,2,Cognitive & self-perception,Pooled C-score,0.9407
+BDI,depression,2,Cognitive & self-perception,Site-weighted C,0.896
+GDS,depression,2,Cognitive & self-perception,Raw dimension score,0.9971
+GDS,depression,2,Cognitive & self-perception,Proportion,0.9971
+GDS,depression,2,Cognitive & self-perception,Per-Q C-score,0.9195
+GDS,depression,2,Cognitive & self-perception,Pooled C-score,0.8457
+GDS,depression,2,Cognitive & self-perception,Site-weighted C,0.9198
+BDI,depression,3,Somatic & vegetative symptoms,Raw dimension score,0.9815
+BDI,depression,3,Somatic & vegetative symptoms,Proportion,0.9861
+BDI,depression,3,Somatic & vegetative symptoms,Per-Q C-score,0.9481
+BDI,depression,3,Somatic & vegetative symptoms,Pooled C-score,0.9624
+BDI,depression,3,Somatic & vegetative symptoms,Site-weighted C,0.962
+HADS,depression,3,Somatic & vegetative symptoms,Raw dimension score,0.9566
+HADS,depression,3,Somatic & vegetative symptoms,Proportion,0.9566
+HADS,depression,3,Somatic & vegetative symptoms,Per-Q C-score,0.9034
+HADS,depression,3,Somatic & vegetative symptoms,Pooled C-score,0.7517
+HADS,depression,3,Somatic & vegetative symptoms,Site-weighted C,0.7661
+BDI,depression,4,Activity & interest deficits,Raw dimension score,0.9927
+BDI,depression,4,Activity & interest deficits,Proportion,0.9941
+BDI,depression,4,Activity & interest deficits,Per-Q C-score,0.9504
+BDI,depression,4,Activity & interest deficits,Pooled C-score,0.9495
+BDI,depression,4,Activity & interest deficits,Site-weighted C,0.9222
+GDS,depression,4,Activity & interest deficits,Raw dimension score,0.997
+GDS,depression,4,Activity & interest deficits,Proportion,0.997
+GDS,depression,4,Activity & interest deficits,Per-Q C-score,0.9798
+GDS,depression,4,Activity & interest deficits,Pooled C-score,0.9616
+GDS,depression,4,Activity & interest deficits,Site-weighted C,0.9768
+HADS,depression,4,Activity & interest deficits,Raw dimension score,0.9941
+HADS,depression,4,Activity & interest deficits,Proportion,0.9941
+HADS,depression,4,Activity & interest deficits,Per-Q C-score,0.9586
+HADS,depression,4,Activity & interest deficits,Pooled C-score,0.9578
+HADS,depression,4,Activity & interest deficits,Site-weighted C,0.9138
+BDI,depression,5,Anxiety & distress,Raw dimension score,0.9801
+BDI,depression,5,Anxiety & distress,Proportion,0.9801
+BDI,depression,5,Anxiety & distress,Per-Q C-score,0.8949
+BDI,depression,5,Anxiety & distress,Pooled C-score,0.8755
+BDI,depression,5,Anxiety & distress,Site-weighted C,0.8567
+GDS,depression,5,Anxiety & distress,Raw dimension score,1.0
+GDS,depression,5,Anxiety & distress,Proportion,1.0
+GDS,depression,5,Anxiety & distress,Per-Q C-score,1.0
+GDS,depression,5,Anxiety & distress,Pooled C-score,1.0
+GDS,depression,5,Anxiety & distress,Site-weighted C,1.0
+MDS-UPDRS_I,psychosis,1,Hallucinations,Raw dimension score,0.9664
+MDS-UPDRS_I,psychosis,1,Hallucinations,Proportion,0.9664
+MDS-UPDRS_I,psychosis,1,Hallucinations,Per-Q C-score,0.8426
+MDS-UPDRS_I,psychosis,1,Hallucinations,Pooled C-score,0.8431
+MDS-UPDRS_I,psychosis,1,Hallucinations,Site-weighted C,0.8381
+NMSQuest,psychosis,1,Hallucinations,Raw dimension score,1.0
+NMSQuest,psychosis,1,Hallucinations,Proportion,1.0
+NMSQuest,psychosis,1,Hallucinations,Per-Q C-score,1.0
+NMSQuest,psychosis,1,Hallucinations,Pooled C-score,1.0
+NMSQuest,psychosis,1,Hallucinations,Site-weighted C,1.0
+NPI,psychosis,1,Hallucinations,Raw dimension score,1.0
+NPI,psychosis,1,Hallucinations,Proportion,1.0
+NPI,psychosis,1,Hallucinations,Per-Q C-score,1.0
+NPI,psychosis,1,Hallucinations,Pooled C-score,1.0
+NPI,psychosis,1,Hallucinations,Site-weighted C,1.0
+SAPS-PD,psychosis,1,Hallucinations,Raw dimension score,0.9902
+SAPS-PD,psychosis,1,Hallucinations,Proportion,0.9902
+SAPS-PD,psychosis,1,Hallucinations,Per-Q C-score,0.8228
+SAPS-PD,psychosis,1,Hallucinations,Pooled C-score,0.8062
+SAPS-PD,psychosis,1,Hallucinations,Site-weighted C,0.793
+SCOPA-PC,psychosis,1,Hallucinations,Raw dimension score,0.8861
+SCOPA-PC,psychosis,1,Hallucinations,Proportion,0.8861
+SCOPA-PC,psychosis,1,Hallucinations,Per-Q C-score,0.6289
+SCOPA-PC,psychosis,1,Hallucinations,Pooled C-score,0.6074
+SCOPA-PC,psychosis,1,Hallucinations,Site-weighted C,0.5925
+NMSQuest,psychosis,2,Delusions,Raw dimension score,1.0
+NMSQuest,psychosis,2,Delusions,Proportion,1.0
+NMSQuest,psychosis,2,Delusions,Per-Q C-score,1.0
+NMSQuest,psychosis,2,Delusions,Pooled C-score,1.0
+NMSQuest,psychosis,2,Delusions,Site-weighted C,1.0
+NPI,psychosis,2,Delusions,Raw dimension score,1.0
+NPI,psychosis,2,Delusions,Proportion,1.0
+NPI,psychosis,2,Delusions,Per-Q C-score,1.0
+NPI,psychosis,2,Delusions,Pooled C-score,1.0
+NPI,psychosis,2,Delusions,Site-weighted C,1.0
+SAPS-PD,psychosis,2,Delusions,Raw dimension score,1.0
+SAPS-PD,psychosis,2,Delusions,Proportion,1.0
+SAPS-PD,psychosis,2,Delusions,Per-Q C-score,1.0
+SAPS-PD,psychosis,2,Delusions,Pooled C-score,1.0
+SAPS-PD,psychosis,2,Delusions,Site-weighted C,1.0
+SCOPA-PC,psychosis,2,Delusions,Raw dimension score,0.7795
+SCOPA-PC,psychosis,2,Delusions,Proportion,0.7795
+SCOPA-PC,psychosis,2,Delusions,Per-Q C-score,0.5489
+SCOPA-PC,psychosis,2,Delusions,Pooled C-score,0.5414
+SCOPA-PC,psychosis,2,Delusions,Site-weighted C,0.5314
+ESS,sleep,1,Daytime sleepiness and alertness,Raw dimension score,0.9791
+ESS,sleep,1,Daytime sleepiness and alertness,Proportion,0.9795
+ESS,sleep,1,Daytime sleepiness and alertness,Per-Q C-score,0.9594
+ESS,sleep,1,Daytime sleepiness and alertness,Pooled C-score,0.9697
+ESS,sleep,1,Daytime sleepiness and alertness,Site-weighted C,0.9542
+MDS-UPDRS_I,sleep,1,Daytime sleepiness and alertness,Raw dimension score,0.9846
+MDS-UPDRS_I,sleep,1,Daytime sleepiness and alertness,Proportion,0.9846
+MDS-UPDRS_I,sleep,1,Daytime sleepiness and alertness,Per-Q C-score,0.9785
+MDS-UPDRS_I,sleep,1,Daytime sleepiness and alertness,Pooled C-score,0.9497
+MDS-UPDRS_I,sleep,1,Daytime sleepiness and alertness,Site-weighted C,0.9313
+NMSQuest,sleep,1,Daytime sleepiness and alertness,Raw dimension score,0.9995
+NMSQuest,sleep,1,Daytime sleepiness and alertness,Proportion,0.9995
+NMSQuest,sleep,1,Daytime sleepiness and alertness,Per-Q C-score,0.9797
+NMSQuest,sleep,1,Daytime sleepiness and alertness,Pooled C-score,0.964
+NMSQuest,sleep,1,Daytime sleepiness and alertness,Site-weighted C,0.9558
+PDSS-2,sleep,1,Daytime sleepiness and alertness,Raw dimension score,0.986
+PDSS-2,sleep,1,Daytime sleepiness and alertness,Proportion,0.986
+PDSS-2,sleep,1,Daytime sleepiness and alertness,Per-Q C-score,0.9864
+PDSS-2,sleep,1,Daytime sleepiness and alertness,Pooled C-score,0.9609
+PDSS-2,sleep,1,Daytime sleepiness and alertness,Site-weighted C,0.9387
+SCOPA-SLEEP,sleep,1,Daytime sleepiness and alertness,Raw dimension score,0.9782
+SCOPA-SLEEP,sleep,1,Daytime sleepiness and alertness,Proportion,0.9782
+SCOPA-SLEEP,sleep,1,Daytime sleepiness and alertness,Per-Q C-score,0.9623
+SCOPA-SLEEP,sleep,1,Daytime sleepiness and alertness,Pooled C-score,0.9716
+SCOPA-SLEEP,sleep,1,Daytime sleepiness and alertness,Site-weighted C,0.9637
+MDS-UPDRS_I,sleep,2,Nocturnal sleep disturbances,Raw dimension score,0.996
+MDS-UPDRS_I,sleep,2,Nocturnal sleep disturbances,Proportion,0.996
+MDS-UPDRS_I,sleep,2,Nocturnal sleep disturbances,Per-Q C-score,0.9799
+MDS-UPDRS_I,sleep,2,Nocturnal sleep disturbances,Pooled C-score,0.9303
+MDS-UPDRS_I,sleep,2,Nocturnal sleep disturbances,Site-weighted C,0.843
+NMSQuest,sleep,2,Nocturnal sleep disturbances,Raw dimension score,0.978
+NMSQuest,sleep,2,Nocturnal sleep disturbances,Proportion,0.978
+NMSQuest,sleep,2,Nocturnal sleep disturbances,Per-Q C-score,0.9555
+NMSQuest,sleep,2,Nocturnal sleep disturbances,Pooled C-score,0.8786
+NMSQuest,sleep,2,Nocturnal sleep disturbances,Site-weighted C,0.8309
+PDSS-2,sleep,2,Nocturnal sleep disturbances,Raw dimension score,0.9809
+PDSS-2,sleep,2,Nocturnal sleep disturbances,Proportion,0.9806
+PDSS-2,sleep,2,Nocturnal sleep disturbances,Per-Q C-score,0.9535
+PDSS-2,sleep,2,Nocturnal sleep disturbances,Pooled C-score,0.8762
+PDSS-2,sleep,2,Nocturnal sleep disturbances,Site-weighted C,0.4783
+RBDSQ,sleep,2,Nocturnal sleep disturbances,Raw dimension score,1.0
+RBDSQ,sleep,2,Nocturnal sleep disturbances,Proportion,1.0
+RBDSQ,sleep,2,Nocturnal sleep disturbances,Per-Q C-score,1.0
+RBDSQ,sleep,2,Nocturnal sleep disturbances,Pooled C-score,1.0
+RBDSQ,sleep,2,Nocturnal sleep disturbances,Site-weighted C,1.0
+SCOPA-SLEEP,sleep,2,Nocturnal sleep disturbances,Raw dimension score,0.9879
+SCOPA-SLEEP,sleep,2,Nocturnal sleep disturbances,Proportion,0.9879
+SCOPA-SLEEP,sleep,2,Nocturnal sleep disturbances,Per-Q C-score,0.9556
+SCOPA-SLEEP,sleep,2,Nocturnal sleep disturbances,Pooled C-score,0.8655
+SCOPA-SLEEP,sleep,2,Nocturnal sleep disturbances,Site-weighted C,0.6605
+NMSQuest,sleep,3,REM sleep behavior and dreaming,Raw dimension score,0.9999
+NMSQuest,sleep,3,REM sleep behavior and dreaming,Proportion,0.9999
+NMSQuest,sleep,3,REM sleep behavior and dreaming,Per-Q C-score,0.9764
+NMSQuest,sleep,3,REM sleep behavior and dreaming,Pooled C-score,0.9632
+NMSQuest,sleep,3,REM sleep behavior and dreaming,Site-weighted C,0.9692
+PDSS-2,sleep,3,REM sleep behavior and dreaming,Raw dimension score,0.9964
+PDSS-2,sleep,3,REM sleep behavior and dreaming,Proportion,0.9964
+PDSS-2,sleep,3,REM sleep behavior and dreaming,Per-Q C-score,0.9292
+PDSS-2,sleep,3,REM sleep behavior and dreaming,Pooled C-score,0.9598
+PDSS-2,sleep,3,REM sleep behavior and dreaming,Site-weighted C,0.9659
+RBDSQ,sleep,3,REM sleep behavior and dreaming,Raw dimension score,0.9848
+RBDSQ,sleep,3,REM sleep behavior and dreaming,Proportion,0.9852
+RBDSQ,sleep,3,REM sleep behavior and dreaming,Per-Q C-score,0.9065
+RBDSQ,sleep,3,REM sleep behavior and dreaming,Pooled C-score,0.9043
+RBDSQ,sleep,3,REM sleep behavior and dreaming,Site-weighted C,0.9108

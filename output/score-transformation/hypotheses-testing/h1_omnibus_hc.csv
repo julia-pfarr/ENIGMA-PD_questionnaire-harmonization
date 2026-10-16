@@ -1,0 +1,4 @@
+construct,dimension,dimension_label,questionnaires,n_total,n_questionnaires,F,df_num,df_den,p_value,partial_eta2,site_adjusted,language_adjusted,p_value_fdr,interaction_min_p_fdr
+anxiety,2,Cognitive symptoms,MDS-UPDRS_I; STAI,1704,2,7.110089760646992,1,1697,0.0077379260812015785,0.004172318328122597,True,True,0.011606889121802369,0.0005206099955980478
+depression,1,Mood & affective symptoms,GDS; MDS-UPDRS_I,1704,2,4.623464151395576,1,1697,0.03167839409672236,0.0027170900312551293,True,True,0.03167839409672236,0.01822145293216445
+depression,3,Somatic & vegetative symptoms,BDI; HADS,385,2,7.4030703194685366,1,380,0.006810587995837593,0.01910947766460307,False,False,0.011606889121802369,0.49425268361347496

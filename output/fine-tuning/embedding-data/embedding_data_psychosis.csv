@@ -1,0 +1,50 @@
+item_id,questionnaire,dimension,dimension_label,p_i,base_umap_1,base_umap_2,ft_umap_1,ft_umap_2,base_nearest_prototype,base_nearest_label,base_correctly_placed,ft_nearest_prototype,ft_nearest_label,ft_correctly_placed
+SCOPA-PC_01,SCOPA-PC,1,Hallucinations,0.8528,-4.9299,12.7001,-5.3599,10.3284,1,Hallucinations,True,1,Hallucinations,True
+SCOPA-PC_02,SCOPA-PC,1,Hallucinations,0.7888,-4.8452,12.7708,-5.0132,10.6537,1,Hallucinations,True,1,Hallucinations,True
+SCOPA-PC_03,SCOPA-PC,2,Delusions,0.8665,-2.6829,12.0317,16.1195,24.4743,2,Delusions,True,2,Delusions,True
+SAPS-PD_01,SAPS-PD,1,Hallucinations,0.9608,-5.0138,10.9896,-5.5234,10.8407,1,Hallucinations,True,1,Hallucinations,True
+SAPS-PD_03,SAPS-PD,1,Hallucinations,0.9608,-4.7087,11.0935,-5.291,11.1597,1,Hallucinations,True,1,Hallucinations,True
+SAPS-PD_04,SAPS-PD,1,Hallucinations,0.8665,-4.3505,11.2972,-6.268,11.1411,1,Hallucinations,True,1,Hallucinations,True
+SAPS-PD_06,SAPS-PD,1,Hallucinations,0.9608,-4.5066,11.806,-5.7548,11.7558,1,Hallucinations,True,1,Hallucinations,True
+SAPS-PD_08,SAPS-PD,2,Delusions,0.9216,-2.0013,11.9005,16.7551,24.9786,2,Delusions,True,2,Delusions,True
+SAPS-PD_09,SAPS-PD,2,Delusions,0.9216,-1.766,12.3351,16.384,25.0258,2,Delusions,True,2,Delusions,True
+SAPS-PD_14,SAPS-PD,2,Delusions,0.9216,-2.8468,11.4328,16.0978,24.3176,2,Delusions,True,2,Delusions,True
+PPRS_01,PPRS,1,Hallucinations,1.0,-4.9692,12.0906,-4.8597,11.5468,1,Hallucinations,True,1,Hallucinations,True
+PPRS_02,PPRS,1,Hallucinations,0.7094,-4.8863,11.9716,-5.3229,11.7027,1,Hallucinations,True,1,Hallucinations,True
+PPRS_03,PPRS,2,Delusions,0.8665,-2.4254,11.7999,15.7424,24.6184,2,Delusions,True,2,Delusions,True
+UM-PDHQ_01,UM-PDHQ,1,Hallucinations,0.9608,-5.1845,12.4273,-5.8196,10.2698,1,Hallucinations,True,1,Hallucinations,True
+NMSQuest_14,NMSQuest,1,Hallucinations,0.8528,-4.2897,12.8059,-5.2881,10.4059,1,Hallucinations,True,1,Hallucinations,True
+NMSQuest_30,NMSQuest,2,Delusions,0.8528,-3.7266,12.6812,16.6837,24.8011,2,Delusions,True,2,Delusions,True
+NMSS_13,NMSS,1,Hallucinations,0.9608,-3.9227,11.9309,-5.7257,11.4588,1,Hallucinations,True,1,Hallucinations,True
+NMSS_14,NMSS,2,Delusions,0.8168,-2.7451,12.4246,17.1339,24.5397,2,Delusions,True,2,Delusions,True
+NMSS_15,NMSS,1,Hallucinations,0.5648,-4.4829,12.1723,-5.2005,11.8935,1,Hallucinations,True,1,Hallucinations,True
+NPI_A_screen,NPI,2,Delusions,0.9608,-2.9063,12.7582,17.0566,24.6418,2,Delusions,True,2,Delusions,True
+NPI_A_1,NPI,2,Delusions,0.9216,-2.119,12.9466,16.3707,24.8957,2,Delusions,True,2,Delusions,True
+NPI_A_2,NPI,2,Delusions,0.9216,-2.4574,12.509,15.9796,25.3058,2,Delusions,True,2,Delusions,True
+NPI_A_3,NPI,2,Delusions,0.9216,-1.816,12.5954,16.3101,25.4134,2,Delusions,True,2,Delusions,True
+NPI_A_4,NPI,2,Delusions,0.815,-2.3651,13.395,16.0287,24.7983,2,Delusions,True,2,Delusions,True
+NPI_A_5,NPI,2,Delusions,0.9216,-2.8006,12.9644,16.4761,25.5022,2,Delusions,True,2,Delusions,True
+NPI_A_6,NPI,2,Delusions,0.8168,-2.5492,13.2161,15.7272,25.1359,2,Delusions,True,2,Delusions,True
+NPI_A_7,NPI,2,Delusions,0.9216,-1.9862,13.0554,16.7857,25.3287,2,Delusions,True,2,Delusions,True
+NPI_A_8,NPI,2,Delusions,0.735,-3.1668,12.0264,16.619,24.427,2,Delusions,True,2,Delusions,True
+NPI_A_9,NPI,2,Delusions,0.8665,-2.0704,11.5692,16.8807,24.0256,2,Delusions,True,2,Delusions,True
+NPI_B_screen,NPI,1,Hallucinations,1.0,-3.9916,10.9758,-6.0867,11.3855,1,Hallucinations,True,1,Hallucinations,True
+NPI_B_1,NPI,1,Hallucinations,1.0,-4.8038,10.6637,-5.7981,11.0331,1,Hallucinations,True,1,Hallucinations,True
+NPI_B_2,NPI,1,Hallucinations,0.8168,-4.067,11.4206,-5.1392,11.037,1,Hallucinations,True,1,Hallucinations,True
+NPI_B_3,NPI,1,Hallucinations,0.9608,-5.3665,11.4892,-6.0051,10.9045,1,Hallucinations,True,1,Hallucinations,True
+NPI_B_4,NPI,1,Hallucinations,0.9608,-5.865,11.4872,-6.1096,10.6292,1,Hallucinations,True,1,Hallucinations,True
+NPI_B_5,NPI,1,Hallucinations,0.9216,-5.7742,12.0361,-6.7664,10.7323,1,Hallucinations,True,1,Hallucinations,True
+NPI_B_6,NPI,1,Hallucinations,0.9608,-5.6442,11.2155,-6.4123,10.4556,1,Hallucinations,True,1,Hallucinations,True
+NPI_B_7,NPI,1,Hallucinations,1.0,-5.635,11.7323,-6.6657,10.8015,1,Hallucinations,True,1,Hallucinations,True
+MDS-UPDRS_1.2,MDS-UPDRS_I,1,Hallucinations,0.905,-5.1974,12.9011,-5.1666,10.1221,1,Hallucinations,True,1,Hallucinations,True
+augmentation_psy_neg1_01,data-augmentation,-1,Does not fit,1.0,-2.0258,10.6195,2.8467,18.0772,1,Hallucinations,False,1,Hallucinations,False
+augmentation_psy_neg1_02,data-augmentation,-1,Does not fit,1.0,-1.6352,10.3388,3.0019,17.6744,1,Hallucinations,False,2,Delusions,False
+augmentation_psy_neg1_03,data-augmentation,-1,Does not fit,1.0,-1.8,10.972,3.277,17.905,2,Delusions,False,2,Delusions,False
+augmentation_psy_neg1_04,data-augmentation,-1,Does not fit,1.0,-2.332,9.5592,3.2195,18.3543,1,Hallucinations,False,1,Hallucinations,False
+augmentation_psy_neg1_05,data-augmentation,-1,Does not fit,1.0,-1.6698,9.822,2.9162,18.0502,1,Hallucinations,False,1,Hallucinations,False
+augmentation_psy_neg1_06,data-augmentation,-1,Does not fit,1.0,-2.116,9.7918,2.5765,18.2413,1,Hallucinations,False,1,Hallucinations,False
+augmentation_psy_neg1_07,data-augmentation,-1,Does not fit,1.0,-2.7967,10.2496,2.9795,17.0265,1,Hallucinations,False,1,Hallucinations,False
+augmentation_psy_neg1_08,data-augmentation,-1,Does not fit,1.0,-1.9341,9.3522,3.0179,18.5126,1,Hallucinations,False,1,Hallucinations,False
+augmentation_psy_neg1_09,data-augmentation,-1,Does not fit,1.0,-1.8383,9.4387,2.7341,18.6009,1,Hallucinations,False,2,Delusions,False
+augmentation_psy_neg1_10,data-augmentation,-1,Does not fit,1.0,-2.632,10.4093,3.0705,17.3328,2,Delusions,False,2,Delusions,False
+augmentation_psy_neg1_11,data-augmentation,-1,Does not fit,1.0,-1.8854,10.113,2.725,17.775,2,Delusions,False,2,Delusions,False

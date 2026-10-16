@@ -1,0 +1,585 @@
+q1,q2,construct1,dim1,construct2,dim2,dim_label1,dim_label2,n,r,validity_type
+AES,BDI,apathy,1,depression,1,Behavioral-Cognitive apathy,Mood & affective symptoms,114,0.148,cross-construct
+AES,BDI,apathy,1,depression,2,Behavioral-Cognitive apathy,Cognitive & self-perception,114,0.169,cross-construct
+AES,BDI,apathy,1,depression,3,Behavioral-Cognitive apathy,Somatic & vegetative symptoms,114,-0.059,cross-construct
+AES,BDI,apathy,1,depression,4,Behavioral-Cognitive apathy,Activity & interest deficits,114,0.251,cross-construct
+AES,BDI,apathy,1,depression,5,Behavioral-Cognitive apathy,Anxiety & distress,114,-0.141,cross-construct
+AES,BDI,apathy,2,depression,1,Affective apathy,Mood & affective symptoms,114,0.235,cross-construct
+AES,BDI,apathy,2,depression,2,Affective apathy,Cognitive & self-perception,114,0.418,cross-construct
+AES,BDI,apathy,2,depression,3,Affective apathy,Somatic & vegetative symptoms,114,0.229,cross-construct
+AES,BDI,apathy,2,depression,4,Affective apathy,Activity & interest deficits,114,0.479,cross-construct
+AES,BDI,apathy,2,depression,5,Affective apathy,Anxiety & distress,114,0.176,cross-construct
+AES,PAS,apathy,1,anxiety,1,Behavioral-Cognitive apathy,Somatic symptoms,114,0.132,cross-construct
+AES,PAS,apathy,1,anxiety,2,Behavioral-Cognitive apathy,Cognitive symptoms,114,0.163,cross-construct
+AES,PAS,apathy,2,anxiety,1,Affective apathy,Somatic symptoms,114,0.438,cross-construct
+AES,PAS,apathy,2,anxiety,2,Affective apathy,Cognitive symptoms,114,0.512,cross-construct
+AES,QUIP-RS,apathy,1,impulse_control,1,Behavioral-Cognitive apathy,Pathological gambling,114,0.128,cross-construct
+AES,QUIP-RS,apathy,1,impulse_control,2,Behavioral-Cognitive apathy,Hypersexuality,114,0.043,cross-construct
+AES,QUIP-RS,apathy,1,impulse_control,3,Behavioral-Cognitive apathy,Compulsive buying,114,0.123,cross-construct
+AES,QUIP-RS,apathy,1,impulse_control,4,Behavioral-Cognitive apathy,Compulsive eating,114,-0.046,cross-construct
+AES,QUIP-RS,apathy,1,impulse_control,5,Behavioral-Cognitive apathy,Punding-hobbyism,114,0.04,cross-construct
+AES,QUIP-RS,apathy,1,impulse_control,6,Behavioral-Cognitive apathy,Dopamine dysregulation syndrome,114,0.055,cross-construct
+AES,QUIP-RS,apathy,2,impulse_control,1,Affective apathy,Pathological gambling,114,0.144,cross-construct
+AES,QUIP-RS,apathy,2,impulse_control,2,Affective apathy,Hypersexuality,114,0.231,cross-construct
+AES,QUIP-RS,apathy,2,impulse_control,3,Affective apathy,Compulsive buying,114,0.225,cross-construct
+AES,QUIP-RS,apathy,2,impulse_control,4,Affective apathy,Compulsive eating,114,0.232,cross-construct
+AES,QUIP-RS,apathy,2,impulse_control,5,Affective apathy,Punding-hobbyism,114,0.333,cross-construct
+AES,QUIP-RS,apathy,2,impulse_control,6,Affective apathy,Dopamine dysregulation syndrome,114,0.161,cross-construct
+BAI,BDI,anxiety,1,depression,1,Somatic symptoms,Mood & affective symptoms,672,0.504,cross-construct
+BAI,BDI,anxiety,1,depression,2,Somatic symptoms,Cognitive & self-perception,673,0.527,cross-construct
+BAI,BDI,anxiety,1,depression,3,Somatic symptoms,Somatic & vegetative symptoms,673,0.636,cross-construct
+BAI,BDI,anxiety,1,depression,4,Somatic symptoms,Activity & interest deficits,673,0.573,cross-construct
+BAI,BDI,anxiety,1,depression,5,Somatic symptoms,Anxiety & distress,670,0.385,cross-construct
+BAI,BDI,anxiety,2,depression,1,Cognitive symptoms,Mood & affective symptoms,672,0.569,cross-construct
+BAI,BDI,anxiety,2,depression,2,Cognitive symptoms,Cognitive & self-perception,673,0.624,cross-construct
+BAI,BDI,anxiety,2,depression,3,Cognitive symptoms,Somatic & vegetative symptoms,673,0.553,cross-construct
+BAI,BDI,anxiety,2,depression,4,Cognitive symptoms,Activity & interest deficits,673,0.534,cross-construct
+BAI,BDI,anxiety,2,depression,5,Cognitive symptoms,Anxiety & distress,670,0.355,cross-construct
+BAI,QUIP-RS,anxiety,1,impulse_control,1,Somatic symptoms,Pathological gambling,192,0.013,cross-construct
+BAI,QUIP-RS,anxiety,1,impulse_control,2,Somatic symptoms,Hypersexuality,191,0.096,cross-construct
+BAI,QUIP-RS,anxiety,1,impulse_control,3,Somatic symptoms,Compulsive buying,192,0.172,cross-construct
+BAI,QUIP-RS,anxiety,1,impulse_control,4,Somatic symptoms,Compulsive eating,192,0.195,cross-construct
+BAI,QUIP-RS,anxiety,1,impulse_control,5,Somatic symptoms,Punding-hobbyism,192,0.293,cross-construct
+BAI,QUIP-RS,anxiety,1,impulse_control,6,Somatic symptoms,Dopamine dysregulation syndrome,186,0.318,cross-construct
+BAI,QUIP-RS,anxiety,2,impulse_control,1,Cognitive symptoms,Pathological gambling,192,0.025,cross-construct
+BAI,QUIP-RS,anxiety,2,impulse_control,2,Cognitive symptoms,Hypersexuality,191,0.028,cross-construct
+BAI,QUIP-RS,anxiety,2,impulse_control,3,Cognitive symptoms,Compulsive buying,192,0.157,cross-construct
+BAI,QUIP-RS,anxiety,2,impulse_control,4,Cognitive symptoms,Compulsive eating,192,0.158,cross-construct
+BAI,QUIP-RS,anxiety,2,impulse_control,5,Cognitive symptoms,Punding-hobbyism,192,0.249,cross-construct
+BAI,QUIP-RS,anxiety,2,impulse_control,6,Cognitive symptoms,Dopamine dysregulation syndrome,186,0.283,cross-construct
+BAI,RBDSQ,anxiety,1,sleep,2,Somatic symptoms,Nocturnal sleep disturbances,84,0.291,cross-construct
+BAI,RBDSQ,anxiety,1,sleep,3,Somatic symptoms,REM sleep behavior and dreaming,83,0.081,cross-construct
+BAI,RBDSQ,anxiety,2,sleep,2,Cognitive symptoms,Nocturnal sleep disturbances,84,0.129,cross-construct
+BAI,RBDSQ,anxiety,2,sleep,3,Cognitive symptoms,REM sleep behavior and dreaming,83,0.227,cross-construct
+BAI,SCOPA-PC,anxiety,1,psychosis,1,Somatic symptoms,Hallucinations,623,0.235,cross-construct
+BAI,SCOPA-PC,anxiety,1,psychosis,2,Somatic symptoms,Delusions,623,0.183,cross-construct
+BAI,SCOPA-PC,anxiety,2,psychosis,1,Cognitive symptoms,Hallucinations,623,0.22,cross-construct
+BAI,SCOPA-PC,anxiety,2,psychosis,2,Cognitive symptoms,Delusions,623,0.268,cross-construct
+BAI,SCOPA-SLEEP,anxiety,1,sleep,1,Somatic symptoms,Daytime sleepiness and alertness,712,0.341,cross-construct
+BAI,SCOPA-SLEEP,anxiety,1,sleep,2,Somatic symptoms,Nocturnal sleep disturbances,713,0.46,cross-construct
+BAI,SCOPA-SLEEP,anxiety,2,sleep,1,Cognitive symptoms,Daytime sleepiness and alertness,712,0.255,cross-construct
+BAI,SCOPA-SLEEP,anxiety,2,sleep,2,Cognitive symptoms,Nocturnal sleep disturbances,713,0.322,cross-construct
+BDI,ESS,depression,1,sleep,1,Mood & affective symptoms,Daytime sleepiness and alertness,1293,0.165,cross-construct
+BDI,ESS,depression,2,sleep,1,Cognitive & self-perception,Daytime sleepiness and alertness,1294,0.215,cross-construct
+BDI,ESS,depression,3,sleep,1,Somatic & vegetative symptoms,Daytime sleepiness and alertness,1293,0.328,cross-construct
+BDI,ESS,depression,4,sleep,1,Activity & interest deficits,Daytime sleepiness and alertness,1293,0.232,cross-construct
+BDI,ESS,depression,5,sleep,1,Anxiety & distress,Daytime sleepiness and alertness,1290,0.149,cross-construct
+BDI,GAI,depression,1,anxiety,1,Mood & affective symptoms,Somatic symptoms,90,0.238,cross-construct
+BDI,GAI,depression,1,anxiety,2,Mood & affective symptoms,Cognitive symptoms,90,0.423,cross-construct
+BDI,GAI,depression,2,anxiety,1,Cognitive & self-perception,Somatic symptoms,90,0.28,cross-construct
+BDI,GAI,depression,2,anxiety,2,Cognitive & self-perception,Cognitive symptoms,90,0.45,cross-construct
+BDI,GAI,depression,3,anxiety,1,Somatic & vegetative symptoms,Somatic symptoms,90,0.349,cross-construct
+BDI,GAI,depression,3,anxiety,2,Somatic & vegetative symptoms,Cognitive symptoms,90,0.281,cross-construct
+BDI,GAI,depression,4,anxiety,1,Activity & interest deficits,Somatic symptoms,90,0.242,cross-construct
+BDI,GAI,depression,4,anxiety,2,Activity & interest deficits,Cognitive symptoms,90,0.18,cross-construct
+BDI,GAI,depression,5,anxiety,1,Anxiety & distress,Somatic symptoms,90,0.368,cross-construct
+BDI,GAI,depression,5,anxiety,2,Anxiety & distress,Cognitive symptoms,90,0.058,cross-construct
+BDI,HADS,depression,1,anxiety,1,Mood & affective symptoms,Somatic symptoms,289,0.45,cross-construct
+BDI,HADS,depression,1,anxiety,2,Mood & affective symptoms,Cognitive symptoms,288,0.46,cross-construct
+BDI,HADS,depression,1,depression,1,Mood & affective symptoms,Mood & affective symptoms,288,0.424,convergent
+BDI,HADS,depression,1,depression,3,Mood & affective symptoms,Somatic & vegetative symptoms,288,0.276,discriminant
+BDI,HADS,depression,1,depression,4,Mood & affective symptoms,Activity & interest deficits,282,0.344,discriminant
+BDI,HADS,depression,2,anxiety,1,Cognitive & self-perception,Somatic symptoms,290,0.542,cross-construct
+BDI,HADS,depression,2,anxiety,2,Cognitive & self-perception,Cognitive symptoms,289,0.596,cross-construct
+BDI,HADS,depression,2,depression,1,Cognitive & self-perception,Mood & affective symptoms,289,0.575,discriminant
+BDI,HADS,depression,2,depression,3,Cognitive & self-perception,Somatic & vegetative symptoms,289,0.375,discriminant
+BDI,HADS,depression,2,depression,4,Cognitive & self-perception,Activity & interest deficits,283,0.5,discriminant
+BDI,HADS,depression,3,anxiety,1,Somatic & vegetative symptoms,Somatic symptoms,289,0.442,cross-construct
+BDI,HADS,depression,3,anxiety,2,Somatic & vegetative symptoms,Cognitive symptoms,288,0.422,cross-construct
+BDI,HADS,depression,3,depression,1,Somatic & vegetative symptoms,Mood & affective symptoms,288,0.397,discriminant
+BDI,HADS,depression,3,depression,3,Somatic & vegetative symptoms,Somatic & vegetative symptoms,288,0.516,convergent
+BDI,HADS,depression,3,depression,4,Somatic & vegetative symptoms,Activity & interest deficits,282,0.439,discriminant
+BDI,HADS,depression,4,anxiety,1,Activity & interest deficits,Somatic symptoms,289,0.454,cross-construct
+BDI,HADS,depression,4,anxiety,2,Activity & interest deficits,Cognitive symptoms,288,0.43,cross-construct
+BDI,HADS,depression,4,depression,1,Activity & interest deficits,Mood & affective symptoms,288,0.519,discriminant
+BDI,HADS,depression,4,depression,3,Activity & interest deficits,Somatic & vegetative symptoms,288,0.529,discriminant
+BDI,HADS,depression,4,depression,4,Activity & interest deficits,Activity & interest deficits,282,0.659,convergent
+BDI,HADS,depression,5,anxiety,1,Anxiety & distress,Somatic symptoms,289,0.454,cross-construct
+BDI,HADS,depression,5,anxiety,2,Anxiety & distress,Cognitive symptoms,288,0.402,cross-construct
+BDI,HADS,depression,5,depression,1,Anxiety & distress,Mood & affective symptoms,288,0.311,discriminant
+BDI,HADS,depression,5,depression,3,Anxiety & distress,Somatic & vegetative symptoms,288,0.262,discriminant
+BDI,HADS,depression,5,depression,4,Anxiety & distress,Activity & interest deficits,282,0.315,discriminant
+BDI,MDS-UPDRS_I,depression,1,anxiety,2,Mood & affective symptoms,Cognitive symptoms,1044,0.297,cross-construct
+BDI,MDS-UPDRS_I,depression,1,apathy,2,Mood & affective symptoms,Affective apathy,1044,0.293,cross-construct
+BDI,MDS-UPDRS_I,depression,1,depression,1,Mood & affective symptoms,Mood & affective symptoms,1043,0.427,convergent
+BDI,MDS-UPDRS_I,depression,1,psychosis,1,Mood & affective symptoms,Hallucinations,1043,0.136,cross-construct
+BDI,MDS-UPDRS_I,depression,1,sleep,1,Mood & affective symptoms,Daytime sleepiness and alertness,1157,0.097,cross-construct
+BDI,MDS-UPDRS_I,depression,1,sleep,2,Mood & affective symptoms,Nocturnal sleep disturbances,1159,0.229,cross-construct
+BDI,MDS-UPDRS_I,depression,2,anxiety,2,Cognitive & self-perception,Cognitive symptoms,1045,0.393,cross-construct
+BDI,MDS-UPDRS_I,depression,2,apathy,2,Cognitive & self-perception,Affective apathy,1045,0.355,cross-construct
+BDI,MDS-UPDRS_I,depression,2,depression,1,Cognitive & self-perception,Mood & affective symptoms,1044,0.432,discriminant
+BDI,MDS-UPDRS_I,depression,2,psychosis,1,Cognitive & self-perception,Hallucinations,1044,0.171,cross-construct
+BDI,MDS-UPDRS_I,depression,2,sleep,1,Cognitive & self-perception,Daytime sleepiness and alertness,1158,0.169,cross-construct
+BDI,MDS-UPDRS_I,depression,2,sleep,2,Cognitive & self-perception,Nocturnal sleep disturbances,1160,0.305,cross-construct
+BDI,MDS-UPDRS_I,depression,3,anxiety,2,Somatic & vegetative symptoms,Cognitive symptoms,1044,0.289,cross-construct
+BDI,MDS-UPDRS_I,depression,3,apathy,2,Somatic & vegetative symptoms,Affective apathy,1044,0.334,cross-construct
+BDI,MDS-UPDRS_I,depression,3,depression,1,Somatic & vegetative symptoms,Mood & affective symptoms,1043,0.291,discriminant
+BDI,MDS-UPDRS_I,depression,3,psychosis,1,Somatic & vegetative symptoms,Hallucinations,1043,0.152,cross-construct
+BDI,MDS-UPDRS_I,depression,3,sleep,1,Somatic & vegetative symptoms,Daytime sleepiness and alertness,1157,0.362,cross-construct
+BDI,MDS-UPDRS_I,depression,3,sleep,2,Somatic & vegetative symptoms,Nocturnal sleep disturbances,1159,0.475,cross-construct
+BDI,MDS-UPDRS_I,depression,4,anxiety,2,Activity & interest deficits,Cognitive symptoms,1044,0.204,cross-construct
+BDI,MDS-UPDRS_I,depression,4,apathy,2,Activity & interest deficits,Affective apathy,1044,0.328,cross-construct
+BDI,MDS-UPDRS_I,depression,4,depression,1,Activity & interest deficits,Mood & affective symptoms,1043,0.294,discriminant
+BDI,MDS-UPDRS_I,depression,4,psychosis,1,Activity & interest deficits,Hallucinations,1043,0.115,cross-construct
+BDI,MDS-UPDRS_I,depression,4,sleep,1,Activity & interest deficits,Daytime sleepiness and alertness,1157,0.239,cross-construct
+BDI,MDS-UPDRS_I,depression,4,sleep,2,Activity & interest deficits,Nocturnal sleep disturbances,1159,0.273,cross-construct
+BDI,MDS-UPDRS_I,depression,5,anxiety,2,Anxiety & distress,Cognitive symptoms,1041,0.316,cross-construct
+BDI,MDS-UPDRS_I,depression,5,apathy,2,Anxiety & distress,Affective apathy,1041,0.284,cross-construct
+BDI,MDS-UPDRS_I,depression,5,depression,1,Anxiety & distress,Mood & affective symptoms,1040,0.283,discriminant
+BDI,MDS-UPDRS_I,depression,5,psychosis,1,Anxiety & distress,Hallucinations,1040,0.096,cross-construct
+BDI,MDS-UPDRS_I,depression,5,sleep,1,Anxiety & distress,Daytime sleepiness and alertness,1154,0.079,cross-construct
+BDI,MDS-UPDRS_I,depression,5,sleep,2,Anxiety & distress,Nocturnal sleep disturbances,1156,0.237,cross-construct
+BDI,PAS,depression,1,anxiety,1,Mood & affective symptoms,Somatic symptoms,154,0.338,cross-construct
+BDI,PAS,depression,1,anxiety,2,Mood & affective symptoms,Cognitive symptoms,154,0.424,cross-construct
+BDI,PAS,depression,2,anxiety,1,Cognitive & self-perception,Somatic symptoms,154,0.459,cross-construct
+BDI,PAS,depression,2,anxiety,2,Cognitive & self-perception,Cognitive symptoms,154,0.508,cross-construct
+BDI,PAS,depression,3,anxiety,1,Somatic & vegetative symptoms,Somatic symptoms,154,0.418,cross-construct
+BDI,PAS,depression,3,anxiety,2,Somatic & vegetative symptoms,Cognitive symptoms,154,0.38,cross-construct
+BDI,PAS,depression,4,anxiety,1,Activity & interest deficits,Somatic symptoms,154,0.288,cross-construct
+BDI,PAS,depression,4,anxiety,2,Activity & interest deficits,Cognitive symptoms,154,0.422,cross-construct
+BDI,PAS,depression,5,anxiety,1,Anxiety & distress,Somatic symptoms,154,0.085,cross-construct
+BDI,PAS,depression,5,anxiety,2,Anxiety & distress,Cognitive symptoms,154,0.121,cross-construct
+BDI,QUIP-RS,depression,1,impulse_control,1,Mood & affective symptoms,Pathological gambling,418,0.032,cross-construct
+BDI,QUIP-RS,depression,1,impulse_control,2,Mood & affective symptoms,Hypersexuality,417,-0.004,cross-construct
+BDI,QUIP-RS,depression,1,impulse_control,3,Mood & affective symptoms,Compulsive buying,418,0.06,cross-construct
+BDI,QUIP-RS,depression,1,impulse_control,4,Mood & affective symptoms,Compulsive eating,418,0.088,cross-construct
+BDI,QUIP-RS,depression,1,impulse_control,5,Mood & affective symptoms,Punding-hobbyism,418,0.128,cross-construct
+BDI,QUIP-RS,depression,1,impulse_control,6,Mood & affective symptoms,Dopamine dysregulation syndrome,395,0.062,cross-construct
+BDI,QUIP-RS,depression,2,impulse_control,1,Cognitive & self-perception,Pathological gambling,419,0.13,cross-construct
+BDI,QUIP-RS,depression,2,impulse_control,2,Cognitive & self-perception,Hypersexuality,418,0.065,cross-construct
+BDI,QUIP-RS,depression,2,impulse_control,3,Cognitive & self-perception,Compulsive buying,419,0.095,cross-construct
+BDI,QUIP-RS,depression,2,impulse_control,4,Cognitive & self-perception,Compulsive eating,419,0.071,cross-construct
+BDI,QUIP-RS,depression,2,impulse_control,5,Cognitive & self-perception,Punding-hobbyism,419,0.195,cross-construct
+BDI,QUIP-RS,depression,2,impulse_control,6,Cognitive & self-perception,Dopamine dysregulation syndrome,396,0.082,cross-construct
+BDI,QUIP-RS,depression,3,impulse_control,1,Somatic & vegetative symptoms,Pathological gambling,419,0.115,cross-construct
+BDI,QUIP-RS,depression,3,impulse_control,2,Somatic & vegetative symptoms,Hypersexuality,418,0.082,cross-construct
+BDI,QUIP-RS,depression,3,impulse_control,3,Somatic & vegetative symptoms,Compulsive buying,419,0.107,cross-construct
+BDI,QUIP-RS,depression,3,impulse_control,4,Somatic & vegetative symptoms,Compulsive eating,419,0.082,cross-construct
+BDI,QUIP-RS,depression,3,impulse_control,5,Somatic & vegetative symptoms,Punding-hobbyism,419,0.224,cross-construct
+BDI,QUIP-RS,depression,3,impulse_control,6,Somatic & vegetative symptoms,Dopamine dysregulation syndrome,396,0.129,cross-construct
+BDI,QUIP-RS,depression,4,impulse_control,1,Activity & interest deficits,Pathological gambling,419,0.052,cross-construct
+BDI,QUIP-RS,depression,4,impulse_control,2,Activity & interest deficits,Hypersexuality,418,-0.097,cross-construct
+BDI,QUIP-RS,depression,4,impulse_control,3,Activity & interest deficits,Compulsive buying,419,-0.0,cross-construct
+BDI,QUIP-RS,depression,4,impulse_control,4,Activity & interest deficits,Compulsive eating,419,0.042,cross-construct
+BDI,QUIP-RS,depression,4,impulse_control,5,Activity & interest deficits,Punding-hobbyism,419,0.135,cross-construct
+BDI,QUIP-RS,depression,4,impulse_control,6,Activity & interest deficits,Dopamine dysregulation syndrome,396,0.075,cross-construct
+BDI,QUIP-RS,depression,5,impulse_control,1,Anxiety & distress,Pathological gambling,416,-0.039,cross-construct
+BDI,QUIP-RS,depression,5,impulse_control,2,Anxiety & distress,Hypersexuality,415,0.087,cross-construct
+BDI,QUIP-RS,depression,5,impulse_control,3,Anxiety & distress,Compulsive buying,416,0.008,cross-construct
+BDI,QUIP-RS,depression,5,impulse_control,4,Anxiety & distress,Compulsive eating,416,0.068,cross-construct
+BDI,QUIP-RS,depression,5,impulse_control,5,Anxiety & distress,Punding-hobbyism,416,0.136,cross-construct
+BDI,QUIP-RS,depression,5,impulse_control,6,Anxiety & distress,Dopamine dysregulation syndrome,393,0.052,cross-construct
+BDI,RBDSQ,depression,1,sleep,2,Mood & affective symptoms,Nocturnal sleep disturbances,1372,0.183,cross-construct
+BDI,RBDSQ,depression,1,sleep,3,Mood & affective symptoms,REM sleep behavior and dreaming,1376,0.184,cross-construct
+BDI,RBDSQ,depression,2,sleep,2,Cognitive & self-perception,Nocturnal sleep disturbances,1374,0.214,cross-construct
+BDI,RBDSQ,depression,2,sleep,3,Cognitive & self-perception,REM sleep behavior and dreaming,1378,0.211,cross-construct
+BDI,RBDSQ,depression,3,sleep,2,Somatic & vegetative symptoms,Nocturnal sleep disturbances,1373,0.336,cross-construct
+BDI,RBDSQ,depression,3,sleep,3,Somatic & vegetative symptoms,REM sleep behavior and dreaming,1377,0.256,cross-construct
+BDI,RBDSQ,depression,4,sleep,2,Activity & interest deficits,Nocturnal sleep disturbances,1373,0.189,cross-construct
+BDI,RBDSQ,depression,4,sleep,3,Activity & interest deficits,REM sleep behavior and dreaming,1377,0.208,cross-construct
+BDI,RBDSQ,depression,5,sleep,2,Anxiety & distress,Nocturnal sleep disturbances,1370,0.141,cross-construct
+BDI,RBDSQ,depression,5,sleep,3,Anxiety & distress,REM sleep behavior and dreaming,1373,0.195,cross-construct
+BDI,SAS,depression,1,apathy,1,Mood & affective symptoms,Behavioral-Cognitive apathy,130,0.061,cross-construct
+BDI,SAS,depression,1,apathy,2,Mood & affective symptoms,Affective apathy,130,0.193,cross-construct
+BDI,SAS,depression,2,apathy,1,Cognitive & self-perception,Behavioral-Cognitive apathy,130,0.153,cross-construct
+BDI,SAS,depression,2,apathy,2,Cognitive & self-perception,Affective apathy,130,0.269,cross-construct
+BDI,SAS,depression,3,apathy,1,Somatic & vegetative symptoms,Behavioral-Cognitive apathy,130,0.2,cross-construct
+BDI,SAS,depression,3,apathy,2,Somatic & vegetative symptoms,Affective apathy,130,0.526,cross-construct
+BDI,SAS,depression,4,apathy,1,Activity & interest deficits,Behavioral-Cognitive apathy,130,0.382,cross-construct
+BDI,SAS,depression,4,apathy,2,Activity & interest deficits,Affective apathy,130,0.31,cross-construct
+BDI,SAS,depression,5,apathy,1,Anxiety & distress,Behavioral-Cognitive apathy,130,0.054,cross-construct
+BDI,SAS,depression,5,apathy,2,Anxiety & distress,Affective apathy,130,0.342,cross-construct
+BDI,SCOPA-PC,depression,1,psychosis,1,Mood & affective symptoms,Hallucinations,596,0.217,cross-construct
+BDI,SCOPA-PC,depression,1,psychosis,2,Mood & affective symptoms,Delusions,596,0.207,cross-construct
+BDI,SCOPA-PC,depression,2,psychosis,1,Cognitive & self-perception,Hallucinations,596,0.233,cross-construct
+BDI,SCOPA-PC,depression,2,psychosis,2,Cognitive & self-perception,Delusions,596,0.299,cross-construct
+BDI,SCOPA-PC,depression,3,psychosis,1,Somatic & vegetative symptoms,Hallucinations,596,0.154,cross-construct
+BDI,SCOPA-PC,depression,3,psychosis,2,Somatic & vegetative symptoms,Delusions,596,0.152,cross-construct
+BDI,SCOPA-PC,depression,4,psychosis,1,Activity & interest deficits,Hallucinations,596,0.158,cross-construct
+BDI,SCOPA-PC,depression,4,psychosis,2,Activity & interest deficits,Delusions,596,0.183,cross-construct
+BDI,SCOPA-PC,depression,5,psychosis,1,Anxiety & distress,Hallucinations,594,0.124,cross-construct
+BDI,SCOPA-PC,depression,5,psychosis,2,Anxiety & distress,Delusions,594,0.174,cross-construct
+BDI,SCOPA-SLEEP,depression,1,sleep,1,Mood & affective symptoms,Daytime sleepiness and alertness,724,0.204,cross-construct
+BDI,SCOPA-SLEEP,depression,1,sleep,2,Mood & affective symptoms,Nocturnal sleep disturbances,725,0.349,cross-construct
+BDI,SCOPA-SLEEP,depression,2,sleep,1,Cognitive & self-perception,Daytime sleepiness and alertness,725,0.289,cross-construct
+BDI,SCOPA-SLEEP,depression,2,sleep,2,Cognitive & self-perception,Nocturnal sleep disturbances,726,0.342,cross-construct
+BDI,SCOPA-SLEEP,depression,3,sleep,1,Somatic & vegetative symptoms,Daytime sleepiness and alertness,725,0.325,cross-construct
+BDI,SCOPA-SLEEP,depression,3,sleep,2,Somatic & vegetative symptoms,Nocturnal sleep disturbances,726,0.582,cross-construct
+BDI,SCOPA-SLEEP,depression,4,sleep,1,Activity & interest deficits,Daytime sleepiness and alertness,725,0.317,cross-construct
+BDI,SCOPA-SLEEP,depression,4,sleep,2,Activity & interest deficits,Nocturnal sleep disturbances,726,0.269,cross-construct
+BDI,SCOPA-SLEEP,depression,5,sleep,1,Anxiety & distress,Daytime sleepiness and alertness,722,0.182,cross-construct
+BDI,SCOPA-SLEEP,depression,5,sleep,2,Anxiety & distress,Nocturnal sleep disturbances,723,0.225,cross-construct
+ESS,GDS,sleep,1,depression,1,Daytime sleepiness and alertness,Mood & affective symptoms,1920,-0.134,cross-construct
+ESS,GDS,sleep,1,depression,2,Daytime sleepiness and alertness,Cognitive & self-perception,1920,0.164,cross-construct
+ESS,GDS,sleep,1,depression,4,Daytime sleepiness and alertness,Activity & interest deficits,1920,0.071,cross-construct
+ESS,GDS,sleep,1,depression,5,Daytime sleepiness and alertness,Anxiety & distress,1920,0.098,cross-construct
+ESS,HADS,sleep,1,anxiety,1,Daytime sleepiness and alertness,Somatic symptoms,291,0.164,cross-construct
+ESS,HADS,sleep,1,anxiety,2,Daytime sleepiness and alertness,Cognitive symptoms,290,0.156,cross-construct
+ESS,HADS,sleep,1,depression,1,Daytime sleepiness and alertness,Mood & affective symptoms,290,0.12,cross-construct
+ESS,HADS,sleep,1,depression,3,Daytime sleepiness and alertness,Somatic & vegetative symptoms,290,0.213,cross-construct
+ESS,HADS,sleep,1,depression,4,Daytime sleepiness and alertness,Activity & interest deficits,284,0.191,cross-construct
+ESS,MDS-UPDRS_I,sleep,1,anxiety,2,Daytime sleepiness and alertness,Cognitive symptoms,2858,0.092,cross-construct
+ESS,MDS-UPDRS_I,sleep,1,apathy,2,Daytime sleepiness and alertness,Affective apathy,2858,0.167,cross-construct
+ESS,MDS-UPDRS_I,sleep,1,depression,1,Daytime sleepiness and alertness,Mood & affective symptoms,2857,0.127,cross-construct
+ESS,MDS-UPDRS_I,sleep,1,psychosis,1,Daytime sleepiness and alertness,Hallucinations,2857,0.139,cross-construct
+ESS,MDS-UPDRS_I,sleep,1,sleep,1,Daytime sleepiness and alertness,Daytime sleepiness and alertness,1169,0.524,convergent
+ESS,MDS-UPDRS_I,sleep,1,sleep,2,Daytime sleepiness and alertness,Nocturnal sleep disturbances,1171,0.173,discriminant
+ESS,NPI,sleep,1,anxiety,2,Daytime sleepiness and alertness,Cognitive symptoms,82,0.202,cross-construct
+ESS,NPI,sleep,1,apathy,1,Daytime sleepiness and alertness,Behavioral-Cognitive apathy,82,0.106,cross-construct
+ESS,NPI,sleep,1,depression,1,Daytime sleepiness and alertness,Mood & affective symptoms,82,0.106,cross-construct
+ESS,NPI,sleep,1,psychosis,1,Daytime sleepiness and alertness,Hallucinations,82,0.059,cross-construct
+ESS,NPI,sleep,1,psychosis,2,Daytime sleepiness and alertness,Delusions,82,-0.011,cross-construct
+ESS,PDSS-2,sleep,1,sleep,1,Daytime sleepiness and alertness,Daytime sleepiness and alertness,91,0.246,convergent
+ESS,PDSS-2,sleep,1,sleep,2,Daytime sleepiness and alertness,Nocturnal sleep disturbances,91,0.218,discriminant
+ESS,PDSS-2,sleep,1,sleep,3,Daytime sleepiness and alertness,REM sleep behavior and dreaming,91,0.058,discriminant
+ESS,PDSS-2,sleep,1,sleep,4,Daytime sleepiness and alertness,Sleep-disordered breathing,91,0.051,discriminant
+ESS,RBDSQ,sleep,1,sleep,2,Daytime sleepiness and alertness,Nocturnal sleep disturbances,3204,0.162,discriminant
+ESS,RBDSQ,sleep,1,sleep,3,Daytime sleepiness and alertness,REM sleep behavior and dreaming,3209,0.213,discriminant
+ESS,STAI,sleep,1,anxiety,1,Daytime sleepiness and alertness,Somatic symptoms,1796,-0.09,cross-construct
+ESS,STAI,sleep,1,anxiety,2,Daytime sleepiness and alertness,Cognitive symptoms,1796,-0.073,cross-construct
+GAI,QUIP-RS,anxiety,1,impulse_control,1,Somatic symptoms,Pathological gambling,91,-0.007,cross-construct
+GAI,QUIP-RS,anxiety,1,impulse_control,2,Somatic symptoms,Hypersexuality,91,0.072,cross-construct
+GAI,QUIP-RS,anxiety,1,impulse_control,3,Somatic symptoms,Compulsive buying,91,0.092,cross-construct
+GAI,QUIP-RS,anxiety,1,impulse_control,4,Somatic symptoms,Compulsive eating,91,0.098,cross-construct
+GAI,QUIP-RS,anxiety,1,impulse_control,5,Somatic symptoms,Punding-hobbyism,91,0.056,cross-construct
+GAI,QUIP-RS,anxiety,1,impulse_control,6,Somatic symptoms,Dopamine dysregulation syndrome,91,0.011,cross-construct
+GAI,QUIP-RS,anxiety,2,impulse_control,1,Cognitive symptoms,Pathological gambling,91,0.107,cross-construct
+GAI,QUIP-RS,anxiety,2,impulse_control,2,Cognitive symptoms,Hypersexuality,91,0.075,cross-construct
+GAI,QUIP-RS,anxiety,2,impulse_control,3,Cognitive symptoms,Compulsive buying,91,0.281,cross-construct
+GAI,QUIP-RS,anxiety,2,impulse_control,4,Cognitive symptoms,Compulsive eating,91,0.203,cross-construct
+GAI,QUIP-RS,anxiety,2,impulse_control,5,Cognitive symptoms,Punding-hobbyism,91,0.069,cross-construct
+GAI,QUIP-RS,anxiety,2,impulse_control,6,Cognitive symptoms,Dopamine dysregulation syndrome,91,0.134,cross-construct
+GAI,SAS,anxiety,1,apathy,1,Somatic symptoms,Behavioral-Cognitive apathy,91,0.07,cross-construct
+GAI,SAS,anxiety,1,apathy,2,Somatic symptoms,Affective apathy,91,0.188,cross-construct
+GAI,SAS,anxiety,2,apathy,1,Cognitive symptoms,Behavioral-Cognitive apathy,91,0.245,cross-construct
+GAI,SAS,anxiety,2,apathy,2,Cognitive symptoms,Affective apathy,91,0.087,cross-construct
+GDS,MDS-UPDRS_I,depression,1,anxiety,2,Mood & affective symptoms,Cognitive symptoms,2071,-0.078,cross-construct
+GDS,MDS-UPDRS_I,depression,1,apathy,2,Mood & affective symptoms,Affective apathy,2071,-0.124,cross-construct
+GDS,MDS-UPDRS_I,depression,1,depression,1,Mood & affective symptoms,Mood & affective symptoms,2071,-0.191,convergent
+GDS,MDS-UPDRS_I,depression,1,psychosis,1,Mood & affective symptoms,Hallucinations,2071,-0.036,cross-construct
+GDS,MDS-UPDRS_I,depression,1,sleep,1,Mood & affective symptoms,Daytime sleepiness and alertness,275,0.073,cross-construct
+GDS,MDS-UPDRS_I,depression,1,sleep,2,Mood & affective symptoms,Nocturnal sleep disturbances,275,0.107,cross-construct
+GDS,MDS-UPDRS_I,depression,2,anxiety,2,Cognitive & self-perception,Cognitive symptoms,2071,0.201,cross-construct
+GDS,MDS-UPDRS_I,depression,2,apathy,2,Cognitive & self-perception,Affective apathy,2071,0.218,cross-construct
+GDS,MDS-UPDRS_I,depression,2,depression,1,Cognitive & self-perception,Mood & affective symptoms,2071,0.272,discriminant
+GDS,MDS-UPDRS_I,depression,2,psychosis,1,Cognitive & self-perception,Hallucinations,2071,0.12,cross-construct
+GDS,MDS-UPDRS_I,depression,2,sleep,1,Cognitive & self-perception,Daytime sleepiness and alertness,275,0.101,cross-construct
+GDS,MDS-UPDRS_I,depression,2,sleep,2,Cognitive & self-perception,Nocturnal sleep disturbances,275,0.099,cross-construct
+GDS,MDS-UPDRS_I,depression,4,anxiety,2,Activity & interest deficits,Cognitive symptoms,2071,0.127,cross-construct
+GDS,MDS-UPDRS_I,depression,4,apathy,2,Activity & interest deficits,Affective apathy,2071,0.226,cross-construct
+GDS,MDS-UPDRS_I,depression,4,depression,1,Activity & interest deficits,Mood & affective symptoms,2071,0.214,discriminant
+GDS,MDS-UPDRS_I,depression,4,psychosis,1,Activity & interest deficits,Hallucinations,2071,0.032,cross-construct
+GDS,MDS-UPDRS_I,depression,4,sleep,1,Activity & interest deficits,Daytime sleepiness and alertness,275,0.219,cross-construct
+GDS,MDS-UPDRS_I,depression,4,sleep,2,Activity & interest deficits,Nocturnal sleep disturbances,275,0.286,cross-construct
+GDS,MDS-UPDRS_I,depression,5,anxiety,2,Anxiety & distress,Cognitive symptoms,2071,0.258,cross-construct
+GDS,MDS-UPDRS_I,depression,5,apathy,2,Anxiety & distress,Affective apathy,2071,0.123,cross-construct
+GDS,MDS-UPDRS_I,depression,5,depression,1,Anxiety & distress,Mood & affective symptoms,2071,0.232,discriminant
+GDS,MDS-UPDRS_I,depression,5,psychosis,1,Anxiety & distress,Hallucinations,2071,0.056,cross-construct
+GDS,MDS-UPDRS_I,depression,5,sleep,1,Anxiety & distress,Daytime sleepiness and alertness,275,0.048,cross-construct
+GDS,MDS-UPDRS_I,depression,5,sleep,2,Anxiety & distress,Nocturnal sleep disturbances,275,-0.041,cross-construct
+GDS,NMSQuest,depression,1,anxiety,2,Mood & affective symptoms,Cognitive symptoms,173,0.289,cross-construct
+GDS,NMSQuest,depression,1,apathy,1,Mood & affective symptoms,Behavioral-Cognitive apathy,173,0.255,cross-construct
+GDS,NMSQuest,depression,1,depression,1,Mood & affective symptoms,Mood & affective symptoms,173,0.493,convergent
+GDS,NMSQuest,depression,1,psychosis,1,Mood & affective symptoms,Hallucinations,173,0.008,cross-construct
+GDS,NMSQuest,depression,1,psychosis,2,Mood & affective symptoms,Delusions,173,0.069,cross-construct
+GDS,NMSQuest,depression,1,sleep,1,Mood & affective symptoms,Daytime sleepiness and alertness,173,0.269,cross-construct
+GDS,NMSQuest,depression,1,sleep,2,Mood & affective symptoms,Nocturnal sleep disturbances,173,0.213,cross-construct
+GDS,NMSQuest,depression,1,sleep,3,Mood & affective symptoms,REM sleep behavior and dreaming,173,0.172,cross-construct
+GDS,NMSQuest,depression,2,anxiety,2,Cognitive & self-perception,Cognitive symptoms,173,0.284,cross-construct
+GDS,NMSQuest,depression,2,apathy,1,Cognitive & self-perception,Behavioral-Cognitive apathy,173,0.405,cross-construct
+GDS,NMSQuest,depression,2,depression,1,Cognitive & self-perception,Mood & affective symptoms,173,0.42,discriminant
+GDS,NMSQuest,depression,2,psychosis,1,Cognitive & self-perception,Hallucinations,173,0.125,cross-construct
+GDS,NMSQuest,depression,2,psychosis,2,Cognitive & self-perception,Delusions,173,0.207,cross-construct
+GDS,NMSQuest,depression,2,sleep,1,Cognitive & self-perception,Daytime sleepiness and alertness,173,0.36,cross-construct
+GDS,NMSQuest,depression,2,sleep,2,Cognitive & self-perception,Nocturnal sleep disturbances,173,0.318,cross-construct
+GDS,NMSQuest,depression,2,sleep,3,Cognitive & self-perception,REM sleep behavior and dreaming,173,0.148,cross-construct
+GDS,NMSQuest,depression,4,anxiety,2,Activity & interest deficits,Cognitive symptoms,173,0.106,cross-construct
+GDS,NMSQuest,depression,4,apathy,1,Activity & interest deficits,Behavioral-Cognitive apathy,173,0.291,cross-construct
+GDS,NMSQuest,depression,4,depression,1,Activity & interest deficits,Mood & affective symptoms,173,0.262,discriminant
+GDS,NMSQuest,depression,4,psychosis,1,Activity & interest deficits,Hallucinations,173,0.012,cross-construct
+GDS,NMSQuest,depression,4,psychosis,2,Activity & interest deficits,Delusions,173,0.013,cross-construct
+GDS,NMSQuest,depression,4,sleep,1,Activity & interest deficits,Daytime sleepiness and alertness,173,0.28,cross-construct
+GDS,NMSQuest,depression,4,sleep,2,Activity & interest deficits,Nocturnal sleep disturbances,173,0.333,cross-construct
+GDS,NMSQuest,depression,4,sleep,3,Activity & interest deficits,REM sleep behavior and dreaming,173,0.242,cross-construct
+GDS,NMSQuest,depression,5,anxiety,2,Anxiety & distress,Cognitive symptoms,173,0.253,cross-construct
+GDS,NMSQuest,depression,5,apathy,1,Anxiety & distress,Behavioral-Cognitive apathy,173,0.091,cross-construct
+GDS,NMSQuest,depression,5,depression,1,Anxiety & distress,Mood & affective symptoms,173,0.25,discriminant
+GDS,NMSQuest,depression,5,psychosis,1,Anxiety & distress,Hallucinations,173,0.103,cross-construct
+GDS,NMSQuest,depression,5,psychosis,2,Anxiety & distress,Delusions,173,-0.049,cross-construct
+GDS,NMSQuest,depression,5,sleep,1,Anxiety & distress,Daytime sleepiness and alertness,173,0.004,cross-construct
+GDS,NMSQuest,depression,5,sleep,2,Anxiety & distress,Nocturnal sleep disturbances,173,-0.008,cross-construct
+GDS,NMSQuest,depression,5,sleep,3,Anxiety & distress,REM sleep behavior and dreaming,173,0.07,cross-construct
+GDS,NPI,depression,1,anxiety,2,Mood & affective symptoms,Cognitive symptoms,87,0.158,cross-construct
+GDS,NPI,depression,1,apathy,1,Mood & affective symptoms,Behavioral-Cognitive apathy,87,0.283,cross-construct
+GDS,NPI,depression,1,depression,1,Mood & affective symptoms,Mood & affective symptoms,87,0.351,convergent
+GDS,NPI,depression,1,psychosis,1,Mood & affective symptoms,Hallucinations,87,0.136,cross-construct
+GDS,NPI,depression,1,psychosis,2,Mood & affective symptoms,Delusions,87,0.237,cross-construct
+GDS,NPI,depression,2,anxiety,2,Cognitive & self-perception,Cognitive symptoms,87,0.328,cross-construct
+GDS,NPI,depression,2,apathy,1,Cognitive & self-perception,Behavioral-Cognitive apathy,87,0.261,cross-construct
+GDS,NPI,depression,2,depression,1,Cognitive & self-perception,Mood & affective symptoms,87,0.276,discriminant
+GDS,NPI,depression,2,psychosis,1,Cognitive & self-perception,Hallucinations,87,0.207,cross-construct
+GDS,NPI,depression,2,psychosis,2,Cognitive & self-perception,Delusions,87,0.17,cross-construct
+GDS,NPI,depression,4,anxiety,2,Activity & interest deficits,Cognitive symptoms,87,0.15,cross-construct
+GDS,NPI,depression,4,apathy,1,Activity & interest deficits,Behavioral-Cognitive apathy,87,0.173,cross-construct
+GDS,NPI,depression,4,depression,1,Activity & interest deficits,Mood & affective symptoms,87,0.073,discriminant
+GDS,NPI,depression,4,psychosis,1,Activity & interest deficits,Hallucinations,87,0.033,cross-construct
+GDS,NPI,depression,4,psychosis,2,Activity & interest deficits,Delusions,87,0.014,cross-construct
+GDS,NPI,depression,5,anxiety,2,Anxiety & distress,Cognitive symptoms,87,0.231,cross-construct
+GDS,NPI,depression,5,apathy,1,Anxiety & distress,Behavioral-Cognitive apathy,87,-0.053,cross-construct
+GDS,NPI,depression,5,depression,1,Anxiety & distress,Mood & affective symptoms,87,0.226,discriminant
+GDS,NPI,depression,5,psychosis,1,Anxiety & distress,Hallucinations,87,0.221,cross-construct
+GDS,NPI,depression,5,psychosis,2,Anxiety & distress,Delusions,87,0.129,cross-construct
+GDS,PDSS-2,depression,1,sleep,1,Mood & affective symptoms,Daytime sleepiness and alertness,89,0.024,cross-construct
+GDS,PDSS-2,depression,1,sleep,2,Mood & affective symptoms,Nocturnal sleep disturbances,89,0.045,cross-construct
+GDS,PDSS-2,depression,1,sleep,3,Mood & affective symptoms,REM sleep behavior and dreaming,89,-0.17,cross-construct
+GDS,PDSS-2,depression,1,sleep,4,Mood & affective symptoms,Sleep-disordered breathing,89,0.202,cross-construct
+GDS,PDSS-2,depression,2,sleep,1,Cognitive & self-perception,Daytime sleepiness and alertness,89,0.267,cross-construct
+GDS,PDSS-2,depression,2,sleep,2,Cognitive & self-perception,Nocturnal sleep disturbances,89,0.177,cross-construct
+GDS,PDSS-2,depression,2,sleep,3,Cognitive & self-perception,REM sleep behavior and dreaming,89,0.082,cross-construct
+GDS,PDSS-2,depression,2,sleep,4,Cognitive & self-perception,Sleep-disordered breathing,89,0.202,cross-construct
+GDS,PDSS-2,depression,4,sleep,1,Activity & interest deficits,Daytime sleepiness and alertness,89,0.17,cross-construct
+GDS,PDSS-2,depression,4,sleep,2,Activity & interest deficits,Nocturnal sleep disturbances,89,0.208,cross-construct
+GDS,PDSS-2,depression,4,sleep,3,Activity & interest deficits,REM sleep behavior and dreaming,89,-0.185,cross-construct
+GDS,PDSS-2,depression,4,sleep,4,Activity & interest deficits,Sleep-disordered breathing,89,0.201,cross-construct
+GDS,PDSS-2,depression,5,sleep,1,Anxiety & distress,Daytime sleepiness and alertness,89,-0.124,cross-construct
+GDS,PDSS-2,depression,5,sleep,2,Anxiety & distress,Nocturnal sleep disturbances,89,0.147,cross-construct
+GDS,PDSS-2,depression,5,sleep,3,Anxiety & distress,REM sleep behavior and dreaming,89,-0.024,cross-construct
+GDS,PDSS-2,depression,5,sleep,4,Anxiety & distress,Sleep-disordered breathing,89,0.015,cross-construct
+GDS,RBDSQ,depression,1,sleep,2,Mood & affective symptoms,Nocturnal sleep disturbances,1888,-0.09,cross-construct
+GDS,RBDSQ,depression,1,sleep,3,Mood & affective symptoms,REM sleep behavior and dreaming,1888,-0.006,cross-construct
+GDS,RBDSQ,depression,2,sleep,2,Cognitive & self-perception,Nocturnal sleep disturbances,1888,0.166,cross-construct
+GDS,RBDSQ,depression,2,sleep,3,Cognitive & self-perception,REM sleep behavior and dreaming,1888,0.08,cross-construct
+GDS,RBDSQ,depression,4,sleep,2,Activity & interest deficits,Nocturnal sleep disturbances,1888,0.053,cross-construct
+GDS,RBDSQ,depression,4,sleep,3,Activity & interest deficits,REM sleep behavior and dreaming,1888,0.069,cross-construct
+GDS,RBDSQ,depression,5,sleep,2,Anxiety & distress,Nocturnal sleep disturbances,1888,0.137,cross-construct
+GDS,RBDSQ,depression,5,sleep,3,Anxiety & distress,REM sleep behavior and dreaming,1888,0.08,cross-construct
+GDS,STAI,depression,1,anxiety,1,Mood & affective symptoms,Somatic symptoms,1796,0.222,cross-construct
+GDS,STAI,depression,1,anxiety,2,Mood & affective symptoms,Cognitive symptoms,1796,0.204,cross-construct
+GDS,STAI,depression,2,anxiety,1,Cognitive & self-perception,Somatic symptoms,1796,-0.164,cross-construct
+GDS,STAI,depression,2,anxiety,2,Cognitive & self-perception,Cognitive symptoms,1796,-0.081,cross-construct
+GDS,STAI,depression,4,anxiety,1,Activity & interest deficits,Somatic symptoms,1796,-0.081,cross-construct
+GDS,STAI,depression,4,anxiety,2,Activity & interest deficits,Cognitive symptoms,1796,-0.069,cross-construct
+GDS,STAI,depression,5,anxiety,1,Anxiety & distress,Somatic symptoms,1796,-0.231,cross-construct
+GDS,STAI,depression,5,anxiety,2,Anxiety & distress,Cognitive symptoms,1796,-0.078,cross-construct
+HADS,MDS-UPDRS_I,anxiety,1,anxiety,2,Somatic symptoms,Cognitive symptoms,234,0.471,discriminant
+HADS,MDS-UPDRS_I,anxiety,1,apathy,2,Somatic symptoms,Affective apathy,234,0.248,cross-construct
+HADS,MDS-UPDRS_I,anxiety,1,depression,1,Somatic symptoms,Mood & affective symptoms,234,0.335,cross-construct
+HADS,MDS-UPDRS_I,anxiety,1,psychosis,1,Somatic symptoms,Hallucinations,357,0.195,cross-construct
+HADS,MDS-UPDRS_I,anxiety,1,sleep,1,Somatic symptoms,Daytime sleepiness and alertness,291,0.193,cross-construct
+HADS,MDS-UPDRS_I,anxiety,1,sleep,2,Somatic symptoms,Nocturnal sleep disturbances,291,0.33,cross-construct
+HADS,MDS-UPDRS_I,anxiety,2,anxiety,2,Cognitive symptoms,Cognitive symptoms,233,0.508,convergent
+HADS,MDS-UPDRS_I,anxiety,2,apathy,2,Cognitive symptoms,Affective apathy,233,0.266,cross-construct
+HADS,MDS-UPDRS_I,anxiety,2,depression,1,Cognitive symptoms,Mood & affective symptoms,233,0.32,cross-construct
+HADS,MDS-UPDRS_I,anxiety,2,psychosis,1,Cognitive symptoms,Hallucinations,356,0.192,cross-construct
+HADS,MDS-UPDRS_I,anxiety,2,sleep,1,Cognitive symptoms,Daytime sleepiness and alertness,290,0.134,cross-construct
+HADS,MDS-UPDRS_I,anxiety,2,sleep,2,Cognitive symptoms,Nocturnal sleep disturbances,290,0.261,cross-construct
+HADS,MDS-UPDRS_I,depression,1,anxiety,2,Mood & affective symptoms,Cognitive symptoms,233,0.245,cross-construct
+HADS,MDS-UPDRS_I,depression,1,apathy,2,Mood & affective symptoms,Affective apathy,233,0.274,cross-construct
+HADS,MDS-UPDRS_I,depression,1,depression,1,Mood & affective symptoms,Mood & affective symptoms,233,0.219,convergent
+HADS,MDS-UPDRS_I,depression,1,psychosis,1,Mood & affective symptoms,Hallucinations,356,0.089,cross-construct
+HADS,MDS-UPDRS_I,depression,1,sleep,1,Mood & affective symptoms,Daytime sleepiness and alertness,290,0.106,cross-construct
+HADS,MDS-UPDRS_I,depression,1,sleep,2,Mood & affective symptoms,Nocturnal sleep disturbances,290,0.203,cross-construct
+HADS,MDS-UPDRS_I,depression,3,anxiety,2,Somatic & vegetative symptoms,Cognitive symptoms,233,0.164,cross-construct
+HADS,MDS-UPDRS_I,depression,3,apathy,2,Somatic & vegetative symptoms,Affective apathy,233,0.334,cross-construct
+HADS,MDS-UPDRS_I,depression,3,depression,1,Somatic & vegetative symptoms,Mood & affective symptoms,233,0.164,discriminant
+HADS,MDS-UPDRS_I,depression,3,psychosis,1,Somatic & vegetative symptoms,Hallucinations,356,0.166,cross-construct
+HADS,MDS-UPDRS_I,depression,3,sleep,1,Somatic & vegetative symptoms,Daytime sleepiness and alertness,290,0.27,cross-construct
+HADS,MDS-UPDRS_I,depression,3,sleep,2,Somatic & vegetative symptoms,Nocturnal sleep disturbances,290,0.266,cross-construct
+HADS,MDS-UPDRS_I,depression,4,anxiety,2,Activity & interest deficits,Cognitive symptoms,229,0.236,cross-construct
+HADS,MDS-UPDRS_I,depression,4,apathy,2,Activity & interest deficits,Affective apathy,229,0.409,cross-construct
+HADS,MDS-UPDRS_I,depression,4,depression,1,Activity & interest deficits,Mood & affective symptoms,229,0.28,discriminant
+HADS,MDS-UPDRS_I,depression,4,psychosis,1,Activity & interest deficits,Hallucinations,352,0.118,cross-construct
+HADS,MDS-UPDRS_I,depression,4,sleep,1,Activity & interest deficits,Daytime sleepiness and alertness,284,0.236,cross-construct
+HADS,MDS-UPDRS_I,depression,4,sleep,2,Activity & interest deficits,Nocturnal sleep disturbances,284,0.23,cross-construct
+HADS,RBDSQ,anxiety,1,sleep,2,Somatic symptoms,Nocturnal sleep disturbances,291,0.319,cross-construct
+HADS,RBDSQ,anxiety,1,sleep,3,Somatic symptoms,REM sleep behavior and dreaming,291,0.25,cross-construct
+HADS,RBDSQ,anxiety,2,sleep,2,Cognitive symptoms,Nocturnal sleep disturbances,290,0.26,cross-construct
+HADS,RBDSQ,anxiety,2,sleep,3,Cognitive symptoms,REM sleep behavior and dreaming,290,0.169,cross-construct
+HADS,RBDSQ,depression,1,sleep,2,Mood & affective symptoms,Nocturnal sleep disturbances,290,0.157,cross-construct
+HADS,RBDSQ,depression,1,sleep,3,Mood & affective symptoms,REM sleep behavior and dreaming,290,0.049,cross-construct
+HADS,RBDSQ,depression,3,sleep,2,Somatic & vegetative symptoms,Nocturnal sleep disturbances,290,0.242,cross-construct
+HADS,RBDSQ,depression,3,sleep,3,Somatic & vegetative symptoms,REM sleep behavior and dreaming,290,0.217,cross-construct
+HADS,RBDSQ,depression,4,sleep,2,Activity & interest deficits,Nocturnal sleep disturbances,284,0.205,cross-construct
+HADS,RBDSQ,depression,4,sleep,3,Activity & interest deficits,REM sleep behavior and dreaming,284,0.194,cross-construct
+MDS-UPDRS_I,NMSQuest,anxiety,2,anxiety,2,Cognitive symptoms,Cognitive symptoms,167,0.502,convergent
+MDS-UPDRS_I,NMSQuest,anxiety,2,apathy,1,Cognitive symptoms,Behavioral-Cognitive apathy,167,0.131,cross-construct
+MDS-UPDRS_I,NMSQuest,anxiety,2,depression,1,Cognitive symptoms,Mood & affective symptoms,167,0.227,cross-construct
+MDS-UPDRS_I,NMSQuest,anxiety,2,psychosis,1,Cognitive symptoms,Hallucinations,167,0.089,cross-construct
+MDS-UPDRS_I,NMSQuest,anxiety,2,psychosis,2,Cognitive symptoms,Delusions,167,0.079,cross-construct
+MDS-UPDRS_I,NMSQuest,anxiety,2,sleep,1,Cognitive symptoms,Daytime sleepiness and alertness,167,0.057,cross-construct
+MDS-UPDRS_I,NMSQuest,anxiety,2,sleep,2,Cognitive symptoms,Nocturnal sleep disturbances,167,0.025,cross-construct
+MDS-UPDRS_I,NMSQuest,anxiety,2,sleep,3,Cognitive symptoms,REM sleep behavior and dreaming,167,0.126,cross-construct
+MDS-UPDRS_I,NMSQuest,apathy,2,anxiety,2,Affective apathy,Cognitive symptoms,167,0.141,cross-construct
+MDS-UPDRS_I,NMSQuest,apathy,2,apathy,1,Affective apathy,Behavioral-Cognitive apathy,167,0.341,discriminant
+MDS-UPDRS_I,NMSQuest,apathy,2,depression,1,Affective apathy,Mood & affective symptoms,167,0.368,cross-construct
+MDS-UPDRS_I,NMSQuest,apathy,2,psychosis,1,Affective apathy,Hallucinations,167,0.08,cross-construct
+MDS-UPDRS_I,NMSQuest,apathy,2,psychosis,2,Affective apathy,Delusions,167,0.003,cross-construct
+MDS-UPDRS_I,NMSQuest,apathy,2,sleep,1,Affective apathy,Daytime sleepiness and alertness,167,0.181,cross-construct
+MDS-UPDRS_I,NMSQuest,apathy,2,sleep,2,Affective apathy,Nocturnal sleep disturbances,167,0.097,cross-construct
+MDS-UPDRS_I,NMSQuest,apathy,2,sleep,3,Affective apathy,REM sleep behavior and dreaming,167,0.152,cross-construct
+MDS-UPDRS_I,NMSQuest,depression,1,anxiety,2,Mood & affective symptoms,Cognitive symptoms,167,0.246,cross-construct
+MDS-UPDRS_I,NMSQuest,depression,1,apathy,1,Mood & affective symptoms,Behavioral-Cognitive apathy,167,0.323,cross-construct
+MDS-UPDRS_I,NMSQuest,depression,1,depression,1,Mood & affective symptoms,Mood & affective symptoms,167,0.593,convergent
+MDS-UPDRS_I,NMSQuest,depression,1,psychosis,1,Mood & affective symptoms,Hallucinations,167,0.059,cross-construct
+MDS-UPDRS_I,NMSQuest,depression,1,psychosis,2,Mood & affective symptoms,Delusions,167,0.06,cross-construct
+MDS-UPDRS_I,NMSQuest,depression,1,sleep,1,Mood & affective symptoms,Daytime sleepiness and alertness,167,0.236,cross-construct
+MDS-UPDRS_I,NMSQuest,depression,1,sleep,2,Mood & affective symptoms,Nocturnal sleep disturbances,167,0.177,cross-construct
+MDS-UPDRS_I,NMSQuest,depression,1,sleep,3,Mood & affective symptoms,REM sleep behavior and dreaming,167,0.115,cross-construct
+MDS-UPDRS_I,NMSQuest,psychosis,1,anxiety,2,Hallucinations,Cognitive symptoms,167,0.028,cross-construct
+MDS-UPDRS_I,NMSQuest,psychosis,1,apathy,1,Hallucinations,Behavioral-Cognitive apathy,167,0.082,cross-construct
+MDS-UPDRS_I,NMSQuest,psychosis,1,depression,1,Hallucinations,Mood & affective symptoms,167,-0.037,cross-construct
+MDS-UPDRS_I,NMSQuest,psychosis,1,psychosis,1,Hallucinations,Hallucinations,167,0.38,convergent
+MDS-UPDRS_I,NMSQuest,psychosis,1,psychosis,2,Hallucinations,Delusions,167,0.186,discriminant
+MDS-UPDRS_I,NMSQuest,psychosis,1,sleep,1,Hallucinations,Daytime sleepiness and alertness,167,0.171,cross-construct
+MDS-UPDRS_I,NMSQuest,psychosis,1,sleep,2,Hallucinations,Nocturnal sleep disturbances,167,-0.05,cross-construct
+MDS-UPDRS_I,NMSQuest,psychosis,1,sleep,3,Hallucinations,REM sleep behavior and dreaming,167,0.002,cross-construct
+MDS-UPDRS_I,NMSQuest,sleep,1,anxiety,2,Daytime sleepiness and alertness,Cognitive symptoms,167,0.069,cross-construct
+MDS-UPDRS_I,NMSQuest,sleep,1,apathy,1,Daytime sleepiness and alertness,Behavioral-Cognitive apathy,167,-0.011,cross-construct
+MDS-UPDRS_I,NMSQuest,sleep,1,depression,1,Daytime sleepiness and alertness,Mood & affective symptoms,167,0.239,cross-construct
+MDS-UPDRS_I,NMSQuest,sleep,1,psychosis,1,Daytime sleepiness and alertness,Hallucinations,167,0.054,cross-construct
+MDS-UPDRS_I,NMSQuest,sleep,1,psychosis,2,Daytime sleepiness and alertness,Delusions,167,0.091,cross-construct
+MDS-UPDRS_I,NMSQuest,sleep,1,sleep,1,Daytime sleepiness and alertness,Daytime sleepiness and alertness,167,0.229,convergent
+MDS-UPDRS_I,NMSQuest,sleep,1,sleep,2,Daytime sleepiness and alertness,Nocturnal sleep disturbances,167,0.193,discriminant
+MDS-UPDRS_I,NMSQuest,sleep,1,sleep,3,Daytime sleepiness and alertness,REM sleep behavior and dreaming,167,0.211,discriminant
+MDS-UPDRS_I,NMSQuest,sleep,2,anxiety,2,Nocturnal sleep disturbances,Cognitive symptoms,167,0.092,cross-construct
+MDS-UPDRS_I,NMSQuest,sleep,2,apathy,1,Nocturnal sleep disturbances,Behavioral-Cognitive apathy,167,0.059,cross-construct
+MDS-UPDRS_I,NMSQuest,sleep,2,depression,1,Nocturnal sleep disturbances,Mood & affective symptoms,167,0.127,cross-construct
+MDS-UPDRS_I,NMSQuest,sleep,2,psychosis,1,Nocturnal sleep disturbances,Hallucinations,167,0.08,cross-construct
+MDS-UPDRS_I,NMSQuest,sleep,2,psychosis,2,Nocturnal sleep disturbances,Delusions,167,0.014,cross-construct
+MDS-UPDRS_I,NMSQuest,sleep,2,sleep,1,Nocturnal sleep disturbances,Daytime sleepiness and alertness,167,0.121,discriminant
+MDS-UPDRS_I,NMSQuest,sleep,2,sleep,2,Nocturnal sleep disturbances,Nocturnal sleep disturbances,167,0.537,convergent
+MDS-UPDRS_I,NMSQuest,sleep,2,sleep,3,Nocturnal sleep disturbances,REM sleep behavior and dreaming,167,0.245,discriminant
+MDS-UPDRS_I,RBDSQ,anxiety,2,sleep,2,Cognitive symptoms,Nocturnal sleep disturbances,2832,0.169,cross-construct
+MDS-UPDRS_I,RBDSQ,anxiety,2,sleep,3,Cognitive symptoms,REM sleep behavior and dreaming,2837,0.113,cross-construct
+MDS-UPDRS_I,RBDSQ,apathy,2,sleep,2,Affective apathy,Nocturnal sleep disturbances,2832,0.141,cross-construct
+MDS-UPDRS_I,RBDSQ,apathy,2,sleep,3,Affective apathy,REM sleep behavior and dreaming,2837,0.113,cross-construct
+MDS-UPDRS_I,RBDSQ,depression,1,sleep,2,Mood & affective symptoms,Nocturnal sleep disturbances,2831,0.17,cross-construct
+MDS-UPDRS_I,RBDSQ,depression,1,sleep,3,Mood & affective symptoms,REM sleep behavior and dreaming,2836,0.094,cross-construct
+MDS-UPDRS_I,RBDSQ,psychosis,1,sleep,2,Hallucinations,Nocturnal sleep disturbances,2831,0.075,cross-construct
+MDS-UPDRS_I,RBDSQ,psychosis,1,sleep,3,Hallucinations,REM sleep behavior and dreaming,2836,0.138,cross-construct
+MDS-UPDRS_I,RBDSQ,sleep,1,sleep,2,Daytime sleepiness and alertness,Nocturnal sleep disturbances,1147,0.179,discriminant
+MDS-UPDRS_I,RBDSQ,sleep,1,sleep,3,Daytime sleepiness and alertness,REM sleep behavior and dreaming,1152,0.176,discriminant
+MDS-UPDRS_I,RBDSQ,sleep,2,sleep,2,Nocturnal sleep disturbances,Nocturnal sleep disturbances,1149,0.626,convergent
+MDS-UPDRS_I,RBDSQ,sleep,2,sleep,3,Nocturnal sleep disturbances,REM sleep behavior and dreaming,1154,0.162,discriminant
+MDS-UPDRS_I,STAI,anxiety,2,anxiety,1,Cognitive symptoms,Somatic symptoms,1797,-0.193,discriminant
+MDS-UPDRS_I,STAI,anxiety,2,anxiety,2,Cognitive symptoms,Cognitive symptoms,1797,-0.023,convergent
+MDS-UPDRS_I,STAI,apathy,2,anxiety,1,Affective apathy,Somatic symptoms,1797,-0.11,cross-construct
+MDS-UPDRS_I,STAI,apathy,2,anxiety,2,Affective apathy,Cognitive symptoms,1797,-0.089,cross-construct
+MDS-UPDRS_I,STAI,depression,1,anxiety,1,Mood & affective symptoms,Somatic symptoms,1797,-0.238,cross-construct
+MDS-UPDRS_I,STAI,depression,1,anxiety,2,Mood & affective symptoms,Cognitive symptoms,1797,-0.151,cross-construct
+MDS-UPDRS_I,STAI,psychosis,1,anxiety,1,Hallucinations,Somatic symptoms,1797,-0.074,cross-construct
+MDS-UPDRS_I,STAI,psychosis,1,anxiety,2,Hallucinations,Cognitive symptoms,1797,-0.073,cross-construct
+NPI,PDSS-2,anxiety,2,sleep,1,Cognitive symptoms,Daytime sleepiness and alertness,79,0.272,cross-construct
+NPI,PDSS-2,anxiety,2,sleep,2,Cognitive symptoms,Nocturnal sleep disturbances,79,0.234,cross-construct
+NPI,PDSS-2,anxiety,2,sleep,3,Cognitive symptoms,REM sleep behavior and dreaming,79,0.005,cross-construct
+NPI,PDSS-2,anxiety,2,sleep,4,Cognitive symptoms,Sleep-disordered breathing,79,0.074,cross-construct
+NPI,PDSS-2,apathy,1,sleep,1,Behavioral-Cognitive apathy,Daytime sleepiness and alertness,79,0.101,cross-construct
+NPI,PDSS-2,apathy,1,sleep,2,Behavioral-Cognitive apathy,Nocturnal sleep disturbances,79,0.0,cross-construct
+NPI,PDSS-2,apathy,1,sleep,3,Behavioral-Cognitive apathy,REM sleep behavior and dreaming,79,0.022,cross-construct
+NPI,PDSS-2,apathy,1,sleep,4,Behavioral-Cognitive apathy,Sleep-disordered breathing,79,-0.017,cross-construct
+NPI,PDSS-2,depression,1,sleep,1,Mood & affective symptoms,Daytime sleepiness and alertness,79,0.1,cross-construct
+NPI,PDSS-2,depression,1,sleep,2,Mood & affective symptoms,Nocturnal sleep disturbances,79,0.049,cross-construct
+NPI,PDSS-2,depression,1,sleep,3,Mood & affective symptoms,REM sleep behavior and dreaming,79,-0.144,cross-construct
+NPI,PDSS-2,depression,1,sleep,4,Mood & affective symptoms,Sleep-disordered breathing,79,0.0,cross-construct
+NPI,PDSS-2,psychosis,1,sleep,1,Hallucinations,Daytime sleepiness and alertness,79,0.01,cross-construct
+NPI,PDSS-2,psychosis,1,sleep,2,Hallucinations,Nocturnal sleep disturbances,79,-0.041,cross-construct
+NPI,PDSS-2,psychosis,1,sleep,3,Hallucinations,REM sleep behavior and dreaming,79,-0.095,cross-construct
+NPI,PDSS-2,psychosis,1,sleep,4,Hallucinations,Sleep-disordered breathing,79,-0.131,cross-construct
+NPI,PDSS-2,psychosis,2,sleep,1,Delusions,Daytime sleepiness and alertness,79,-0.172,cross-construct
+NPI,PDSS-2,psychosis,2,sleep,2,Delusions,Nocturnal sleep disturbances,79,-0.199,cross-construct
+NPI,PDSS-2,psychosis,2,sleep,3,Delusions,REM sleep behavior and dreaming,79,-0.084,cross-construct
+NPI,PDSS-2,psychosis,2,sleep,4,Delusions,Sleep-disordered breathing,79,-0.1,cross-construct
+NPI,RBDSQ,anxiety,2,sleep,2,Cognitive symptoms,Nocturnal sleep disturbances,82,0.059,cross-construct
+NPI,RBDSQ,anxiety,2,sleep,3,Cognitive symptoms,REM sleep behavior and dreaming,82,-0.017,cross-construct
+NPI,RBDSQ,apathy,1,sleep,2,Behavioral-Cognitive apathy,Nocturnal sleep disturbances,82,-0.089,cross-construct
+NPI,RBDSQ,apathy,1,sleep,3,Behavioral-Cognitive apathy,REM sleep behavior and dreaming,82,0.167,cross-construct
+NPI,RBDSQ,depression,1,sleep,2,Mood & affective symptoms,Nocturnal sleep disturbances,82,-0.082,cross-construct
+NPI,RBDSQ,depression,1,sleep,3,Mood & affective symptoms,REM sleep behavior and dreaming,82,-0.11,cross-construct
+NPI,RBDSQ,psychosis,1,sleep,2,Hallucinations,Nocturnal sleep disturbances,82,-0.099,cross-construct
+NPI,RBDSQ,psychosis,1,sleep,3,Hallucinations,REM sleep behavior and dreaming,82,-0.076,cross-construct
+NPI,RBDSQ,psychosis,2,sleep,2,Delusions,Nocturnal sleep disturbances,82,-0.156,cross-construct
+NPI,RBDSQ,psychosis,2,sleep,3,Delusions,REM sleep behavior and dreaming,82,-0.054,cross-construct
+PAS,QUIP-RS,anxiety,1,impulse_control,1,Somatic symptoms,Pathological gambling,154,0.037,cross-construct
+PAS,QUIP-RS,anxiety,1,impulse_control,2,Somatic symptoms,Hypersexuality,154,-0.018,cross-construct
+PAS,QUIP-RS,anxiety,1,impulse_control,3,Somatic symptoms,Compulsive buying,154,0.191,cross-construct
+PAS,QUIP-RS,anxiety,1,impulse_control,4,Somatic symptoms,Compulsive eating,154,0.195,cross-construct
+PAS,QUIP-RS,anxiety,1,impulse_control,5,Somatic symptoms,Punding-hobbyism,154,0.31,cross-construct
+PAS,QUIP-RS,anxiety,1,impulse_control,6,Somatic symptoms,Dopamine dysregulation syndrome,137,0.257,cross-construct
+PAS,QUIP-RS,anxiety,2,impulse_control,1,Cognitive symptoms,Pathological gambling,154,0.196,cross-construct
+PAS,QUIP-RS,anxiety,2,impulse_control,2,Cognitive symptoms,Hypersexuality,154,0.169,cross-construct
+PAS,QUIP-RS,anxiety,2,impulse_control,3,Cognitive symptoms,Compulsive buying,154,0.297,cross-construct
+PAS,QUIP-RS,anxiety,2,impulse_control,4,Cognitive symptoms,Compulsive eating,154,0.293,cross-construct
+PAS,QUIP-RS,anxiety,2,impulse_control,5,Cognitive symptoms,Punding-hobbyism,154,0.486,cross-construct
+PAS,QUIP-RS,anxiety,2,impulse_control,6,Cognitive symptoms,Dopamine dysregulation syndrome,137,0.351,cross-construct
+PDSS-2,RBDSQ,sleep,1,sleep,2,Daytime sleepiness and alertness,Nocturnal sleep disturbances,90,0.306,discriminant
+PDSS-2,RBDSQ,sleep,1,sleep,3,Daytime sleepiness and alertness,REM sleep behavior and dreaming,90,0.373,discriminant
+PDSS-2,RBDSQ,sleep,2,sleep,2,Nocturnal sleep disturbances,Nocturnal sleep disturbances,90,0.448,convergent
+PDSS-2,RBDSQ,sleep,2,sleep,3,Nocturnal sleep disturbances,REM sleep behavior and dreaming,90,0.301,discriminant
+PDSS-2,RBDSQ,sleep,3,sleep,2,REM sleep behavior and dreaming,Nocturnal sleep disturbances,90,0.384,discriminant
+PDSS-2,RBDSQ,sleep,3,sleep,3,REM sleep behavior and dreaming,REM sleep behavior and dreaming,90,0.743,convergent
+PDSS-2,RBDSQ,sleep,4,sleep,2,Sleep-disordered breathing,Nocturnal sleep disturbances,90,0.024,discriminant
+PDSS-2,RBDSQ,sleep,4,sleep,3,Sleep-disordered breathing,REM sleep behavior and dreaming,90,0.156,discriminant
+QUIP-RS,RBDSQ,impulse_control,1,sleep,2,Pathological gambling,Nocturnal sleep disturbances,111,-0.144,cross-construct
+QUIP-RS,RBDSQ,impulse_control,1,sleep,3,Pathological gambling,REM sleep behavior and dreaming,111,-0.048,cross-construct
+QUIP-RS,RBDSQ,impulse_control,2,sleep,2,Hypersexuality,Nocturnal sleep disturbances,111,-0.099,cross-construct
+QUIP-RS,RBDSQ,impulse_control,2,sleep,3,Hypersexuality,REM sleep behavior and dreaming,111,0.167,cross-construct
+QUIP-RS,RBDSQ,impulse_control,3,sleep,2,Compulsive buying,Nocturnal sleep disturbances,111,0.047,cross-construct
+QUIP-RS,RBDSQ,impulse_control,3,sleep,3,Compulsive buying,REM sleep behavior and dreaming,111,0.02,cross-construct
+QUIP-RS,RBDSQ,impulse_control,4,sleep,2,Compulsive eating,Nocturnal sleep disturbances,111,0.194,cross-construct
+QUIP-RS,RBDSQ,impulse_control,4,sleep,3,Compulsive eating,REM sleep behavior and dreaming,111,0.158,cross-construct
+QUIP-RS,RBDSQ,impulse_control,5,sleep,2,Punding-hobbyism,Nocturnal sleep disturbances,111,-0.018,cross-construct
+QUIP-RS,RBDSQ,impulse_control,5,sleep,3,Punding-hobbyism,REM sleep behavior and dreaming,111,0.182,cross-construct
+QUIP-RS,RBDSQ,impulse_control,6,sleep,2,Dopamine dysregulation syndrome,Nocturnal sleep disturbances,107,0.236,cross-construct
+QUIP-RS,RBDSQ,impulse_control,6,sleep,3,Dopamine dysregulation syndrome,REM sleep behavior and dreaming,107,0.134,cross-construct
+QUIP-RS,SAS,impulse_control,1,apathy,1,Pathological gambling,Behavioral-Cognitive apathy,131,0.007,cross-construct
+QUIP-RS,SAS,impulse_control,1,apathy,2,Pathological gambling,Affective apathy,131,0.161,cross-construct
+QUIP-RS,SAS,impulse_control,2,apathy,1,Hypersexuality,Behavioral-Cognitive apathy,131,-0.096,cross-construct
+QUIP-RS,SAS,impulse_control,2,apathy,2,Hypersexuality,Affective apathy,131,0.142,cross-construct
+QUIP-RS,SAS,impulse_control,3,apathy,1,Compulsive buying,Behavioral-Cognitive apathy,131,-0.122,cross-construct
+QUIP-RS,SAS,impulse_control,3,apathy,2,Compulsive buying,Affective apathy,131,0.293,cross-construct
+QUIP-RS,SAS,impulse_control,4,apathy,1,Compulsive eating,Behavioral-Cognitive apathy,131,0.078,cross-construct
+QUIP-RS,SAS,impulse_control,4,apathy,2,Compulsive eating,Affective apathy,131,0.19,cross-construct
+QUIP-RS,SAS,impulse_control,5,apathy,1,Punding-hobbyism,Behavioral-Cognitive apathy,131,-0.027,cross-construct
+QUIP-RS,SAS,impulse_control,5,apathy,2,Punding-hobbyism,Affective apathy,131,0.264,cross-construct
+QUIP-RS,SAS,impulse_control,6,apathy,1,Dopamine dysregulation syndrome,Behavioral-Cognitive apathy,114,0.068,cross-construct
+QUIP-RS,SAS,impulse_control,6,apathy,2,Dopamine dysregulation syndrome,Affective apathy,114,0.214,cross-construct
+QUIP-RS,SCOPA-PC,impulse_control,1,psychosis,1,Pathological gambling,Hallucinations,161,-0.067,cross-construct
+QUIP-RS,SCOPA-PC,impulse_control,1,psychosis,2,Pathological gambling,Delusions,161,-0.044,cross-construct
+QUIP-RS,SCOPA-PC,impulse_control,2,psychosis,1,Hypersexuality,Hallucinations,160,0.051,cross-construct
+QUIP-RS,SCOPA-PC,impulse_control,2,psychosis,2,Hypersexuality,Delusions,160,-0.063,cross-construct
+QUIP-RS,SCOPA-PC,impulse_control,3,psychosis,1,Compulsive buying,Hallucinations,161,0.037,cross-construct
+QUIP-RS,SCOPA-PC,impulse_control,3,psychosis,2,Compulsive buying,Delusions,161,-0.099,cross-construct
+QUIP-RS,SCOPA-PC,impulse_control,4,psychosis,1,Compulsive eating,Hallucinations,161,0.081,cross-construct
+QUIP-RS,SCOPA-PC,impulse_control,4,psychosis,2,Compulsive eating,Delusions,161,-0.062,cross-construct
+QUIP-RS,SCOPA-PC,impulse_control,5,psychosis,1,Punding-hobbyism,Hallucinations,161,0.028,cross-construct
+QUIP-RS,SCOPA-PC,impulse_control,5,psychosis,2,Punding-hobbyism,Delusions,161,0.051,cross-construct
+QUIP-RS,SCOPA-PC,impulse_control,6,psychosis,1,Dopamine dysregulation syndrome,Hallucinations,155,0.111,cross-construct
+QUIP-RS,SCOPA-PC,impulse_control,6,psychosis,2,Dopamine dysregulation syndrome,Delusions,155,0.067,cross-construct
+QUIP-RS,SCOPA-SLEEP,impulse_control,1,sleep,1,Pathological gambling,Daytime sleepiness and alertness,230,0.044,cross-construct
+QUIP-RS,SCOPA-SLEEP,impulse_control,1,sleep,2,Pathological gambling,Nocturnal sleep disturbances,231,0.052,cross-construct
+QUIP-RS,SCOPA-SLEEP,impulse_control,2,sleep,1,Hypersexuality,Daytime sleepiness and alertness,229,0.03,cross-construct
+QUIP-RS,SCOPA-SLEEP,impulse_control,2,sleep,2,Hypersexuality,Nocturnal sleep disturbances,230,0.021,cross-construct
+QUIP-RS,SCOPA-SLEEP,impulse_control,3,sleep,1,Compulsive buying,Daytime sleepiness and alertness,230,0.103,cross-construct
+QUIP-RS,SCOPA-SLEEP,impulse_control,3,sleep,2,Compulsive buying,Nocturnal sleep disturbances,231,0.08,cross-construct
+QUIP-RS,SCOPA-SLEEP,impulse_control,4,sleep,1,Compulsive eating,Daytime sleepiness and alertness,230,0.133,cross-construct
+QUIP-RS,SCOPA-SLEEP,impulse_control,4,sleep,2,Compulsive eating,Nocturnal sleep disturbances,231,0.044,cross-construct
+QUIP-RS,SCOPA-SLEEP,impulse_control,5,sleep,1,Punding-hobbyism,Daytime sleepiness and alertness,230,0.151,cross-construct
+QUIP-RS,SCOPA-SLEEP,impulse_control,5,sleep,2,Punding-hobbyism,Nocturnal sleep disturbances,231,0.056,cross-construct
+QUIP-RS,SCOPA-SLEEP,impulse_control,6,sleep,1,Dopamine dysregulation syndrome,Daytime sleepiness and alertness,207,0.152,cross-construct
+QUIP-RS,SCOPA-SLEEP,impulse_control,6,sleep,2,Dopamine dysregulation syndrome,Nocturnal sleep disturbances,208,0.182,cross-construct
+RBDSQ,SCOPA-PC,sleep,2,psychosis,1,Nocturnal sleep disturbances,Hallucinations,68,0.273,cross-construct
+RBDSQ,SCOPA-PC,sleep,2,psychosis,2,Nocturnal sleep disturbances,Delusions,68,0.113,cross-construct
+RBDSQ,SCOPA-PC,sleep,3,psychosis,1,REM sleep behavior and dreaming,Hallucinations,66,0.294,cross-construct
+RBDSQ,SCOPA-PC,sleep,3,psychosis,2,REM sleep behavior and dreaming,Delusions,66,-0.032,cross-construct
+RBDSQ,SCOPA-SLEEP,sleep,2,sleep,1,Nocturnal sleep disturbances,Daytime sleepiness and alertness,96,0.318,discriminant
+RBDSQ,SCOPA-SLEEP,sleep,2,sleep,2,Nocturnal sleep disturbances,Nocturnal sleep disturbances,96,0.682,convergent
+RBDSQ,SCOPA-SLEEP,sleep,3,sleep,1,REM sleep behavior and dreaming,Daytime sleepiness and alertness,94,0.242,discriminant
+RBDSQ,SCOPA-SLEEP,sleep,3,sleep,2,REM sleep behavior and dreaming,Nocturnal sleep disturbances,94,0.039,discriminant
+RBDSQ,STAI,sleep,2,anxiety,1,Nocturnal sleep disturbances,Somatic symptoms,1797,-0.177,cross-construct
+RBDSQ,STAI,sleep,2,anxiety,2,Nocturnal sleep disturbances,Cognitive symptoms,1797,-0.089,cross-construct
+RBDSQ,STAI,sleep,3,anxiety,1,REM sleep behavior and dreaming,Somatic symptoms,1797,-0.057,cross-construct
+RBDSQ,STAI,sleep,3,anxiety,2,REM sleep behavior and dreaming,Cognitive symptoms,1797,-0.006,cross-construct
+SCOPA-PC,SCOPA-SLEEP,psychosis,1,sleep,1,Hallucinations,Daytime sleepiness and alertness,631,0.271,cross-construct
+SCOPA-PC,SCOPA-SLEEP,psychosis,1,sleep,2,Hallucinations,Nocturnal sleep disturbances,632,0.206,cross-construct
+SCOPA-PC,SCOPA-SLEEP,psychosis,2,sleep,1,Delusions,Daytime sleepiness and alertness,631,0.189,cross-construct
+SCOPA-PC,SCOPA-SLEEP,psychosis,2,sleep,2,Delusions,Nocturnal sleep disturbances,632,0.139,cross-construct

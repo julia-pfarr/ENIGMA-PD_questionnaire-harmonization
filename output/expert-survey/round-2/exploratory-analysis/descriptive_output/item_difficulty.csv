@@ -1,0 +1,374 @@
+Item ID,Construct,Questionnaire,Question Text,Modal Dimension,Modal Dimension Label,Modal Proportion,Difficulty (1-modal),Entropy,N Raters,Is Problematic,Problem Reasons
+PHQ-9_08,depression,PHQ-9,Moving or speaking so slowly that other people could have noticed? Or the opposi...,3,Somatic & vegetative symptoms,0.3,0.7,2.1332062186251477,20,True,Low modal agreement (30%); High entropy (2.13); Spread across 5 dimensions
+MFQ_06,depression,MFQ,I was moving and walking more slowly than usual.,4,Activity & interest deficits,0.35,0.65,2.056779648725692,20,True,Low modal agreement (35%); High entropy (2.06); Spread across 5 dimensions
+DSI_16,depression,DSI,Hopelessness: How hopeful do you feel about the future?,1,Mood & affective symptoms,0.3888888888888889,0.6111111111111112,1.8753156168983838,18,True,Low modal agreement (39%); High entropy (1.88); Spread across 5 dimensions
+PQ-B_04,psychosis,PQ-B,"Have you had experiences with telepathy, psychic forces, or fortune telling?",2,Delusions,0.4444444444444444,0.5555555555555556,1.5466316149609691,18,True,Low modal agreement (44%); High entropy (1.55)
+DSI_18,depression,DSI,Emptiness: Do you feel life is empty for you?,2,Cognitive & self-perception,0.4444444444444444,0.5555555555555556,1.7107770838379894,18,True,Low modal agreement (44%); High entropy (1.71); Spread across 4 dimensions
+SDS_19,depression,SDS,I feel that others would be better off if I were dead.,1,Mood & affective symptoms,0.4444444444444444,0.5555555555555556,1.6337314200650548,18,True,Low modal agreement (44%); High entropy (1.63); Spread across 4 dimensions
+SMGAD_10,anxiety,SMGAD,"I have needed help to cope with anxiety (e.g., alcohol or medication, superstiti...",2,Cognitive symptoms,0.4444444444444444,0.5555555555555556,1.530493056324674,18,True,Low modal agreement (44%); High entropy (1.53)
+SDS_18,depression,SDS,My life is pretty full.,4,Activity & interest deficits,0.4444444444444444,0.5555555555555556,1.392147223231726,18,True,Low modal agreement (44%)
+MADRS_08,depression,MADRS,Inability to feel: Subjective experience of reduced interest in the surroundings...,1,Mood & affective symptoms,0.4444444444444444,0.5555555555555556,1.6337314200650548,18,True,Low modal agreement (44%); High entropy (1.63); Spread across 4 dimensions
+MFQ_13,depression,MFQ,I was talking more slowly than usual.,3,Somatic & vegetative symptoms,0.45,0.55,1.6954618435169742,20,True,Low modal agreement (45%); High entropy (1.70); Spread across 5 dimensions
+MFQ_10,depression,MFQ,It was hard for me to make up my mind.,2,Cognitive & self-perception,0.5,0.5,1.880482023000493,20,True,High entropy (1.88); Spread across 5 dimensions
+SHAPS_08,apathy,SHAPS,I would enjoy looking smart when I have made an effort with my appearance.,1,Cognitive-Behavioral apathy,0.5,0.5,0.9999999997114609,18,False,None
+PQ-B_11,psychosis,PQ-B,"Have you had the sense that some person or force is around you, although you cou...",1,Hallucinations,0.5,0.5,1.2516291669550144,18,False,None
+QUIP-C_B.2,impulse_control,QUIP-C,Do you or others think you have difficulty controlling the amount of time spent ...,5,Punding-hobbyism,0.5,0.5,1.3609640470108726,20,False,None
+MSQ_02,sleep,MSQ,Have you been told that your legs repeatedly jerk or twitch during sleep (not ju...,2,Nocturnal sleep disturbances,0.5,0.5,1.492614067584317,14,False,None
+SCL-90_22,depression,SCL-90,Feeling of being trapped or caught.,5,Anxiety & distress,0.5,0.5,1.460964046866603,20,True,Spread across 4 dimensions
+DSI_02,depression,DSI,Diurnal variation: Is there any part ofthe day when you feel worst? How do you f...,1,Mood & affective symptoms,0.5,0.5,1.9455305553149786,18,True,High entropy (1.95); Spread across 5 dimensions
+MSQ_03.c,sleep,MSQ,When do these uncomfortable leg sensations seem to be worse?,-1,None/Does not fit,0.5,0.5,0.9999999997114609,14,False,None
+SHAPS_09,apathy,SHAPS,"I would enjoy reading a book, magazine or newspaper.",1,Cognitive-Behavioral apathy,0.5,0.5,0.9999999997114609,18,False,None
+SDQ_10,sleep,SDQ,Are you a shift worker or is your sleep schedule irregular?,2,Nocturnal sleep disturbances,0.5,0.5,1.295836388858355,14,False,None
+MFQ_11,depression,MFQ,I felt grumpy and cross with other people.,5,Anxiety & distress,0.5,0.5,1.460964046866603,20,True,Spread across 4 dimensions
+DSI_11,depression,DSI,Psychomotor: Do you feel slowed down in doing retardation the things you usually...,4,Activity & interest deficits,0.5,0.5,1.4932133637883431,18,True,Spread across 4 dimensions
+ASensI_09,anxiety,ASensI,"When I notice my heart beating rapidly, I worry that I might be having a heart a...",1,Somatic symptoms,0.5,0.5,0.9999999997114609,20,False,None
+SCL-90_14,depression,SCL-90,Feeling low in energy or slowed down.,3,Somatic & vegetative symptoms,0.55,0.44999999999999996,1.2192407042040403,20,False,None
+MFQ_22,depression,MFQ,I thought bad things would happen to me.,2,Cognitive & self-perception,0.55,0.44999999999999996,1.336666481483879,20,False,None
+ASensI_14,anxiety,ASensI,Unusual body sensations scare me.,1,Somatic symptoms,0.55,0.44999999999999996,0.9927744536992693,20,False,None
+PHQ-9_07,depression,PHQ-9,"Trouble concentrating on things, such as reading the newspaper or watching telev...",2,Cognitive & self-perception,0.55,0.44999999999999996,1.5437519538434241,20,True,High entropy (1.54); Spread across 4 dimensions
+ASensI_11,anxiety,ASensI,"When my stomach is upset, I worry that I might be seriously ill.",2,Cognitive symptoms,0.55,0.44999999999999996,0.9927744536992693,20,False,None
+MFQ_16,depression,MFQ,I thought that life wasn’t worth living.,1,Mood & affective symptoms,0.55,0.44999999999999996,0.9927744536992693,20,False,None
+DAS_06,apathy,DAS,I find myself staring in to space.,2,Affective apathy,0.55,0.44999999999999996,1.336666481483879,20,False,None
+MFQ_05,depression,MFQ,I felt so tired I just sat around and did nothing.,3,Somatic & vegetative symptoms,0.55,0.44999999999999996,1.2192407042040403,20,False,None
+TEPS_15,apathy,TEPS,Looking forward to a pleasurable experience is in itself pleasurable.,1,Cognitive-Behavioral apathy,0.5555555555555556,0.4444444444444444,0.9910760595496831,18,False,None
+PQ-B_12,psychosis,PQ-B,Do you worry at times that something may be wrong with your mind?,-1,None/Does not fit,0.5555555555555556,0.4444444444444444,1.3516441147205838,18,False,None
+DSI_07,depression,DSI,Decreased libido: Has there been any recent change in your interest in sex? Do y...,4,Activity & interest deficits,0.5555555555555556,0.4444444444444444,0.9910760595496831,18,False,None
+SHAPS_13,apathy,SHAPS,I would get pleasure from helping others.,2,Affective apathy,0.5555555555555556,0.4444444444444444,0.9910760595496831,18,False,None
+SDS_14,depression,SDS,I feel hopeful about the future.,2,Cognitive & self-perception,0.5555555555555556,0.4444444444444444,1.4627552256874252,18,True,Spread across 4 dimensions
+SDS_13,depression,SDS,I am restless and can't sleep.,5,Anxiety & distress,0.5555555555555556,0.4444444444444444,1.232660256383012,18,False,None
+PQ-B_01,psychosis,PQ-B,"Do familiar surroundings sometimes seem strange, confusing, threatening or unrea...",1,Hallucinations,0.5555555555555556,0.4444444444444444,1.415268949594287,18,False,None
+SHAPS_01,apathy,SHAPS,I would enjoy my favourite television or radio programme.,2,Affective apathy,0.5555555555555556,0.4444444444444444,0.9910760595496831,18,False,None
+SHAPS_03,apathy,SHAPS,I would find pleasure in my hobbies and pastimes.,2,Affective apathy,0.5555555555555556,0.4444444444444444,0.9910760595496831,18,False,None
+SDS_15,depression,SDS,I am more irritable than usual.,5,Anxiety & distress,0.5555555555555556,0.4444444444444444,1.4627552256874252,18,True,Spread across 4 dimensions
+MSQ_03.b,sleep,MSQ,Do the uncomfortable leg sensations decrease when you move them or when you walk...,2,Nocturnal sleep disturbances,0.5714285714285714,0.4285714285714286,1.2638091734507377,14,False,None
+QUIP-C_B.3,impulse_control,QUIP-C,"Do these activities interfere with daily functioning, or cause relationship or w...",-1,None/Does not fit,0.6,0.4,0.9709505941661296,20,False,None
+MFQ_21,depression,MFQ,I found it hard to think properly or concentrate.,2,Cognitive & self-perception,0.6,0.4,1.37095059402186,20,False,None
+ASensI_13,anxiety,ASensI,Other people notice when I feel shaky.,2,Cognitive symptoms,0.6,0.4,0.9709505941661296,20,False,None
+PHQ-9_04,depression,PHQ-9,Feeling tired or having little energy.,3,Somatic & vegetative symptoms,0.6,0.4,1.1883763713016986,20,False,None
+SCL-90_71,depression,SCL-90,Feeling everything is an effort.,4,Activity & interest deficits,0.6,0.4,1.533206218769417,20,True,High entropy (1.53); Spread across 4 dimensions
+DAS_07,apathy,DAS,Before I do something I think about how others would feel about it.,2,Affective apathy,0.6,0.4,1.1883763713016986,20,False,None
+MFQ_27,depression,MFQ,I felt lonely.,1,Mood & affective symptoms,0.6,0.4,1.49046857015575,20,True,Spread across 4 dimensions
+ASensI_07,anxiety,ASensI,It embarrasses me when my stomach growls.,1,Somatic symptoms,0.6,0.4,0.9709505941661296,20,False,None
+SCL-90_57,anxiety,SCL-90,Feeling tense or keyed up.,1,Somatic symptoms,0.6,0.4,1.1883763713016986,20,False,None
+DAS_02,apathy,DAS,I contact my friends.,1,Cognitive-Behavioral apathy,0.6,0.4,1.1883763713016986,20,False,None
+SHAPS_14,apathy,SHAPS,I would feel pleasure when I receive praise from other people.,2,Affective apathy,0.6111111111111112,0.38888888888888884,0.96407876451969,18,False,None
+SHAPS_05,apathy,SHAPS,I would enjoy a warm bath or refreshing shower.,2,Affective apathy,0.6111111111111112,0.38888888888888884,0.96407876451969,18,False,None
+TEPS_03,apathy,TEPS,"When I think about eating my favorite food, I can almost taste how good it is.",2,Affective apathy,0.6111111111111112,0.38888888888888884,0.96407876451969,18,False,None
+SCL-90_90,psychosis,SCL-90,The idea that something is wrong with your mind.,2,Delusions,0.6111111111111112,0.38888888888888884,0.96407876451969,18,False,None
+DSI_14,depression,DSI,Irritability: How easily do you get irritated?,5,Anxiety & distress,0.6111111111111112,0.38888888888888884,1.3472230394998514,18,False,None
+CAPE-P15_10,psychosis,CAPE-P15,Have you ever heard your thoughts being echoed back at you?,1,Hallucinations,0.6111111111111112,0.38888888888888884,1.2997367632624437,18,False,None
+SMGAD_01,anxiety,SMGAD,"I have felt moments of sudden terror, fear, or fright.",2,Cognitive symptoms,0.6111111111111112,0.38888888888888884,0.96407876451969,18,False,None
+TEPS_12,apathy,TEPS,I get so excited the night before a major holiday I can hardly sleep.,1,Cognitive-Behavioral apathy,0.6111111111111112,0.38888888888888884,1.1941737338241034,18,False,None
+TEPS_14,apathy,TEPS,"When I think of something tasty, like a chocolate chip cookie, I have to have on...",1,Cognitive-Behavioral apathy,0.6111111111111112,0.38888888888888884,0.96407876451969,18,False,None
+TEPS_17,apathy,TEPS,"When ordering something off the menu, I imagine how good it will taste.",1,Cognitive-Behavioral apathy,0.6111111111111112,0.38888888888888884,0.96407876451969,18,False,None
+PQ-B_17,psychosis,PQ-B,Are your thoughts sometimes so strong that you can almost hear them?,1,Hallucinations,0.6111111111111112,0.38888888888888884,1.2997367632624437,18,False,None
+PQ-B_16,psychosis,PQ-B,"Do you feel that parts of your body have changed in some way, or that parts of y...",2,Delusions,0.6111111111111112,0.38888888888888884,1.1941737338241034,18,False,None
+SDS_09,depression,SDS,My heart beats faster than usual.,3,Somatic & vegetative symptoms,0.6111111111111112,0.38888888888888884,1.1941737338241034,18,False,None
+MADRS_09,depression,MADRS,"Pessimistic thoughts: Thoughts of guilt, inferiority, self reproach, sinfulness,...",2,Cognitive & self-perception,0.6111111111111112,0.38888888888888884,1.1941737338241034,18,False,None
+GAD-7_01,anxiety,GAD-7,"Feeling nervous, anxious, or on edge.",2,Cognitive symptoms,0.6111111111111112,0.38888888888888884,0.96407876451969,18,False,None
+SDQ_05,sleep,SDQ,Do you have any medical conditions that disrupt your sleep?,2,Nocturnal sleep disturbances,0.6428571428571429,0.3571428571428571,1.1981174206975949,14,False,None
+SDQ_11,sleep,SDQ,Are your legs restless and/or uncomfortable before bed?,2,Nocturnal sleep disturbances,0.6428571428571429,0.3571428571428571,1.1981174206975949,14,False,None
+ASBPD-III_03.6,sleep,ASBPD,Do you feel refreshed in the morning when you wake up?,1,Daytime sleepiness and alertness,0.6428571428571429,0.3571428571428571,1.1981174206975949,14,False,None
+ASBPD-III_03.8,sleep,ASBPD,Do you experience any hallucinations before falling asleep or when you wake up?,2,Nocturnal sleep disturbances,0.6428571428571429,0.3571428571428571,1.2870540276859184,14,False,None
+ASensI_03,anxiety,ASensI,It scares me when I feel shaky.,1,Somatic symptoms,0.65,0.35,0.9340680550869519,20,False,None
+ASensI_06,anxiety,ASensI,It scares me when I my heart beat rapidly.,1,Somatic symptoms,0.65,0.35,0.9340680550869519,20,False,None
+ASensI_04,anxiety,ASensI,It scares me when I feel faint.,1,Somatic symptoms,0.65,0.35,0.9340680550869519,20,False,None
+SCL-90_72,anxiety,SCL-90,Spells of terror or panic.,2,Cognitive symptoms,0.65,0.35,0.9340680550869519,20,False,None
+ASensI_08,anxiety,ASensI,It scares me when I am nauseous (sick stomach).,1,Somatic symptoms,0.65,0.35,0.9340680550869519,20,False,None
+SCL-90_82,anxiety,SCL-90,Feeling afraid you will faint in public.,2,Cognitive symptoms,0.65,0.35,0.9340680550869519,20,False,None
+ASensI_10,anxiety,ASensI,It scares me when I become short of breath.,1,Somatic symptoms,0.65,0.35,0.9340680550869519,20,False,None
+ASBPD_05.7,apathy,ASBPD,Do you express yourself as much when you are with others?,2,Affective apathy,0.65,0.35,0.9340680550869519,20,False,None
+TEPS_07,apathy,TEPS,I don’t look forward to things like eating out at restaurants.,1,Cognitive-Behavioral apathy,0.6666666666666666,0.33333333333333337,0.9182958337659504,18,False,None
+SDS_10,depression,SDS,I get tired for no reason.,3,Somatic & vegetative symptoms,0.6666666666666666,0.33333333333333337,1.335505555940019,18,True,Spread across 4 dimensions
+SHAPS_10,apathy,SHAPS,I would enjoy a cup of tea or coffee or my favorite drink.,2,Affective apathy,0.6666666666666666,0.33333333333333337,0.9182958337659504,18,False,None
+PQ-B_14,psychosis,PQ-B,Have you been confused at times whether something you experienced was real or im...,1,Hallucinations,0.6666666666666666,0.33333333333333337,1.1349699741711323,18,False,None
+SDS_02,depression,SDS,Morning is when I feel the best.,1,Mood & affective symptoms,0.6666666666666666,0.33333333333333337,1.4046784724864931,18,True,Spread across 4 dimensions
+SHAPS_04,apathy,SHAPS,I would be able to enjoy my favourite meal.,2,Affective apathy,0.6666666666666666,0.33333333333333337,0.9182958337659504,18,False,None
+DAS_22,apathy,DAS,I am spontaneous.,1,Cognitive-Behavioral apathy,0.7,0.30000000000000004,1.156779649014231,20,False,None
+SCL-90_05,depression,SCL-90,Loss of sexual interest or pleasure.,4,Activity & interest deficits,0.7,0.30000000000000004,1.0762976252923904,20,False,None
+PHQ-9_09,depression,PHQ-9,Thoughts that you would be better off dead or of hurting yourself in some way.,1,Mood & affective symptoms,0.7,0.30000000000000004,1.0762976252923904,20,False,None
+MFQ_18,depression,MFQ,I thought my family would be better off without me.,2,Cognitive & self-perception,0.7,0.30000000000000004,0.8812908989421536,20,False,None
+SDQ_08,sleep,SDQ,Do you feel nervous or worried?,-1,None/Does not fit,0.7142857142857143,0.2857142857142857,0.8631205682780919,14,False,None
+SDQ_06,sleep,SDQ,Have you lost interest in hobbies or activities?,-1,None/Does not fit,0.7142857142857143,0.2857142857142857,0.8631205682780919,14,False,None
+AIS_05,sleep,AIS,Overall quality of sleep (no matter how long you slept).,2,Nocturnal sleep disturbances,0.7142857142857143,0.2857142857142857,1.0949143179792888,14,False,None
+SCL-90_83,psychosis,SCL-90,Feeling that people will take advantage of you if you let them.,2,Delusions,0.7222222222222222,0.2777777777777778,0.8524051783609394,18,False,None
+PQ-B_05,psychosis,PQ-B,Have you felt that you are not in control of your own ideas or thoughts?,2,Delusions,0.7222222222222222,0.2777777777777778,1.0529407601298262,18,False,None
+TEPS_11,apathy,TEPS,"When I’m on my way to an amusement park, I can hardly wait to ride the roller co...",1,Cognitive-Behavioral apathy,0.7222222222222222,0.2777777777777778,1.0529407601298262,18,False,None
+TEPS_16,apathy,TEPS,I look forward to a lot of things in my life.,1,Cognitive-Behavioral apathy,0.7222222222222222,0.2777777777777778,0.8524051783609394,18,False,None
+TEPS_10,apathy,TEPS,I really enjoy the feeling of a good yawn.,2,Affective apathy,0.7222222222222222,0.2777777777777778,1.0529407601298262,18,False,None
+TEPS_08,apathy,TEPS,A hot cup of coffee or tea on a cold morning is very satisfying to me.,2,Affective apathy,0.7222222222222222,0.2777777777777778,0.8524051783609394,18,False,None
+TEPS_06,apathy,TEPS,I enjoy taking a deep breath of fresh air when I walk outside.,2,Affective apathy,0.7222222222222222,0.2777777777777778,0.8524051783609394,18,False,None
+TEPS_02,apathy,TEPS,The sound of crackling wood in the fireplace is very relaxing.,2,Affective apathy,0.7222222222222222,0.2777777777777778,1.0529407601298262,18,False,None
+SHAPS_12,apathy,SHAPS,I would be able to enjoy a beautiful landscape or view.,2,Affective apathy,0.7222222222222222,0.2777777777777778,0.8524051783609394,18,False,None
+SHAPS_11,apathy,SHAPS,"I would find pleasure in small things, e.g. bright sunny day, a telephone call f...",2,Affective apathy,0.7222222222222222,0.2777777777777778,0.8524051783609394,18,False,None
+GAD-7_04,anxiety,GAD-7,Trouble relaxing.,1,Somatic symptoms,0.7222222222222222,0.2777777777777778,0.8524051783609394,18,False,None
+MADRS_01,depression,MADRS,"Apparent sadness: Despondency, gloom, and despair (more than just ordinary trans...",1,Mood & affective symptoms,0.7222222222222222,0.2777777777777778,1.1221136766763,18,False,None
+SDS_20,depression,SDS,I still enjoy the things I used to do.,4,Activity & interest deficits,0.7222222222222222,0.2777777777777778,1.1221136766763,18,False,None
+SDS_16,depression,SDS,I find it easy to make decisions.,2,Cognitive & self-perception,0.7222222222222222,0.2777777777777778,0.8524051783609394,18,False,None
+SCL-90_31,depression,SCL-90,Worrying too much about things.,5,Anxiety & distress,0.75,0.25,0.9917601477481649,20,False,None
+ASBPD_05.4,apathy,ASBPD,Do you feel motivated?,1,Cognitive-Behavioral apathy,0.75,0.25,0.8112781241705938,20,False,None
+SCL-90_29,depression,SCL-90,Feeling lonely.,1,Mood & affective symptoms,0.75,0.25,1.0540157726399915,20,False,None
+MFQ_26,depression,MFQ,I worried about aches and pains.,5,Anxiety & distress,0.75,0.25,0.9917601477481649,20,False,None
+ASBPD_05.12,apathy,ASBPD,"Prior to the past month, have you had similar episodes of decreased enthusiasm, ...",2,Affective apathy,0.75,0.25,1.0540157726399915,20,False,None
+TEPS_05,apathy,TEPS,The smell of freshly cut grass is enjoyable to me.,2,Affective apathy,0.7777777777777778,0.2222222222222222,0.7642045062200812,18,False,None
+DSI_10,depression,DSI,Fatigue: How easily do you get tired?,3,Somatic & vegetative symptoms,0.7777777777777778,0.2222222222222222,0.9444885337333968,18,False,None
+SMGAD_02,anxiety,SMGAD,"I have felt anxious, worried, or nervous.",2,Cognitive symptoms,0.7777777777777778,0.2222222222222222,0.7642045062200812,18,False,None
+CAPE-P15_09,psychosis,CAPE-P15,Have your thoughts ever been so vivid that you were worried other people would h...,2,Delusions,0.7777777777777778,0.2222222222222222,0.9444885337333968,18,False,None
+DSI_15,depression,DSI,Indecisiveness: How are you at making decisions?,2,Cognitive & self-perception,0.7777777777777778,0.2222222222222222,1.0975378392648756,18,True,Spread across 4 dimensions
+DSI_09,depression,DSI,Tachycardia: Have you had times when your heart was beating faster than usual?,3,Somatic & vegetative symptoms,0.7777777777777778,0.2222222222222222,0.7642045062200812,18,False,None
+MADRS_06,depression,MADRS,Concentration difficulty: Difficulties in collecting one’s thoughts mounting to ...,2,Cognitive & self-perception,0.7777777777777778,0.2222222222222222,0.7642045062200812,18,False,None
+DSI_17,depression,DSI,Personal: Do you ever feel useless and not devaluation wanted?,2,Cognitive & self-perception,0.7777777777777778,0.2222222222222222,0.9864267282980339,18,False,None
+MADRS_07,depression,MADRS,Lassitude: Difficulty getting started or slowness initiating and performing ever...,4,Activity & interest deficits,0.7777777777777778,0.2222222222222222,0.9864267282980339,18,False,None
+MADRS_10,depression,MADRS,"Suicidal thoughts: Feeling that life is not worth living, that a natural death w...",1,Mood & affective symptoms,0.7777777777777778,0.2222222222222222,0.9864267282980339,18,False,None
+SDS_06,depression,SDS,"I enjoy looking at, talking to, and being with attractive women/men.",4,Activity & interest deficits,0.7777777777777778,0.2222222222222222,1.0975378392648756,18,True,Spread across 4 dimensions
+TEPS_13,apathy,TEPS,I appreciate the beauty of a fresh snowfall.,2,Affective apathy,0.7777777777777778,0.2222222222222222,0.7642045062200812,18,False,None
+TEPS_04,apathy,TEPS,I love the sound of rain on the windows when I’m lying in my warm bed.,2,Affective apathy,0.7777777777777778,0.2222222222222222,0.7642045062200812,18,False,None
+TEPS_18,apathy,TEPS,"When I hear about a new movie starring my favorite actor, I can’t wait to see it...",1,Cognitive-Behavioral apathy,0.7777777777777778,0.2222222222222222,0.7642045062200812,18,False,None
+SCL-90_85,psychosis,SCL-90,The idea that you should be punished for your sins.,2,Delusions,0.7777777777777778,0.2222222222222222,0.7642045062200812,18,False,None
+SCL-90_77,psychosis,SCL-90,Feeling lonely even when you are with people.,-1,None/Does not fit,0.7777777777777778,0.2222222222222222,0.7642045062200812,18,False,None
+TEPS_01,apathy,TEPS,"When something exciting is coming up in my life, I really look forward to it.",1,Cognitive-Behavioral apathy,0.7777777777777778,0.2222222222222222,0.7642045062200812,18,False,None
+DSI_20,depression,DSI,Suicidal: Do you feel others would be better ruminations off if you were dead?,1,Mood & affective symptoms,0.7777777777777778,0.2222222222222222,0.9864267282980339,18,False,None
+SCL-90_84,psychosis,SCL-90,Having thoughts about sex that bother you a lot.,-1,None/Does not fit,0.7777777777777778,0.2222222222222222,0.7642045062200812,18,False,None
+SCL-90_62,psychosis,SCL-90,Having thoughts that are not your own.,2,Delusions,0.7777777777777778,0.2222222222222222,0.9864267282980339,18,False,None
+SCL-90_68,psychosis,SCL-90,Having ideas or beliefs that others do not share.,2,Delusions,0.7777777777777778,0.2222222222222222,0.9444885337333968,18,False,None
+GAD-7_06,anxiety,GAD-7,Becoming easily annoyed or irritable.,2,Cognitive symptoms,0.7777777777777778,0.2222222222222222,0.9444885337333968,18,False,None
+SHAPS_06,apathy,SHAPS,I would find pleasure in the scent of flowers or the smell of a fresh sea breeze...,2,Affective apathy,0.7777777777777778,0.2222222222222222,0.7642045062200812,18,False,None
+DSI_19,depression,DSI,Dissatisfaction: Do you still enjoy the things you used to?,4,Activity & interest deficits,0.7777777777777778,0.2222222222222222,0.9444885337333968,18,False,None
+SDQ_07,sleep,SDQ,"Do you feel sad, irritable, or hopeless?",-1,None/Does not fit,0.7857142857142857,0.2142857142857143,0.7495952569709409,14,False,None
+MSQ_03.a,sleep,MSQ,Do you experience an irresistible urge to move the legs at those times?,2,Nocturnal sleep disturbances,0.7857142857142857,0.2142857142857143,0.9463729355526335,14,False,None
+SDQ_04,sleep,SDQ,Do you use alcohol to help you sleep?,2,Nocturnal sleep disturbances,0.7857142857142857,0.2142857142857143,0.7495952569709409,14,False,None
+SDQ_12,sleep,SDQ,Have you been told that you are restless or that you kick your legs in your slee...,2,Nocturnal sleep disturbances,0.7857142857142857,0.2142857142857143,0.9463729355526335,14,False,None
+SDQ_13,sleep,SDQ,Do you have any unusual behaviours or movements during sleep?,3,REM sleep behavior and dreaming,0.7857142857142857,0.2142857142857143,0.7495952569709409,14,False,None
+MSQ_04,sleep,MSQ,Have you ever walked around the bedroom or house in your sleep?,2,Nocturnal sleep disturbances,0.7857142857142857,0.2142857142857143,0.7495952569709409,14,False,None
+SCL-90_54,depression,SCL-90,Feeling hopeless about the future.,2,Cognitive & self-perception,0.8,0.19999999999999996,0.7219280945988233,20,False,None
+SCL-90_33,anxiety,SCL-90,Feeling fearful.,2,Cognitive symptoms,0.8,0.19999999999999996,0.9219280944545538,20,False,None
+DAS_11,apathy,DAS,I lack motivation.,1,Cognitive-Behavioral apathy,0.8,0.19999999999999996,0.7219280945988233,20,False,None
+SCL-90_20,depression,SCL-90,Crying easily.,1,Mood & affective symptoms,0.8,0.19999999999999996,1.0219280943102844,20,True,Spread across 4 dimensions
+DAS_24,apathy,DAS,I feel indifferent to what is going on around me.,2,Affective apathy,0.8,0.19999999999999996,0.7219280945988233,20,False,None
+MFQ_14,depression,MFQ,I cried a lot.,1,Mood & affective symptoms,0.8,0.19999999999999996,1.0219280943102844,20,True,Spread across 4 dimensions
+MFQ_12,depression,MFQ,I felt like talking less than usual.,4,Activity & interest deficits,0.8,0.19999999999999996,1.1219280941660148,20,True,Spread across 5 dimensions
+SCL-90_75,anxiety,SCL-90,Feeling nervous when you are left alone.,2,Cognitive symptoms,0.8,0.19999999999999996,0.7219280945988233,20,False,None
+SCL-90_70,anxiety,SCL-90,"Feeling uneasy in crowds, such as shopping or at a movie.",2,Cognitive symptoms,0.8,0.19999999999999996,0.7219280945988233,20,False,None
+QUIP-C_B.1_C,impulse_control,QUIP-C,Do you or others think that you spend too much time walking or driving with no i...,5,Punding-hobbyism,0.8,0.19999999999999996,0.7219280945988233,20,False,None
+ASBPD_05.11,apathy,ASBPD,Do you still have as much desire to do things?,2,Affective apathy,0.8,0.19999999999999996,0.7219280945988233,20,False,None
+ASBPD_05.5,apathy,ASBPD,Do you feel interested in starting new activities in order to acquire new knowle...,1,Cognitive-Behavioral apathy,0.8,0.19999999999999996,0.7219280945988233,20,False,None
+CAPE-P15_08,psychosis,CAPE-P15,Have you ever felt as if the thoughts in your head are not your own?,2,Delusions,0.8333333333333334,0.16666666666666663,0.8030717268912939,18,False,None
+PQ-B_15,psychosis,PQ-B,Do you hold beliefs that other people would find unusual or bizarre?,2,Delusions,0.8333333333333334,0.16666666666666663,0.8030717268912939,18,False,None
+DSI_13,depression,DSI,Psychomotor: Do you find yourself restless and agitation can't sit still?,5,Anxiety & distress,0.8333333333333334,0.16666666666666663,0.8030717268912939,18,False,None
+SCL-90_07,psychosis,SCL-90,The idea that someone else can control your thoughts.,2,Delusions,0.8333333333333334,0.16666666666666663,0.8030717268912939,18,False,None
+TEPS_09,apathy,TEPS,I love it when people play with my hair.,2,Affective apathy,0.8333333333333334,0.16666666666666663,0.6500224213598151,18,False,None
+CAPE-P15_12,psychosis,CAPE-P15,"Have you ever felt as if a double has taken place of a family member, friend or ...",2,Delusions,0.8333333333333334,0.16666666666666663,0.6500224213598151,18,False,None
+SDS_12,depression,SDS,I find it easy to do the things I used to.,4,Activity & interest deficits,0.8333333333333334,0.16666666666666663,0.8030717268912939,18,False,None
+SCL-90_76,psychosis,SCL-90,Others not giving you proper credit for your achievements.,2,Delusions,0.8333333333333334,0.16666666666666663,0.6500224213598151,18,False,None
+PQ-B_21,psychosis,PQ-B,Do people sometimes find it hard to understand what you are saying?,-1,None/Does not fit,0.8333333333333334,0.16666666666666663,0.8030717268912939,18,False,None
+PQ-B_13,psychosis,PQ-B,"Have you ever felt that you don't exist, the world does not exist, or that you a...",2,Delusions,0.8333333333333334,0.16666666666666663,0.8030717268912939,18,False,None
+MADRS_03,depression,MADRS,"Inner tension: Feelings of ill-defined discomfort, edginess, inner turmoil, ment...",5,Anxiety & distress,0.8333333333333334,0.16666666666666663,0.8030717268912939,18,False,None
+SDS_17,depression,SDS,I feel that I am useful and needed.,2,Cognitive & self-perception,0.8333333333333334,0.16666666666666663,0.8030717268912939,18,False,None
+SHAPS_02,apathy,SHAPS,I would enjoy being with my family or close friends.,2,Affective apathy,0.8333333333333334,0.16666666666666663,0.6500224213598151,18,False,None
+SCL-90_87,psychosis,SCL-90,The idea that something serious is wrong with your body.,2,Delusions,0.8333333333333334,0.16666666666666663,0.8030717268912939,18,False,None
+PQ-B_09,psychosis,PQ-B,"Do you sometimes get strange feelings on or just beneath your skin, like bugs cr...",1,Hallucinations,0.8333333333333334,0.16666666666666663,0.6500224213598151,18,False,None
+SCL-90_88,psychosis,SCL-90,Never feeling close to another person.,-1,None/Does not fit,0.8333333333333334,0.16666666666666663,0.6500224213598151,18,False,None
+SDS_11,depression,SDS,My mind is as clear as it used to be.,2,Cognitive & self-perception,0.8333333333333334,0.16666666666666663,0.8030717268912939,18,False,None
+DAS_23,apathy,DAS,I am easily distracted.,1,Cognitive-Behavioral apathy,0.85,0.15000000000000002,0.7475846793917653,20,False,None
+DAS_19,apathy,DAS,I get easily confused when doing several things at once.,1,Cognitive-Behavioral apathy,0.85,0.15000000000000002,0.7475846793917653,20,False,None
+DAS_15,apathy,DAS,I am unconcerned about how others feel about my behaviour.,2,Affective apathy,0.85,0.15000000000000002,0.7475846793917653,20,False,None
+SCL-90_13,anxiety,SCL-90,Feeling afraid in open spaces or on the streets.,2,Cognitive symptoms,0.85,0.15000000000000002,0.7475846793917653,20,False,None
+ASBPD_05.6,apathy,ASBPD,Are you as curious?,1,Cognitive-Behavioral apathy,0.85,0.15000000000000002,0.6098403044278613,20,False,None
+SCL-90_23,anxiety,SCL-90,Suddenly scared for no reason.,2,Cognitive symptoms,0.85,0.15000000000000002,0.7475846793917653,20,False,None
+SCL-90_78,anxiety,SCL-90,Feeling so restless you couldn’t sit still.,1,Somatic symptoms,0.85,0.15000000000000002,0.6098403044278613,20,False,None
+MFQ_23,depression,MFQ,I hated myself.,2,Cognitive & self-perception,0.85,0.15000000000000002,0.6098403044278613,20,False,None
+DAS_05,apathy,DAS,I am concerned about how my family feel.,2,Affective apathy,0.85,0.15000000000000002,0.6098403044278613,20,False,None
+SCL-90_47,anxiety,SCL-90,"Feeling afraid to travel on buses, subways, trains.",2,Cognitive symptoms,0.85,0.15000000000000002,0.6098403044278613,20,False,None
+AIS_04,sleep,AIS,Total sleep duration.,2,Nocturnal sleep disturbances,0.8571428571428571,0.1428571428571429,0.7345299210066618,14,False,None
+SDQ_03,sleep,SDQ,Do you take anything to help you sleep?,2,Nocturnal sleep disturbances,0.8571428571428571,0.1428571428571429,0.5916727782937884,14,False,None
+MSQ_01.d,sleep,MSQ,"Have you had dreams of being chased or attacked, or that involve defending yours...",3,REM sleep behavior and dreaming,0.8571428571428571,0.1428571428571429,0.5916727782937884,14,False,None
+SDQ_09,sleep,SDQ,Do you think something is wrong with your body?,-1,None/Does not fit,0.8571428571428571,0.1428571428571429,0.5916727782937884,14,False,None
+ASBPD-III_04.7,sleep,ASBPD,"Prior to this past month, have you experienced similar difficulties with falling...",1,Daytime sleepiness and alertness,0.8571428571428571,0.1428571428571429,0.5916727782937884,14,False,None
+MSQ_03,sleep,MSQ,"Does a restless, nervous, tingly, or creepy-crawly feeling in your legs make it ...",2,Nocturnal sleep disturbances,0.8571428571428571,0.1428571428571429,0.7345299210066618,14,False,None
+SDS_05,depression,SDS,I eat as much as I used to.,3,Somatic & vegetative symptoms,0.8888888888888888,0.11111111111111116,0.6143694454539483,18,False,None
+SHAPS_07,apathy,SHAPS,I would enjoy seeing other people's smiling faces.,2,Affective apathy,0.8888888888888888,0.11111111111111116,0.5032583344871068,18,False,None
+GAD-7_07,anxiety,GAD-7,"Feeling afraid, as if something awful might happen.",2,Cognitive symptoms,0.8888888888888888,0.11111111111111116,0.5032583344871068,18,False,None
+PQ-B_10,psychosis,PQ-B,Do you sometimes feel suddenly distracted by distant sounds that you are not nor...,1,Hallucinations,0.8888888888888888,0.11111111111111116,0.5032583344871068,18,False,None
+PQ-B_18,psychosis,PQ-B,Do you find yourself feeling mistrustful or suspicious of other people?,2,Delusions,0.8888888888888888,0.11111111111111116,0.6143694454539483,18,False,None
+SCL-90_35,psychosis,SCL-90,Other people being aware of your private thoughts.,2,Delusions,0.8888888888888888,0.11111111111111116,0.5032583344871068,18,False,None
+MADRS_02,depression,MADRS,"Reported sadness: Reports of depressed mood, regardless of whether it is reflect...",1,Mood & affective symptoms,0.8888888888888888,0.11111111111111116,0.6143694454539483,18,False,None
+CAPE-P15_01,psychosis,CAPE-P15,Have you ever felt as if people seem to drop hints about you or say things with ...,2,Delusions,0.8888888888888888,0.11111111111111116,0.5032583344871068,18,False,None
+CAPE-P15_02,psychosis,CAPE-P15,Have you ever felt as if some people are not what they seem to be?,2,Delusions,0.8888888888888888,0.11111111111111116,0.5032583344871068,18,False,None
+SCL-90_08,psychosis,SCL-90,Feeling others are to blame for most of your troubles.,2,Delusions,0.8888888888888888,0.11111111111111116,0.5032583344871068,18,False,None
+SMGAD_06,anxiety,SMGAD,"I have avoided, or did not approach or enter, situations about which I worry.",2,Cognitive symptoms,0.8888888888888888,0.11111111111111116,0.5032583344871068,18,False,None
+DSI_12,depression,DSI,Confusion Do you ever feel confused and have trouble thinking?,2,Cognitive & self-perception,0.8888888888888888,0.11111111111111116,0.6143694454539483,18,False,None
+PQ-B_06,psychosis,PQ-B,"Do you have difficulty getting your point across, because you ramble or go off t...",-1,None/Does not fit,0.8888888888888888,0.11111111111111116,0.6143694454539483,18,False,None
+CAPE-P15_07,psychosis,CAPE-P15,Have you ever felt as if the thoughts in your head are being taken away from you...,2,Delusions,0.8888888888888888,0.11111111111111116,0.5032583344871068,18,False,None
+PQ-B_07,psychosis,PQ-B,Do you have strong feelings or beliefs about being unusually gifted or talented ...,2,Delusions,0.8888888888888888,0.11111111111111116,0.6143694454539483,18,False,None
+ASBPD_05.9,apathy,ASBPD,Are you as enthusiastic as in the past?,2,Affective apathy,0.9,0.09999999999999998,0.5689955931564726,20,False,None
+SCL-90_26,depression,SCL-90,Blaming yourself for things.,2,Cognitive & self-perception,0.9,0.09999999999999998,0.5689955931564726,20,False,None
+MFQ_33,depression,MFQ,I slept a lot more than usual.,3,Somatic & vegetative symptoms,0.9,0.09999999999999998,0.5689955931564726,20,False,None
+SCL-90_79,depression,SCL-90,Feelings of worthlessness.,2,Cognitive & self-perception,0.9,0.09999999999999998,0.4689955933007422,20,False,None
+SCL-90_50,anxiety,SCL-90,"Having to avoid certain things, places, or activities because they frighten you.",2,Cognitive symptoms,0.9,0.09999999999999998,0.5689955931564726,20,False,None
+MFQ_32,depression,MFQ,I didn’t sleep as well as I usually sleep.,3,Somatic & vegetative symptoms,0.9,0.09999999999999998,0.5689955931564726,20,False,None
+ASensI_01,anxiety,ASensI,It is important not to appear nervous.,2,Cognitive symptoms,0.9,0.09999999999999998,0.5689955931564726,20,False,None
+MFQ_29,depression,MFQ,I didn’t have any fun in any of my activities.,4,Activity & interest deficits,0.9,0.09999999999999998,0.4689955933007422,20,False,None
+MFQ_24,depression,MFQ,I felt I was a bad person.,2,Cognitive & self-perception,0.9,0.09999999999999998,0.4689955933007422,20,False,None
+MFQ_20,depression,MFQ,I didn’t want to see my friends.,4,Activity & interest deficits,0.9,0.09999999999999998,0.4689955933007422,20,False,None
+MFQ_02,depression,MFQ,I didn’t enjoy anything at all.,4,Activity & interest deficits,0.9,0.09999999999999998,0.4689955933007422,20,False,None
+MFQ_17,depression,MFQ,I thought about death or dying.,1,Mood & affective symptoms,0.9,0.09999999999999998,0.4689955933007422,20,False,None
+PHQ-9_02,depression,PHQ-9,"Feeling down, depressed, or hopeless.",1,Mood & affective symptoms,0.9,0.09999999999999998,0.4689955933007422,20,False,None
+MFQ_19,depression,MFQ,I thought about killing myself.,1,Mood & affective symptoms,0.9,0.09999999999999998,0.4689955933007422,20,False,None
+DAS_03,apathy,DAS,I express my emotions.,2,Affective apathy,0.9,0.09999999999999998,0.5689955931564726,20,False,None
+MFQ_08,depression,MFQ,I felt I was no good anymore.,2,Cognitive & self-perception,0.9,0.09999999999999998,0.4689955933007422,20,False,None
+DAS_12,apathy,DAS,I struggle to empathise with other people.,2,Affective apathy,0.9,0.09999999999999998,0.4689955933007422,20,False,None
+MFQ_07,depression,MFQ,I was very restless.,5,Anxiety & distress,0.9,0.09999999999999998,0.5689955931564726,20,False,None
+AIS_07,sleep,AIS,Functioning (physical and mental) during the day.,1,Daytime sleepiness and alertness,0.9285714285714286,0.0714285714285714,0.3712323263523366,14,False,None
+ASBPD-III_03.2,sleep,ASBPD,Do you have trouble falling asleep?,2,Nocturnal sleep disturbances,0.9285714285714286,0.0714285714285714,0.3712323263523366,14,False,None
+AIS_01,sleep,AIS,Sleep induction (time it takes you to fall asleep after turning-off the lights).,2,Nocturnal sleep disturbances,0.9285714285714286,0.0714285714285714,0.3712323263523366,14,False,None
+AIS_06,sleep,AIS,Sense of well-being during the day.,1,Daytime sleepiness and alertness,0.9285714285714286,0.0714285714285714,0.3712323263523366,14,False,None
+AIS_08,sleep,AIS,Sleepiness during the day.,1,Daytime sleepiness and alertness,0.9285714285714286,0.0714285714285714,0.3712323263523366,14,False,None
+SDQ_01,sleep,SDQ,Do you have trouble falling asleep?,2,Nocturnal sleep disturbances,0.9285714285714286,0.0714285714285714,0.3712323263523366,14,False,None
+MSQ_07,sleep,MSQ,"Do you experience leg cramps at night (e.g., also called a ""charlie horse"" with ...",2,Nocturnal sleep disturbances,0.9285714285714286,0.0714285714285714,0.3712323263523366,14,False,None
+PSWQ_14,anxiety,PSWQ,"Once I start worrying, I can’t stop.",2,Cognitive symptoms,0.9444444444444444,0.05555555555555558,0.30954342886178615,18,False,None
+SCL-90_18,psychosis,SCL-90,Feeling that most people cannot be trusted.,2,Delusions,0.9444444444444444,0.05555555555555558,0.30954342886178615,18,False,None
+CAPE-P15_11,psychosis,CAPE-P15,Have you ever felt as if you are under the control of some force or power other ...,2,Delusions,0.9444444444444444,0.05555555555555558,0.30954342886178615,18,False,None
+MADRS_05,depression,MADRS,Reduced appetite: Feeling of loss of appetite; rate by loss of desire for food o...,3,Somatic & vegetative symptoms,0.9444444444444444,0.05555555555555558,0.30954342886178615,18,False,None
+PSWQ_11,anxiety,PSWQ,"When there is nothing more I can do about a concern, I don’t worry about it anym...",2,Cognitive symptoms,0.9444444444444444,0.05555555555555558,0.30954342886178615,18,False,None
+PSWQ_10,anxiety,PSWQ,I never worry about anything.,2,Cognitive symptoms,0.9444444444444444,0.05555555555555558,0.30954342886178615,18,False,None
+PSWQ_02,anxiety,PSWQ,My worries overwhelm me.,2,Cognitive symptoms,0.9444444444444444,0.05555555555555558,0.30954342886178615,18,False,None
+MADRS_04,depression,MADRS,Reduced sleep: Experience of reduced duration or depth of sleep compared to the ...,3,Somatic & vegetative symptoms,0.9444444444444444,0.05555555555555558,0.30954342886178615,18,False,None
+SMGAD_09,anxiety,SMGAD,I have sought reassurance from others due to worries.,2,Cognitive symptoms,0.9444444444444444,0.05555555555555558,0.30954342886178615,18,False,None
+SMGAD_07,anxiety,SMGAD,I have left situations early or participated only minimally due to worries.,2,Cognitive symptoms,0.9444444444444444,0.05555555555555558,0.30954342886178615,18,False,None
+SMGAD_08,anxiety,SMGAD,"I have spent lots of time making decisions, putting off making decisions, or pre...",2,Cognitive symptoms,0.9444444444444444,0.05555555555555558,0.30954342886178615,18,False,None
+CAPE-P15_03,psychosis,CAPE-P15,Have you ever felt that you are being persecuted in any way?,2,Delusions,0.9444444444444444,0.05555555555555558,0.30954342886178615,18,False,None
+CAPE-P15_05,psychosis,CAPE-P15,Have you ever felt that people look at you oddly because of your appearance?,2,Delusions,0.9444444444444444,0.05555555555555558,0.30954342886178615,18,False,None
+PQ-B_08,psychosis,PQ-B,Do you feel that other people are watching you or talking about you?,2,Delusions,0.9444444444444444,0.05555555555555558,0.30954342886178615,18,False,None
+DSI_04,depression,DSI,Sleep disturbance: How have you been sleeping?,3,Somatic & vegetative symptoms,0.9444444444444444,0.05555555555555558,0.30954342886178615,18,False,None
+DSI_05,depression,DSI,Decreased appetite: How is your appetite?,3,Somatic & vegetative symptoms,0.9444444444444444,0.05555555555555558,0.30954342886178615,18,False,None
+PQ-B_03,psychosis,PQ-B,Do things that you see appear different from the way they usually do (brighter o...,1,Hallucinations,0.9444444444444444,0.05555555555555558,0.30954342886178615,18,False,None
+CAPE-P15_06,psychosis,CAPE-P15,Have you ever felt as if electrical devices such as computers can influence the ...,2,Delusions,0.9444444444444444,0.05555555555555558,0.30954342886178615,18,False,None
+PHQ-9_03,depression,PHQ-9,"Trouble falling or staying asleep, or sleeping too much.",3,Somatic & vegetative symptoms,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+QUIP-C_B.1_B,impulse_control,QUIP-C,Do you or others think that you spend too much time repeating certain simple mot...,5,Punding-hobbyism,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+PHQ-9_01,depression,PHQ-9,Little interest or pleasure in doing things.,4,Activity & interest deficits,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+QUIP-C_C.5,impulse_control,QUIP-C,Do you hoard or hide your Parkinson's medications to increase the overall dosage...,6,Dopamine dysregulation syndrome,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+QUIP-C_C.1,impulse_control,QUIP-C,Do you or others (including your physicians) think that you consistently take to...,6,Dopamine dysregulation syndrome,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+PHQ-9_05,depression,PHQ-9,Poor appetite or overeating.,3,Somatic & vegetative symptoms,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+DAS_18,apathy,DAS,I keep myself busy.,1,Cognitive-Behavioral apathy,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+ASensI_12,anxiety,ASensI,It scares me when I am unable to keep my mind on a task.,2,Cognitive symptoms,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+DAS_08,apathy,DAS,I plan my days activities in advance.,1,Cognitive-Behavioral apathy,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+SCL-90_17,anxiety,SCL-90,Trembling.,1,Somatic symptoms,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+SCL-90_25,anxiety,SCL-90,Feeling afraid to go out of your house alone.,2,Cognitive symptoms,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+MFQ_25,depression,MFQ,I thought I looked ugly.,2,Cognitive & self-perception,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+ASBPD_05.10,apathy,ASBPD,Do you experience the same amount of pleasure in doing things?,2,Affective apathy,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+ASensI_05,anxiety,ASensI,It is important to me to stay in control of my emotions.,2,Cognitive symptoms,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+MFQ_28,depression,MFQ,I thought nobody really loved me.,2,Cognitive & self-perception,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+SCL-90_80,anxiety,SCL-90,Feeling that familiar things are strange or unreal.,2,Cognitive symptoms,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+SCL-90_32,depression,SCL-90,Feeling no interest in things.,4,Activity & interest deficits,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+DAS_01,apathy,DAS,I need a bit of encouragement to get things started.,1,Cognitive-Behavioral apathy,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+ASensI_16,anxiety,ASensI,It scares me when I am nervous.,2,Cognitive symptoms,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+MFQ_03,depression,MFQ,I was less hungry than usual.,3,Somatic & vegetative symptoms,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+MFQ_04,depression,MFQ,I ate more than usual.,3,Somatic & vegetative symptoms,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+DAS_04,apathy,DAS,I think of new things to do during the day.,1,Cognitive-Behavioral apathy,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+DAS_09,apathy,DAS,When I receive bad news I feel bad about it.,2,Affective apathy,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+DAS_10,apathy,DAS,I am able to focus on a task until it is finished.,1,Cognitive-Behavioral apathy,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+DAS_16,apathy,DAS,I act on things I have thought about during the day.,1,Cognitive-Behavioral apathy,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+DAS_14,apathy,DAS,I try new things.,1,Cognitive-Behavioral apathy,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+QUIP-C_A.4_2,impulse_control,QUIP-C,"Do you have difficulty controlling sex (such as increasing them over time, or ha...",2,Hypersexuality,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+QUIP-C_A.4_1,impulse_control,QUIP-C,"Do you have difficulty controlling gambling (such as increasing them over time, ...",1,Pathological gambling,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+DAS_13,apathy,DAS,I set goals for myself.,1,Cognitive-Behavioral apathy,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+DAS_20,apathy,DAS,I become emotional easily when watching something happy or sad on TV.,2,Affective apathy,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+ASBPD_05.3,apathy,ASBPD,Do you spontaneously do things without others?,1,Cognitive-Behavioral apathy,0.95,0.050000000000000044,0.28639695682741717,20,False,None
+MFQ_09,depression,MFQ,I blamed myself for things that weren’t my fault.,2,Cognitive & self-perception,1.0,0.0,-1.4426951601859516e-10,20,False,None
+CAPE-P15_13,psychosis,CAPE-P15,Have you ever heard voices when you are alone?,1,Hallucinations,1.0,0.0,-1.4426951601859516e-10,18,False,None
+CAPE-P15_14,psychosis,CAPE-P15,Have you ever heard voices talking to each other when you are alone?,1,Hallucinations,1.0,0.0,-1.4426951601859516e-10,18,False,None
+CAPE-P15_15,psychosis,CAPE-P15,"Have you ever seen objects, people or animals that other people can't see?",1,Hallucinations,1.0,0.0,-1.4426951601859516e-10,18,False,None
+PQ-B_02,psychosis,PQ-B,"Have you heard unusual sounds like banging, clicking, hissing, clapping or ringi...",1,Hallucinations,1.0,0.0,-1.4426951601859516e-10,18,False,None
+SCL-90_39,anxiety,SCL-90,Heart pounding or racing.,1,Somatic symptoms,1.0,0.0,-1.4426951601859516e-10,20,False,None
+SCL-90_86,anxiety,SCL-90,Feeling pushed to get things done.,2,Cognitive symptoms,1.0,0.0,-1.4426951601859516e-10,20,False,None
+CAPE-P15_04,psychosis,CAPE-P15,Have you ever felt as if there is a conspiracy against you?,2,Delusions,1.0,0.0,-1.4426951601859516e-10,18,False,None
+DAS_17,apathy,DAS,"When doing a demanding task, I have difficulty working out what I have to do.",1,Cognitive-Behavioral apathy,1.0,0.0,-1.4426951601859516e-10,20,False,None
+ASBPD-III_04.6,sleep,ASBPD,Does falling asleep during the day affect the way you carry out your daily activ...,1,Daytime sleepiness and alertness,1.0,0.0,-1.4426951601859516e-10,14,False,None
+ASBPD-III_04.5,sleep,ASBPD,Has falling asleep during the day caused/had dangerous consequences in your dail...,1,Daytime sleepiness and alertness,1.0,0.0,-1.4426951601859516e-10,14,False,None
+QUIP-C_A.4_3,impulse_control,QUIP-C,"Do you have difficulty controlling buying (such as increasing them over time, or...",3,Compulsive buying,1.0,0.0,-1.4426951601859516e-10,20,False,None
+ASensI_15,anxiety,ASensI,"When I am nervous, I worry that I might be mentally ill.",2,Cognitive symptoms,1.0,0.0,-1.4426951601859516e-10,20,False,None
+MFQ_15,depression,MFQ,I thought there was nothing good for me in the future.,2,Cognitive & self-perception,1.0,0.0,-1.4426951601859516e-10,20,False,None
+GAD-7_03,anxiety,GAD-7,Worrying too much about different things.,2,Cognitive symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+GAD-7_05,anxiety,GAD-7,Being so restless that it is hard to sit still.,1,Somatic symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+PSWQ_01,anxiety,PSWQ,"If I don’t have enough time to do everything, I don’t worry about it.",2,Cognitive symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+PSWQ_03,anxiety,PSWQ,I do not tend to worry about things.,2,Cognitive symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+PSWQ_04,anxiety,PSWQ,Many situations make me worry.,2,Cognitive symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+PSWQ_05,anxiety,PSWQ,"I know I shouldn’t worry about things, but I just cannot help it.",2,Cognitive symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+PSWQ_06,anxiety,PSWQ,When I am under pressure I worry a lot.,2,Cognitive symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+PSWQ_07,anxiety,PSWQ,I am always worrying about something.,2,Cognitive symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+PSWQ_08,anxiety,PSWQ,I find it easy to dismiss worrisome thoughts.,2,Cognitive symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+SCL-90_43,psychosis,SCL-90,Feeling that you are watched or talked about by others.,2,Delusions,1.0,0.0,-1.4426951601859516e-10,18,False,None
+PSWQ_09,anxiety,PSWQ,"As soon as I finish one task, I start to worry about everything else I have to d...",2,Cognitive symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+PSWQ_12,anxiety,PSWQ,I’ve been a worrier all my life.,2,Cognitive symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+SCL-90_16,psychosis,SCL-90,Hearing voices that other people do not hear.,1,Hallucinations,1.0,0.0,-1.4426951601859516e-10,18,False,None
+PSWQ_13,anxiety,PSWQ,I notice that I have been worrying about things.,2,Cognitive symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+PSWQ_15,anxiety,PSWQ,I worry all the time.,2,Cognitive symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+PSWQ_16,anxiety,PSWQ,I worry about projects until they are done.,2,Cognitive symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+PQ-B_20,psychosis,PQ-B,Have you seen things that other people can't see or don't seem to see?,1,Hallucinations,1.0,0.0,-1.4426951601859516e-10,18,False,None
+PQ-B_19,psychosis,PQ-B,"Have you seen unusual things like flashes, flames, blinding light, or geometric ...",1,Hallucinations,1.0,0.0,-1.4426951601859516e-10,18,False,None
+MFQ_31,depression,MFQ,I did everything wrong.,2,Cognitive & self-perception,1.0,0.0,-1.4426951601859516e-10,20,False,None
+SMGAD_03,anxiety,SMGAD,"I have had thoughts of bad things happening, such as family tragedy, ill health,...",2,Cognitive symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+SMGAD_04,anxiety,SMGAD,"I have felt a racing heart, sweaty, trouble breathing, faint, or shaky.",1,Somatic symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+SMGAD_05,anxiety,SMGAD,"I have felt tense muscles, felt on edge or restless, or had trouble relaxing or ...",1,Somatic symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+MFQ_30,depression,MFQ,I thought I could never be as good as other people.,2,Cognitive & self-perception,1.0,0.0,-1.4426951601859516e-10,20,False,None
+ASensI_02,anxiety,ASensI,"When I cannot keep my mind on a task, I worry that I might be going crazy.",2,Cognitive symptoms,1.0,0.0,-1.4426951601859516e-10,20,False,None
+ASBPD-III_04.3,sleep,ASBPD,"Do you fall asleep in unusual situations (during a conversation, while driving o...",1,Daytime sleepiness and alertness,1.0,0.0,-1.4426951601859516e-10,14,False,None
+ASBPD-III_04.4,sleep,ASBPD,Do you experience falling asleep during the day unintentionally regularly?,1,Daytime sleepiness and alertness,1.0,0.0,-1.4426951601859516e-10,14,False,None
+ASBPD-III_03.7,sleep,ASBPD,Do you have nightmares or act out your dreams during your sleep?,3,REM sleep behavior and dreaming,1.0,0.0,-1.4426951601859516e-10,14,False,None
+ASBPD-III_04.2,sleep,ASBPD,Do you fall asleep if you are not doing anything or when you are on your own?,1,Daytime sleepiness and alertness,1.0,0.0,-1.4426951601859516e-10,14,False,None
+ASBPD_05.8,apathy,ASBPD,"When something positive occurs, are you as happy now as in the past?",2,Affective apathy,1.0,0.0,-1.4426951601859516e-10,20,False,None
+MSQ_01.e,sleep,MSQ,Have you been told that you make movements while sleeping that seem to match the...,3,REM sleep behavior and dreaming,1.0,0.0,-1.4426951601859516e-10,14,False,None
+GAD-7_02,anxiety,GAD-7,Not being able to stop or control worrying.,2,Cognitive symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+MSQ_01.c,sleep,MSQ,"Has a bedpartner ever been injured from acting out your dreams (bruises, blows, ...",3,REM sleep behavior and dreaming,1.0,0.0,-1.4426951601859516e-10,14,False,None
+MSQ_01.b,sleep,MSQ,"Have you ever been injured from acting out your dreams (bruises, cuts, broken bo...",3,REM sleep behavior and dreaming,1.0,0.0,-1.4426951601859516e-10,14,False,None
+MSQ_01,sleep,MSQ,"Have you ever been told that you seem to ""act out your dreams"" while sleeping (p...",3,REM sleep behavior and dreaming,1.0,0.0,-1.4426951601859516e-10,14,False,None
+QUIP-C_A.1_3,impulse_control,QUIP-C,Do you or others think you have an issue with too much buying (such as too much ...,3,Compulsive buying,1.0,0.0,-1.4426951601859516e-10,20,False,None
+QUIP-C_A.1_4,impulse_control,QUIP-C,Do you or others think you have an issue with eating behaviors (such as eating l...,4,Compulsive eating,1.0,0.0,-1.4426951601859516e-10,20,False,None
+QUIP-C_A.2_1,impulse_control,QUIP-C,Do you think too much about gambling (such as having trouble keeping thoughts ou...,1,Pathological gambling,1.0,0.0,-1.4426951601859516e-10,20,False,None
+QUIP-C_A.2_2,impulse_control,QUIP-C,Do you think too much about sex (such as having trouble keeping thoughts out of ...,2,Hypersexuality,1.0,0.0,-1.4426951601859516e-10,20,False,None
+QUIP-C_A.2_3,impulse_control,QUIP-C,Do you think too much about buying (such as having trouble keeping thoughts out ...,3,Compulsive buying,1.0,0.0,-1.4426951601859516e-10,20,False,None
+AIS_03,sleep,AIS,Final awakening earlier than desired.,2,Nocturnal sleep disturbances,1.0,0.0,-1.4426951601859516e-10,14,False,None
+AIS_02,sleep,AIS,Awakenings during the night.,2,Nocturnal sleep disturbances,1.0,0.0,-1.4426951601859516e-10,14,False,None
+QUIP-C_A.2_4,impulse_control,QUIP-C,Do you think too much about eating (such as having trouble keeping thoughts out ...,4,Compulsive eating,1.0,0.0,-1.4426951601859516e-10,20,False,None
+QUIP-C_A.3_1,impulse_control,QUIP-C,Do you have urges or desires for gambling that you feel are excessive or cause y...,1,Pathological gambling,1.0,0.0,-1.4426951601859516e-10,20,False,None
+QUIP-C_C.4,impulse_control,QUIP-C,Do you have difficulty controlling your use of Parkinson’s medications (such as ...,6,Dopamine dysregulation syndrome,1.0,0.0,-1.4426951601859516e-10,20,False,None
+QUIP-C_C.3,impulse_control,QUIP-C,"Have you over time increased on your own, without medical advice, your overall i...",6,Dopamine dysregulation syndrome,1.0,0.0,-1.4426951601859516e-10,20,False,None
+QUIP-C_C.2,impulse_control,QUIP-C,"Have you over time increased on your own, without medical advice, your overall i...",6,Dopamine dysregulation syndrome,1.0,0.0,-1.4426951601859516e-10,20,False,None
+QUIP-C_A.3_2,impulse_control,QUIP-C,Do you have urges or desires for sex that you feel are excessive or cause you di...,2,Hypersexuality,1.0,0.0,-1.4426951601859516e-10,20,False,None
+QUIP-C_A.3_3,impulse_control,QUIP-C,Do you have urges or desires for buying that you feel are excessive or cause you...,3,Compulsive buying,1.0,0.0,-1.4426951601859516e-10,20,False,None
+QUIP-C_A.3_4,impulse_control,QUIP-C,Do you have urges or desires for eating that you feel are excessive or cause you...,4,Compulsive eating,1.0,0.0,-1.4426951601859516e-10,20,False,None
+QUIP-C_B.1_A,impulse_control,QUIP-C,"Do you or others think that you spend too much time on specific tasks, hobbies o...",5,Punding-hobbyism,1.0,0.0,-1.4426951601859516e-10,20,False,None
+QUIP-C_A.5_4,impulse_control,QUIP-C,Do you engage in activities specifically to continue eating (such as hiding what...,4,Compulsive eating,1.0,0.0,-1.4426951601859516e-10,20,False,None
+QUIP-C_A.5_3,impulse_control,QUIP-C,Do you engage in activities specifically to continue buying (such as hiding what...,3,Compulsive buying,1.0,0.0,-1.4426951601859516e-10,20,False,None
+QUIP-C_A.5_2,impulse_control,QUIP-C,Do you engage in activities specifically to continue sex (such as hiding what yo...,2,Hypersexuality,1.0,0.0,-1.4426951601859516e-10,20,False,None
+QUIP-C_A.5_1,impulse_control,QUIP-C,Do you engage in activities specifically to continue gambling (such as hiding wh...,1,Pathological gambling,1.0,0.0,-1.4426951601859516e-10,20,False,None
+QUIP-C_A.1_1,impulse_control,QUIP-C,Do you or others think you have an issue with too much gambling (such as casinos...,1,Pathological gambling,1.0,0.0,-1.4426951601859516e-10,20,False,None
+DSI_01,depression,DSI,Depressed mood: Have you been feeling sad or depressed lately?,1,Mood & affective symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+ASBPD-III_04.1,sleep,ASBPD,Do you fall asleep more easily than usual in situations such as after mealtimes ...,1,Daytime sleepiness and alertness,1.0,0.0,-1.4426951601859516e-10,14,False,None
+SDS_08,depression,SDS,I have trouble with constipation.,3,Somatic & vegetative symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+PHQ-9_06,depression,PHQ-9,Feeling bad about yourself – or that you are a failure or have let yourself or y...,2,Cognitive & self-perception,1.0,0.0,-1.4426951601859516e-10,20,False,None
+QUIP-C_A.4_4,impulse_control,QUIP-C,"Do you have difficulty controlling eating (such as increasing them over time, or...",4,Compulsive eating,1.0,0.0,-1.4426951601859516e-10,20,False,None
+SDS_01,depression,SDS,"I feel downhearted, blue, and sad.",1,Mood & affective symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+ASBPD-III_03.5,sleep,ASBPD,Do you manage to fall asleep again?,2,Nocturnal sleep disturbances,1.0,0.0,-1.4426951601859516e-10,14,False,None
+ASBPD-III_03.4,sleep,ASBPD,Do you wake up during the night? How many times?,2,Nocturnal sleep disturbances,1.0,0.0,-1.4426951601859516e-10,14,False,None
+ASBPD-III_03.3,sleep,ASBPD,Do you wake up too early in the morning?,2,Nocturnal sleep disturbances,1.0,0.0,-1.4426951601859516e-10,14,False,None
+ASBPD-III_03.1,sleep,ASBPD,Do you sleep less than usual?,2,Nocturnal sleep disturbances,1.0,0.0,-1.4426951601859516e-10,14,False,None
+SDQ_16,sleep,SDQ,Do you have difficulty staying awake during the day?,1,Daytime sleepiness and alertness,1.0,0.0,-1.4426951601859516e-10,14,False,None
+SDQ_15,sleep,SDQ,"Has anyone said that you stop breathing, gasp, snort, or choke in your sleep?",4,Sleep-disordered breathing,1.0,0.0,-1.4426951601859516e-10,14,False,None
+SDQ_14,sleep,SDQ,Do you snore?,4,Sleep-disordered breathing,1.0,0.0,-1.4426951601859516e-10,14,False,None
+DAS_21,apathy,DAS,I find it difficult to keep my mind on things.,1,Cognitive-Behavioral apathy,1.0,0.0,-1.4426951601859516e-10,20,False,None
+SDS_03,depression,SDS,I have crying speIls or feel like it.,1,Mood & affective symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+SDS_04,depression,SDS,I have trouble sleeping through the night.,3,Somatic & vegetative symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+MFQ_01,depression,MFQ,I felt miserable or unhappy.,1,Mood & affective symptoms,1.0,0.0,-1.4426951601859516e-10,20,False,None
+SCL-90_30,depression,SCL-90,Feeling blue.,1,Mood & affective symptoms,1.0,0.0,-1.4426951601859516e-10,20,False,None
+DSI_08,depression,DSI,Constipation: Do you have trouble with constipation?,3,Somatic & vegetative symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+SDS_07,depression,SDS,I notice that I am losing weight.,3,Somatic & vegetative symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+DSI_06,depression,DSI,Weight loss: Have you lost any weight?,3,Somatic & vegetative symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+DSI_03,depression,DSI,Crying spells Do you have crying spells or feel like it?,1,Mood & affective symptoms,1.0,0.0,-1.4426951601859516e-10,18,False,None
+SDQ_02,sleep,SDQ,Do you have trouble staying asleep?,2,Nocturnal sleep disturbances,1.0,0.0,-1.4426951601859516e-10,14,False,None
+ASBPD_05.1,apathy,ASBPD,Are you as active?,1,Cognitive-Behavioral apathy,1.0,0.0,-1.4426951601859516e-10,20,False,None
+ASBPD_05.2,apathy,ASBPD,Do you find it difficult to start new activities or to maintain them?,1,Cognitive-Behavioral apathy,1.0,0.0,-1.4426951601859516e-10,20,False,None
+MSQ_06.a,sleep,MSQ,"Are you currently being treated for stop breathing in your sleep (e.g., CPAP)?",4,Sleep-disordered breathing,1.0,0.0,-1.4426951601859516e-10,14,False,None
+MSQ_06,sleep,MSQ,Have you ever been told that you stop breathing in your sleep?,4,Sleep-disordered breathing,1.0,0.0,-1.4426951601859516e-10,14,False,None
+MSQ_05,sleep,MSQ,Have you ever snorted or choked yourself awake?,4,Sleep-disordered breathing,1.0,0.0,-1.4426951601859516e-10,14,False,None
+QUIP-C_A.1_2,impulse_control,QUIP-C,Do you or others think you have an issue with too much sex (such as making sexua...,2,Hypersexuality,1.0,0.0,-1.4426951601859516e-10,20,False,None

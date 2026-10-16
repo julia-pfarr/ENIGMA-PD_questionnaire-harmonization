@@ -1,0 +1,59 @@
+construct,dimension,dimension_label,questionnaire,score_type,cohen_d,n_pd,n_hc
+anxiety,1,Somatic symptoms,BAI,Proportion,1.291,692,51
+anxiety,1,Somatic symptoms,BAI,CDF transform,1.363,692,51
+anxiety,1,Somatic symptoms,HADS,Proportion,0.485,335,79
+anxiety,1,Somatic symptoms,HADS,CDF transform,0.486,335,79
+anxiety,1,Somatic symptoms,STAI,Proportion,-0.162,865,870
+anxiety,1,Somatic symptoms,STAI,CDF transform,-0.145,865,870
+anxiety,2,Cognitive symptoms,BAI,Proportion,0.931,692,51
+anxiety,2,Cognitive symptoms,BAI,CDF transform,0.885,692,51
+anxiety,2,Cognitive symptoms,HADS,Proportion,0.449,334,79
+anxiety,2,Cognitive symptoms,HADS,CDF transform,0.454,334,79
+anxiety,2,Cognitive symptoms,MDS-UPDRS_I,Proportion,0.119,2268,966
+anxiety,2,Cognitive symptoms,MDS-UPDRS_I,CDF transform,0.123,2268,966
+anxiety,2,Cognitive symptoms,STAI,Proportion,-0.157,865,870
+anxiety,2,Cognitive symptoms,STAI,CDF transform,-0.058,865,870
+apathy,2,Affective apathy,MDS-UPDRS_I,Proportion,0.295,2268,966
+apathy,2,Affective apathy,MDS-UPDRS_I,CDF transform,0.315,2268,966
+depression,1,Mood & affective symptoms,BDI,Proportion,0.453,1856,390
+depression,1,Mood & affective symptoms,BDI,CDF transform,0.481,1856,390
+depression,1,Mood & affective symptoms,GDS,Proportion,-0.486,1226,930
+depression,1,Mood & affective symptoms,GDS,CDF transform,-0.289,1226,930
+depression,1,Mood & affective symptoms,HADS,Proportion,0.459,334,79
+depression,1,Mood & affective symptoms,HADS,CDF transform,0.444,334,79
+depression,1,Mood & affective symptoms,MDS-UPDRS_I,Proportion,0.198,2267,966
+depression,1,Mood & affective symptoms,MDS-UPDRS_I,CDF transform,0.216,2267,966
+depression,2,Cognitive & self-perception,BDI,Proportion,0.501,1858,390
+depression,2,Cognitive & self-perception,BDI,CDF transform,0.563,1858,390
+depression,2,Cognitive & self-perception,GDS,Proportion,0.018,1226,930
+depression,2,Cognitive & self-perception,GDS,CDF transform,0.042,1226,930
+depression,3,Somatic & vegetative symptoms,BDI,Proportion,0.928,1857,390
+depression,3,Somatic & vegetative symptoms,BDI,CDF transform,0.915,1857,390
+depression,3,Somatic & vegetative symptoms,HADS,Proportion,0.914,334,79
+depression,3,Somatic & vegetative symptoms,HADS,CDF transform,0.773,334,79
+depression,4,Activity & interest deficits,BDI,Proportion,0.673,1857,390
+depression,4,Activity & interest deficits,BDI,CDF transform,0.669,1857,390
+depression,4,Activity & interest deficits,GDS,Proportion,0.017,1226,930
+depression,4,Activity & interest deficits,GDS,CDF transform,-0.002,1226,930
+depression,4,Activity & interest deficits,HADS,Proportion,0.516,330,77
+depression,4,Activity & interest deficits,HADS,CDF transform,0.515,330,77
+depression,5,Anxiety & distress,BDI,Proportion,0.369,1851,390
+depression,5,Anxiety & distress,BDI,CDF transform,0.365,1851,390
+depression,5,Anxiety & distress,GDS,Proportion,0.165,1226,930
+depression,5,Anxiety & distress,GDS,CDF transform,0.165,1226,930
+psychosis,1,Hallucinations,MDS-UPDRS_I,Proportion,0.263,2390,966
+psychosis,1,Hallucinations,MDS-UPDRS_I,CDF transform,0.241,2390,966
+sleep,1,Daytime sleepiness and alertness,ESS,Proportion,0.327,1983,1196
+sleep,1,Daytime sleepiness and alertness,ESS,CDF transform,0.32,1983,1196
+sleep,1,Daytime sleepiness and alertness,MDS-UPDRS_I,Proportion,0.531,1398,202
+sleep,1,Daytime sleepiness and alertness,MDS-UPDRS_I,CDF transform,0.521,1398,202
+sleep,1,Daytime sleepiness and alertness,SCOPA-SLEEP,Proportion,0.698,744,51
+sleep,1,Daytime sleepiness and alertness,SCOPA-SLEEP,CDF transform,0.719,744,51
+sleep,2,Nocturnal sleep disturbances,MDS-UPDRS_I,Proportion,0.436,1400,202
+sleep,2,Nocturnal sleep disturbances,MDS-UPDRS_I,CDF transform,0.439,1400,202
+sleep,2,Nocturnal sleep disturbances,RBDSQ,Proportion,0.132,2064,1181
+sleep,2,Nocturnal sleep disturbances,RBDSQ,CDF transform,0.132,2064,1181
+sleep,2,Nocturnal sleep disturbances,SCOPA-SLEEP,Proportion,0.547,745,51
+sleep,2,Nocturnal sleep disturbances,SCOPA-SLEEP,CDF transform,0.534,745,51
+sleep,3,REM sleep behavior and dreaming,RBDSQ,Proportion,0.024,2067,1181
+sleep,3,REM sleep behavior and dreaming,RBDSQ,CDF transform,0.033,2067,1181

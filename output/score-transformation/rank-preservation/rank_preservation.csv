@@ -1,0 +1,58 @@
+questionnaire,construct,dimension,dimension_label,n,spearman_rho,p_value,bottom25_concordance,top25_concordance
+AES,apathy,1,Behavioral-Cognitive apathy,114,0.793,0.0,0.607,0.679
+AES,apathy,2,Affective apathy,114,0.938,0.0,0.857,0.821
+BAI,anxiety,1,Somatic symptoms,743,0.906,0.0,0.839,0.79
+BAI,anxiety,2,Cognitive symptoms,743,0.921,0.0,0.72,0.812
+BDI,depression,1,Mood & affective symptoms,2246,0.665,0.0,0.306,0.662
+BDI,depression,2,Cognitive & self-perception,2248,0.755,0.0,0.603,0.69
+BDI,depression,3,Somatic & vegetative symptoms,2247,0.808,0.0,0.71,0.703
+BDI,depression,4,Activity & interest deficits,2247,0.791,0.0,0.671,0.625
+BDI,depression,5,Anxiety & distress,2241,0.681,0.0,0.275,0.671
+ESS,sleep,1,Daytime sleepiness and alertness,3241,0.998,0.0,1.0,1.0
+GAI,anxiety,1,Somatic symptoms,91,0.915,0.0,0.696,0.783
+GAI,anxiety,2,Cognitive symptoms,91,0.858,0.0,0.783,0.739
+GDS,depression,1,Mood & affective symptoms,2218,0.458,0.0,0.686,0.33
+GDS,depression,2,Cognitive & self-perception,2218,0.587,0.0,0.601,0.507
+GDS,depression,4,Activity & interest deficits,2218,0.569,0.0,0.655,0.664
+GDS,depression,5,Anxiety & distress,2218,0.568,0.0,0.471,0.56
+HADS,anxiety,1,Somatic symptoms,414,0.919,0.0,0.817,0.788
+HADS,anxiety,2,Cognitive symptoms,413,0.928,0.0,0.854,0.806
+HADS,depression,1,Mood & affective symptoms,413,0.75,0.0,0.515,0.583
+HADS,depression,3,Somatic & vegetative symptoms,413,0.849,0.0,0.641,0.68
+HADS,depression,4,Activity & interest deficits,407,0.819,0.0,0.814,0.676
+MDS-UPDRS_I,anxiety,2,Cognitive symptoms,3296,1.0,0.0,1.0,1.0
+MDS-UPDRS_I,apathy,2,Affective apathy,3296,1.0,0.0,1.0,1.0
+MDS-UPDRS_I,depression,1,Mood & affective symptoms,3295,1.0,0.0,1.0,1.0
+MDS-UPDRS_I,psychosis,1,Hallucinations,3418,1.0,0.0,1.0,1.0
+MDS-UPDRS_I,sleep,1,Daytime sleepiness and alertness,1600,0.744,0.0,0.685,0.555
+MDS-UPDRS_I,sleep,2,Nocturnal sleep disturbances,1602,0.863,0.0,0.593,0.755
+NMSQuest,anxiety,2,Cognitive symptoms,173,1.0,0.0,1.0,1.0
+NMSQuest,apathy,1,Behavioral-Cognitive apathy,173,1.0,0.0,1.0,1.0
+NMSQuest,depression,1,Mood & affective symptoms,173,1.0,0.0,1.0,1.0
+NMSQuest,psychosis,1,Hallucinations,173,0.934,0.0,1.0,0.977
+NMSQuest,psychosis,2,Delusions,173,0.615,0.0,0.953,0.93
+NMSQuest,sleep,1,Daytime sleepiness and alertness,173,0.61,0.0,0.442,0.442
+NMSQuest,sleep,2,Nocturnal sleep disturbances,173,0.722,0.0,0.674,0.535
+NMSQuest,sleep,3,REM sleep behavior and dreaming,173,0.717,0.0,0.419,0.767
+NPI,anxiety,2,Cognitive symptoms,90,1.0,0.0,1.0,1.0
+NPI,apathy,1,Behavioral-Cognitive apathy,90,1.0,0.0,1.0,1.0
+NPI,depression,1,Mood & affective symptoms,90,1.0,0.0,1.0,1.0
+NPI,psychosis,1,Hallucinations,90,0.862,0.0,1.0,0.909
+NPI,psychosis,2,Delusions,90,0.707,0.0,0.955,0.864
+PAS,anxiety,1,Somatic symptoms,154,0.932,0.0,0.816,0.816
+PAS,anxiety,2,Cognitive symptoms,154,0.9,0.0,0.711,0.816
+PDSS-2,sleep,1,Daytime sleepiness and alertness,91,0.817,0.0,0.783,0.696
+PDSS-2,sleep,2,Nocturnal sleep disturbances,91,0.595,0.0,0.609,0.609
+PDSS-2,sleep,3,REM sleep behavior and dreaming,91,0.707,0.0,0.348,0.652
+RBDSQ,sleep,2,Nocturnal sleep disturbances,3307,0.838,0.0,0.411,0.716
+RBDSQ,sleep,3,REM sleep behavior and dreaming,3310,0.714,0.0,0.754,0.534
+SAPS-PD,psychosis,1,Hallucinations,40,0.915,0.0,1.0,0.9
+SAPS-PD,psychosis,2,Delusions,40,0.346,0.0287,0.9,0.6
+SAS,apathy,1,Behavioral-Cognitive apathy,131,0.63,0.0,0.485,0.636
+SAS,apathy,2,Affective apathy,131,0.845,0.0,0.818,0.667
+SCOPA-PC,psychosis,1,Hallucinations,681,0.862,0.0,0.971,0.841
+SCOPA-PC,psychosis,2,Delusions,681,0.639,0.0,0.871,0.565
+SCOPA-SLEEP,sleep,1,Daytime sleepiness and alertness,795,0.705,0.0,0.523,0.678
+SCOPA-SLEEP,sleep,2,Nocturnal sleep disturbances,796,0.819,0.0,0.678,0.724
+STAI,anxiety,1,Somatic symptoms,1797,0.903,0.0,0.786,0.777
+STAI,anxiety,2,Cognitive symptoms,1797,0.749,0.0,0.65,0.646

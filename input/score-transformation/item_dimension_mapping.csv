@@ -1,0 +1,428 @@
+construct,questionnaire,item_id,dimension,dimension_label,max_item_score,source,confidence
+anxiety,HADS,HADS_01,1,Somatic symptoms,3.0,expert_consensus,0.569
+anxiety,HADS,HADS_03,2,Cognitive symptoms,3.0,expert_consensus,0.738
+anxiety,HADS,HADS_05,2,Cognitive symptoms,3.0,expert_consensus,1.0
+anxiety,HADS,HADS_07,1,Somatic symptoms,3.0,expert_consensus,0.524
+anxiety,HADS,HADS_09,1,Somatic symptoms,3.0,expert_consensus,0.815
+anxiety,HADS,HADS_11,1,Somatic symptoms,3.0,expert_consensus,0.815
+anxiety,HADS,HADS_13,2,Cognitive symptoms,3.0,expert_consensus,0.604
+anxiety,HAMA,HAMA_01,2,Cognitive symptoms,4.0,expert_consensus,0.903
+anxiety,HAMA,HAMA_02,1,Somatic symptoms,4.0,expert_consensus,0.672
+anxiety,HAMA,HAMA_03,2,Cognitive symptoms,4.0,expert_consensus,0.95
+anxiety,HAMA,HAMA_04,1,Somatic symptoms,4.0,expert_consensus,0.81
+anxiety,HAMA,HAMA_05,2,Cognitive symptoms,4.0,expert_consensus,0.619
+anxiety,HAMA,HAMA_06,2,Cognitive symptoms,4.0,expert_consensus,0.473
+anxiety,HAMA,HAMA_07,1,Somatic symptoms,4.0,expert_consensus,1.0
+anxiety,HAMA,HAMA_08,1,Somatic symptoms,4.0,expert_consensus,1.0
+anxiety,HAMA,HAMA_09,1,Somatic symptoms,4.0,expert_consensus,1.0
+anxiety,HAMA,HAMA_10,1,Somatic symptoms,4.0,expert_consensus,1.0
+anxiety,HAMA,HAMA_11,1,Somatic symptoms,4.0,expert_consensus,1.0
+anxiety,HAMA,HAMA_12,1,Somatic symptoms,4.0,expert_consensus,0.903
+anxiety,HAMA,HAMA_13,1,Somatic symptoms,4.0,expert_consensus,1.0
+anxiety,HAMA,HAMA_14,1,Somatic symptoms,4.0,expert_consensus,1.0
+anxiety,BAI,BAI_01,1,Somatic symptoms,3.0,expert_consensus,1.0
+anxiety,BAI,BAI_02,1,Somatic symptoms,3.0,expert_consensus,1.0
+anxiety,BAI,BAI_03,1,Somatic symptoms,3.0,expert_consensus,1.0
+anxiety,BAI,BAI_04,1,Somatic symptoms,3.0,expert_consensus,0.578
+anxiety,BAI,BAI_05,2,Cognitive symptoms,3.0,expert_consensus,0.858
+anxiety,BAI,BAI_06,1,Somatic symptoms,3.0,expert_consensus,1.0
+anxiety,BAI,BAI_07,1,Somatic symptoms,3.0,expert_consensus,1.0
+anxiety,BAI,BAI_08,1,Somatic symptoms,3.0,expert_consensus,0.632
+anxiety,BAI,BAI_09,2,Cognitive symptoms,3.0,expert_consensus,0.632
+anxiety,BAI,BAI_10,2,Cognitive symptoms,3.0,expert_consensus,0.488
+anxiety,BAI,BAI_11,1,Somatic symptoms,3.0,expert_consensus,0.903
+anxiety,BAI,BAI_12,1,Somatic symptoms,3.0,expert_consensus,1.0
+anxiety,BAI,BAI_13,1,Somatic symptoms,3.0,expert_consensus,0.903
+anxiety,BAI,BAI_14,2,Cognitive symptoms,3.0,expert_consensus,0.858
+anxiety,BAI,BAI_15,1,Somatic symptoms,3.0,expert_consensus,0.903
+anxiety,BAI,BAI_16,2,Cognitive symptoms,3.0,expert_consensus,0.858
+anxiety,BAI,BAI_17,2,Cognitive symptoms,3.0,expert_consensus,0.732
+anxiety,BAI,BAI_18,1,Somatic symptoms,3.0,expert_consensus,0.95
+anxiety,BAI,BAI_19,1,Somatic symptoms,3.0,expert_consensus,1.0
+anxiety,BAI,BAI_20,1,Somatic symptoms,3.0,expert_consensus,1.0
+anxiety,BAI,BAI_21,1,Somatic symptoms,3.0,expert_consensus,0.95
+anxiety,STAI,STAI_10,1,Somatic symptoms,4.0,expert_reviewed,1.0
+anxiety,STAI,STAI_11,2,Cognitive symptoms,4.0,expert_consensus,0.656
+anxiety,STAI,STAI_12,2,Cognitive symptoms,4.0,expert_consensus,0.488
+anxiety,STAI,STAI_13,1,Somatic symptoms,4.0,expert_consensus,0.555
+anxiety,STAI,STAI_14,2,Cognitive symptoms,4.0,expert_consensus,0.95
+anxiety,STAI,STAI_15,1,Somatic symptoms,4.0,expert_reviewed,1.0
+anxiety,STAI,STAI_16,2,Cognitive symptoms,4.0,expert_consensus,0.588
+anxiety,STAI,STAI_17,2,Cognitive symptoms,4.0,expert_consensus,0.95
+anxiety,STAI,STAI_18,2,Cognitive symptoms,4.0,expert_consensus,0.95
+anxiety,STAI,STAI_19,2,Cognitive symptoms,4.0,expert_consensus,0.431
+anxiety,STAI,STAI_20,2,Cognitive symptoms,4.0,expert_consensus,0.588
+anxiety,NMSQuest,NMSQuest_17,2,Cognitive symptoms,1.0,expert_consensus,0.732
+anxiety,NPI,NPI_E_screen,2,Cognitive symptoms,1.0,expert_consensus,0.421
+anxiety,MDS-UPDRS_I,MDS-UPDRS_1.4,2,Cognitive symptoms,4.0,expert_consensus,0.553
+apathy,SAS,SAS_01,1,Behavioral-Cognitive apathy,3.0,expert_consensus,1.0
+apathy,SAS,SAS_02,1,Behavioral-Cognitive apathy,3.0,expert_consensus,0.812
+apathy,SAS,SAS_03,1,Behavioral-Cognitive apathy,3.0,expert_consensus,0.56
+apathy,SAS,SAS_04,1,Behavioral-Cognitive apathy,3.0,expert_consensus,0.95
+apathy,SAS,SAS_05,1,Behavioral-Cognitive apathy,3.0,expert_consensus,0.903
+apathy,SAS,SAS_06,1,Behavioral-Cognitive apathy,3.0,expert_consensus,0.95
+apathy,SAS,SAS_07,1,Behavioral-Cognitive apathy,3.0,expert_consensus,0.812
+apathy,SAS,SAS_08,1,Behavioral-Cognitive apathy,3.0,expert_consensus,0.768
+apathy,SAS,SAS_09,1,Behavioral-Cognitive apathy,3.0,expert_consensus,0.95
+apathy,SAS,SAS_10,2,Affective apathy,3.0,expert_consensus,0.508
+apathy,SAS,SAS_11,2,Affective apathy,3.0,expert_reviewed,1.0
+apathy,SAS,SAS_12,1,Behavioral-Cognitive apathy,3.0,expert_consensus,0.95
+apathy,SAS,SAS_13,2,Affective apathy,3.0,expert_consensus,0.727
+apathy,AES,AES_01,1,Behavioral-Cognitive apathy,4.0,expert_consensus,0.858
+apathy,AES,AES_02,1,Behavioral-Cognitive apathy,4.0,expert_consensus,0.95
+apathy,AES,AES_03,1,Behavioral-Cognitive apathy,4.0,expert_consensus,0.95
+apathy,AES,AES_04,1,Behavioral-Cognitive apathy,4.0,expert_consensus,0.903
+apathy,AES,AES_05,1,Behavioral-Cognitive apathy,4.0,expert_consensus,1.0
+apathy,AES,AES_06,1,Behavioral-Cognitive apathy,4.0,expert_consensus,1.0
+apathy,AES,AES_07,1,Behavioral-Cognitive apathy,4.0,expert_consensus,0.472
+apathy,AES,AES_08,1,Behavioral-Cognitive apathy,4.0,expert_consensus,0.95
+apathy,AES,AES_09,1,Behavioral-Cognitive apathy,4.0,expert_consensus,0.901
+apathy,AES,AES_10,1,Behavioral-Cognitive apathy,4.0,expert_consensus,1.0
+apathy,AES,AES_11,2,Affective apathy,4.0,expert_reviewed,1.0
+apathy,AES,AES_14,2,Affective apathy,4.0,expert_consensus,0.903
+apathy,AES,AES_15,1,Behavioral-Cognitive apathy,4.0,expert_consensus,0.728
+apathy,AES,AES_16,1,Behavioral-Cognitive apathy,4.0,expert_consensus,1.0
+apathy,AES,AES_17,1,Behavioral-Cognitive apathy,4.0,expert_consensus,0.95
+apathy,AES,AES_18,1,Behavioral-Cognitive apathy,4.0,expert_consensus,0.691
+apathy,AMI,AMI_01,2,Affective apathy,4.0,expert_consensus,0.812
+apathy,AMI,AMI_02,1,Behavioral-Cognitive apathy,4.0,expert_consensus,0.855
+apathy,AMI,AMI_03,2,Affective apathy,4.0,expert_reviewed,1.0
+apathy,AMI,AMI_04,1,Behavioral-Cognitive apathy,4.0,expert_consensus,0.858
+apathy,AMI,AMI_05,1,Behavioral-Cognitive apathy,4.0,expert_consensus,0.815
+apathy,AMI,AMI_06,1,Behavioral-Cognitive apathy,4.0,expert_consensus,0.617
+apathy,AMI,AMI_07,2,Affective apathy,4.0,expert_consensus,0.555
+apathy,AMI,AMI_08,1,Behavioral-Cognitive apathy,4.0,expert_consensus,0.56
+apathy,AMI,AMI_09,1,Behavioral-Cognitive apathy,4.0,expert_consensus,1.0
+apathy,AMI,AMI_10,1,Behavioral-Cognitive apathy,4.0,expert_consensus,1.0
+apathy,AMI,AMI_11,1,Behavioral-Cognitive apathy,4.0,expert_consensus,1.0
+apathy,AMI,AMI_12,1,Behavioral-Cognitive apathy,4.0,expert_consensus,0.903
+apathy,AMI,AMI_13,2,Affective apathy,4.0,expert_consensus,0.688
+apathy,AMI,AMI_14,1,Behavioral-Cognitive apathy,4.0,expert_consensus,0.95
+apathy,AMI,AMI_15,1,Behavioral-Cognitive apathy,4.0,expert_consensus,0.95
+apathy,AMI,AMI_16,2,Affective apathy,4.0,expert_consensus,0.903
+apathy,AMI,AMI_17,1,Behavioral-Cognitive apathy,4.0,expert_consensus,0.544
+apathy,AMI,AMI_18,2,Affective apathy,4.0,expert_consensus,0.691
+apathy,LARS,LARS_02.2,1,Behavioral-Cognitive apathy,1.0,expert_consensus,0.95
+apathy,LARS,LARS_03.1,1,Behavioral-Cognitive apathy,1.0,expert_consensus,1.0
+apathy,LARS,LARS_03.2,1,Behavioral-Cognitive apathy,1.0,expert_consensus,1.0
+apathy,LARS,LARS_03.3,1,Behavioral-Cognitive apathy,1.0,expert_consensus,0.95
+apathy,LARS,LARS_03.4,1,Behavioral-Cognitive apathy,1.0,expert_consensus,0.95
+apathy,LARS,LARS_04.1,1,Behavioral-Cognitive apathy,1.0,expert_consensus,0.776
+apathy,LARS,LARS_04.2,1,Behavioral-Cognitive apathy,1.0,expert_consensus,0.903
+apathy,LARS,LARS_04.3,1,Behavioral-Cognitive apathy,1.0,expert_consensus,0.776
+apathy,LARS,LARS_04.4,2,Affective apathy,1.0,expert_reviewed,1.0
+apathy,LARS,LARS_05.1,1,Behavioral-Cognitive apathy,1.0,expert_consensus,0.95
+apathy,LARS,LARS_05.2,1,Behavioral-Cognitive apathy,1.0,expert_consensus,0.95
+apathy,LARS,LARS_05.3,1,Behavioral-Cognitive apathy,1.0,expert_consensus,0.95
+apathy,LARS,LARS_05.4,1,Behavioral-Cognitive apathy,1.0,expert_consensus,0.95
+apathy,LARS,LARS_06.1,2,Affective apathy,1.0,expert_consensus,0.858
+apathy,LARS,LARS_06.2,2,Affective apathy,1.0,expert_consensus,0.855
+apathy,LARS,LARS_06.3,2,Affective apathy,1.0,expert_consensus,0.903
+apathy,LARS,LARS_06.4,2,Affective apathy,1.0,expert_consensus,0.903
+apathy,LARS,LARS_07.1,2,Affective apathy,1.0,expert_consensus,0.486
+apathy,LARS,LARS_07.2,2,Affective apathy,1.0,expert_consensus,0.578
+apathy,LARS,LARS_07.4,2,Affective apathy,1.0,expert_consensus,0.486
+apathy,LARS,LARS_08.2,2,Affective apathy,1.0,expert_consensus,0.568
+apathy,LARS,LARS_08.3,1,Behavioral-Cognitive apathy,1.0,expert_consensus,0.768
+apathy,LARS,LARS_08.4,1,Behavioral-Cognitive apathy,1.0,expert_consensus,0.691
+apathy,LARS,LARS_09.1,1,Behavioral-Cognitive apathy,1.0,expert_consensus,0.728
+apathy,LARS,LARS_09.2,1,Behavioral-Cognitive apathy,1.0,expert_consensus,0.553
+apathy,LARS,LARS_09.3,2,Affective apathy,1.0,expert_consensus,0.553
+apathy,LARS,LARS_09.4,1,Behavioral-Cognitive apathy,1.0,expert_consensus,0.406
+apathy,NMSQuest,NMSQuest_13,1,Behavioral-Cognitive apathy,1.0,expert_consensus,0.585
+apathy,NPI,NPI_G_screen,1,Behavioral-Cognitive apathy,1.0,expert_consensus,0.528
+apathy,MDS-UPDRS_I,MDS-UPDRS_1.5,2,Affective apathy,4.0,expert_reviewed,1.0
+depression,BDI,BDI_01,1,Mood & affective symptoms,3.0,expert_consensus,1.0
+depression,BDI,BDI_02,2,Cognitive & self-perception,3.0,expert_consensus,0.568
+depression,BDI,BDI_03,2,Cognitive & self-perception,3.0,expert_consensus,0.812
+depression,BDI,BDI_04,4,Activity & interest deficits,3.0,expert_consensus,0.517
+depression,BDI,BDI_05,2,Cognitive & self-perception,3.0,expert_consensus,0.522
+depression,BDI,BDI_06,2,Cognitive & self-perception,3.0,expert_consensus,0.696
+depression,BDI,BDI_07,2,Cognitive & self-perception,3.0,expert_consensus,0.858
+depression,BDI,BDI_08,2,Cognitive & self-perception,3.0,expert_consensus,0.858
+depression,BDI,BDI_09,1,Mood & affective symptoms,3.0,expert_consensus,0.414
+depression,BDI,BDI_10,1,Mood & affective symptoms,3.0,expert_consensus,0.655
+depression,BDI,BDI_11,5,Anxiety & distress,3.0,expert_consensus,0.69
+depression,BDI,BDI_12,4,Activity & interest deficits,3.0,expert_consensus,0.696
+depression,BDI,BDI_13,2,Cognitive & self-perception,3.0,expert_reviewed,1.0
+depression,BDI,BDI_14,2,Cognitive & self-perception,3.0,expert_consensus,0.653
+depression,BDI,BDI_15,4,Activity & interest deficits,3.0,expert_consensus,0.605
+depression,BDI,BDI_16,3,Somatic & vegetative symptoms,3.0,expert_consensus,0.809
+depression,BDI,BDI_17,3,Somatic & vegetative symptoms,3.0,expert_consensus,0.727
+depression,BDI,BDI_18,3,Somatic & vegetative symptoms,3.0,expert_consensus,0.901
+depression,BDI,BDI_19,3,Somatic & vegetative symptoms,3.0,expert_consensus,0.901
+depression,BDI,BDI_20,3,Somatic & vegetative symptoms,3.0,expert_reviewed,1.0
+depression,BDI,BDI_21,4,Activity & interest deficits,3.0,expert_consensus,0.485
+depression,GDS,GDS_01,2,Cognitive & self-perception,1.0,expert_consensus,0.535
+depression,GDS,GDS_02,4,Activity & interest deficits,1.0,expert_consensus,0.903
+depression,GDS,GDS_03,2,Cognitive & self-perception,1.0,expert_reviewed,1.0
+depression,GDS,GDS_04,4,Activity & interest deficits,1.0,expert_consensus,0.519
+depression,GDS,GDS_05,1,Mood & affective symptoms,1.0,expert_consensus,0.95
+depression,GDS,GDS_06,5,Anxiety & distress,1.0,expert_consensus,0.578
+depression,GDS,GDS_07,1,Mood & affective symptoms,1.0,expert_consensus,0.95
+depression,GDS,GDS_08,1,Mood & affective symptoms,1.0,expert_reviewed,1.0
+depression,GDS,GDS_09,4,Activity & interest deficits,1.0,expert_consensus,0.855
+depression,GDS,GDS_10,2,Cognitive & self-perception,1.0,expert_consensus,0.578
+depression,GDS,GDS_11,1,Mood & affective symptoms,1.0,expert_consensus,0.521
+depression,GDS,GDS_12,2,Cognitive & self-perception,1.0,expert_consensus,0.672
+depression,GDS,GDS_13,4,Activity & interest deficits,1.0,expert_reviewed,1.0
+depression,GDS,GDS_14,2,Cognitive & self-perception,1.0,expert_consensus,0.465
+depression,GDS,GDS_15,2,Cognitive & self-perception,1.0,expert_consensus,0.95
+depression,HADS,HADS_02,4,Activity & interest deficits,3.0,expert_consensus,0.542
+depression,HADS,HADS_04,1,Mood & affective symptoms,3.0,expert_consensus,0.594
+depression,HADS,HADS_06,1,Mood & affective symptoms,3.0,expert_consensus,0.901
+depression,HADS,HADS_08,3,Somatic & vegetative symptoms,3.0,expert_consensus,0.332
+depression,HADS,HADS_10,4,Activity & interest deficits,3.0,expert_reviewed,1.0
+depression,HADS,HADS_12,4,Activity & interest deficits,3.0,expert_reviewed,1.0
+depression,HAMD,HAMD_01,1,Mood & affective symptoms,4.0,expert_consensus,1.0
+depression,HAMD,HAMD_02,2,Cognitive & self-perception,4.0,expert_consensus,0.578
+depression,HAMD,HAMD_03,1,Mood & affective symptoms,4.0,expert_consensus,0.381
+depression,HAMD,HAMD_04,3,Somatic & vegetative symptoms,2.0,expert_consensus,0.768
+depression,HAMD,HAMD_05,3,Somatic & vegetative symptoms,2.0,expert_consensus,0.901
+depression,HAMD,HAMD_06,3,Somatic & vegetative symptoms,2.0,expert_consensus,0.901
+depression,HAMD,HAMD_07,4,Activity & interest deficits,4.0,expert_consensus,0.901
+depression,HAMD,HAMD_08,3,Somatic & vegetative symptoms,4.0,expert_consensus,0.391
+depression,HAMD,HAMD_09,5,Anxiety & distress,4.0,expert_consensus,0.771
+depression,HAMD,HAMD_12,3,Somatic & vegetative symptoms,2.0,expert_consensus,0.95
+depression,HAMD,HAMD_13,3,Somatic & vegetative symptoms,2.0,expert_consensus,0.901
+depression,HAMD,HAMD_14,3,Somatic & vegetative symptoms,2.0,expert_consensus,0.95
+depression,HAMD,HAMD_16,3,Somatic & vegetative symptoms,3.0,expert_consensus,1.0
+depression,NMSQuest,NMSQuest_16,1,Mood & affective symptoms,1.0,expert_consensus,1.0
+depression,NMSS,NMSS_10,1,Mood & affective symptoms,12.0,expert_consensus,1.0
+depression,NMSS,NMSS_11,1,Mood & affective symptoms,12.0,expert_consensus,0.858
+depression,NMSS,NMSS_12,4,Activity & interest deficits,12.0,expert_consensus,0.591
+depression,NPI,NPI_D_screen,1,Mood & affective symptoms,1.0,expert_consensus,1.0
+depression,MDS-UPDRS_I,MDS-UPDRS_1.3,1,Mood & affective symptoms,4.0,expert_consensus,0.583
+impulse_control,QUIP-RS,QUIP-RS_1_01,1,Pathological gambling,4.0,expert_consensus,1.0
+impulse_control,QUIP-RS,QUIP-RS_1_02,2,Hypersexuality,4.0,expert_consensus,1.0
+impulse_control,QUIP-RS,QUIP-RS_1_03,3,Compulsive buying,4.0,expert_consensus,1.0
+impulse_control,QUIP-RS,QUIP-RS_1_04,4,Compulsive eating,4.0,expert_consensus,1.0
+impulse_control,QUIP-RS,QUIP-RS_1_05,5,Punding-hobbyism,4.0,expert_consensus,0.903
+impulse_control,QUIP-RS,QUIP-RS_1_06,5,Punding-hobbyism,4.0,expert_consensus,0.696
+impulse_control,QUIP-RS,QUIP-RS_1_07,6,Dopamine dysregulation syndrome,4.0,expert_consensus,0.815
+impulse_control,QUIP-RS,QUIP-RS_2_01,1,Pathological gambling,4.0,expert_consensus,1.0
+impulse_control,QUIP-RS,QUIP-RS_2_02,2,Hypersexuality,4.0,expert_consensus,1.0
+impulse_control,QUIP-RS,QUIP-RS_2_03,3,Compulsive buying,4.0,expert_consensus,1.0
+impulse_control,QUIP-RS,QUIP-RS_2_04,4,Compulsive eating,4.0,expert_consensus,1.0
+impulse_control,QUIP-RS,QUIP-RS_2_05,5,Punding-hobbyism,4.0,expert_consensus,1.0
+impulse_control,QUIP-RS,QUIP-RS_2_06,5,Punding-hobbyism,4.0,expert_consensus,0.776
+impulse_control,QUIP-RS,QUIP-RS_2_07,6,Dopamine dysregulation syndrome,4.0,expert_consensus,0.855
+impulse_control,QUIP-RS,QUIP-RS_3_01,1,Pathological gambling,4.0,expert_consensus,1.0
+impulse_control,QUIP-RS,QUIP-RS_3_02,2,Hypersexuality,4.0,expert_consensus,1.0
+impulse_control,QUIP-RS,QUIP-RS_3_03,3,Compulsive buying,4.0,expert_consensus,1.0
+impulse_control,QUIP-RS,QUIP-RS_3_04,4,Compulsive eating,4.0,expert_consensus,1.0
+impulse_control,QUIP-RS,QUIP-RS_3_05,5,Punding-hobbyism,4.0,expert_consensus,1.0
+impulse_control,QUIP-RS,QUIP-RS_3_06,5,Punding-hobbyism,4.0,expert_consensus,0.776
+impulse_control,QUIP-RS,QUIP-RS_3_07,6,Dopamine dysregulation syndrome,4.0,expert_consensus,0.812
+impulse_control,QUIP-RS,QUIP-RS_4_01,1,Pathological gambling,4.0,expert_consensus,1.0
+impulse_control,QUIP-RS,QUIP-RS_4_02,2,Hypersexuality,4.0,expert_consensus,1.0
+impulse_control,QUIP-RS,QUIP-RS_4_03,3,Compulsive buying,4.0,expert_consensus,1.0
+impulse_control,QUIP-RS,QUIP-RS_4_04,4,Compulsive eating,4.0,expert_consensus,1.0
+impulse_control,QUIP-RS,QUIP-RS_4_05,5,Punding-hobbyism,4.0,expert_consensus,1.0
+impulse_control,QUIP-RS,QUIP-RS_4_06,5,Punding-hobbyism,4.0,expert_consensus,0.776
+impulse_control,QUIP-RS,QUIP-RS_4_07,6,Dopamine dysregulation syndrome,4.0,expert_consensus,0.812
+psychosis,SCOPA-PC,SCOPA-PC_01,1,Hallucinations,3.0,expert_consensus,0.858
+psychosis,SCOPA-PC,SCOPA-PC_02,1,Hallucinations,3.0,expert_consensus,0.776
+psychosis,SCOPA-PC,SCOPA-PC_03,2,Delusions,3.0,expert_consensus,0.855
+psychosis,SAPS-PD,SAPS-PD_01,1,Hallucinations,5.0,expert_consensus,0.95
+psychosis,SAPS-PD,SAPS-PD_03,1,Hallucinations,5.0,expert_consensus,0.95
+psychosis,SAPS-PD,SAPS-PD_04,1,Hallucinations,5.0,expert_consensus,0.855
+psychosis,SAPS-PD,SAPS-PD_06,1,Hallucinations,5.0,expert_consensus,0.95
+psychosis,SAPS-PD,SAPS-PD_08,2,Delusions,5.0,expert_consensus,0.901
+psychosis,SAPS-PD,SAPS-PD_09,2,Delusions,5.0,expert_consensus,0.901
+psychosis,SAPS-PD,SAPS-PD_14,2,Delusions,5.0,expert_consensus,0.901
+psychosis,PPRS,PPRS_01,1,Hallucinations,4.0,expert_consensus,1.0
+psychosis,PPRS,PPRS_02,1,Hallucinations,4.0,expert_consensus,0.696
+psychosis,PPRS,PPRS_03,2,Delusions,4.0,expert_consensus,0.855
+psychosis,UM-PDHQ,UM-PDHQ_01,1,Hallucinations,2.0,expert_consensus,0.95
+psychosis,NMSQuest,NMSQuest_14,1,Hallucinations,1.0,expert_consensus,0.858
+psychosis,NMSQuest,NMSQuest_30,2,Delusions,1.0,expert_consensus,0.858
+psychosis,NMSS,NMSS_13,1,Hallucinations,12.0,expert_consensus,0.95
+psychosis,NMSS,NMSS_14,2,Delusions,12.0,expert_consensus,0.812
+psychosis,NMSS,NMSS_15,1,Hallucinations,12.0,expert_consensus,0.55
+psychosis,NPI,NPI_A_screen,2,Delusions,1.0,expert_consensus,0.95
+psychosis,NPI,NPI_B_screen,1,Hallucinations,1.0,expert_consensus,1.0
+psychosis,MDS-UPDRS_I,MDS-UPDRS_1.2,1,Hallucinations,4.0,expert_consensus,0.903
+sleep,ESS,ESS_01,1,Daytime sleepiness and alertness,3.0,expert_consensus,1.0
+sleep,ESS,ESS_02,1,Daytime sleepiness and alertness,3.0,expert_consensus,1.0
+sleep,ESS,ESS_03,1,Daytime sleepiness and alertness,3.0,expert_consensus,1.0
+sleep,ESS,ESS_04,1,Daytime sleepiness and alertness,3.0,expert_consensus,0.939
+sleep,ESS,ESS_05,1,Daytime sleepiness and alertness,3.0,expert_consensus,0.826
+sleep,ESS,ESS_06,1,Daytime sleepiness and alertness,3.0,expert_consensus,1.0
+sleep,ESS,ESS_07,1,Daytime sleepiness and alertness,3.0,expert_consensus,0.939
+sleep,ESS,ESS_08,1,Daytime sleepiness and alertness,3.0,expert_consensus,1.0
+sleep,PSQI,PSQI_Comp04,2,Nocturnal sleep disturbances,3.0,expert_consensus,0.883
+sleep,PSQI,PSQI_Comp05_10,2,Nocturnal sleep disturbances,3.0,expert_consensus,0.608
+sleep,RBD1Q,RBD1Q_01,3,REM sleep behavior and dreaming,1.0,expert_consensus,0.939
+sleep,RBDSQ,RBDSQ_01,3,REM sleep behavior and dreaming,1.0,expert_consensus,0.939
+sleep,RBDSQ,RBDSQ_02,3,REM sleep behavior and dreaming,1.0,expert_consensus,0.939
+sleep,RBDSQ,RBDSQ_03,3,REM sleep behavior and dreaming,1.0,expert_consensus,1.0
+sleep,RBDSQ,RBDSQ_04,3,REM sleep behavior and dreaming,1.0,expert_consensus,0.684
+sleep,RBDSQ,RBDSQ_05,3,REM sleep behavior and dreaming,1.0,expert_consensus,0.939
+sleep,RBDSQ,RBDSQ_06_1,3,REM sleep behavior and dreaming,1.0,expert_consensus,1.0
+sleep,RBDSQ,RBDSQ_06_2,3,REM sleep behavior and dreaming,1.0,expert_consensus,0.881
+sleep,RBDSQ,RBDSQ_06_3,3,REM sleep behavior and dreaming,1.0,expert_consensus,1.0
+sleep,RBDSQ,RBDSQ_06_4,3,REM sleep behavior and dreaming,1.0,expert_consensus,0.939
+sleep,RBDSQ,RBDSQ_07,3,REM sleep behavior and dreaming,1.0,expert_consensus,0.608
+sleep,RBDSQ,RBDSQ_08,3,REM sleep behavior and dreaming,1.0,expert_consensus,0.826
+sleep,RBDSQ,RBDSQ_09,2,Nocturnal sleep disturbances,1.0,expert_consensus,0.636
+sleep,ISI,ISI_01_1,2,Nocturnal sleep disturbances,4.0,expert_consensus,1.0
+sleep,ISI,ISI_01_2,2,Nocturnal sleep disturbances,4.0,expert_consensus,0.939
+sleep,ISI,ISI_01_3,2,Nocturnal sleep disturbances,4.0,expert_consensus,0.939
+sleep,ISI,ISI_05,1,Daytime sleepiness and alertness,4.0,expert_consensus,0.396
+sleep,KSS,KSS_01,1,Daytime sleepiness and alertness,9.0,expert_consensus,1.0
+sleep,NMSQuest,NMSQuest_09,2,Nocturnal sleep disturbances,1.0,expert_consensus,0.826
+sleep,NMSQuest,NMSQuest_15,1,Daytime sleepiness and alertness,1.0,expert_consensus,0.636
+sleep,NMSQuest,NMSQuest_22,1,Daytime sleepiness and alertness,1.0,expert_consensus,0.939
+sleep,NMSQuest,NMSQuest_23,2,Nocturnal sleep disturbances,1.0,expert_consensus,1.0
+sleep,NMSQuest,NMSQuest_24,3,REM sleep behavior and dreaming,1.0,expert_consensus,0.883
+sleep,NMSQuest,NMSQuest_25,3,REM sleep behavior and dreaming,1.0,expert_consensus,1.0
+sleep,NMSQuest,NMSQuest_26,2,Nocturnal sleep disturbances,1.0,expert_consensus,0.553
+sleep,NMSS,NMSS_03,1,Daytime sleepiness and alertness,12.0,expert_consensus,1.0
+sleep,NMSS,NMSS_04,1,Daytime sleepiness and alertness,12.0,expert_consensus,0.644
+sleep,NMSS,NMSS_05,2,Nocturnal sleep disturbances,12.0,expert_consensus,0.883
+sleep,NMSS,NMSS_06,2,Nocturnal sleep disturbances,12.0,expert_consensus,0.403
+sleep,NMSS,NMSS_16,1,Daytime sleepiness and alertness,12.0,expert_consensus,0.881
+sleep,NMSS,NMSS_24,2,Nocturnal sleep disturbances,12.0,expert_consensus,0.826
+sleep,PDSS,PDSS_02,2,Nocturnal sleep disturbances,10.0,expert_consensus,1.0
+sleep,PDSS,PDSS_03,2,Nocturnal sleep disturbances,10.0,expert_consensus,0.939
+sleep,PDSS,PDSS_04,2,Nocturnal sleep disturbances,10.0,expert_consensus,0.489
+sleep,PDSS,PDSS_05,2,Nocturnal sleep disturbances,10.0,expert_consensus,0.472
+sleep,PDSS,PDSS_06,3,REM sleep behavior and dreaming,10.0,expert_consensus,0.78
+sleep,PDSS,PDSS_07,2,Nocturnal sleep disturbances,10.0,expert_reviewed,1.0
+sleep,PDSS,PDSS_08,2,Nocturnal sleep disturbances,10.0,expert_consensus,0.881
+sleep,PDSS,PDSS_10,2,Nocturnal sleep disturbances,10.0,expert_consensus,0.775
+sleep,PDSS,PDSS_11,2,Nocturnal sleep disturbances,10.0,expert_consensus,0.775
+sleep,PDSS,PDSS_12,2,Nocturnal sleep disturbances,10.0,expert_consensus,0.684
+sleep,PDSS,PDSS_14,1,Daytime sleepiness and alertness,10.0,expert_consensus,0.545
+sleep,PDSS,PDSS_15,1,Daytime sleepiness and alertness,10.0,expert_consensus,0.881
+sleep,PDSS-2,PDSS-2_02,2,Nocturnal sleep disturbances,4.0,expert_consensus,1.0
+sleep,PDSS-2,PDSS-2_03,2,Nocturnal sleep disturbances,4.0,expert_consensus,0.883
+sleep,PDSS-2,PDSS-2_04,2,Nocturnal sleep disturbances,4.0,expert_consensus,0.598
+sleep,PDSS-2,PDSS-2_05,2,Nocturnal sleep disturbances,4.0,expert_consensus,0.678
+sleep,PDSS-2,PDSS-2_06,3,REM sleep behavior and dreaming,4.0,expert_consensus,0.684
+sleep,PDSS-2,PDSS-2_07,2,Nocturnal sleep disturbances,4.0,expert_reviewed,1.0
+sleep,PDSS-2,PDSS-2_08,2,Nocturnal sleep disturbances,4.0,expert_consensus,0.824
+sleep,PDSS-2,PDSS-2_09,2,Nocturnal sleep disturbances,4.0,expert_consensus,0.723
+sleep,PDSS-2,PDSS-2_10,2,Nocturnal sleep disturbances,4.0,expert_consensus,0.773
+sleep,PDSS-2,PDSS-2_11,2,Nocturnal sleep disturbances,4.0,expert_consensus,0.773
+sleep,PDSS-2,PDSS-2_12,2,Nocturnal sleep disturbances,4.0,expert_consensus,0.633
+sleep,PDSS-2,PDSS-2_14,1,Daytime sleepiness and alertness,4.0,expert_consensus,0.542
+sleep,PDSS-2,PDSS-2_15,4,Sleep-disordered breathing,4.0,expert_consensus,0.83
+sleep,SCOPA-SLEEP,SCOPA-SLEEP_NS_01,2,Nocturnal sleep disturbances,3.0,expert_consensus,1.0
+sleep,SCOPA-SLEEP,SCOPA-SLEEP_NS_02,2,Nocturnal sleep disturbances,3.0,expert_consensus,0.939
+sleep,SCOPA-SLEEP,SCOPA-SLEEP_NS_03,2,Nocturnal sleep disturbances,3.0,expert_consensus,1.0
+sleep,SCOPA-SLEEP,SCOPA-SLEEP_NS_04,2,Nocturnal sleep disturbances,3.0,expert_consensus,1.0
+sleep,SCOPA-SLEEP,SCOPA-SLEEP_NS_05,2,Nocturnal sleep disturbances,3.0,expert_consensus,0.939
+sleep,SCOPA-SLEEP,SCOPA-SLEEP_DS_01,1,Daytime sleepiness and alertness,3.0,expert_consensus,1.0
+sleep,SCOPA-SLEEP,SCOPA-SLEEP_DS_02,1,Daytime sleepiness and alertness,3.0,expert_consensus,1.0
+sleep,SCOPA-SLEEP,SCOPA-SLEEP_DS_03,1,Daytime sleepiness and alertness,3.0,expert_consensus,1.0
+sleep,SCOPA-SLEEP,SCOPA-SLEEP_DS_04,1,Daytime sleepiness and alertness,3.0,expert_consensus,1.0
+sleep,SCOPA-SLEEP,SCOPA-SLEEP_DS_05,1,Daytime sleepiness and alertness,3.0,expert_consensus,1.0
+sleep,SCOPA-SLEEP,SCOPA-SLEEP_DS_06,1,Daytime sleepiness and alertness,3.0,expert_consensus,0.939
+sleep,MDS-UPDRS_I,MDS-UPDRS_1.7,2,Nocturnal sleep disturbances,4.0,expert_consensus,1.0
+sleep,MDS-UPDRS_I,MDS-UPDRS_1.8,1,Daytime sleepiness and alertness,4.0,expert_consensus,1.0
+sleep,NPI,NPI_K_screen,2,Nocturnal sleep disturbances,1.0,expert_consensus,0.939
+sleep,NPI,NPI_K_01,2,Nocturnal sleep disturbances,12.0,expert_consensus,1.0
+sleep,NPI,NPI_K_02,2,Nocturnal sleep disturbances,12.0,expert_consensus,0.881
+sleep,NPI,NPI_K_03,2,Nocturnal sleep disturbances,12.0,expert_consensus,0.451
+sleep,NPI,NPI_K_04,2,Nocturnal sleep disturbances,12.0,expert_consensus,0.553
+sleep,NPI,NPI_K_05,2,Nocturnal sleep disturbances,12.0,expert_consensus,0.517
+sleep,NPI,NPI_K_06,2,Nocturnal sleep disturbances,12.0,expert_consensus,0.826
+sleep,NPI,NPI_K_07,1,Daytime sleepiness and alertness,12.0,expert_consensus,1.0
+sleep,NPI,NPI_K_08,2,Nocturnal sleep disturbances,12.0,expert_reviewed,1.0
+depression,MADRS,MADRS_01,1,Mood & affective symptoms,6.0,lookup_table,0.536
+depression,MADRS,MADRS_02,1,Mood & affective symptoms,6.0,lookup_table,0.784
+depression,MADRS,MADRS_03,5,Anxiety & distress,6.0,lookup_table,0.693
+depression,MADRS,MADRS_04,3,Somatic & vegetative symptoms,6.0,lookup_table,0.889
+depression,MADRS,MADRS_05,3,Somatic & vegetative symptoms,6.0,lookup_table,0.889
+depression,MADRS,MADRS_06,2,Cognitive & self-perception,6.0,lookup_table,0.634
+depression,MADRS,MADRS_07,4,Activity & interest deficits,6.0,lookup_table,0.608
+depression,MADRS,MADRS_08,1,Mood & affective symptoms,6.0,lookup_table,0.327
+depression,MADRS,MADRS_09,2,Cognitive & self-perception,6.0,lookup_table,0.458
+depression,MADRS,MADRS_10,1,Mood & affective symptoms,6.0,lookup_table,0.608
+depression,PHQ-9,PHQ-9_01,4,Activity & interest deficits,3.0,lookup_table,0.9
+depression,PHQ-9,PHQ-9_02,1,Mood & affective symptoms,3.0,lookup_table,0.811
+depression,PHQ-9,PHQ-9_03,3,Somatic & vegetative symptoms,3.0,lookup_table,0.9
+depression,PHQ-9,PHQ-9_04,3,Somatic & vegetative symptoms,3.0,lookup_table,0.458
+depression,PHQ-9,PHQ-9_05,3,Somatic & vegetative symptoms,3.0,lookup_table,0.9
+depression,PHQ-9,PHQ-9_06,2,Cognitive & self-perception,3.0,lookup_table,1.0
+depression,PHQ-9,PHQ-9_07,2,Cognitive & self-perception,3.0,lookup_table,0.374
+depression,PHQ-9,PHQ-9_08,3,Somatic & vegetative symptoms,3.0,lookup_table,0.205
+depression,PHQ-9,PHQ-9_09,1,Mood & affective symptoms,3.0,lookup_table,0.532
+depression,IDS-CR,IDS-CR_01,3,Somatic & vegetative symptoms,3.0,model_prediction,0.8086592537358137
+depression,IDS-CR,IDS-CR_02,3,Somatic & vegetative symptoms,3.0,model_prediction,0.8166673369410116
+depression,IDS-CR,IDS-CR_03,3,Somatic & vegetative symptoms,3.0,model_prediction,0.8074259848673377
+depression,IDS-CR,IDS-CR_04,3,Somatic & vegetative symptoms,3.0,model_prediction,0.8023162601962909
+depression,IDS-CR,IDS-CR_05,1,Mood & affective symptoms,3.0,model_prediction,0.843745864655963
+depression,IDS-CR,IDS-CR_06,5,Anxiety & distress,3.0,model_prediction,0.7788640261350975
+depression,IDS-CR,IDS-CR_07,5,Anxiety & distress,3.0,model_prediction,0.7747517644824633
+depression,IDS-CR,IDS-CR_08,1,Mood & affective symptoms,3.0,model_prediction,0.7076014140481643
+depression,IDS-CR,IDS-CR_09,1,Mood & affective symptoms,3.0,model_prediction,0.7216070491115485
+depression,IDS-CR,IDS-CR_10,1,Mood & affective symptoms,3.0,model_prediction,0.7348232271971601
+depression,IDS-CR,IDS-CR_11,3,Somatic & vegetative symptoms,3.0,model_prediction,0.830466788428405
+depression,IDS-CR,IDS-CR_12,3,Somatic & vegetative symptoms,3.0,model_prediction,0.8264378862419955
+depression,IDS-CR,IDS-CR_13,3,Somatic & vegetative symptoms,3.0,model_prediction,0.7773011571062114
+depression,IDS-CR,IDS-CR_14,3,Somatic & vegetative symptoms,3.0,model_prediction,0.7437693283468325
+depression,IDS-CR,IDS-CR_15,2,Cognitive & self-perception,3.0,model_prediction,0.7333254696063276
+depression,IDS-CR,IDS-CR_16,2,Cognitive & self-perception,3.0,model_prediction,0.634124474556585
+depression,IDS-CR,IDS-CR_17,2,Cognitive & self-perception,3.0,model_prediction,0.7360580994826791
+depression,IDS-CR,IDS-CR_18,1,Mood & affective symptoms,3.0,model_prediction,0.8161092474796742
+depression,IDS-CR,IDS-CR_19,4,Activity & interest deficits,3.0,model_prediction,0.7306955988525695
+depression,IDS-CR,IDS-CR_20,3,Somatic & vegetative symptoms,3.0,model_prediction,0.7647671475867084
+depression,IDS-CR,IDS-CR_21,4,Activity & interest deficits,3.0,model_prediction,0.7300593310755195
+depression,IDS-CR,IDS-CR_22,4,Activity & interest deficits,3.0,model_prediction,0.7598426843007174
+depression,IDS-CR,IDS-CR_23,3,Somatic & vegetative symptoms,3.0,model_prediction,0.799056225318307
+depression,IDS-CR,IDS-CR_24,5,Anxiety & distress,3.0,model_prediction,0.7796321207515087
+depression,IDS-CR,IDS-CR_25,3,Somatic & vegetative symptoms,3.0,model_prediction,0.8032120438626978
+depression,IDS-CR,IDS-CR_26,5,Anxiety & distress,3.0,model_prediction,0.8178832670812738
+depression,IDS-CR,IDS-CR_27,5,Anxiety & distress,3.0,model_prediction,0.7775753486670552
+depression,IDS-CR,IDS-CR_28,3,Somatic & vegetative symptoms,3.0,model_prediction,0.7998742779519139
+depression,IDS-CR,IDS-CR_29,5,Anxiety & distress,3.0,model_prediction,0.7682255237674173
+depression,IDS-CR,IDS-CR_30,5,Anxiety & distress,3.0,model_prediction,0.6740747714510777
+anxiety,GHQ-28,GHQ-28_B1,2,Cognitive symptoms,3.0,model_prediction,0.8152252534199175
+anxiety,GHQ-28,GHQ-28_B2,1,Somatic symptoms,3.0,model_prediction,0.6999108610660548
+anxiety,GHQ-28,GHQ-28_B3,1,Somatic symptoms,3.0,model_prediction,0.7493197272170731
+anxiety,GHQ-28,GHQ-28_B4,1,Somatic symptoms,3.0,model_prediction,0.5907141951136821
+anxiety,GHQ-28,GHQ-28_B5,2,Cognitive symptoms,3.0,model_prediction,0.7940089029118113
+anxiety,GHQ-28,GHQ-28_B6,2,Cognitive symptoms,3.0,model_prediction,0.8011432224904058
+anxiety,GHQ-28,GHQ-28_B7,2,Cognitive symptoms,3.0,model_prediction,0.809739102341266
+depression,GHQ-28,GHQ-28_D1,2,Cognitive & self-perception,3.0,model_prediction,0.7872626379734627
+depression,GHQ-28,GHQ-28_D2,2,Cognitive & self-perception,3.0,model_prediction,0.7329504058170346
+depression,GHQ-28,GHQ-28_D3,2,Cognitive & self-perception,3.0,model_prediction,0.6559417563826925
+depression,GHQ-28,GHQ-28_D4,2,Cognitive & self-perception,3.0,model_prediction,0.7241549319842231
+depression,GHQ-28,GHQ-28_D5,5,Anxiety & distress,3.0,model_prediction,0.7851843066566123
+depression,GHQ-28,GHQ-28_D6,1,Mood & affective symptoms,3.0,model_prediction,0.7590114217075745
+depression,GHQ-28,GHQ-28_D7,-1,Does not fit,3.0,model_prediction,0.40675702806245
+anxiety,PAS,PAS_A1,2,Cognitive symptoms,4.0,expert_consensus,0.604
+anxiety,PAS,PAS_A2,1,Somatic symptoms,4.0,expert_reviewed,1.0
+anxiety,PAS,PAS_A3,1,Somatic symptoms,4.0,expert_consensus,0.508
+anxiety,PAS,PAS_A4,2,Cognitive symptoms,4.0,expert_consensus,1.0
+anxiety,PAS,PAS_A5,2,Cognitive symptoms,4.0,expert_consensus,0.95
+anxiety,PAS,PAS_B1,2,Cognitive symptoms,4.0,expert_consensus,0.704
+anxiety,PAS,PAS_B2,1,Somatic symptoms,4.0,expert_consensus,1.0
+anxiety,PAS,PAS_B3,1,Somatic symptoms,4.0,expert_consensus,1.0
+anxiety,PAS,PAS_B4,2,Cognitive symptoms,4.0,expert_consensus,0.95
+anxiety,PAS,PAS_C1,2,Cognitive symptoms,4.0,expert_consensus,0.858
+anxiety,PAS,PAS_C2,2,Cognitive symptoms,4.0,expert_consensus,0.815
+anxiety,PAS,PAS_C3,2,Cognitive symptoms,4.0,expert_consensus,0.815
+anxiety,GAI,GAI_01,2,Cognitive symptoms,1.0,model_prediction,0.807
+anxiety,GAI,GAI_02,2,Cognitive symptoms,1.0,model_prediction,0.805
+anxiety,GAI,GAI_03,1,Somatic symptoms,1.0,model_prediction,0.773
+anxiety,GAI,GAI_04,1,Somatic symptoms,1.0,model_prediction,0.789
+anxiety,GAI,GAI_05,2,Cognitive symptoms,1.0,model_prediction,0.809
+anxiety,GAI,GAI_06,2,Cognitive symptoms,1.0,model_prediction,0.804
+anxiety,GAI,GAI_07,1,Somatic symptoms,1.0,model_prediction,0.786
+anxiety,GAI,GAI_08,2,Cognitive symptoms,1.0,model_prediction,0.81
+anxiety,GAI,GAI_09,2,Cognitive symptoms,1.0,model_prediction,0.806
+anxiety,GAI,GAI_10,2,Cognitive symptoms,1.0,model_prediction,0.805
+anxiety,GAI,GAI_11,2,Cognitive symptoms,1.0,model_prediction,0.803
+anxiety,GAI,GAI_12,2,Cognitive symptoms,1.0,model_prediction,0.802
+anxiety,GAI,GAI_13,2,Cognitive symptoms,1.0,model_prediction,0.808
+anxiety,GAI,GAI_14,2,Cognitive symptoms,1.0,model_prediction,0.809
+anxiety,GAI,GAI_15,1,Somatic symptoms,1.0,model_prediction,0.741
+anxiety,GAI,GAI_16,2,Cognitive symptoms,1.0,model_prediction,0.809
+anxiety,GAI,GAI_17,2,Cognitive symptoms,1.0,model_prediction,0.807
+anxiety,GAI,GAI_18,1,Somatic symptoms,1.0,model_prediction,0.789
+anxiety,GAI,GAI_19,2,Cognitive symptoms,1.0,model_prediction,0.81
+anxiety,GAI,GAI_20,2,Cognitive symptoms,1.0,model_prediction,0.805

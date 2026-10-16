@@ -1,0 +1,19 @@
+Construct,Dimension 1,Dimension 1 Label,Dimension 2,Dimension 2 Label,N Items Confused,Example Items
+apathy,1,Cognitive-Behavioral apathy,2,Affective apathy,19,"DAS_02, DAS_06, DAS_07, SHAPS_01, SHAPS_03"
+anxiety,1,Somatic symptoms,2,Cognitive symptoms,15,"GAD-7_01, SMGAD_01, ASensI_03, ASensI_04, ASensI_06"
+depression,3,Somatic & vegetative symptoms,4,Activity & interest deficits,9,"PHQ-9_04, SDS_10, DSI_07, DSI_11, SCL-90_14"
+depression,1,Mood & affective symptoms,2,Cognitive & self-perception,7,"MADRS_09, SDS_14, SDS_19, DSI_16, DSI_18"
+sleep,-1,None/Does not fit,2,Nocturnal sleep disturbances,5,"MSQ_03.b, MSQ_03.c, SDQ_05, SDQ_10, SDQ_11"
+psychosis,1,Hallucinations,2,Delusions,4,"CAPE-P15_10, PQ-B_11, PQ-B_16, PQ-B_17"
+depression,2,Cognitive & self-perception,4,Activity & interest deficits,4,"PHQ-9_07, SDS_18, MFQ_10, MFQ_21"
+psychosis,-1,None/Does not fit,2,Delusions,3,"PQ-B_04, PQ-B_12, SCL-90_90"
+depression,3,Somatic & vegetative symptoms,5,Anxiety & distress,3,"PHQ-9_08, SDS_09, SDS_13"
+depression,1,Mood & affective symptoms,5,Anxiety & distress,3,"SDS_15, DSI_14, MFQ_11"
+depression,1,Mood & affective symptoms,3,Somatic & vegetative symptoms,2,"SDS_02, DSI_02"
+depression,2,Cognitive & self-perception,5,Anxiety & distress,2,"SCL-90_22, MFQ_22"
+impulse_control,-1,None/Does not fit,5,Punding-hobbyism,2,"QUIP-C_B.2, QUIP-C_B.3"
+sleep,2,Nocturnal sleep disturbances,3,REM sleep behavior and dreaming,2,"MSQ_02, ASBPD-III_03.8"
+psychosis,-1,None/Does not fit,1,Hallucinations,2,"PQ-B_01, PQ-B_14"
+depression,1,Mood & affective symptoms,4,Activity & interest deficits,1,MADRS_08
+sleep,1,Daytime sleepiness and alertness,2,Nocturnal sleep disturbances,1,ASBPD-III_03.6
+anxiety,-1,None/Does not fit,2,Cognitive symptoms,1,SMGAD_10

@@ -1,0 +1,127 @@
+item_id,questionnaire,dimension,dimension_label,p_i,base_umap_1,base_umap_2,ft_umap_1,ft_umap_2,base_nearest_prototype,base_nearest_label,base_correctly_placed,ft_nearest_prototype,ft_nearest_label,ft_correctly_placed
+ESS_01,ESS,1,Daytime sleepiness & alertness,1.0,2.3085,11.7007,5.2148,0.9024,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+ESS_02,ESS,1,Daytime sleepiness & alertness,1.0,1.9309,11.691,5.0798,0.6014,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+ESS_03,ESS,1,Daytime sleepiness & alertness,1.0,2.0817,11.3892,5.1974,0.6643,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+ESS_04,ESS,1,Daytime sleepiness & alertness,0.9418,2.1801,11.8328,4.7824,0.63,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+ESS_05,ESS,1,Daytime sleepiness & alertness,0.8326,2.0469,11.793,4.8834,0.464,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+ESS_06,ESS,1,Daytime sleepiness & alertness,1.0,2.1928,11.7952,5.4027,0.5414,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+ESS_07,ESS,1,Daytime sleepiness & alertness,0.9418,2.2539,11.5755,4.9618,0.4297,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+ESS_08,ESS,1,Daytime sleepiness & alertness,1.0,2.3776,11.58,4.7636,0.6015,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+PSQI_Comp02_1,PSQI,2,Nocturnal sleep disturbances,1.0,-0.5704,11.7464,0.121,-5.5474,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PSQI_Comp02_2,PSQI,2,Nocturnal sleep disturbances,1.0,-1.1047,11.2478,-0.3149,-5.3049,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PSQI_Comp04,PSQI,2,Nocturnal sleep disturbances,0.8872,-0.1698,11.7655,-0.5728,-5.8851,1,Daytime sleepiness & alertness,False,2,Nocturnal sleep disturbances,True
+PSQI_Comp05_1,PSQI,2,Nocturnal sleep disturbances,1.0,-1.0249,11.3446,-0.2075,-5.2325,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PSQI_Comp05_2,PSQI,2,Nocturnal sleep disturbances,1.0,-1.1804,11.1542,-1.1483,-5.4295,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PSQI_Comp05_3,PSQI,2,Nocturnal sleep disturbances,0.9418,-1.0759,10.5744,-1.6945,-5.8707,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PSQI_Comp05_4,PSQI,4,Sleep-disordered breathing,0.8326,-1.4243,10.4461,16.8774,23.1403,4,Sleep-disordered breathing,True,4,Sleep-disordered breathing,True
+PSQI_Comp05_5,PSQI,4,Sleep-disordered breathing,0.8362,-1.4248,9.9185,17.338,23.7826,4,Sleep-disordered breathing,True,4,Sleep-disordered breathing,True
+PSQI_Comp05_6,PSQI,2,Nocturnal sleep disturbances,0.7834,-1.5207,10.9707,-0.8407,-5.5815,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PSQI_Comp05_7,PSQI,2,Nocturnal sleep disturbances,0.8362,-1.483,11.1218,-0.8963,-5.937,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PSQI_Comp05_8,PSQI,3,REM sleep & dreaming,0.7888,-0.652,10.8118,0.0517,20.8825,2,Nocturnal sleep disturbances,False,3,REM sleep & dreaming,True
+PSQI_Comp05_9,PSQI,2,Nocturnal sleep disturbances,0.7834,-0.9375,10.7522,-0.8726,-5.5551,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PSQI_Comp05_10,PSQI,2,Nocturnal sleep disturbances,0.6226,-0.7998,10.8824,-0.8124,-4.9976,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PSQI_Comp07_1,PSQI,1,Daytime sleepiness & alertness,0.8872,-1.2575,12.0667,4.7193,1.1896,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+PSQI_Comp07_2,PSQI,-1,Does not fit,0.5146,-1.4665,11.9891,5.7015,1.3805,2,Nocturnal sleep disturbances,False,1,Daytime sleepiness & alertness,False
+RBD1Q_01,RBD1Q,3,REM sleep & dreaming,0.9418,1.4659,6.8145,0.4149,20.7378,3,REM sleep & dreaming,True,3,REM sleep & dreaming,True
+RBDSQ_01,RBDSQ,3,REM sleep & dreaming,0.9418,1.234,6.4774,0.611,21.2119,3,REM sleep & dreaming,True,3,REM sleep & dreaming,True
+RBDSQ_02,RBDSQ,3,REM sleep & dreaming,0.9418,1.3281,6.1316,0.8114,20.9687,3,REM sleep & dreaming,True,3,REM sleep & dreaming,True
+RBDSQ_03,RBDSQ,3,REM sleep & dreaming,1.0,1.1282,6.2707,0.7428,21.0775,3,REM sleep & dreaming,True,3,REM sleep & dreaming,True
+RBDSQ_04,RBDSQ,3,REM sleep & dreaming,0.6958,0.8328,6.718,0.4951,21.1943,3,REM sleep & dreaming,True,3,REM sleep & dreaming,True
+RBDSQ_05,RBDSQ,3,REM sleep & dreaming,0.9418,1.6098,6.0849,0.2629,21.1707,3,REM sleep & dreaming,True,3,REM sleep & dreaming,True
+RBDSQ_06_1,RBDSQ,3,REM sleep & dreaming,1.0,1.2134,6.1246,0.3021,20.5752,3,REM sleep & dreaming,True,3,REM sleep & dreaming,True
+RBDSQ_06_2,RBDSQ,3,REM sleep & dreaming,0.8854,1.3125,5.9317,0.686,20.8828,3,REM sleep & dreaming,True,3,REM sleep & dreaming,True
+RBDSQ_06_3,RBDSQ,3,REM sleep & dreaming,1.0,1.2029,5.9676,0.3848,20.5087,3,REM sleep & dreaming,True,3,REM sleep & dreaming,True
+RBDSQ_06_4,RBDSQ,3,REM sleep & dreaming,0.9418,1.4872,5.8636,0.4742,20.6593,3,REM sleep & dreaming,True,3,REM sleep & dreaming,True
+RBDSQ_07,RBDSQ,3,REM sleep & dreaming,0.6226,0.8623,6.8968,0.4183,21.2746,3,REM sleep & dreaming,True,3,REM sleep & dreaming,True
+RBDSQ_08,RBDSQ,3,REM sleep & dreaming,0.8326,1.0153,6.4008,0.3575,20.9215,3,REM sleep & dreaming,True,3,REM sleep & dreaming,True
+RBDSQ_09,RBDSQ,2,Nocturnal sleep disturbances,0.6502,0.9649,7.145,-1.0302,-4.6603,3,REM sleep & dreaming,False,2,Nocturnal sleep disturbances,True
+ISI_01_1,ISI,2,Nocturnal sleep disturbances,1.0,0.676,10.9043,-0.6106,-4.8849,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+ISI_01_2,ISI,2,Nocturnal sleep disturbances,0.9418,0.7421,10.8846,-0.4843,-5.0223,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+ISI_01_3,ISI,2,Nocturnal sleep disturbances,0.9418,0.8868,10.7712,-0.7706,-4.7474,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+ISI_05,ISI,1,Daytime sleepiness & alertness,0.4174,1.5237,10.7207,5.7733,1.4134,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+KSS_01,KSS,1,Daytime sleepiness & alertness,1.0,1.5278,11.0965,5.7301,0.885,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+NMSQuest_09,NMSQuest,2,Nocturnal sleep disturbances,0.8326,-0.0406,9.305,-2.2764,-5.6877,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+NMSQuest_15,NMSQuest,1,Daytime sleepiness & alertness,0.6502,2.3462,10.5938,5.1163,1.3273,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+NMSQuest_22,NMSQuest,1,Daytime sleepiness & alertness,0.9418,2.0298,10.6113,4.8076,1.2974,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+NMSQuest_23,NMSQuest,2,Nocturnal sleep disturbances,1.0,1.5621,9.9136,0.2877,-5.0193,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+NMSQuest_24,NMSQuest,3,REM sleep & dreaming,0.8872,1.5514,6.7053,0.4492,21.266,3,REM sleep & dreaming,True,3,REM sleep & dreaming,True
+NMSQuest_25,NMSQuest,3,REM sleep & dreaming,1.0,1.4847,6.4304,0.823,20.7809,3,REM sleep & dreaming,True,3,REM sleep & dreaming,True
+NMSQuest_26,NMSQuest,2,Nocturnal sleep disturbances,0.5698,1.6827,8.5751,-1.7664,-6.1711,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+NMSS_03,NMSS,1,Daytime sleepiness & alertness,1.0,2.6799,10.6812,5.5917,0.8393,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+NMSS_04,NMSS,1,Daytime sleepiness & alertness,0.6574,2.8737,10.2637,5.9196,1.1132,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+NMSS_05,NMSS,2,Nocturnal sleep disturbances,0.8872,3.2489,10.0151,-0.0814,-4.7867,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+NMSS_06,NMSS,2,Nocturnal sleep disturbances,0.4246,2.7747,9.834,-1.8461,-5.945,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+NMSS_16,NMSS,1,Daytime sleepiness & alertness,0.8854,2.5511,10.5068,5.1514,1.389,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+NMSS_24,NMSS,2,Nocturnal sleep disturbances,0.8326,0.3093,9.4069,-2.2033,-5.499,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PDSS_02,PDSS,2,Nocturnal sleep disturbances,1.0,1.329,9.7012,0.4989,-5.0915,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PDSS_03,PDSS,2,Nocturnal sleep disturbances,0.9418,1.462,9.845,-0.1346,-4.663,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PDSS_04,PDSS,2,Nocturnal sleep disturbances,0.5074,1.6073,9.0597,-1.6244,-6.2154,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PDSS_05,PDSS,2,Nocturnal sleep disturbances,0.4906,1.4025,9.2768,-1.5791,-5.4595,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PDSS_06,PDSS,3,REM sleep & dreaming,0.7888,1.6513,7.1898,0.1774,21.0562,3,REM sleep & dreaming,True,3,REM sleep & dreaming,True
+PDSS_07,PDSS,2,Nocturnal sleep disturbances,0.4454,1.7413,7.2494,-2.0355,-5.0444,3,REM sleep & dreaming,False,2,Nocturnal sleep disturbances,True
+PDSS_08,PDSS,2,Nocturnal sleep disturbances,0.8854,0.2305,9.4276,-2.2323,-5.7691,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PDSS_10,PDSS,2,Nocturnal sleep disturbances,0.7834,1.82,8.7831,-1.4465,-6.5387,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PDSS_11,PDSS,2,Nocturnal sleep disturbances,0.7834,1.8014,8.7483,-1.0335,-6.337,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PDSS_12,PDSS,2,Nocturnal sleep disturbances,0.6958,2.1517,8.9712,-0.1315,-4.5366,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PDSS_14,PDSS,1,Daytime sleepiness & alertness,0.5626,2.2194,9.5575,5.7185,0.901,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+PDSS_15,PDSS,1,Daytime sleepiness & alertness,0.8854,1.8069,10.3725,6.3685,1.865,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+PDSS-2_02,PDSS-2,2,Nocturnal sleep disturbances,1.0,1.0653,9.3579,0.4046,-4.9561,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PDSS-2_03,PDSS-2,2,Nocturnal sleep disturbances,0.8872,1.0998,9.4027,0.0472,-4.4827,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PDSS-2_04,PDSS-2,2,Nocturnal sleep disturbances,0.6136,1.2054,8.7268,-1.8778,-6.4115,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PDSS-2_05,PDSS-2,2,Nocturnal sleep disturbances,0.6904,1.3506,8.7535,-1.6198,-6.0401,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PDSS-2_06,PDSS-2,3,REM sleep & dreaming,0.6958,1.5464,7.4291,-0.01,21.1847,3,REM sleep & dreaming,True,3,REM sleep & dreaming,True
+PDSS-2_07,PDSS-2,2,Nocturnal sleep disturbances,0.4504,1.7863,7.2854,-2.0766,-5.2562,3,REM sleep & dreaming,False,2,Nocturnal sleep disturbances,True
+PDSS-2_08,PDSS-2,2,Nocturnal sleep disturbances,0.8308,-0.0036,9.4615,-2.3166,-5.5344,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PDSS-2_09,PDSS-2,2,Nocturnal sleep disturbances,0.7342,1.1306,8.8677,-1.5375,-5.366,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PDSS-2_10,PDSS-2,2,Nocturnal sleep disturbances,0.7816,1.8618,8.7007,-1.3864,-6.5221,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PDSS-2_11,PDSS-2,2,Nocturnal sleep disturbances,0.7816,1.6978,8.6427,-1.1201,-6.3193,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PDSS-2_12,PDSS-2,2,Nocturnal sleep disturbances,0.6466,2.1315,8.9557,-0.0933,-4.7298,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+PDSS-2_14,PDSS-2,1,Daytime sleepiness & alertness,0.559,2.0419,9.4889,5.9466,0.936,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+PDSS-2_15,PDSS-2,4,Sleep-disordered breathing,0.8362,-0.9882,9.2435,17.1479,23.4737,4,Sleep-disordered breathing,True,4,Sleep-disordered breathing,True
+SCOPA-SLEEP_NS_01,SCOPA-SLEEP,2,Nocturnal sleep disturbances,1.0,-0.8476,11.4493,0.1463,-5.1799,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+SCOPA-SLEEP_NS_02,SCOPA-SLEEP,2,Nocturnal sleep disturbances,0.9418,-1.4117,11.5246,-0.1605,-4.1946,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+SCOPA-SLEEP_NS_03,SCOPA-SLEEP,2,Nocturnal sleep disturbances,1.0,-1.0259,11.7466,-0.439,-6.1022,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+SCOPA-SLEEP_NS_04,SCOPA-SLEEP,2,Nocturnal sleep disturbances,1.0,-1.4811,11.601,-0.5476,-4.3583,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+SCOPA-SLEEP_NS_05,SCOPA-SLEEP,2,Nocturnal sleep disturbances,0.9418,-1.3061,11.5936,0.3901,-5.2583,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+SCOPA-SLEEP_DS_01,SCOPA-SLEEP,1,Daytime sleepiness & alertness,1.0,-0.7932,12.2239,6.2734,1.8153,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+SCOPA-SLEEP_DS_02,SCOPA-SLEEP,1,Daytime sleepiness & alertness,1.0,-0.7801,12.3888,4.6575,0.8866,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+SCOPA-SLEEP_DS_03,SCOPA-SLEEP,1,Daytime sleepiness & alertness,1.0,-0.7201,12.349,4.9384,0.955,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+SCOPA-SLEEP_DS_04,SCOPA-SLEEP,1,Daytime sleepiness & alertness,1.0,-0.8653,12.5576,5.2711,1.1388,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+SCOPA-SLEEP_DS_05,SCOPA-SLEEP,1,Daytime sleepiness & alertness,1.0,-1.285,11.9687,6.1164,1.6717,2,Nocturnal sleep disturbances,False,1,Daytime sleepiness & alertness,True
+SCOPA-SLEEP_DS_06,SCOPA-SLEEP,1,Daytime sleepiness & alertness,0.9418,-1.0264,11.9952,6.242,1.9486,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+MDS-UPDRS_1.7,MDS-UPDRS_I,2,Nocturnal sleep disturbances,1.0,0.0292,10.7444,-0.5121,-5.4977,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+MDS-UPDRS_1.8,MDS-UPDRS_I,1,Daytime sleepiness & alertness,1.0,-0.1889,10.7588,6.155,1.6965,2,Nocturnal sleep disturbances,False,1,Daytime sleepiness & alertness,True
+NPI_K_screen,NPI,2,Nocturnal sleep disturbances,0.9418,3.5165,9.6866,-1.7163,-5.5955,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+NPI_K_01,NPI,2,Nocturnal sleep disturbances,1.0,3.3706,9.9531,-0.0163,-4.8878,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+NPI_K_02,NPI,2,Nocturnal sleep disturbances,0.8854,3.5211,9.6836,-1.5266,-4.8402,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+NPI_K_03,NPI,2,Nocturnal sleep disturbances,0.4702,3.8337,9.5023,-1.9228,-4.994,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+NPI_K_04,NPI,2,Nocturnal sleep disturbances,0.5698,3.5144,9.6174,-1.5864,-4.7765,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+NPI_K_05,NPI,2,Nocturnal sleep disturbances,0.535,3.2823,9.3903,-1.4808,-5.5244,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+NPI_K_06,NPI,2,Nocturnal sleep disturbances,0.8326,3.3432,9.4235,-0.4248,-4.4367,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+NPI_K_07,NPI,1,Daytime sleepiness & alertness,1.0,3.3296,10.0789,6.4222,1.8384,1,Daytime sleepiness & alertness,True,1,Daytime sleepiness & alertness,True
+NPI_K_08,NPI,2,Nocturnal sleep disturbances,0.3719,3.8104,9.4799,-1.6385,-4.5196,2,Nocturnal sleep disturbances,True,2,Nocturnal sleep disturbances,True
+augmentation_sleep4_01,data-augmentation,4,Sleep-disordered breathing,1.0,-1.2162,10.2036,16.8162,23.2565,4,Sleep-disordered breathing,True,4,Sleep-disordered breathing,True
+augmentation_sleep4_02,data-augmentation,4,Sleep-disordered breathing,1.0,-1.1534,9.8844,17.3587,23.9019,4,Sleep-disordered breathing,True,4,Sleep-disordered breathing,True
+augmentation_sleep4_03,data-augmentation,4,Sleep-disordered breathing,1.0,-1.1599,8.9951,17.0567,23.6777,4,Sleep-disordered breathing,True,4,Sleep-disordered breathing,True
+augmentation_sleep4_04,data-augmentation,4,Sleep-disordered breathing,1.0,-1.2882,8.6959,17.1671,23.7549,4,Sleep-disordered breathing,True,4,Sleep-disordered breathing,True
+augmentation_sleep4_05,data-augmentation,4,Sleep-disordered breathing,1.0,-1.3007,8.9443,16.7882,23.9999,4,Sleep-disordered breathing,True,4,Sleep-disordered breathing,True
+augmentation_sleep4_06,data-augmentation,4,Sleep-disordered breathing,1.0,-0.8398,8.6818,16.4226,23.6452,4,Sleep-disordered breathing,True,4,Sleep-disordered breathing,True
+augmentation_sleep4_07,data-augmentation,4,Sleep-disordered breathing,1.0,-0.9419,9.3636,17.308,24.0285,4,Sleep-disordered breathing,True,4,Sleep-disordered breathing,True
+augmentation_sleep4_08,data-augmentation,4,Sleep-disordered breathing,1.0,-0.9963,8.7858,16.6971,23.6276,4,Sleep-disordered breathing,True,4,Sleep-disordered breathing,True
+augmentation_sleep4_09,data-augmentation,4,Sleep-disordered breathing,1.0,-1.2135,10.1008,16.6134,23.1799,4,Sleep-disordered breathing,True,4,Sleep-disordered breathing,True
+augmentation_sleep4_10,data-augmentation,4,Sleep-disordered breathing,1.0,-1.4525,9.029,16.6197,23.4127,4,Sleep-disordered breathing,True,4,Sleep-disordered breathing,True
+augmentation_sleep4_11,data-augmentation,4,Sleep-disordered breathing,1.0,-1.2791,8.5369,16.997,23.6957,4,Sleep-disordered breathing,True,4,Sleep-disordered breathing,True
+augmentation_sleep4_12,data-augmentation,4,Sleep-disordered breathing,1.0,-1.4088,8.8481,16.8278,23.5886,4,Sleep-disordered breathing,True,4,Sleep-disordered breathing,True
+augmentation_sleep4_13,data-augmentation,4,Sleep-disordered breathing,1.0,-0.9866,8.594,17.1715,24.1187,4,Sleep-disordered breathing,True,4,Sleep-disordered breathing,True
+augmentation_sleep4_14,data-augmentation,4,Sleep-disordered breathing,1.0,-1.1701,9.5423,17.4732,23.5914,4,Sleep-disordered breathing,True,4,Sleep-disordered breathing,True
+augmentation_sleep4_15,data-augmentation,4,Sleep-disordered breathing,1.0,-1.3687,8.9767,16.8491,23.1742,4,Sleep-disordered breathing,True,4,Sleep-disordered breathing,True
+augmentation_sleep_neg1_01,data-augmentation,-1,Does not fit,1.0,0.006,11.4482,17.2274,1.153,2,Nocturnal sleep disturbances,False,4,Sleep-disordered breathing,False
+augmentation_sleep_neg1_02,data-augmentation,-1,Does not fit,1.0,-0.3593,11.6384,17.3243,1.2497,2,Nocturnal sleep disturbances,False,4,Sleep-disordered breathing,False
+augmentation_sleep_neg1_03,data-augmentation,-1,Does not fit,1.0,-0.6271,11.1753,17.1375,1.0632,2,Nocturnal sleep disturbances,False,4,Sleep-disordered breathing,False
+augmentation_sleep_neg1_04,data-augmentation,-1,Does not fit,1.0,0.7091,11.1789,17.2498,1.1753,2,Nocturnal sleep disturbances,False,4,Sleep-disordered breathing,False
+augmentation_sleep_neg1_05,data-augmentation,-1,Does not fit,1.0,1.3169,10.7566,17.0238,0.9496,2,Nocturnal sleep disturbances,False,4,Sleep-disordered breathing,False
+augmentation_sleep_neg1_06,data-augmentation,-1,Does not fit,1.0,1.1853,10.4543,-0.2135,-4.0893,2,Nocturnal sleep disturbances,False,2,Nocturnal sleep disturbances,False
+augmentation_sleep_neg1_07,data-augmentation,-1,Does not fit,1.0,0.3134,11.2946,17.1021,1.0277,2,Nocturnal sleep disturbances,False,4,Sleep-disordered breathing,False
+augmentation_sleep_neg1_08,data-augmentation,-1,Does not fit,1.0,-0.041,10.9088,17.0686,0.9942,2,Nocturnal sleep disturbances,False,4,Sleep-disordered breathing,False
+augmentation_sleep_neg1_09,data-augmentation,-1,Does not fit,1.0,-0.1289,11.2723,16.9969,0.9224,2,Nocturnal sleep disturbances,False,4,Sleep-disordered breathing,False
+augmentation_sleep_neg1_10,data-augmentation,-1,Does not fit,1.0,1.0688,8.7478,17.395,1.3202,2,Nocturnal sleep disturbances,False,4,Sleep-disordered breathing,False

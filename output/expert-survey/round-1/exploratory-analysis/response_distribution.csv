@@ -1,0 +1,28 @@
+Construct,Dimension,Dimension Label,Count,Percentage
+depression,-1,None/Does not fit,42,1.4583333333333333
+depression,1,Mood & affective symptoms,876,30.416666666666668
+depression,2,Cognitive & self-perception,714,24.791666666666668
+depression,3,Somatic & vegetative symptoms,535,18.57638888888889
+depression,4,Activity & interest deficits,517,17.95138888888889
+depression,5,Anxiety & distress,196,6.805555555555555
+anxiety,-1,None/Does not fit,141,4.196428571428571
+anxiety,1,Somatic symptoms,1635,48.660714285714285
+anxiety,2,Cognitive symptoms,1584,47.142857142857146
+psychosis,-1,None/Does not fit,39,2.5657894736842106
+psychosis,1,Hallucinations,816,53.68421052631579
+psychosis,2,Delusions,665,43.75
+apathy,-1,None/Does not fit,164,4.555555555555555
+apathy,1,Cognitive-Behavioral apathy,2490,69.16666666666667
+apathy,2,Affective apathy,946,26.27777777777778
+sleep,-1,None/Does not fit,159,4.77047704770477
+sleep,1,Daytime sleepiness and alertness,858,25.742574257425744
+sleep,2,Nocturnal sleep disturbances,1586,47.584758475847586
+sleep,3,REM sleep behavior and dreaming,627,18.81188118811881
+sleep,4,Sleep-disordered breathing,103,3.0903090309030903
+impulse_control,-1,None/Does not fit,15,1.3392857142857142
+impulse_control,1,Pathological gambling,160,14.285714285714286
+impulse_control,2,Hypersexuality,160,14.285714285714286
+impulse_control,3,Compulsive buying,160,14.285714285714286
+impulse_control,4,Compulsive eating,160,14.285714285714286
+impulse_control,5,Punding-hobbyism,299,26.696428571428573
+impulse_control,6,Dopamine dysregulation syndrome,166,14.821428571428571

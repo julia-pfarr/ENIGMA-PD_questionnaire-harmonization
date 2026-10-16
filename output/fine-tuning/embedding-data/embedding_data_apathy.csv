@@ -1,0 +1,128 @@
+item_id,questionnaire,dimension,dimension_label,p_i,base_umap_1,base_umap_2,ft_umap_1,ft_umap_2,base_nearest_prototype,base_nearest_label,base_correctly_placed,ft_nearest_prototype,ft_nearest_label,ft_correctly_placed
+SAS_01,SAS,1,Behavioral-Cognitive apathy,1.0,12.7025,-0.739,11.8208,-2.0866,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+SAS_02,SAS,1,Behavioral-Cognitive apathy,0.8168,13.0914,-0.577,11.5457,-1.2423,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+SAS_03,SAS,1,Behavioral-Cognitive apathy,0.5648,13.6703,1.9283,11.8033,-1.4378,2,Affective apathy,False,1,Behavioral-Cognitive apathy,True
+SAS_04,SAS,1,Behavioral-Cognitive apathy,0.9608,13.8856,-0.2338,10.8249,-1.5682,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+SAS_05,SAS,1,Behavioral-Cognitive apathy,0.905,13.3522,-0.4735,11.1397,-2.344,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+SAS_06,SAS,1,Behavioral-Cognitive apathy,0.9608,13.4517,-0.3113,10.4345,-2.8719,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+SAS_07,SAS,1,Behavioral-Cognitive apathy,0.8168,13.6337,-0.454,11.1145,-1.2155,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+SAS_08,SAS,1,Behavioral-Cognitive apathy,0.7679,13.745,-0.7058,10.8699,-1.949,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+SAS_09,SAS,1,Behavioral-Cognitive apathy,0.9608,14.2118,-0.8376,10.6204,-3.0409,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+SAS_10,SAS,2,Affective apathy,0.52,14.2073,3.8339,1.6692,8.072,2,Affective apathy,True,2,Affective apathy,True
+SAS_11,SAS,2,Affective apathy,0.4829,13.8195,3.0699,2.1266,8.0761,2,Affective apathy,True,2,Affective apathy,True
+SAS_12,SAS,1,Behavioral-Cognitive apathy,0.9608,14.1444,-0.432,10.5265,-2.5082,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+SAS_13,SAS,2,Affective apathy,0.7208,13.9258,3.3509,1.4256,7.6895,2,Affective apathy,True,2,Affective apathy,True
+SAS_14,SAS,-1,Does not fit,1.0,14.2885,4.0778,4.3946,7.3383,2,Affective apathy,False,2,Affective apathy,False
+AES_01,AES,1,Behavioral-Cognitive apathy,0.8528,12.1772,-2.0084,12.0408,-1.4968,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AES_02,AES,1,Behavioral-Cognitive apathy,0.9608,12.1185,-2.3076,11.4572,-1.7706,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AES_03,AES,1,Behavioral-Cognitive apathy,0.9608,12.1977,-2.5775,10.7702,-2.5505,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AES_04,AES,1,Behavioral-Cognitive apathy,0.905,12.2333,-1.667,11.9609,-2.1019,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AES_05,AES,1,Behavioral-Cognitive apathy,1.0,12.398,-1.9011,11.9902,-2.1264,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AES_06,AES,1,Behavioral-Cognitive apathy,1.0,11.848,-2.558,11.8703,-1.3769,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AES_07,AES,1,Behavioral-Cognitive apathy,0.485,12.2097,-2.4588,11.7053,-1.1555,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AES_08,AES,1,Behavioral-Cognitive apathy,0.9608,12.4276,-2.804,10.3035,-2.6795,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AES_09,AES,1,Behavioral-Cognitive apathy,0.9216,12.1702,-1.9679,11.5214,-1.9742,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AES_10,AES,1,Behavioral-Cognitive apathy,1.0,12.5096,-2.4276,11.0233,-3.1721,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AES_11,AES,2,Affective apathy,1.0,13.0729,1.8485,9.4412,-4.2407,2,Affective apathy,True,1,Behavioral-Cognitive apathy,False
+AES_12,AES,-1,Does not fit,0.3608,11.8428,-2.1785,4.4666,7.1616,1,Behavioral-Cognitive apathy,False,2,Affective apathy,False
+AES_13,AES,-1,Does not fit,1.0,11.8128,-2.1844,2.4455,8.4273,1,Behavioral-Cognitive apathy,False,2,Affective apathy,False
+AES_14,AES,2,Affective apathy,0.905,11.7148,0.6291,3.3453,7.7548,2,Affective apathy,True,2,Affective apathy,True
+AES_15,AES,1,Behavioral-Cognitive apathy,0.735,11.7206,-2.7173,11.2449,-3.0732,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AES_16,AES,1,Behavioral-Cognitive apathy,1.0,12.4653,-2.6914,10.9506,-2.7543,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AES_17,AES,1,Behavioral-Cognitive apathy,0.9608,12.0539,-2.2641,11.951,-1.1617,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AES_18,AES,1,Behavioral-Cognitive apathy,0.7033,11.9301,-2.6497,11.7741,-0.9405,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AMI_01,AMI,2,Affective apathy,0.8168,11.4835,2.2273,3.8683,7.0099,2,Affective apathy,True,2,Affective apathy,True
+AMI_02,AMI,1,Behavioral-Cognitive apathy,0.8665,14.3751,0.8395,11.3889,-1.51,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AMI_03,AMI,2,Affective apathy,0.4808,12.5515,0.7952,4.1244,7.816,2,Affective apathy,True,2,Affective apathy,True
+AMI_04,AMI,1,Behavioral-Cognitive apathy,0.8528,12.7313,0.3214,10.7053,-3.1911,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AMI_05,AMI,1,Behavioral-Cognitive apathy,0.82,13.6417,0.2879,11.3622,-1.6678,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AMI_06,AMI,1,Behavioral-Cognitive apathy,0.6328,12.1937,2.4223,9.2343,-4.112,2,Affective apathy,False,1,Behavioral-Cognitive apathy,True
+AMI_07,AMI,2,Affective apathy,0.5688,12.5796,1.5393,2.5992,8.3893,2,Affective apathy,True,2,Affective apathy,True
+AMI_08,AMI,1,Behavioral-Cognitive apathy,0.5648,12.871,0.504,11.3458,-2.1758,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AMI_09,AMI,1,Behavioral-Cognitive apathy,1.0,13.7631,0.1532,9.454,-3.9325,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AMI_10,AMI,1,Behavioral-Cognitive apathy,1.0,13.7259,0.4273,11.9328,-2.375,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AMI_11,AMI,1,Behavioral-Cognitive apathy,1.0,13.8286,0.5742,9.1344,-4.023,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AMI_12,AMI,1,Behavioral-Cognitive apathy,0.905,13.3633,0.4159,8.9933,-4.1611,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AMI_13,AMI,2,Affective apathy,0.6888,11.3693,2.7447,3.9818,6.6918,2,Affective apathy,True,2,Affective apathy,True
+AMI_14,AMI,1,Behavioral-Cognitive apathy,0.9608,14.5615,0.5311,11.0322,-1.3358,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AMI_15,AMI,1,Behavioral-Cognitive apathy,0.9608,13.7951,0.4951,9.2628,-4.3705,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AMI_16,AMI,2,Affective apathy,0.905,11.172,2.5134,2.9207,6.8963,2,Affective apathy,True,2,Affective apathy,True
+AMI_17,AMI,1,Behavioral-Cognitive apathy,0.555,12.8709,0.1549,10.543,-3.3971,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+AMI_18,AMI,2,Affective apathy,0.7033,11.659,2.6439,2.8479,6.9309,2,Affective apathy,True,2,Affective apathy,True
+LARS_02.2,LARS,1,Behavioral-Cognitive apathy,0.9608,13.1221,0.1097,10.7637,-3.3981,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+LARS_03.1,LARS,1,Behavioral-Cognitive apathy,1.0,14.1772,-0.0669,8.9096,-4.1378,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+LARS_03.2,LARS,1,Behavioral-Cognitive apathy,1.0,14.3482,-0.5645,8.9677,-4.5647,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+LARS_03.3,LARS,1,Behavioral-Cognitive apathy,0.9608,14.4702,-0.3994,9.2575,-3.9186,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+LARS_03.4,LARS,1,Behavioral-Cognitive apathy,0.9608,14.5406,-0.2451,9.0811,-3.6544,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+LARS_04.1,LARS,1,Behavioral-Cognitive apathy,0.7888,12.7345,-0.8365,11.8774,-2.4102,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+LARS_04.2,LARS,1,Behavioral-Cognitive apathy,0.905,12.6233,-0.7832,11.8383,-2.5781,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+LARS_04.3,LARS,1,Behavioral-Cognitive apathy,0.7888,12.4597,-0.6611,12.0844,-2.0576,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+LARS_04.4,LARS,2,Affective apathy,1.0,12.3875,-0.2381,10.2935,-3.7092,2,Affective apathy,True,1,Behavioral-Cognitive apathy,False
+LARS_05.1,LARS,1,Behavioral-Cognitive apathy,0.9608,14.0968,-0.0596,8.7341,-4.1174,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+LARS_05.2,LARS,1,Behavioral-Cognitive apathy,0.9608,13.6731,1.172,10.7186,-1.4996,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+LARS_05.3,LARS,1,Behavioral-Cognitive apathy,0.9608,14.0528,0.5165,8.7451,-4.2741,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+LARS_05.4,LARS,1,Behavioral-Cognitive apathy,0.9608,13.6326,1.0077,9.6323,-3.4809,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+LARS_06.1,LARS,2,Affective apathy,0.8528,12.1231,1.6832,2.3604,6.5994,2,Affective apathy,True,2,Affective apathy,True
+LARS_06.2,LARS,2,Affective apathy,0.8665,11.5762,1.2642,3.5113,6.4484,2,Affective apathy,True,2,Affective apathy,True
+LARS_06.3,LARS,2,Affective apathy,0.905,11.3348,0.9406,2.3734,7.7675,2,Affective apathy,True,2,Affective apathy,True
+LARS_06.4,LARS,2,Affective apathy,0.905,11.4068,2.0614,2.4782,7.0755,2,Affective apathy,True,2,Affective apathy,True
+LARS_07.1,LARS,2,Affective apathy,0.4992,13.2312,1.8977,2.8205,6.453,2,Affective apathy,True,2,Affective apathy,True
+LARS_07.2,LARS,2,Affective apathy,0.5931,13.5521,1.5772,1.6218,7.2385,1,Behavioral-Cognitive apathy,False,2,Affective apathy,True
+LARS_07.2,LARS,2,Affective apathy,0.5931,13.3436,2.0422,3.6804,7.3954,2,Affective apathy,True,2,Affective apathy,True
+LARS_07.4,LARS,2,Affective apathy,0.4992,13.4228,1.5182,1.5299,7.8336,2,Affective apathy,True,2,Affective apathy,True
+LARS_08.1,LARS,-1,Does not fit,0.364,13.099,0.8002,1.2411,-2.5155,1,Behavioral-Cognitive apathy,False,1,Behavioral-Cognitive apathy,False
+LARS_08.2,LARS,2,Affective apathy,0.5809,12.8844,0.6758,4.0966,7.4232,2,Affective apathy,True,2,Affective apathy,True
+LARS_08.3,LARS,1,Behavioral-Cognitive apathy,0.7679,14.6941,0.8897,8.7995,-4.0551,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+LARS_08.4,LARS,1,Behavioral-Cognitive apathy,0.7033,14.6917,0.6455,10.1029,-2.2951,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+LARS_09.1,LARS,1,Behavioral-Cognitive apathy,0.735,13.2494,1.3302,10.2131,-2.7168,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+LARS_09.2,LARS,1,Behavioral-Cognitive apathy,0.5666,12.3541,2.5771,10.4444,-1.7537,2,Affective apathy,False,1,Behavioral-Cognitive apathy,True
+LARS_09.3,LARS,2,Affective apathy,0.5666,11.7237,2.6506,2.3057,6.8907,2,Affective apathy,True,2,Affective apathy,True
+LARS_09.4,LARS,1,Behavioral-Cognitive apathy,0.4217,12.015,2.7927,9.7357,-2.737,2,Affective apathy,False,1,Behavioral-Cognitive apathy,True
+NMSQuest_13,NMSSQuest,1,Behavioral-Cognitive apathy,0.595,15.0049,2.7515,10.3535,-3.2649,2,Affective apathy,False,1,Behavioral-Cognitive apathy,True
+NPI_G_screen,NPI,1,Behavioral-Cognitive apathy,0.54,15.7069,3.1145,8.9419,-4.4222,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+NPI_G_1,NPI,1,Behavioral-Cognitive apathy,0.8528,15.7623,2.9122,10.2448,-2.4171,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+NPI_G_2,NPI,1,Behavioral-Cognitive apathy,0.905,15.76,2.7436,10.4841,-2.2409,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+NPI_G_3,NPI,2,Affective apathy,0.905,15.6435,2.8705,1.8614,7.8689,2,Affective apathy,True,2,Affective apathy,True
+NPI_G_4,NPI,1,Behavioral-Cognitive apathy,0.9608,15.5009,2.742,10.9144,-1.9656,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+NPI_G_5,NPI,1,Behavioral-Cognitive apathy,0.5809,15.4326,2.8468,9.9182,-3.2066,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+NPI_G_6,NPI,2,Affective apathy,0.4808,15.19,2.6981,2.3924,8.4039,2,Affective apathy,True,2,Affective apathy,True
+NPI_G_7,NPI,2,Affective apathy,0.5931,15.9149,2.6497,1.5959,7.944,1,Behavioral-Cognitive apathy,False,2,Affective apathy,True
+NPI_G_8,NPI,1,Behavioral-Cognitive apathy,0.5688,15.5143,3.2487,9.2833,-3.7376,1,Behavioral-Cognitive apathy,True,1,Behavioral-Cognitive apathy,True
+MDS-UPDRS_1.5,MDS-UPDRS_I,2,Affective apathy,1.0,14.4145,3.5536,8.8028,-3.7671,2,Affective apathy,True,1,Behavioral-Cognitive apathy,False
+augmentation_apathy2_01,data-augmentation,2,Affective apathy,1.0,13.8994,3.685,1.4603,7.5334,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_02,data-augmentation,2,Affective apathy,1.0,14.0612,3.5315,1.8714,7.2596,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_03,data-augmentation,2,Affective apathy,1.0,11.7664,-1.5602,4.0049,6.6692,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_04,data-augmentation,2,Affective apathy,1.0,11.5707,2.1393,3.816,6.3759,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_05,data-augmentation,2,Affective apathy,1.0,12.6729,1.6632,2.8797,8.1645,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_06,data-augmentation,2,Affective apathy,1.0,11.4564,2.6608,3.8438,6.4636,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_07,data-augmentation,2,Affective apathy,1.0,11.1087,2.5938,2.8107,6.4757,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_08,data-augmentation,2,Affective apathy,1.0,11.5332,2.8436,2.6983,6.3565,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_09,data-augmentation,2,Affective apathy,1.0,12.2003,-0.056,2.1656,7.5776,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_10,data-augmentation,2,Affective apathy,1.0,11.6054,1.3139,2.1589,6.8957,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_11,data-augmentation,2,Affective apathy,1.0,13.2792,2.0906,2.9319,6.2867,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_12,data-augmentation,2,Affective apathy,1.0,14.8314,2.5237,2.3111,8.4202,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_13,data-augmentation,2,Affective apathy,1.0,14.5654,3.8384,1.7237,8.1968,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_14,data-augmentation,2,Affective apathy,1.0,12.3271,0.8474,3.8309,7.9073,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_15,data-augmentation,2,Affective apathy,1.0,11.9213,1.033,3.6912,7.322,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_16,data-augmentation,2,Affective apathy,1.0,12.3643,0.7033,3.9607,7.5604,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_17,data-augmentation,2,Affective apathy,1.0,12.2449,0.7723,3.982,7.5166,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_18,data-augmentation,2,Affective apathy,1.0,12.0933,0.354,4.0651,7.0093,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_19,data-augmentation,2,Affective apathy,1.0,12.1944,1.5786,3.7228,6.2796,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_20,data-augmentation,2,Affective apathy,1.0,14.541,2.9814,2.6672,8.1747,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_21,data-augmentation,2,Affective apathy,1.0,13.7118,3.635,2.0037,7.0093,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_22,data-augmentation,2,Affective apathy,1.0,11.2418,2.3585,4.1424,7.7353,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_23,data-augmentation,2,Affective apathy,1.0,12.095,0.2459,3.1566,7.2699,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_24,data-augmentation,2,Affective apathy,1.0,11.539,1.2337,2.2928,6.6926,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_25,data-augmentation,2,Affective apathy,1.0,11.4718,0.8711,2.2886,7.6774,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apathy2_26,data-augmentation,2,Affective apathy,1.0,14.595,2.4803,2.3955,8.1226,2,Affective apathy,True,2,Affective apathy,True
+augmentation_apa_neg1_01,data-augmentation,-1,Does not fit,1.0,15.2006,3.7511,1.4884,-2.7989,2,Affective apathy,False,1,Behavioral-Cognitive apathy,False
+augmentation_apa_neg1_02,data-augmentation,-1,Does not fit,1.0,14.5961,4.3212,1.5289,-2.7635,2,Affective apathy,False,1,Behavioral-Cognitive apathy,False
+augmentation_apa_neg1_03,data-augmentation,-1,Does not fit,1.0,15.0494,3.719,1.6268,-2.8963,2,Affective apathy,False,2,Affective apathy,False
+augmentation_apa_neg1_04,data-augmentation,-1,Does not fit,1.0,14.3822,4.1499,1.2463,-2.8671,2,Affective apathy,False,1,Behavioral-Cognitive apathy,False
+augmentation_apa_neg1_05,data-augmentation,-1,Does not fit,1.0,14.816,4.2963,1.4483,-2.7672,1,Behavioral-Cognitive apathy,False,1,Behavioral-Cognitive apathy,False
+augmentation_apa_neg1_06,data-augmentation,-1,Does not fit,1.0,14.7907,4.2749,1.6035,-2.7076,2,Affective apathy,False,1,Behavioral-Cognitive apathy,False
+augmentation_apa_neg1_07,data-augmentation,-1,Does not fit,1.0,13.7173,2.5675,1.232,-2.5212,2,Affective apathy,False,1,Behavioral-Cognitive apathy,False
+augmentation_apa_neg1_08,data-augmentation,-1,Does not fit,1.0,14.7128,4.1549,1.4494,-2.6078,2,Affective apathy,False,1,Behavioral-Cognitive apathy,False
+augmentation_apa_neg1_09,data-augmentation,-1,Does not fit,1.0,14.6928,4.1751,1.2303,-2.9699,2,Affective apathy,False,1,Behavioral-Cognitive apathy,False
+augmentation_apa_neg1_10,data-augmentation,-1,Does not fit,1.0,13.7686,2.6424,1.2575,-2.5322,2,Affective apathy,False,1,Behavioral-Cognitive apathy,False
+augmentation_apa_neg1_11,data-augmentation,-1,Does not fit,1.0,14.317,4.0735,4.4608,7.2207,2,Affective apathy,False,2,Affective apathy,False

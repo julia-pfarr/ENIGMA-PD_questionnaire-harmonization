@@ -1,0 +1,122 @@
+construct,dimension,dimension_label,questionnaire,score_type,n,mean,sd,skewness,p10,p90
+anxiety,1,Somatic symptoms,BAI,Proportion,743,0.2308,0.1725,0.8288,0.0222,0.4889
+anxiety,1,Somatic symptoms,BAI,CDF transform,743,0.3393,0.2495,0.4209,0.0093,0.7235
+anxiety,1,Somatic symptoms,GAI,Proportion,91,0.2989,0.2896,0.7283,0.0,0.8
+anxiety,1,Somatic symptoms,GAI,CDF transform,91,0.3274,0.2445,0.4942,0.0653,0.747
+anxiety,1,Somatic symptoms,HADS,Proportion,414,0.2595,0.1777,0.4872,0.0,0.5
+anxiety,1,Somatic symptoms,HADS,CDF transform,414,0.3346,0.2455,0.4273,0.0022,0.7187
+anxiety,1,Somatic symptoms,PAS,Proportion,154,0.2403,0.163,0.4619,0.0625,0.4375
+anxiety,1,Somatic symptoms,PAS,CDF transform,154,0.3381,0.2463,0.4279,0.0558,0.6733
+anxiety,1,Somatic symptoms,STAI,Proportion,1797,0.6626,0.1139,-0.6908,0.5,0.75
+anxiety,1,Somatic symptoms,STAI,CDF transform,1797,0.3439,0.2399,0.1624,0.0137,0.562
+anxiety,2,Cognitive symptoms,BAI,Proportion,743,0.2064,0.2251,1.2896,0.0,0.5444
+anxiety,2,Cognitive symptoms,BAI,CDF transform,743,0.2395,0.2804,1.1154,0.0,0.6519
+anxiety,2,Cognitive symptoms,GAI,Proportion,91,0.222,0.2282,1.1602,0.0,0.6
+anxiety,2,Cognitive symptoms,GAI,CDF transform,91,0.2338,0.2739,1.0918,0.0,0.6372
+anxiety,2,Cognitive symptoms,HADS,Proportion,413,0.2113,0.1995,0.9097,0.0,0.5556
+anxiety,2,Cognitive symptoms,HADS,CDF transform,413,0.2343,0.2757,1.0896,0.0,0.6646
+anxiety,2,Cognitive symptoms,MDS-UPDRS_I,Proportion,3296,0.1089,0.1749,1.8338,0.0,0.25
+anxiety,2,Cognitive symptoms,MDS-UPDRS_I,CDF transform,3296,0.2207,0.2984,1.1414,0.0196,0.5173
+anxiety,2,Cognitive symptoms,NMSQuest,Proportion,173,0.1156,0.3207,2.4043,0.0,1.0
+anxiety,2,Cognitive symptoms,NMSQuest,CDF transform,173,0.1437,0.2186,2.4043,0.0649,0.7465
+anxiety,2,Cognitive symptoms,NPI,Proportion,90,0.2333,0.4253,1.261,0.0,1.0
+anxiety,2,Cognitive symptoms,NPI,CDF transform,90,0.1669,0.2535,1.261,0.0278,0.6238
+anxiety,2,Cognitive symptoms,PAS,Proportion,154,0.1847,0.1542,0.9171,0.0,0.4062
+anxiety,2,Cognitive symptoms,PAS,CDF transform,154,0.2386,0.2831,1.1383,0.0,0.6454
+anxiety,2,Cognitive symptoms,STAI,Proportion,1797,0.5968,0.0712,-0.2113,0.5,0.6562
+anxiety,2,Cognitive symptoms,STAI,CDF transform,1797,0.2263,0.2698,1.2663,0.0,0.5969
+apathy,1,Behavioral-Cognitive apathy,AES,Proportion,114,0.2368,0.0757,0.0048,0.1325,0.325
+apathy,1,Behavioral-Cognitive apathy,AES,CDF transform,114,0.2311,0.2794,1.6073,0.0,0.4818
+apathy,1,Behavioral-Cognitive apathy,NMSQuest,Proportion,173,0.1503,0.3584,1.9572,0.0,1.0
+apathy,1,Behavioral-Cognitive apathy,NMSQuest,CDF transform,173,0.2149,0.292,1.9572,0.0925,0.9073
+apathy,1,Behavioral-Cognitive apathy,NPI,Proportion,90,0.2778,0.4504,0.9923,0.0,1.0
+apathy,1,Behavioral-Cognitive apathy,NPI,CDF transform,90,0.1486,0.1975,0.9923,0.0269,0.4653
+apathy,1,Behavioral-Cognitive apathy,SAS,Proportion,131,0.2733,0.1481,0.5882,0.1,0.4667
+apathy,1,Behavioral-Cognitive apathy,SAS,CDF transform,131,0.2266,0.2744,1.6271,0.0,0.4941
+apathy,2,Affective apathy,AES,Proportion,114,0.1623,0.1449,0.8735,0.0,0.375
+apathy,2,Affective apathy,AES,CDF transform,114,0.2172,0.2181,0.8849,0.0,0.5777
+apathy,2,Affective apathy,MDS-UPDRS_I,Proportion,3296,0.0623,0.1452,2.5296,0.0,0.25
+apathy,2,Affective apathy,MDS-UPDRS_I,CDF transform,3296,0.203,0.1964,1.8852,0.1125,0.5328
+apathy,2,Affective apathy,SAS,Proportion,131,0.4224,0.2177,-0.1582,0.1111,0.6667
+apathy,2,Affective apathy,SAS,CDF transform,131,0.2274,0.2198,0.8464,0.0,0.5113
+depression,1,Mood & affective symptoms,BDI,Proportion,2246,0.0767,0.1275,2.1426,0.0,0.2222
+depression,1,Mood & affective symptoms,BDI,CDF transform,2246,0.2259,0.3268,1.305,0.0105,0.7655
+depression,1,Mood & affective symptoms,GDS,Proportion,2218,0.5702,0.2887,-1.0716,0.0,0.75
+depression,1,Mood & affective symptoms,GDS,CDF transform,2218,0.1684,0.1664,2.4385,0.0,0.2326
+depression,1,Mood & affective symptoms,HADS,Proportion,413,0.1497,0.1843,1.334,0.0,0.3333
+depression,1,Mood & affective symptoms,HADS,CDF transform,413,0.2492,0.3446,1.1072,0.0,0.7352
+depression,1,Mood & affective symptoms,MDS-UPDRS_I,Proportion,3295,0.0863,0.1691,2.2125,0.0,0.25
+depression,1,Mood & affective symptoms,MDS-UPDRS_I,CDF transform,3295,0.2313,0.3453,1.2328,0.0326,0.7448
+depression,1,Mood & affective symptoms,NMSQuest,Proportion,173,0.2717,0.4461,1.0266,0.0,1.0
+depression,1,Mood & affective symptoms,NMSQuest,CDF transform,173,0.2283,0.3266,1.0266,0.0294,0.7616
+depression,1,Mood & affective symptoms,NPI,Proportion,90,0.3222,0.4699,0.7608,0.0,1.0
+depression,1,Mood & affective symptoms,NPI,CDF transform,90,0.2539,0.3411,0.7608,0.02,0.7458
+depression,2,Cognitive & self-perception,BDI,Proportion,2248,0.0989,0.1226,2.0286,0.0,0.25
+depression,2,Cognitive & self-perception,BDI,CDF transform,2248,0.1504,0.142,1.721,0.0112,0.3313
+depression,2,Cognitive & self-perception,GDS,Proportion,2218,0.2023,0.1431,1.6916,0.0,0.3333
+depression,2,Cognitive & self-perception,GDS,CDF transform,2218,0.1704,0.1307,1.8096,0.0,0.2971
+depression,3,Somatic & vegetative symptoms,BDI,Proportion,2247,0.2106,0.1588,0.8622,0.0,0.4
+depression,3,Somatic & vegetative symptoms,BDI,CDF transform,2247,0.3184,0.25,0.9101,0.0,0.6647
+depression,3,Somatic & vegetative symptoms,HADS,Proportion,413,0.4431,0.285,0.4342,0.0,1.0
+depression,3,Somatic & vegetative symptoms,HADS,CDF transform,413,0.338,0.248,1.2609,0.0013,0.9338
+depression,4,Activity & interest deficits,BDI,Proportion,2247,0.2124,0.1652,0.9126,0.0,0.4167
+depression,4,Activity & interest deficits,BDI,CDF transform,2247,0.2345,0.1859,0.92,0.0,0.4722
+depression,4,Activity & interest deficits,GDS,Proportion,2218,0.2798,0.2153,0.7478,0.0,0.5
+depression,4,Activity & interest deficits,GDS,CDF transform,2218,0.2403,0.174,0.5077,0.0,0.4213
+depression,4,Activity & interest deficits,HADS,Proportion,407,0.1865,0.1801,0.914,0.0,0.4444
+depression,4,Activity & interest deficits,HADS,CDF transform,407,0.2263,0.1851,0.8801,0.0258,0.504
+depression,5,Anxiety & distress,BDI,Proportion,2241,0.1221,0.2066,1.9464,0.0,0.3333
+depression,5,Anxiety & distress,BDI,CDF transform,2241,0.1256,0.2252,2.3069,0.0,0.3222
+depression,5,Anxiety & distress,GDS,Proportion,2218,0.1434,0.3505,2.0352,0.0,1.0
+depression,5,Anxiety & distress,GDS,CDF transform,2218,0.1366,0.2597,2.0352,0.0304,0.7714
+impulse_control,1,Pathological gambling,QUIP-RS,Proportion,476,0.0251,0.0914,4.629,0.0,0.0625
+impulse_control,2,Hypersexuality,QUIP-RS,Proportion,475,0.1461,0.1653,1.2238,0.0,0.375
+impulse_control,3,Compulsive buying,QUIP-RS,Proportion,476,0.0984,0.1415,1.8935,0.0,0.3125
+impulse_control,4,Compulsive eating,QUIP-RS,Proportion,476,0.1682,0.1895,1.1211,0.0,0.4375
+impulse_control,5,Punding-hobbyism,QUIP-RS,Proportion,476,0.137,0.1496,1.1519,0.0,0.3438
+impulse_control,6,Dopamine dysregulation syndrome,QUIP-RS,Proportion,453,0.1587,0.2041,1.4795,0.0,0.4375
+psychosis,1,Hallucinations,MDS-UPDRS_I,Proportion,3418,0.0201,0.0839,5.0664,0.0,0.0
+psychosis,1,Hallucinations,MDS-UPDRS_I,CDF transform,3418,0.0292,0.1272,6.0488,0.0015,0.0015
+psychosis,1,Hallucinations,NMSQuest,Proportion,173,0.0405,0.1976,4.6644,0.0,0.0
+psychosis,1,Hallucinations,NMSQuest,CDF transform,173,0.0345,0.1545,4.6644,0.0029,0.0029
+psychosis,1,Hallucinations,NPI,Proportion,90,0.0667,0.2508,3.4744,0.0,0.0
+psychosis,1,Hallucinations,NPI,CDF transform,90,0.0227,0.0802,3.4744,0.0014,0.0014
+psychosis,1,Hallucinations,SAPS-PD,Proportion,40,0.0188,0.0585,3.3224,0.0,0.055
+psychosis,1,Hallucinations,SAPS-PD,CDF transform,40,0.0327,0.1119,3.7218,0.0,0.056
+psychosis,1,Hallucinations,SCOPA-PC,Proportion,681,0.0409,0.105,3.1066,0.0,0.1667
+psychosis,1,Hallucinations,SCOPA-PC,CDF transform,681,0.0316,0.1247,6.0136,0.0,0.0475
+psychosis,2,Delusions,NMSQuest,Proportion,173,0.0173,0.1309,7.3949,0.0,0.0
+psychosis,2,Delusions,NMSQuest,CDF transform,173,0.0185,0.1271,7.3949,0.0016,0.0016
+psychosis,2,Delusions,NPI,Proportion,90,0.0444,0.2072,4.4211,0.0,0.0
+psychosis,2,Delusions,NPI,CDF transform,90,0.022,0.1024,4.4211,0.0,0.0
+psychosis,2,Delusions,SAPS-PD,Proportion,40,0.0017,0.0105,6.0849,0.0,0.0
+psychosis,2,Delusions,SAPS-PD,CDF transform,40,0.022,0.1321,6.0849,0.0011,0.0011
+psychosis,2,Delusions,SCOPA-PC,Proportion,681,0.0308,0.1137,4.167,0.0,0.0
+psychosis,2,Delusions,SCOPA-PC,CDF transform,681,0.0175,0.1149,8.2774,0.0,0.0
+sleep,1,Daytime sleepiness and alertness,ESS,Proportion,3241,0.2692,0.1721,0.9199,0.0833,0.5
+sleep,1,Daytime sleepiness and alertness,ESS,CDF transform,3241,0.2778,0.2444,0.7226,0.0,0.5351
+sleep,1,Daytime sleepiness and alertness,MDS-UPDRS_I,Proportion,1600,0.2948,0.2228,-0.0985,0.0,0.5
+sleep,1,Daytime sleepiness and alertness,MDS-UPDRS_I,CDF transform,1600,0.283,0.2327,0.4118,0.0031,0.4874
+sleep,1,Daytime sleepiness and alertness,NMSQuest,Proportion,173,0.211,0.2754,0.8345,0.0,0.5
+sleep,1,Daytime sleepiness and alertness,NMSQuest,CDF transform,173,0.2474,0.2431,0.9271,0.063,0.4965
+sleep,1,Daytime sleepiness and alertness,PDSS-2,Proportion,91,0.3544,0.3006,0.5035,0.0,0.75
+sleep,1,Daytime sleepiness and alertness,PDSS-2,CDF transform,91,0.2858,0.2357,0.298,0.0002,0.5277
+sleep,1,Daytime sleepiness and alertness,SCOPA-SLEEP,Proportion,795,0.2409,0.225,1.1512,0.0,0.5556
+sleep,1,Daytime sleepiness and alertness,SCOPA-SLEEP,CDF transform,795,0.2777,0.2435,0.7104,0.0,0.5346
+sleep,2,Nocturnal sleep disturbances,MDS-UPDRS_I,Proportion,1602,0.3232,0.2987,0.4678,0.0,0.75
+sleep,2,Nocturnal sleep disturbances,MDS-UPDRS_I,CDF transform,1602,0.3215,0.3067,0.6241,0.0045,0.8025
+sleep,2,Nocturnal sleep disturbances,NMSQuest,Proportion,173,0.42,0.3248,0.2555,0.0,1.0
+sleep,2,Nocturnal sleep disturbances,NMSQuest,CDF transform,173,0.3306,0.3104,0.903,0.0,0.9917
+sleep,2,Nocturnal sleep disturbances,PDSS-2,Proportion,91,0.2516,0.1522,0.7233,0.075,0.45
+sleep,2,Nocturnal sleep disturbances,PDSS-2,CDF transform,91,0.3278,0.3206,0.7862,0.0,0.7991
+sleep,2,Nocturnal sleep disturbances,RBDSQ,Proportion,3307,0.3692,0.4827,0.542,0.0,1.0
+sleep,2,Nocturnal sleep disturbances,RBDSQ,CDF transform,3307,0.2891,0.2884,0.542,0.0685,0.666
+sleep,2,Nocturnal sleep disturbances,SCOPA-SLEEP,Proportion,796,0.2818,0.2566,0.7983,0.0,0.6667
+sleep,2,Nocturnal sleep disturbances,SCOPA-SLEEP,CDF transform,796,0.3262,0.3228,0.7929,0.0,0.9507
+sleep,3,REM sleep behavior and dreaming,NMSQuest,Proportion,173,0.2428,0.356,1.1168,0.0,1.0
+sleep,3,REM sleep behavior and dreaming,NMSQuest,CDF transform,173,0.2483,0.3168,1.1474,0.0335,0.9284
+sleep,3,REM sleep behavior and dreaming,PDSS-2,Proportion,91,0.1978,0.2802,1.5132,0.0,0.5
+sleep,3,REM sleep behavior and dreaming,PDSS-2,CDF transform,91,0.2233,0.291,1.4486,0.017,0.5392
+sleep,3,REM sleep behavior and dreaming,RBDSQ,Proportion,3310,0.2964,0.2668,0.9468,0.0,0.7273
+sleep,3,REM sleep behavior and dreaming,RBDSQ,CDF transform,3310,0.2534,0.2967,1.2001,0.0,0.7323
+sleep,4,Sleep-disordered breathing,PDSS-2,Proportion,91,0.1126,0.2305,2.326,0.0,0.5

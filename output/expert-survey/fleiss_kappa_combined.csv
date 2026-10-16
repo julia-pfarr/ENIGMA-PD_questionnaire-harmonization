@@ -1,0 +1,7 @@
+Construct,N items (Round 1),N raters (Round 1),κ (95% CI) (Round 1),Interpretation (Round 1),N items (Round 2),N raters (Round 2),κ (95% CI) (Round 2),Interpretation (Round 2),κ weighted mean,N items (total)
+Depression,72,40,"0.626 [0.618, 0.634]",Substantial agreement,104,20,"0.579 [0.569, 0.589]",Moderate agreement,0.598,176
+Anxiety,84,40,"0.582 [0.569, 0.595]",Moderate agreement,65,18,"0.484 [0.421, 0.546]",Moderate agreement,0.539,149
+Apathy,90,40,"0.480 [0.447, 0.512]",Moderate agreement,68,20,"0.376 [0.354, 0.398]",Fair agreement,0.435,158
+Sleep,101,33,"0.745 [0.729, 0.761]",Substantial agreement,54,14,"0.730 [0.702, 0.759]",Substantial agreement,0.740,155
+Psychosis,38,40,"0.775 [0.755, 0.795]",Substantial agreement,52,18,"0.545 [0.507, 0.582]",Moderate agreement,0.642,90
+Impulse control,28,40,"0.923 [0.913, 0.933]",Almost perfect agreement,30,20,"0.923 [0.911, 0.935]",Almost perfect agreement,0.923,58

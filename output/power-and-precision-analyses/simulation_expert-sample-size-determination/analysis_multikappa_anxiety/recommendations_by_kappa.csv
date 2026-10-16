@@ -1,0 +1,5 @@
+construct,true_kappa,stability_n,precision_n,replication_range_n,overall_recommendation,conservative
+Anxiety,0.4,9,20,30,30,33
+Anxiety,0.5,9,20,40,40,43
+Anxiety,0.6,9,20,25,25,28
+Anxiety,0.7,8,15,25,25,28
